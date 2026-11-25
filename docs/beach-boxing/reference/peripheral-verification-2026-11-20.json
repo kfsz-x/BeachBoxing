@@ -1,0 +1,507 @@
+{
+  "date": "2026-11-20",
+  "project": "D:/Desktop/BeachBoxing",
+  "target": {
+    "width": 1920,
+    "height": 1080,
+    "orientation": "landscape",
+    "otherResolutions": "Historical tests retained; no additional adaptation scheduled."
+  },
+  "tests": {
+    "editMode": {
+      "job_id": "952d00ee16c44529a537a14b2335acba",
+      "status": "succeeded",
+      "mode": "EditMode",
+      "started_unix_ms": 1795145686529,
+      "finished_unix_ms": 1795145699154,
+      "last_update_unix_ms": 1795145699154,
+      "progress": {
+        "completed": 159,
+        "total": 159,
+        "current_test_full_name": null,
+        "current_test_started_unix_ms": null,
+        "last_finished_test_full_name": "UnityCore.Tests.SceneLayoutTests.BuiltInScenesContainEditableUiBeforePlay",
+        "last_finished_unix_ms": 1795145698903,
+        "stuck_suspected": false,
+        "editor_is_focused": true,
+        "run_in_background": true,
+        "focus_nudge_attempts": null,
+        "focus_nudge_limit": null,
+        "focus_nudge_status": null,
+        "blocked_reason": null,
+        "failures_so_far": [],
+        "failures_capped": false
+      },
+      "error": null,
+      "result": {
+        "mode": "EditMode",
+        "summary": {
+          "total": 159,
+          "passed": 159,
+          "failed": 0,
+          "skipped": 0,
+          "durationSeconds": 10.1334744,
+          "resultState": "Passed"
+        },
+        "results": []
+      }
+    },
+    "fullPlayMode": {
+      "job_id": "d6fe6b7825e44938a085b4a15d7e478f",
+      "status": "succeeded",
+      "mode": "PlayMode",
+      "started_unix_ms": 1795147433297,
+      "finished_unix_ms": 1795147464193,
+      "last_update_unix_ms": 1795147464193,
+      "progress": {
+        "completed": 36,
+        "total": 36,
+        "current_test_full_name": null,
+        "current_test_started_unix_ms": null,
+        "last_finished_test_full_name": "UnityCore.Tests.SceneTests.StartupShowsProgressAndVersionThenOpensGameMenu",
+        "last_finished_unix_ms": 1795147464129,
+        "stuck_suspected": false,
+        "editor_is_focused": true,
+        "run_in_background": true,
+        "focus_nudge_attempts": null,
+        "focus_nudge_limit": null,
+        "focus_nudge_status": null,
+        "blocked_reason": null,
+        "failures_so_far": [],
+        "failures_capped": false
+      },
+      "error": null,
+      "result": {
+        "mode": "PlayMode",
+        "summary": {
+          "total": 36,
+          "passed": 36,
+          "failed": 0,
+          "skipped": 0,
+          "durationSeconds": 30.0782386,
+          "resultState": "Passed"
+        },
+        "results": [
+          {
+            "name": "AllOriginalWorkoutsUseBoundPosesAndSingleAnimationSpeed",
+            "fullName": "BeachBoxing.Tests.GameplayTests.AllOriginalWorkoutsUseBoundPosesAndSingleAnimationSpeed",
+            "state": "Passed",
+            "durationSeconds": 1.2659933,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "BeachTrainingPersistsAndOpensTheRing",
+            "fullName": "BeachBoxing.Tests.GameplayTests.BeachTrainingPersistsAndOpensTheRing",
+            "state": "Passed",
+            "durationSeconds": 10.1171989,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "DefeatUsesBoundPanelAndAllowsReplayAndHome",
+            "fullName": "BeachBoxing.Tests.GameplayTests.DefeatUsesBoundPanelAndAllowsReplayAndHome",
+            "state": "Passed",
+            "durationSeconds": 0.9891039,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "FightCameraDoesNotCutThroughFightersDuringAnOrbitTurn",
+            "fullName": "BeachBoxing.Tests.GameplayTests.FightCameraDoesNotCutThroughFightersDuringAnOrbitTurn",
+            "state": "Passed",
+            "durationSeconds": 0.5543911,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "PortraitFightKeepsBothFightersInsideTheViewport",
+            "fullName": "BeachBoxing.Tests.GameplayTests.PortraitFightKeepsBothFightersInsideTheViewport",
+            "state": "Passed",
+            "durationSeconds": 0.5709231,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "TouchControlsOwnDifferentPointersAndCancelIndependently",
+            "fullName": "BeachBoxing.Tests.GameplayTests.TouchControlsOwnDifferentPointersAndCancelIndependently",
+            "state": "Passed",
+            "durationSeconds": 0.2912298,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "NormalWalkFromSpawnOpensTheOpponentPickerOnEntry",
+            "fullName": "BeachBoxing.Tests.NativeReachabilityTests.NormalWalkFromSpawnOpensTheOpponentPickerOnEntry",
+            "state": "Passed",
+            "durationSeconds": 1.0396157,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "NormalWalkFromSpawnReachesTheNativeArmsInteraction",
+            "fullName": "BeachBoxing.Tests.NativeReachabilityTests.NormalWalkFromSpawnReachesTheNativeArmsInteraction",
+            "state": "Passed",
+            "durationSeconds": 0.8259026,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "NormalWalkFromSpawnReachesTheNativeBackInteraction",
+            "fullName": "BeachBoxing.Tests.NativeReachabilityTests.NormalWalkFromSpawnReachesTheNativeBackInteraction",
+            "state": "Passed",
+            "durationSeconds": 0.8113707,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "NormalWalkFromSpawnReachesTheNativeChestInteraction",
+            "fullName": "BeachBoxing.Tests.NativeReachabilityTests.NormalWalkFromSpawnReachesTheNativeChestInteraction",
+            "state": "Passed",
+            "durationSeconds": 0.977904,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "NormalWalkFromSpawnReachesTheNativeLegsInteraction",
+            "fullName": "BeachBoxing.Tests.NativeReachabilityTests.NormalWalkFromSpawnReachesTheNativeLegsInteraction",
+            "state": "Passed",
+            "durationSeconds": 1.136213,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "WalkingThroughNpcBodiesStillStopsAtSolidGroundGeometry",
+            "fullName": "BeachBoxing.Tests.NativeReachabilityTests.WalkingThroughNpcBodiesStillStopsAtSolidGroundGeometry",
+            "state": "Passed",
+            "durationSeconds": 0.0129627,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "WalkingUsesThePlacedCapsulesScaledRadius",
+            "fullName": "BeachBoxing.Tests.NativeReachabilityTests.WalkingUsesThePlacedCapsulesScaledRadius",
+            "state": "Passed",
+            "durationSeconds": 0.0051014,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "BeachAndFightersUseRecoveredAssets",
+            "fullName": "BeachBoxing.Tests.OriginalArtTests.BeachAndFightersUseRecoveredAssets",
+            "state": "Passed",
+            "durationSeconds": 0.2692764,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "ParentScaleAnimationRefreshesSdfScaleWithoutChangingText",
+            "fullName": "BeachBoxing.Tests.OriginalFontScaleTests.ParentScaleAnimationRefreshesSdfScaleWithoutChangingText",
+            "state": "Passed",
+            "durationSeconds": 0.3908805,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "ARepeatedPrestigeConfirmationCannotSkipTheNextPreview",
+            "fullName": "BeachBoxing.Tests.PeripheralMenuTests.ARepeatedPrestigeConfirmationCannotSkipTheNextPreview",
+            "state": "Passed",
+            "durationSeconds": 0.6377039,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "DailyClaimUnlocksCodyAndHisBonusReachesARepetition",
+            "fullName": "BeachBoxing.Tests.PeripheralMenuTests.DailyClaimUnlocksCodyAndHisBonusReachesARepetition",
+            "state": "Passed",
+            "durationSeconds": 1.7102047,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "FourFullBarsEnableManualLevelUpAndPreserveTheSavedProgress",
+            "fullName": "BeachBoxing.Tests.PeripheralMenuTests.FourFullBarsEnableManualLevelUpAndPreserveTheSavedProgress",
+            "state": "Passed",
+            "durationSeconds": 0.911874,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "FreshTutorialKeepsTrainerAndDailyUnavailable",
+            "fullName": "BeachBoxing.Tests.PeripheralMenuTests.FreshTutorialKeepsTrainerAndDailyUnavailable",
+            "state": "Passed",
+            "durationSeconds": 0.2829912,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "HighStatCaptionsRemainVisibleAfterValueChangesAndMenus",
+            "fullName": "BeachBoxing.Tests.PeripheralMenuTests.HighStatCaptionsRemainVisibleAfterValueChangesAndMenus",
+            "state": "Passed",
+            "durationSeconds": 2.8496058,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "PausingBlocksNativeInteractionAndNestedMenus",
+            "fullName": "BeachBoxing.Tests.PeripheralMenuTests.PausingBlocksNativeInteractionAndNestedMenus",
+            "state": "Passed",
+            "durationSeconds": 0.2903214,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "TrainerPurchaseEquipAndUpgradeSurviveClosingAndReloading",
+            "fullName": "BeachBoxing.Tests.PeripheralMenuTests.TrainerPurchaseEquipAndUpgradeSurviveClosingAndReloading",
+            "state": "Passed",
+            "durationSeconds": 2.1714381,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "BurstOfOneShotsUsesABoundedNumberOfSources",
+            "fullName": "UnityCore.Tests.AudioUiTests.BurstOfOneShotsUsesABoundedNumberOfSources",
+            "state": "Passed",
+            "durationSeconds": 0.12844,
+            "message": null,
+            "stackTrace": null,
+            "output": "There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene\r\n"
+          },
+          {
+            "name": "PanelHidesWhileGameplayTimeIsPaused",
+            "fullName": "UnityCore.Tests.AudioUiTests.PanelHidesWhileGameplayTimeIsPaused",
+            "state": "Passed",
+            "durationSeconds": 0.1593862,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "ReopeningPanelCancelsItsPendingHide",
+            "fullName": "UnityCore.Tests.AudioUiTests.ReopeningPanelCancelsItsPendingHide",
+            "state": "Passed",
+            "durationSeconds": 0.1541641,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "ShutdownClearsActiveMusicAndInvalidatesPendingLoop",
+            "fullName": "UnityCore.Tests.AudioUiTests.ShutdownClearsActiveMusicAndInvalidatesPendingLoop",
+            "state": "Passed",
+            "durationSeconds": 0.110211,
+            "message": null,
+            "stackTrace": null,
+            "output": "There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene\r\n"
+          },
+          {
+            "name": "StopMusicInvalidatesAPendingPlayback",
+            "fullName": "UnityCore.Tests.AudioUiTests.StopMusicInvalidatesAPendingPlayback",
+            "state": "Passed",
+            "durationSeconds": 0.1052167,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "SchedulerCancelsPendingCallbacks",
+            "fullName": "UnityCore.Tests.PlayMode.UtilityTests.SchedulerCancelsPendingCallbacks",
+            "state": "Passed",
+            "durationSeconds": 0.0055033,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "SchedulerDestructionStopsPendingCallbacks",
+            "fullName": "UnityCore.Tests.PlayMode.UtilityTests.SchedulerDestructionStopsPendingCallbacks",
+            "state": "Passed",
+            "durationSeconds": 0.0571758,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "SchedulerRunsUnscaledDelaysWhileTimeIsPaused",
+            "fullName": "UnityCore.Tests.PlayMode.UtilityTests.SchedulerRunsUnscaledDelaysWhileTimeIsPaused",
+            "state": "Passed",
+            "durationSeconds": 0.013365,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "ConcurrentLeasesKeepTheAssetAliveUntilLastRelease",
+            "fullName": "UnityCore.Tests.ResourceTests.ConcurrentLeasesKeepTheAssetAliveUntilLastRelease",
+            "state": "Passed",
+            "durationSeconds": 0.1082311,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "DisposingStoreRejectsPendingAndFutureAcquisitions",
+            "fullName": "UnityCore.Tests.ResourceTests.DisposingStoreRejectsPendingAndFutureAcquisitions",
+            "state": "Passed",
+            "durationSeconds": 0.004852,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "MissingKeyCanFailTwiceWithoutLeavingAPendingEntry",
+            "fullName": "UnityCore.Tests.ResourceTests.MissingKeyCanFailTwiceWithoutLeavingAPendingEntry",
+            "state": "Passed",
+            "durationSeconds": 0.0141087,
+            "message": null,
+            "stackTrace": null,
+            "output": "UnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=sample/invalid\r\nUnityEngine.AddressableAssets.InvalidKeyException: Exception of type 'UnityEngine.AddressableAssets.InvalidKeyException' was thrown. No Location found for Key=sample/invalid\r\n"
+          },
+          {
+            "name": "PreloadedLabelReturnsTheTwoSampleAudioClips",
+            "fullName": "UnityCore.Tests.ResourceTests.PreloadedLabelReturnsTheTwoSampleAudioClips",
+            "state": "Passed",
+            "durationSeconds": 0.1139644,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "SceneLoaderRejectsOverlapAndReportsReady",
+            "fullName": "UnityCore.Tests.SceneTests.SceneLoaderRejectsOverlapAndReportsReady",
+            "state": "Passed",
+            "durationSeconds": 0.0599414,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          },
+          {
+            "name": "StartupShowsProgressAndVersionThenOpensGameMenu",
+            "fullName": "UnityCore.Tests.SceneTests.StartupShowsProgressAndVersionThenOpensGameMenu",
+            "state": "Passed",
+            "durationSeconds": 0.8493447,
+            "message": null,
+            "stackTrace": null,
+            "output": ""
+          }
+        ]
+      }
+    },
+    "fixed1920Selection": {
+      "job_id": "8927c50b63654c368691d10759a6b335",
+      "status": "succeeded",
+      "mode": "PlayMode",
+      "started_unix_ms": 1795146425289,
+      "finished_unix_ms": 1795146454150,
+      "last_update_unix_ms": 1795146454150,
+      "progress": {
+        "completed": 17,
+        "total": 17,
+        "current_test_full_name": null,
+        "current_test_started_unix_ms": null,
+        "last_finished_test_full_name": "UnityCore.Tests.SceneTests.StartupShowsProgressAndVersionThenOpensGameMenu",
+        "last_finished_unix_ms": 1795146454087,
+        "stuck_suspected": false,
+        "editor_is_focused": false,
+        "run_in_background": true,
+        "focus_nudge_attempts": null,
+        "focus_nudge_limit": null,
+        "focus_nudge_status": null,
+        "blocked_reason": null,
+        "failures_so_far": [],
+        "failures_capped": false
+      },
+      "error": null,
+      "result": {
+        "mode": "PlayMode",
+        "summary": {
+          "total": 17,
+          "passed": 17,
+          "failed": 0,
+          "skipped": 0,
+          "durationSeconds": 27.7250113,
+          "resultState": "Passed"
+        },
+        "results": []
+      }
+    },
+    "renderedCaptionRegression": {
+      "job": "5a6e9c1425f044c0ac78cb6595190739",
+      "passed": 1,
+      "total": 1,
+      "duration": 3.3586018,
+      "values": [
+        999,
+        1000,
+        4240,
+        3520,
+        3000
+      ],
+      "pixelCheck": "Each upper HUD caption >80 pixels with rgb>0.94 in its displayed center; menu reopened every cycle."
+    }
+  },
+  "sceneAudit": "peripheral-scene-audit-2026-11-20.json",
+  "sourceCaptures": "native-peripherals-1920/viewport.json",
+  "replicaCaptures": [
+    "replica-peripheral-hud-1920-2026-11-20.png",
+    "replica-trainer-1920-2026-11-20.png",
+    "replica-daily-1920-2026-11-20.png"
+  ],
+  "diagnosticCaptionObservation": {
+    "observed": "Partial stale text in editor screenshots after MCP-injected diagnostic progress while editor/Game view was unfocused.",
+    "followup": "Focusing Game view alone restored all four captions before dirty flags were manually changed. Fresh normal PlayMode text changes, end-of-frame RGB checks, and menu reopen cycles passed twice.",
+    "conclusion": "No product root-cause fix claimed. Editor capture observation retained; no evidence of the same failure in normal focused play."
+  },
+  "review": {
+    "independentReviewCompleted": true,
+    "findingsResolved": [
+      "Closing modal mutation guards and instant prestige",
+      "Correct source next-level preview",
+      "SDK late reward callbacks after ad destruction",
+      "Overflow-safe strength and victory transactions",
+      "Unfocused startup home initialization",
+      "Pause and nested interaction guards",
+      "Remove unsupported daily shortcut",
+      "Source feet query offset",
+      "Native menu-owner scale and trainer label fonts"
+    ]
+  },
+  "limitations": [
+    "Only two opponents currently connected; original source roster has 46 names including COMING SOON.",
+    "Original settings/name/keybinding pages, weight adjustment, full tutorial, flying rewards and decorative feedback remain incomplete.",
+    "Current character face/muscle and environment animation appearance is not certified pixel-identical.",
+    "Rewarded vivo ad ID intentionally empty by user choice; no simulated ad success.",
+    "No package build or device test performed. User handles packaging."
+  ],
+  "cleanup": {
+    "userProgressRestoredExactly": true,
+    "diagnosticSaveDeleted": true,
+    "playModeStopped": true,
+    "savedSceneReopened": true,
+    "editorOptionsRestored": true,
+    "gameView": "1920x1080 retained"
+  },
+  "claim": "This verification covers this iteration's implementation and module audit, not complete one-to-one parity of every original module."
+}

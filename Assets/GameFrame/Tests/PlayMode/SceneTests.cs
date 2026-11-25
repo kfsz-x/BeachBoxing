@@ -48,9 +48,25 @@ namespace UnityCore.Tests
             Click("CloseBtn");
             Click("ShareBtn");
             Assert.That(GameObject.Find("Tips").GetComponent<Text>().text, Does.Contain("分享"));
+            yield return new WaitUntil(() => !core.Scenes.IsLoading || Time.realtimeSinceStartup >= deadline);
+            Assert.That(core.Scenes.IsLoading, Is.False);
             Click("StartBtn");
-            Assert.That(GameObject.Find("BackBtn"), Is.Not.Null);
-            Click("BackBtn");
+            var gameplayDeadline = Time.realtimeSinceStartup + 10f;
+            yield return new WaitUntil(() => GameObject.Find("Beach UI") != null ||
+                Time.realtimeSinceStartup >= gameplayDeadline);
+            Assert.That(SceneManager.GetActiveScene().name, Is.EqualTo("BeachBoxing"));
+            Assert.That(GameObject.Find("Beach UI"), Is.Not.Null);
+            yield return null;
+            Click("MenuButton");
+            Assert.That(Time.timeScale, Is.EqualTo(0));
+            Click("Resume");
+            Assert.That(Time.timeScale, Is.EqualTo(1));
+            Assert.That(SceneManager.GetActiveScene().name, Is.EqualTo("BeachBoxing"));
+            Click("MenuButton");
+            Click("Return home");
+            var returnDeadline = Time.realtimeSinceStartup + 10f;
+            yield return new WaitUntil(() => GameObject.Find("StartBtn") != null ||
+                Time.realtimeSinceStartup >= returnDeadline);
             Assert.That(GameObject.Find("StartBtn"), Is.Not.Null);
         }
 

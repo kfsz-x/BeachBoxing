@@ -1,2 +1,1 @@
-{"name":"UnityCore.Runtime","rootNamespace":"UnityCore","references":["Unity.Addressables","Unity.ResourceManager","UnityEngine.UI"]}
-
+{"name":"UnityCore.Runtime","rootNamespace":"UnityCore","references":["UnityEngine.UI"]}

@@ -1,0 +1,5 @@
+{
+  "name": "BeachBoxing.PlayTests",
+  "references": ["BeachBoxing.Runtime", "UnityCore.Runtime", "UnityEngine.UI"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

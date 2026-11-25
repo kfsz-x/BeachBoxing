@@ -1,0 +1,204 @@
+{
+  "source": "D:/Desktop/BeachBoxing/.superpowers/sdd/2026-11-18-beach-boxing-scene-parity/source/data.unity3d",
+  "wasm": "D:/Desktop/Beach_Boxing_Simulator_100%\u539f\u7248\u5305\u4f53/Beach_Boxing_Simulator_100%\u539f\u7248\u5305\u4f53/Build/a340f7614095398c51fd34d9096a725b.wasm.unityweb",
+  "facts": {
+    "animator1928": {
+      "controller": [
+        "sharedassets1.assets",
+        119
+      ],
+      "updateMode": 0
+    },
+    "animator1943": {
+      "controller": [
+        "sharedassets1.assets",
+        119
+      ],
+      "updateMode": 0
+    },
+    "resultController119": {
+      "name": "FIGHT MENU",
+      "clip": [
+        "sharedassets1.assets",
+        102
+      ],
+      "stateSpeed": 1,
+      "speedParamId": 0,
+      "timeParamId": 0,
+      "nodeDuration": 1,
+      "behaviours": []
+    },
+    "openingAnimator1930": {
+      "controller": [
+        "sharedassets1.assets",
+        118
+      ],
+      "clip": [
+        "sharedassets1.assets",
+        96
+      ]
+    },
+    "timeScaleSetter": {
+      "function": 5886,
+      "icall": "UnityEngine.Time::set_timeScale(System.Single)"
+    },
+    "deltaTimeGetter": {
+      "function": 1396,
+      "icall": "UnityEngine.Time::get_deltaTime()"
+    },
+    "enemyUpdate": {
+      "function": 49842,
+      "deadOffset": 312,
+      "whenDead": "timeScale = timeScale + (1 - timeScale) * Clamp01(Time.deltaTime); return;"
+    },
+    "enemyVictory": {
+      "function": 28145,
+      "setsDeadOffset312": true
+    },
+    "playerDie": {
+      "function": 28146,
+      "setsTimeScale": 0.1,
+      "thenCalls": "enemyMan -> function28145, setting enemy.dead=true"
+    },
+    "enemyDie": {
+      "function": 28135,
+      "setsTimeScale": 0.1,
+      "setsDeadOffset312": true
+    }
+  },
+  "limitations": [
+    "Controller nodeDuration=1 is observed but not by itself a proven playback-speed factor; all inspected controllers have this field. Do not use it to speed clips.",
+    "Result animation uses scaled delta; timeScale is recovered each Update, not constant0.1. Frame order and deltaTime clamp must be matched by the implementation."
+  ],
+  "derivedDiscreteSamples": {
+    "30fps": [
+      {
+        "wall": 1.0,
+        "clipTime": 0.15553642536088105,
+        "timeScale": 0.22996915412944233
+      },
+      {
+        "wall": 2.0,
+        "clipTime": 0.4841613327611292,
+        "timeScale": 0.4466859111861899
+      },
+      {
+        "wall": 3.0,
+        "clipTime": 1.0498348858004898,
+        "timeScale": 0.6874495447549352
+      },
+      {
+        "wall": 4.0,
+        "clipTime": 1.8275170833339793,
+        "timeScale": 0.8578642316834026
+      },
+      {
+        "wall": 5.0,
+        "clipTime": 2.7324274390808347,
+        "timeScale": 0.9432910048631242
+      },
+      {
+        "wall": 6.0,
+        "clipTime": 3.6955590778186025,
+        "timeScale": 0.9786937626869159
+      }
+    ],
+    "60fps": [
+      {
+        "wall": 1.0,
+        "clipTime": 0.1570371747480558,
+        "timeScale": 0.23096238973903185
+      },
+      {
+        "wall": 2.0,
+        "clipTime": 0.48906432518514004,
+        "timeScale": 0.4487672700571646
+      },
+      {
+        "wall": 3.0,
+        "clipTime": 1.0587246074419132,
+        "timeScale": 0.6890184098569516
+      },
+      {
+        "wall": 4.0,
+        "clipTime": 1.8387575653749353,
+        "timeScale": 0.8581790646832893
+      },
+      {
+        "wall": 5.0,
+        "clipTime": 2.744364332340376,
+        "timeScale": 0.943057080318596
+      },
+      {
+        "wall": 6.0,
+        "clipTime": 3.707524657877943,
+        "timeScale": 0.9784349544643474
+      }
+    ],
+    "120fps": [
+      {
+        "wall": 1.0,
+        "clipTime": 0.1577976967685439,
+        "timeScale": 0.23146413072652725
+      },
+      {
+        "wall": 2.0,
+        "clipTime": 0.4915388367581115,
+        "timeScale": 0.44980964143934227
+      },
+      {
+        "wall": 3.0,
+        "clipTime": 1.063185142032825,
+        "timeScale": 0.6897955591100603
+      },
+      {
+        "wall": 4.0,
+        "clipTime": 1.8443783055941052,
+        "timeScale": 0.8583336770868265
+      },
+      {
+        "wall": 5.0,
+        "clipTime": 2.7503281451237958,
+        "timeScale": 0.9429410464542333
+      },
+      {
+        "wall": 6.0,
+        "clipTime": 3.7135030498297237,
+        "timeScale": 0.9783062671195141
+      }
+    ]
+  },
+  "functionBytesHex": {
+    "1396": "0041d8f0d401280200220045044041d8f0d40141f4e01510b60322003602000b20001135000b",
+    "5886": "0041ecf0d401280200220145044041ecf0d4014198971410b60322013602000b2000200111b101000b",
+    "28135": "0041e9f7d4012d000045044041b4ecaa0110a80341a0edaa0110a80341e9f7d40141013a00000b43cdcccc3d410010fe2d20002802c00141001096054100410010c10541b8f8d4012d000045044041e4dda80110a80341b8f8d40141013a00000b41e4dda80128020028025c280200200010f6db0120002802a4024100410010de6a20002802a4024101410010dd6a20002802bc024100410010924f20002802c0024101410010c105200041013a00b802200042003702a80220002802f80141b4ecaa0128020041014100108d0920002802f80141a0edaa01280200410010e00e0b",
+    "28145": "0041d6f7d4012d000045044041f4a2ab0110a80341dce3aa0110a80341f0a2ab0110a80341d6f7d40141013a00000b200041013a00b80220002802c00141001096054100410010c10520002802f80141dce3aa0128020041004100108d0920002802f80141f0a2ab0128020041004100108d0920002802f80141f4a2ab0128020041004100108d090b",
+    "28146": "0041bbf7d4012d000045044041b4ecaa0110a80341a0edaa0110a80341bbf7d40141013a00000b41aaf8d4012d000045044041f4f2a80110a80341aaf8d40141013a00000b41f4f2a80128020028025c28020022012d00100440200141003a00104100109511410010835e0b20002802ac024101410010c10543cdcccc3d410010fe2d20002802c80141001096054100410010c10520002802a802200010f1db01200028023c4100410010de6a200028023c4101410010dd6a200041013a00b002200028024441b4ecaa0128020041014100108d09200028024441a0edaa01280200410010e00e0b",
+    "49842": "02057d027f230041c0016b22012400024020002d00b802044041001089dd012202430000803f2002934300000000410010f40a2202430000803f96200243000000005d1b9492410010fe2d0c010b200141b0016a220720002802f401410010b10620012a02b801210320012a02b001210220072000410010e604410010b106200220012a02b001932202200294430000000092200320012a02b801932203200394924317b7d1385d0d0020012003380298012001200128029801360248200141003602940120012002380290012001200129039001370340200141a0016a200141406b4100108e29200120012903a8013703b801200120012903a0013703b0012000410010e604210720014180016a2000410010e604410010d811410010f40a21022001200129038801370338200120012903b8013703282001200129038001370330200120012903b001370320200141f0006a200141306a200141206a2002430000484294410010b92520012001290378370318200120012903703703102007200141106a410010c81d200141e0006a220820002802c0012207410010b10620012a0260210220012a0264210320012a0268210420082000410010e604410010b10620012a0260210520012a026421062001200420012a02682004934300000000410010f40a4300000c42942204430000803f96200443000000005d1b220494923802582001200128025836020820012003200620039320049492380254200120022005200293200494923802502001200129035037030020072001410010a7120b200141c0016a24000b"
+  },
+  "wasmSha256": "d4c8f849b087c734d5aed39f9eee79880e8c50c7cf280a882fe501541011ffce",
+  "bindingCorrection": {
+    "defeat": [
+      "root only"
+    ],
+    "defeatUnmatchedPaths": [
+      "MENU/Titled",
+      "MENU/AcceptBTNd",
+      "MENU/BallsButton"
+    ],
+    "victory": [
+      "root",
+      "MENU/Title",
+      "MENU/MiddleBit",
+      "MENU/AcceptBTN"
+    ],
+    "victoryUnmatchedClipPath": "MENU/HomeButton"
+  },
+  "withdrawnConclusion": "timeScale remains0.1 throughout results",
+  "implementationOrdering": "seconds=unscaledSeconds*previousTimeScale; resultTime+=seconds; timeScale=Lerp(previousTimeScale,1,seconds)",
+  "openingReplayResolution": {
+    "status": "resolved",
+    "evidence": "../native-presentation-dense2/contact-sheet.png and capture.json",
+    "finding": "All3/2/1/FIGHT appear; use actualelapsed capture times rather than nominal filenames."
+  }
+}

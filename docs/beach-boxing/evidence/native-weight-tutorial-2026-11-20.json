@@ -1,0 +1,5598 @@
+{
+  "source": {
+    "path": "D:\\Desktop\\BeachBoxing\\.superpowers\\sdd\\2026-11-18-beach-boxing-scene-parity\\source\\data.unity3d",
+    "sha256": "3b109d92fcf4ced42ddf76c238e92d38a755d006d7413ea21bedc742aaf6cf67"
+  },
+  "wasm": {
+    "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/original.wasm",
+    "sha256": "d4c8f849b087c734d5aed39f9eee79880e8c50c7cf280a882fe501541011ffce"
+  },
+  "method": "Static original UnityFS serialized objects via UnityPy plus supplied Il2CppDumper/WABT WAT. No original game execution and no Unity Editor actions. WAT comments identify method slot and actual function index. Observations below describe only supplied artifact.",
+  "sources": {
+    "WorkingOutManager-CalculateRecommendedWeight": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-CalculateRecommendedWeight.wat",
+      "identity": ";; WorkingOutManager$$CalculateRecommendedWeight table_slot=5090 func=5882",
+      "lines": null,
+      "sha256": "73be831cb3bb868ea419701ad48240c286b62d152ae987628b69f5b116ea345d"
+    },
+    "WorkingOutManager-ChangeCurWeight": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-ChangeCurWeight.wat",
+      "identity": ";; WorkingOutManager$$ChangeCurWeight table_slot=5081 func=50062",
+      "lines": null,
+      "sha256": "af50598690d272efcaa5af8874ac456eaf18bfd970d345bac68ed90716ab7248"
+    },
+    "WorkingOutManager-ClickRecommendedButton": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-ClickRecommendedButton.wat",
+      "identity": ";; WorkingOutManager$$ClickRecommendedButton table_slot=5082 func=50063",
+      "lines": null,
+      "sha256": "f8bab4414e37a9f40355dfdc849eed4b4b1407eec3bc272d3b8aa6feefa96b9e"
+    },
+    "WorkingOutManager-UpdateWeightText": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-UpdateWeightText.wat",
+      "identity": ";; WorkingOutManager$$UpdateWeightText table_slot=5086 func=9399",
+      "lines": null,
+      "sha256": "d7ee18e0b78aa9f56882c0ee9399d52c236b6d821419ab4dc9be6e505127d62d"
+    },
+    "WorkingOutManager-UpdateRecommendedText": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-UpdateRecommendedText.wat",
+      "identity": ";; WorkingOutManager$$UpdateRecommendedText table_slot=5085 func=17013",
+      "lines": null,
+      "sha256": "d69a4eace65278100c76670cfc224dd63e9bd3eb733085c60b0b7f9eed1fac91"
+    },
+    "WorkingOutManager-Update": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-Update.wat",
+      "identity": ";; WorkingOutManager$$Update table_slot=5076 func=50065",
+      "lines": null,
+      "sha256": "00ecedc489c32895d31679a1351d8f8bdb37f29bd4b188db076b932474932d88"
+    },
+    "WorkingOutManager-HistoryPredicate": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-HistoryPredicate.wat",
+      "identity": ";; WorkingOutManager.<>c__DisplayClass93_0$$<Update>b__0 slot=5097 func=50053",
+      "lines": null,
+      "sha256": "7494a98396e3d4cb66c24dee84eed801ff9ff61621412c81a125b3d7c84cbf38"
+    },
+    "WorkingOutManager-WorkoutButton": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-WorkoutButton.wat",
+      "identity": ";; WorkingOutManager$$WorkoutButton table_slot=5083 func=50061",
+      "lines": null,
+      "sha256": "59684daf37aa30240571aab7659ad7ae583cf1943c70537eeba83eea64428ba3"
+    },
+    "WorkingOutManager-ChangeAutoTrain": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-ChangeAutoTrain.wat",
+      "identity": ";; WorkingOutManager$$ChangeAutoTrain table_slot=5084 func=50060",
+      "lines": null,
+      "sha256": "67a8dda54b1d008640beca61d7d96222b90e9eb25bf00d626b8d25149f89687b"
+    },
+    "WorkingOutManager-CompleteWorkout": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-CompleteWorkout.wat",
+      "identity": ";; WorkingOutManager$$CompleteWorkout table_slot=5078 func=28165",
+      "lines": null,
+      "sha256": "954c5c709d5fa2f3730974011b9532d65d53892658fd22067506936976ad8111"
+    },
+    "WorkingOutManager-ResetWorkoutBar": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-ResetWorkoutBar.wat",
+      "identity": ";; WorkingOutManager$$ResetWorkoutBar table_slot=5080 func=5883",
+      "lines": null,
+      "sha256": "84a8fdcd48fe8d40da3deec3ea087d132f2c5952157a8fa54d2946d04bbbd814"
+    },
+    "WorkingOutManager-UpdateMuscleColour": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-UpdateMuscleColour.wat",
+      "identity": ";; WorkingOutManager$$UpdateMuscleColour table_slot=5077 func=28168",
+      "lines": null,
+      "sha256": "8992ccc355ffef9deb8c2e718bb88fab3324ef34c751cb770593345af0569054"
+    },
+    "WorkingOutManager-EnterWorkout": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-EnterWorkout.wat",
+      "identity": ";; WorkingOutManager$$EnterWorkout table_slot=5074 func=28170",
+      "lines": null,
+      "sha256": "c8490b62a2e74848824c5cbd391d7a3acef0bb0d832243e8cdcb59c9aafa0e9d"
+    },
+    "WorkingOutManager-ExitWorkout": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-ExitWorkout.wat",
+      "identity": ";; WorkingOutManager$$ExitWorkout table_slot=5075 func=28169",
+      "lines": null,
+      "sha256": "9e96ccf96657c96a8fc49aab27f0e8402a57d7253e3d1c16d1cd3e31a4a4a0c9"
+    },
+    "Tutorial-Start": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/Tutorial-Start.wat",
+      "identity": ";; Tutorial$$Start slot=5064 func=50075",
+      "lines": null,
+      "sha256": "38bcca0e5d7e724233308a34139c41a785ee3ce5b5d8e07e21f8371fc02d4a36"
+    },
+    "Tutorial-Update": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/Tutorial-Update.wat",
+      "identity": ";; Tutorial$$Update slot=5065 func=50074",
+      "lines": null,
+      "sha256": "774d9e36132a244b3a56d9bd2f2c8d342f6a843fade16b8b1665e509391206f6"
+    },
+    "TurnOffIfTutorial-Start": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/TurnOffIfTutorial-Start.wat",
+      "identity": ";; TurnOffIfTutorial$$Start slot=5062 func=50076",
+      "lines": null,
+      "sha256": "75edc5b151a7b7ec79a3bbcf8f4d1dbc2911546852b9c1e9049e83a4610baa76"
+    },
+    "FightMenu-OnEnable": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/FightMenu-OnEnable.wat",
+      "identity": ";; FightMenu$$OnEnable slot=4894 func=49834",
+      "lines": null,
+      "sha256": "67cd857dcc7540135ee947ac9fb06d23c2d582869c83614e0be1b29cbf613981"
+    },
+    "ChestPressMachine-GetCameraPosition": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/ChestPressMachine-GetCameraPosition.wat",
+      "identity": ";; ChestPressMachine$$GetCameraPosition slot=4836 func=49872",
+      "lines": null,
+      "sha256": "2d3ba789da6d0ace88306addc405a2016e26b3f0d83fc52a9e5fc7adc563c647"
+    },
+    "CameraShake-FixedUpdate": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/CameraShake-FixedUpdate.wat",
+      "identity": ";; CameraShake$$FixedUpdate slot=4819 func=49885",
+      "lines": null,
+      "sha256": "e1df0320b07499260d960aadc7b0727ec5bd4817a5e80445ca3c2b147866412a"
+    },
+    "Delete-OnEnable": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/Delete-OnEnable.wat",
+      "identity": ";; Delete$$OnEnable slot=4858 func=49859",
+      "lines": null,
+      "sha256": "70926b5aac516b7f96957f4a9b104d048d890090cd78805cdb937412691ca8ab"
+    },
+    "Delete-TurnOff": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/Delete-TurnOff.wat",
+      "identity": ";; Delete$$TurnOff slot=4859 func=49858",
+      "lines": null,
+      "sha256": "fa8ea569f363e0f1819e5eb8130bf32629a3b17b47818810feac24cecbc2ac9b"
+    },
+    "WorkingOutManager-_ctor": {
+      "file": ".superpowers/sdd/2026-11-20-peripherals-interactions/native-dump/WorkingOutManager-_ctor.wat",
+      "identity": ";; WorkingOutManager$$.ctor table_slot=5095 func=50054",
+      "sha256": "53f4548da870481a02abfd3573ce28e1421c1a86770741d1c80aee9eabcb70a6"
+    }
+  },
+  "components": {
+    "WorkingOutManager": {
+      "id": 5006,
+      "fields": {
+        "workoutMachine": {
+          "raw_offset": 32,
+          "value": {
+            "file_id": 0,
+            "path_id": 0
+          }
+        },
+        "workoutUI": {
+          "raw_offset": 44,
+          "value": {
+            "file_id": 0,
+            "path_id": 881,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/WORKING OUT",
+            "active": false
+          }
+        },
+        "curWorkoutType": {
+          "raw_offset": 56,
+          "value": ""
+        },
+        "workingOut": {
+          "raw_offset": 60,
+          "value": false
+        },
+        "curWeight": {
+          "raw_offset": 64,
+          "value": 0
+        },
+        "chestStrength": {
+          "raw_offset": 68,
+          "value": {
+            "file_id": 0,
+            "path_id": 4369,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/Text (TMP) (1)"
+          }
+        },
+        "_chestStrength": {
+          "raw_offset": 80,
+          "value": {
+            "file_id": 0,
+            "path_id": 4446,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/Text (TMP)"
+          }
+        },
+        "armStrength": {
+          "raw_offset": 92,
+          "value": {
+            "file_id": 0,
+            "path_id": 4515,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/Text (TMP) (1)"
+          }
+        },
+        "_armStrength": {
+          "raw_offset": 104,
+          "value": {
+            "file_id": 0,
+            "path_id": 4434,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/Text (TMP) (2)"
+          }
+        },
+        "backStrength": {
+          "raw_offset": 116,
+          "value": {
+            "file_id": 0,
+            "path_id": 4483,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/Text (TMP) (1)"
+          }
+        },
+        "_backStrength": {
+          "raw_offset": 128,
+          "value": {
+            "file_id": 0,
+            "path_id": 4488,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/Text (TMP) (2)"
+          }
+        },
+        "legStrength": {
+          "raw_offset": 140,
+          "value": {
+            "file_id": 0,
+            "path_id": 4357,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/Text (TMP) (1)"
+          }
+        },
+        "_legStrength": {
+          "raw_offset": 152,
+          "value": {
+            "file_id": 0,
+            "path_id": 4385,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/Text (TMP) (2)"
+          }
+        },
+        "chestFillBar": {
+          "raw_offset": 164,
+          "value": {
+            "file_id": 0,
+            "path_id": 4814,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/FillBar"
+          }
+        },
+        "chestFullIndicator": {
+          "raw_offset": 176,
+          "value": {
+            "file_id": 0,
+            "path_id": 324,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/BarFilledOBJ",
+            "active": false
+          }
+        },
+        "armFillBar": {
+          "raw_offset": 188,
+          "value": {
+            "file_id": 0,
+            "path_id": 4950,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/FillBar"
+          }
+        },
+        "armFullIndicator": {
+          "raw_offset": 200,
+          "value": {
+            "file_id": 0,
+            "path_id": 251,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/BarFilledOBJ",
+            "active": false
+          }
+        },
+        "backFillBar": {
+          "raw_offset": 212,
+          "value": {
+            "file_id": 0,
+            "path_id": 4567,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/FillBar"
+          }
+        },
+        "backFullIndicator": {
+          "raw_offset": 224,
+          "value": {
+            "file_id": 0,
+            "path_id": 1087,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/BarFilledOBJ",
+            "active": false
+          }
+        },
+        "legFillBar": {
+          "raw_offset": 236,
+          "value": {
+            "file_id": 0,
+            "path_id": 4696,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/FillBar"
+          }
+        },
+        "legFullIndicator": {
+          "raw_offset": 248,
+          "value": {
+            "file_id": 0,
+            "path_id": 1029,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/BarFilledOBJ",
+            "active": false
+          }
+        },
+        "recommendedWeightText": {
+          "raw_offset": 260,
+          "value": {
+            "file_id": 0,
+            "path_id": 4464,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (2)/Text (TMP) (1)"
+          }
+        },
+        "weightText": {
+          "raw_offset": 272,
+          "value": {
+            "file_id": 0,
+            "path_id": 4322,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Weight (1)"
+          }
+        },
+        "_weightText": {
+          "raw_offset": 284,
+          "value": {
+            "file_id": 0,
+            "path_id": 4344,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Weight"
+          }
+        },
+        "holdingWorkoutButton": {
+          "raw_offset": 296,
+          "value": false
+        },
+        "autoTraining": {
+          "raw_offset": 300,
+          "value": false
+        },
+        "workoutProgressBar": {
+          "raw_offset": 304,
+          "value": {
+            "file_id": 0,
+            "path_id": 4969,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/WORKING OUT/Bar/WorkingOutBar"
+          }
+        },
+        "workoutAnim": {
+          "raw_offset": 316,
+          "value": {
+            "file_id": 0,
+            "path_id": 3039,
+            "asset": "level0",
+            "type": "Animator",
+            "name": "",
+            "path": "SingleplayerPlayer/Character (2)/Armature"
+          }
+        },
+        "chestParticle": {
+          "raw_offset": 328,
+          "value": {
+            "file_id": 2,
+            "path_id": 1082,
+            "asset": "sharedassets0.assets",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Character (2)/Armature/Bone/Bone.002/Bone.001/BackMuscles (10)",
+            "active": true
+          }
+        },
+        "armsParticle": {
+          "raw_offset": 340,
+          "value": {
+            "file_id": 2,
+            "path_id": 1080,
+            "asset": "sharedassets0.assets",
+            "type": "GameObject",
+            "path": "LEVEL0/LVL1/Boxing Area/Ring (3)/Cylinder (7)",
+            "active": true
+          }
+        },
+        "backParticle": {
+          "raw_offset": 352,
+          "value": {
+            "file_id": 2,
+            "path_id": 1083,
+            "asset": "sharedassets0.assets",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/FillBar",
+            "active": true
+          }
+        },
+        "legsParticle": {
+          "raw_offset": 364,
+          "value": {
+            "file_id": 2,
+            "path_id": 1081,
+            "asset": "sharedassets0.assets",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Character (2)/Armature/ArmsMachinePivot/WeightsBar/Weights/CLIP",
+            "active": true
+          }
+        },
+        "chestTarg": {
+          "raw_offset": 376,
+          "value": {
+            "file_id": 0,
+            "path_id": 3948,
+            "asset": "level0",
+            "type": "RectTransform",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/Icon",
+            "localPosition": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "localScale": {
+              "x": 0.6499999761581421,
+              "y": 0.6499999761581421,
+              "z": 0.37244004011154175
+            },
+            "localRotation": {
+              "x": -0.0,
+              "y": -0.0,
+              "z": -0.0,
+              "w": 1.0
+            }
+          }
+        },
+        "armsTarg": {
+          "raw_offset": 388,
+          "value": {
+            "file_id": 0,
+            "path_id": 3853,
+            "asset": "level0",
+            "type": "RectTransform",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/Icon",
+            "localPosition": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "localScale": {
+              "x": 0.6499999761581421,
+              "y": 0.6499999761581421,
+              "z": 0.48767638206481934
+            },
+            "localRotation": {
+              "x": -0.0,
+              "y": -0.0,
+              "z": -0.0,
+              "w": 1.0
+            }
+          }
+        },
+        "backTarg": {
+          "raw_offset": 400,
+          "value": {
+            "file_id": 0,
+            "path_id": 4143,
+            "asset": "level0",
+            "type": "RectTransform",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/Icon",
+            "localPosition": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "localScale": {
+              "x": 0.6499999761581421,
+              "y": 0.6499999761581421,
+              "z": 0.3724426329135895
+            },
+            "localRotation": {
+              "x": -0.0,
+              "y": -0.0,
+              "z": -0.0,
+              "w": 1.0
+            }
+          }
+        },
+        "legsTarg": {
+          "raw_offset": 412,
+          "value": {
+            "file_id": 0,
+            "path_id": 4309,
+            "asset": "level0",
+            "type": "RectTransform",
+            "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/Icon",
+            "localPosition": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "localScale": {
+              "x": 0.6499999761581421,
+              "y": 0.6499999761581421,
+              "z": 0.3724426329135895
+            },
+            "localRotation": {
+              "x": -0.0,
+              "y": -0.0,
+              "z": -0.0,
+              "w": 1.0
+            }
+          }
+        },
+        "particleSpawn": {
+          "raw_offset": 424,
+          "value": {
+            "file_id": 0,
+            "path_id": 4012,
+            "asset": "level0",
+            "type": "RectTransform",
+            "path": "SingleplayerPlayer/Canvas/ParticleSpawnPoint",
+            "localPosition": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "localScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "localRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            }
+          }
+        },
+        "parentCanvas": {
+          "raw_offset": 436,
+          "value": {
+            "file_id": 0,
+            "path_id": 3681,
+            "asset": "level0",
+            "type": "RectTransform",
+            "path": "SingleplayerPlayer/Canvas",
+            "localPosition": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "localScale": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0
+            },
+            "localRotation": {
+              "x": 0.0,
+              "y": 0.0,
+              "z": 0.0,
+              "w": 1.0
+            }
+          }
+        },
+        "muscleMan": {
+          "raw_offset": 448,
+          "value": {
+            "file_id": 0,
+            "path_id": 5005,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer"
+          }
+        },
+        "maxStatScores": {
+          "raw_offset": 460,
+          "value": [
+            0,
+            1000,
+            3000,
+            6000,
+            10000,
+            15000,
+            23000,
+            33000,
+            45000,
+            70000,
+            100000
+          ]
+        },
+        "chestMuscleMaterial": {
+          "raw_offset": 508,
+          "value": {
+            "file_id": 2,
+            "path_id": 10,
+            "asset": "sharedassets0.assets",
+            "type": "Material",
+            "name": "ChestMuscles"
+          }
+        },
+        "armsMuscleMaterial": {
+          "raw_offset": 520,
+          "value": {
+            "file_id": 2,
+            "path_id": 8,
+            "asset": "sharedassets0.assets",
+            "type": "Material",
+            "name": "ArmMuscles"
+          }
+        },
+        "backMuscleMaterial": {
+          "raw_offset": 532,
+          "value": {
+            "file_id": 2,
+            "path_id": 9,
+            "asset": "sharedassets0.assets",
+            "type": "Material",
+            "name": "BackMuscles"
+          }
+        },
+        "legsMuscleMaterial": {
+          "raw_offset": 544,
+          "value": {
+            "file_id": 2,
+            "path_id": 11,
+            "asset": "sharedassets0.assets",
+            "type": "Material",
+            "name": "LegMuscles"
+          }
+        },
+        "skinColor": {
+          "raw_offset": 556,
+          "value": [
+            1.0,
+            0.6196078658103943,
+            0.4941176474094391,
+            0.0
+          ]
+        },
+        "redColor": {
+          "raw_offset": 572,
+          "value": [
+            1.0,
+            0.1764705926179886,
+            0.1764705926179886,
+            0.0
+          ]
+        },
+        "titleCanvas": {
+          "raw_offset": 588,
+          "value": {
+            "file_id": 0,
+            "path_id": 158,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/TitleCanvas",
+            "active": true
+          }
+        },
+        "titleText": {
+          "raw_offset": 600,
+          "value": {
+            "file_id": 0,
+            "path_id": 4494,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/TitleCanvas/Title"
+          }
+        },
+        "levelText": {
+          "raw_offset": 612,
+          "value": {
+            "file_id": 0,
+            "path_id": 4398,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/TitleCanvas/LevelText"
+          }
+        },
+        "titles": {
+          "raw_offset": 624,
+          "value": [
+            "Rookie",
+            "Amateur",
+            "Semi Pro",
+            "Rising Star",
+            "Pro Boxer",
+            "Division Threat",
+            "Title Challenger",
+            "Title Champion",
+            "World Champion",
+            "Boxing Legend"
+          ]
+        },
+        "lvlUpBTNObj": {
+          "raw_offset": 796,
+          "value": {
+            "file_id": 0,
+            "path_id": 339,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder/PrestigeButtonHolder",
+            "active": false
+          }
+        },
+        "lvlUpBTNObjHolder": {
+          "raw_offset": 808,
+          "value": {
+            "file_id": 0,
+            "path_id": 220,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder",
+            "active": true
+          }
+        },
+        "lvlUpPanels": {
+          "raw_offset": 820,
+          "value": [
+            {
+              "file_id": 0,
+              "path_id": 1126,
+              "asset": "level0",
+              "type": "GameObject",
+              "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL2",
+              "active": false
+            },
+            {
+              "file_id": 0,
+              "path_id": 1126,
+              "asset": "level0",
+              "type": "GameObject",
+              "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL2",
+              "active": false
+            },
+            {
+              "file_id": 0,
+              "path_id": 718,
+              "asset": "level0",
+              "type": "GameObject",
+              "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL3",
+              "active": false
+            },
+            {
+              "file_id": 0,
+              "path_id": 979,
+              "asset": "level0",
+              "type": "GameObject",
+              "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL4",
+              "active": false
+            },
+            {
+              "file_id": 0,
+              "path_id": 391,
+              "asset": "level0",
+              "type": "GameObject",
+              "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL5",
+              "active": false
+            },
+            {
+              "file_id": 0,
+              "path_id": 384,
+              "asset": "level0",
+              "type": "GameObject",
+              "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL6",
+              "active": false
+            },
+            {
+              "file_id": 0,
+              "path_id": 419,
+              "asset": "level0",
+              "type": "GameObject",
+              "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL7",
+              "active": false
+            },
+            {
+              "file_id": 0,
+              "path_id": 260,
+              "asset": "level0",
+              "type": "GameObject",
+              "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL8",
+              "active": false
+            },
+            {
+              "file_id": 0,
+              "path_id": 1004,
+              "asset": "level0",
+              "type": "GameObject",
+              "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL9",
+              "active": false
+            },
+            {
+              "file_id": 0,
+              "path_id": 685,
+              "asset": "level0",
+              "type": "GameObject",
+              "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL10",
+              "active": false
+            }
+          ]
+        },
+        "cameraTarg": {
+          "raw_offset": 944,
+          "value": {
+            "file_id": 0,
+            "path_id": 1785,
+            "asset": "level0",
+            "type": "Transform",
+            "path": "SingleplayerPlayer/CameraTarg",
+            "localPosition": {
+              "x": 0.0,
+              "y": 0.060997962951660156,
+              "z": 0.0
+            },
+            "localScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "localRotation": {
+              "x": -0.0,
+              "y": 1.0,
+              "z": -0.0,
+              "w": 0.0
+            }
+          }
+        },
+        "plates": {
+          "raw_offset": 956,
+          "value": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        "backPlates": {
+          "raw_offset": 1024,
+          "value": [
+            {
+              "file_id": 0,
+              "path_id": 1963,
+              "asset": "level0",
+              "type": "Transform",
+              "path": "SingleplayerPlayer/Character (2)/Armature/BackMachinePivot/WeightsBar/Weights/Weight (1)",
+              "localPosition": {
+                "x": -3.5000052452087402,
+                "y": 2.2999987602233887,
+                "z": -0.7000011801719666
+              },
+              "localScale": {
+                "x": 3.0,
+                "y": 0.30000001192092896,
+                "z": 3.0
+              },
+              "localRotation": {
+                "x": 0.7071069478988647,
+                "y": 3.259628655882807e-08,
+                "z": -0.0,
+                "w": 0.7071066498756409
+              }
+            },
+            {
+              "file_id": 0,
+              "path_id": 1523,
+              "asset": "level0",
+              "type": "Transform",
+              "path": "SingleplayerPlayer/Character (2)/Armature/BackMachinePivot/WeightsBar/Weights/Weight (15)",
+              "localPosition": {
+                "x": -3.499974012374878,
+                "y": 2.300028085708618,
+                "z": 1.0800001621246338
+              },
+              "localScale": {
+                "x": 3.0,
+                "y": 0.30000001192092896,
+                "z": 3.0
+              },
+              "localRotation": {
+                "x": -0.7071066498756409,
+                "y": 1.1920927533992653e-07,
+                "z": 3.166496398421259e-08,
+                "w": 0.7071069478988647
+              }
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            }
+          ]
+        },
+        "legPlates": {
+          "raw_offset": 1220,
+          "value": [
+            {
+              "file_id": 0,
+              "path_id": 1639,
+              "asset": "level0",
+              "type": "Transform",
+              "path": "SingleplayerPlayer/Character (2)/Armature/SquatPivot/Weights/Weight (1)",
+              "localPosition": {
+                "x": -3.450005292892456,
+                "y": 3.7599995136260986,
+                "z": -4.414398193359375
+              },
+              "localScale": {
+                "x": 3.0,
+                "y": 0.30000001192092896,
+                "z": 3.0
+              },
+              "localRotation": {
+                "x": 0.7071069478988647,
+                "y": 3.259628655882807e-08,
+                "z": -0.0,
+                "w": 0.7071066498756409
+              }
+            },
+            {
+              "file_id": 0,
+              "path_id": 1804,
+              "asset": "level0",
+              "type": "Transform",
+              "path": "SingleplayerPlayer/Character (2)/Armature/SquatPivot/Weights/Weight (15)",
+              "localPosition": {
+                "x": -3.449993371963501,
+                "y": 3.760000467300415,
+                "z": 4.635498046875
+              },
+              "localScale": {
+                "x": 3.0,
+                "y": 0.30000001192092896,
+                "z": 3.0
+              },
+              "localRotation": {
+                "x": -0.7071066498756409,
+                "y": 1.1920927533992653e-07,
+                "z": 3.166496398421259e-08,
+                "w": 0.7071069478988647
+              }
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            }
+          ]
+        },
+        "armPlates": {
+          "raw_offset": 1416,
+          "value": [
+            {
+              "file_id": 0,
+              "path_id": 1555,
+              "asset": "level0",
+              "type": "Transform",
+              "path": "SingleplayerPlayer/Character (2)/Armature/ArmsMachinePivot/WeightsBar/Weights/Weight (1)",
+              "localPosition": {
+                "x": -3.450000047683716,
+                "y": 3.759999990463257,
+                "z": -3.3299999237060547
+              },
+              "localScale": {
+                "x": 2.0,
+                "y": 0.30000001192092896,
+                "z": 2.0
+              },
+              "localRotation": {
+                "x": 0.7071069478988647,
+                "y": 3.259628655882807e-08,
+                "z": -0.0,
+                "w": 0.7071066498756409
+              }
+            },
+            {
+              "file_id": 0,
+              "path_id": 1536,
+              "asset": "level0",
+              "type": "Transform",
+              "path": "SingleplayerPlayer/Character (2)/Armature/ArmsMachinePivot/WeightsBar/Weights/Weight (15)",
+              "localPosition": {
+                "x": -3.450000047683716,
+                "y": 3.759999990463257,
+                "z": 3.2799999713897705
+              },
+              "localScale": {
+                "x": 2.0,
+                "y": 0.30000001192092896,
+                "z": 2.0
+              },
+              "localRotation": {
+                "x": -0.7071066498756409,
+                "y": 1.1920927533992653e-07,
+                "z": 3.166496398421259e-08,
+                "w": 0.7071069478988647
+              }
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            }
+          ]
+        },
+        "chestPlates": {
+          "raw_offset": 1612,
+          "value": [
+            {
+              "file_id": 0,
+              "path_id": 1494,
+              "asset": "level0",
+              "type": "Transform",
+              "path": "SingleplayerPlayer/Character (2)/Armature/ChestMachinePivot/Weights/Weight (1)",
+              "localPosition": {
+                "x": -3.859999895095825,
+                "y": 8.229999542236328,
+                "z": -4.570000171661377
+              },
+              "localScale": {
+                "x": 3.0,
+                "y": 0.30000001192092896,
+                "z": 3.0
+              },
+              "localRotation": {
+                "x": 0.7901287078857422,
+                "y": 0.030458901077508926,
+                "z": -0.03719492629170418,
+                "w": 0.6110527515411377
+              }
+            },
+            {
+              "file_id": 0,
+              "path_id": 1934,
+              "asset": "level0",
+              "type": "Transform",
+              "path": "SingleplayerPlayer/Character (2)/Armature/ChestMachinePivot/Weights/Weight (15)",
+              "localPosition": {
+                "x": -3.888000011444092,
+                "y": 8.196000099182129,
+                "z": 5.296999931335449
+              },
+              "localScale": {
+                "x": 3.0,
+                "y": 0.30000001192092896,
+                "z": 3.0
+              },
+              "localRotation": {
+                "x": -0.789977490901947,
+                "y": -0.03144150599837303,
+                "z": -0.038474906235933304,
+                "w": 0.611119270324707
+              }
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            },
+            {
+              "file_id": 0,
+              "path_id": 0
+            }
+          ]
+        },
+        "plateMaterials": {
+          "raw_offset": 1808,
+          "value": [
+            {
+              "file_id": 2,
+              "path_id": 34,
+              "asset": "sharedassets0.assets",
+              "type": "Material",
+              "name": "Weight8"
+            },
+            {
+              "file_id": 2,
+              "path_id": 27,
+              "asset": "sharedassets0.assets",
+              "type": "Material",
+              "name": "Weight1"
+            },
+            {
+              "file_id": 2,
+              "path_id": 28,
+              "asset": "sharedassets0.assets",
+              "type": "Material",
+              "name": "Weight2"
+            },
+            {
+              "file_id": 2,
+              "path_id": 29,
+              "asset": "sharedassets0.assets",
+              "type": "Material",
+              "name": "Weight3"
+            },
+            {
+              "file_id": 2,
+              "path_id": 30,
+              "asset": "sharedassets0.assets",
+              "type": "Material",
+              "name": "Weight4"
+            },
+            {
+              "file_id": 2,
+              "path_id": 31,
+              "asset": "sharedassets0.assets",
+              "type": "Material",
+              "name": "Weight5"
+            },
+            {
+              "file_id": 2,
+              "path_id": 32,
+              "asset": "sharedassets0.assets",
+              "type": "Material",
+              "name": "Weight6"
+            },
+            {
+              "file_id": 2,
+              "path_id": 33,
+              "asset": "sharedassets0.assets",
+              "type": "Material",
+              "name": "Weight7"
+            },
+            {
+              "file_id": 2,
+              "path_id": 34,
+              "asset": "sharedassets0.assets",
+              "type": "Material",
+              "name": "Weight8"
+            }
+          ]
+        },
+        "workoutParticles": {
+          "raw_offset": 1920,
+          "value": [
+            {
+              "file_id": 0,
+              "path_id": 3066,
+              "asset": "level0",
+              "type": "ParticleSystem",
+              "name": "",
+              "path": "Camrot/Camera/WorkoutParticles/Particle System"
+            },
+            {
+              "file_id": 0,
+              "path_id": 3065,
+              "asset": "level0",
+              "type": "ParticleSystem",
+              "name": "",
+              "path": "Camrot/Camera/WorkoutParticles/Particle System (1)"
+            },
+            {
+              "file_id": 0,
+              "path_id": 3067,
+              "asset": "level0",
+              "type": "ParticleSystem",
+              "name": "",
+              "path": "Camrot/Camera/WorkoutParticles/Particle System (2)"
+            },
+            {
+              "file_id": 0,
+              "path_id": 3059,
+              "asset": "level0",
+              "type": "ParticleSystem",
+              "name": "",
+              "path": "Camrot/Camera/WorkoutParticles/Particle System (3)"
+            }
+          ]
+        },
+        "faceDecal": {
+          "raw_offset": 1972,
+          "value": {
+            "file_id": 0,
+            "path_id": 2212,
+            "asset": "level0",
+            "type": "MeshRenderer",
+            "name": "",
+            "path": "SingleplayerPlayer/Character (2)/Armature/Bone/Bone.002/Bone.001/Bone.003/Bone.004/FACE DECAL"
+          }
+        },
+        "normalFace": {
+          "raw_offset": 1984,
+          "value": {
+            "file_id": 2,
+            "path_id": 43,
+            "asset": "sharedassets0.assets",
+            "type": "Material",
+            "name": "FaceDecal 1"
+          }
+        },
+        "angryFace": {
+          "raw_offset": 1996,
+          "value": {
+            "file_id": 2,
+            "path_id": 45,
+            "asset": "sharedassets0.assets",
+            "type": "Material",
+            "name": "FaceDecal 2"
+          }
+        },
+        "strugglingFace": {
+          "raw_offset": 2008,
+          "value": {
+            "file_id": 2,
+            "path_id": 46,
+            "asset": "sharedassets0.assets",
+            "type": "Material",
+            "name": "FaceDecal 3"
+          }
+        },
+        "recommendedWeightTip": {
+          "raw_offset": 2020,
+          "value": {
+            "file_id": 0,
+            "path_id": 513,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/RecommendedWeightTip",
+            "active": false
+          }
+        },
+        "sweatParticles": {
+          "raw_offset": 2032,
+          "value": {
+            "file_id": 0,
+            "path_id": 3064,
+            "asset": "level0",
+            "type": "ParticleSystem",
+            "name": "",
+            "path": "SingleplayerPlayer/Character (2)/Armature/Bone/SweatParticles"
+          }
+        },
+        "workoutTooltip": {
+          "raw_offset": 2044,
+          "value": {
+            "file_id": 0,
+            "path_id": 3,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip",
+            "active": false
+          }
+        },
+        "exitTooltip": {
+          "raw_offset": 2056,
+          "value": {
+            "file_id": 0,
+            "path_id": 314,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/ExitTooltip",
+            "active": false
+          }
+        },
+        "tutorialLine": {
+          "raw_offset": 2068,
+          "value": {
+            "file_id": 0,
+            "path_id": 199,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "TutorialLine",
+            "active": true
+          }
+        },
+        "interactBTNHolder": {
+          "raw_offset": 2080,
+          "value": {
+            "file_id": 0,
+            "path_id": 417,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/InteractButtonHolder",
+            "active": true
+          }
+        },
+        "doubleAutoTrain": {
+          "raw_offset": 2092,
+          "value": false
+        },
+        "timeLeftInAutoTrain": {
+          "raw_offset": 2096,
+          "value": 0
+        },
+        "autoTrainBTN": {
+          "raw_offset": 2100,
+          "value": {
+            "file_id": 0,
+            "path_id": 378,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain",
+            "active": true
+          }
+        },
+        "autoTrainCountdown": {
+          "raw_offset": 2112,
+          "value": {
+            "file_id": 0,
+            "path_id": 4363,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/CountdownOBJ/Countdown"
+          }
+        },
+        "autoTrainCountdownOBJ": {
+          "raw_offset": 2124,
+          "value": {
+            "file_id": 0,
+            "path_id": 305,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/CountdownOBJ",
+            "active": false
+          }
+        },
+        "workoutArray": {
+          "raw_offset": 2136,
+          "value": {
+            "file_id": 0,
+            "path_id": 4825,
+            "asset": "level0",
+            "type": "MonoBehaviour",
+            "path": "SingleplayerPlayer/Canvas/WORKING OUT/Array"
+          }
+        },
+        "trainer": {
+          "raw_offset": 2148,
+          "value": {
+            "file_id": 0,
+            "path_id": 0
+          }
+        },
+        "timeBeforeAd": {
+          "raw_offset": 2160,
+          "value": 0.0
+        }
+      },
+      "decodeComplete": true
+    },
+    "Tutorial": {
+      "id": 5007,
+      "fields": {
+        "tutorialLine": {
+          "raw_offset": 32,
+          "value": {
+            "file_id": 0,
+            "path_id": 3042,
+            "asset": "level0",
+            "type": "LineRenderer",
+            "name": "",
+            "path": "TutorialLine"
+          }
+        },
+        "playerPos": {
+          "raw_offset": 44,
+          "value": {
+            "file_id": 0,
+            "path_id": 1444,
+            "asset": "level0",
+            "type": "Transform",
+            "path": "SingleplayerPlayer/Head",
+            "localPosition": {
+              "x": 0.0,
+              "y": 3.327998161315918,
+              "z": 0.0
+            },
+            "localScale": {
+              "x": 1.0,
+              "y": 1.0,
+              "z": 1.0
+            },
+            "localRotation": {
+              "x": -0.0,
+              "y": 1.0,
+              "z": -0.0,
+              "w": 0.0
+            }
+          }
+        },
+        "workoutStation": {
+          "raw_offset": 56,
+          "value": {
+            "file_id": 0,
+            "path_id": 1420,
+            "asset": "level0",
+            "type": "Transform",
+            "path": "LEVEL0/LVL1/WorkoutArea (1)/MachineHolder/ArmsMachineInteractable/ArmsMachine (1)/Cube (9)",
+            "localPosition": {
+              "x": 1.8700000047683716,
+              "y": 5.599993705749512,
+              "z": -0.11999999731779099
+            },
+            "localScale": {
+              "x": 5.74922513961792,
+              "y": 0.42778491973876953,
+              "z": 2.163233757019043
+            },
+            "localRotation": {
+              "x": 0.1613457202911377,
+              "y": -0.688451886177063,
+              "z": 0.16134624183177948,
+              "w": 0.6884540915489197
+            }
+          }
+        },
+        "fightZone": {
+          "raw_offset": 68,
+          "value": {
+            "file_id": 0,
+            "path_id": 1583,
+            "asset": "level0",
+            "type": "Transform",
+            "path": "LEVEL0/LVL1/SM_FX_Glow_Ring_01",
+            "localPosition": {
+              "x": -13.699999809265137,
+              "y": 0.5699999928474426,
+              "z": 15.399999618530273
+            },
+            "localScale": {
+              "x": 3.9809999465942383,
+              "y": 2.94954776763916,
+              "z": 3.9809999465942383
+            },
+            "localRotation": {
+              "x": -0.0,
+              "y": -0.0,
+              "z": -0.0,
+              "w": 1.0
+            }
+          }
+        },
+        "keepTrainingHint": {
+          "raw_offset": 80,
+          "value": {
+            "file_id": 0,
+            "path_id": 372,
+            "asset": "level0",
+            "type": "GameObject",
+            "path": "SingleplayerPlayer/Canvas/KeepTrainingTip",
+            "active": false
+          }
+        }
+      },
+      "decodeComplete": true
+    }
+  },
+  "objects": [
+    {
+      "id": 1,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/X2 Button/Text (TMP) (1)",
+      "name": "Text (TMP) (1)",
+      "active": true,
+      "components": [
+        3648,
+        3157,
+        4315
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 19.799999237060547,
+          "y": 82.4000015258789
+        },
+        "m_SizeDelta": {
+          "x": 82.68589782714844,
+          "y": 49.44219970703125
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 3,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip",
+      "name": "WorkoutTooltip",
+      "active": false,
+      "components": [
+        3649
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -42.599998474121094,
+          "y": -47.099998474121094
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 16,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/Fade (1)",
+      "name": "Fade (1)",
+      "active": true,
+      "components": [
+        3655,
+        3163,
+        4527,
+        3000
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -2.86102294921875e-05
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 28,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Weight (1)",
+      "name": "Weight (1)",
+      "active": true,
+      "components": [
+        3661,
+        3168,
+        4322
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 2.9000000953674316,
+          "y": -101.9000015258789
+        },
+        "m_SizeDelta": {
+          "x": 200.0,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 31,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Array/GameObject (3)",
+      "name": "GameObject (3)",
+      "active": true,
+      "components": [
+        3662,
+        2980
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 33,
+      "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/FightTooltip",
+      "name": "FightTooltip",
+      "active": false,
+      "components": [
+        3664
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -116.0999984741211,
+          "y": -129.60000610351562
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 42,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/GameObject (1)",
+      "name": "GameObject (1)",
+      "active": true,
+      "components": [
+        3671
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 4658.0,
+          "y": -0.9999904632568359
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 69,
+      "path": "SingleplayerPlayer/Canvas/MobileControls/Move Tutorial/Finger",
+      "name": "Finger",
+      "active": true,
+      "components": [
+        3689,
+        3186,
+        4547
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -253.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 100,
+      "path": "SingleplayerPlayer/Canvas/KeepTrainingTip/Image (2)",
+      "name": "Image (2)",
+      "active": true,
+      "components": [
+        3701,
+        3196,
+        4561
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 135,
+      "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/FightTooltip/Pointing",
+      "name": "Pointing",
+      "active": true,
+      "components": [
+        3720,
+        3003
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 168.41392517089844,
+          "y": 168.41390991210938
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 139,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Weight",
+      "name": "Weight",
+      "active": true,
+      "components": [
+        3723,
+        3216,
+        4344
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -96.4000015258789
+        },
+        "m_SizeDelta": {
+          "x": 200.0,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 142,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Fade",
+      "name": "Fade",
+      "active": true,
+      "components": [
+        3726,
+        3217,
+        4575
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 1.0,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 1.0,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 300.0,
+          "y": -100.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 221.71060180664062
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 157,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Array/GameObject (2)",
+      "name": "GameObject (2)",
+      "active": true,
+      "components": [
+        3736,
+        2983
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 159,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (1)",
+      "name": "Button (1)",
+      "active": true,
+      "components": [
+        3738,
+        3225,
+        4584,
+        4583
+      ],
+      "classes": [
+        "Image",
+        "Button"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -130.0,
+          "y": -150.0
+        },
+        "m_SizeDelta": {
+          "x": 160.0,
+          "y": 160.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 181,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN",
+      "name": "ExitBTN",
+      "active": true,
+      "components": [
+        3749,
+        4595
+      ],
+      "classes": [
+        "ChangeTransformOnPortrait"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 1.0,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 1.0,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 43.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 187,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/ExitTooltip/Pointing/Image (1)",
+      "name": "Image (1)",
+      "active": true,
+      "components": [
+        3752,
+        3232,
+        4597
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 195,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/RecommendedWeightTip/Fade (1)",
+      "name": "Fade (1)",
+      "active": true,
+      "components": [
+        3756,
+        3235,
+        4601,
+        3004
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -265.70001220703125,
+          "y": -268.20001220703125
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 199,
+      "path": "TutorialLine",
+      "name": "TutorialLine",
+      "active": true,
+      "components": [
+        1499,
+        3042,
+        3005
+      ],
+      "classes": [],
+      "rect": null
+    },
+    {
+      "id": 201,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/GameObject (1)",
+      "name": "GameObject (1)",
+      "active": true,
+      "components": [
+        3757
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 93.00001525878906,
+          "y": -50.00002670288086
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 248,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/CountdownOBJ/Countdown",
+      "name": "Countdown",
+      "active": true,
+      "components": [
+        3785,
+        3257,
+        4363,
+        3009
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": -8.100000381469727,
+          "y": 25.899999618530273
+        },
+        "m_SizeDelta": {
+          "x": 280.3599853515625,
+          "y": 49.44219970703125
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 264,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Bar",
+      "name": "Bar",
+      "active": true,
+      "components": [
+        3792,
+        4621
+      ],
+      "classes": [
+        "ChangeTransformOnPortrait"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 93.9000244140625
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 270,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight",
+      "name": "Weight",
+      "active": true,
+      "components": [
+        3797,
+        4625
+      ],
+      "classes": [
+        "ChangeTransformOnPortrait"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 1510.0,
+          "y": 71.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 294,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/Button/Text (TMP) (1)",
+      "name": "Text (TMP) (1)",
+      "active": true,
+      "components": [
+        3806,
+        3272,
+        4370
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": -0.16259999573230743,
+          "y": 79.80509948730469
+        },
+        "m_SizeDelta": {
+          "x": 126.43209838867188,
+          "y": 49.44219970703125
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 296,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON",
+      "name": "ON",
+      "active": true,
+      "components": [
+        3807
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -11.799819946289062,
+          "y": -68.23432159423828
+        },
+        "m_SizeDelta": {
+          "x": 386.28460693359375,
+          "y": 224.26846313476562
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 305,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/CountdownOBJ",
+      "name": "CountdownOBJ",
+      "active": false,
+      "components": [
+        3813
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -56.462196350097656,
+          "y": 28.0
+        },
+        "m_SizeDelta": {
+          "x": 222.9820098876953,
+          "y": 44.49797821044922
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 308,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/MobilePointing",
+      "name": "MobilePointing",
+      "active": true,
+      "components": [
+        3815,
+        4633
+      ],
+      "classes": [
+        "KeepOnMobile"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -69.0,
+          "y": 120.0
+        },
+        "m_SizeDelta": {
+          "x": 252.62088012695312,
+          "y": 252.62086486816406
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 313,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/X2 Button/Image",
+      "name": "Image",
+      "active": true,
+      "components": [
+        3816,
+        3278,
+        4634
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -30.799999237060547,
+          "y": 4.5
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 314,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/ExitTooltip",
+      "name": "ExitTooltip",
+      "active": false,
+      "components": [
+        3817
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -80.30089569091797,
+          "y": -47.781837463378906
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 345,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/GameObject",
+      "name": "GameObject",
+      "active": true,
+      "components": [
+        3833
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 1510.0001220703125,
+          "y": 20.999998092651367
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 356,
+      "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/FightTooltip/Pointing/Image (1)",
+      "name": "Image (1)",
+      "active": true,
+      "components": [
+        3840,
+        3294,
+        4645
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 372,
+      "path": "SingleplayerPlayer/Canvas/KeepTrainingTip",
+      "name": "KeepTrainingTip",
+      "active": false,
+      "components": [
+        3848,
+        4653,
+        3013,
+        4652
+      ],
+      "classes": [
+        "TurnOffIfPhone",
+        "Delete"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 373,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/RecommendedWeightTip/Arrow",
+      "name": "Arrow",
+      "active": true,
+      "components": [
+        3849
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -266.79998779296875,
+          "y": -231.6999969482422
+        },
+        "m_SizeDelta": {
+          "x": 38.30511474609375,
+          "y": 38.30511474609375
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 377,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/Button",
+      "name": "Button",
+      "active": true,
+      "components": [
+        3851,
+        3303,
+        4655,
+        4654
+      ],
+      "classes": [
+        "Image",
+        "Button"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 1.0,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 1.0,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": -21.0,
+          "y": 9.0
+        },
+        "m_SizeDelta": {
+          "x": 160.0,
+          "y": 160.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 378,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain",
+      "name": "DoubleAutoTrain",
+      "active": true,
+      "components": [
+        3852
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -17.799999237060547
+        },
+        "m_SizeDelta": {
+          "x": 180.70394897460938,
+          "y": 180.70394897460938
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 398,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout",
+      "name": "Workout",
+      "active": true,
+      "components": [
+        3863,
+        4660
+      ],
+      "classes": [
+        "ChangeTransformOnPortrait"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 1.0,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 1.0,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -233.0,
+          "y": -39.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 401,
+      "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/FightTooltip/Pointing/Image",
+      "name": "Image",
+      "active": true,
+      "components": [
+        3865,
+        3311,
+        4661
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 402,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button",
+      "name": "Button",
+      "active": true,
+      "components": [
+        3866,
+        3312,
+        4663,
+        4662
+      ],
+      "classes": [
+        "Image",
+        "Button"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 129.99998474121094,
+          "y": -150.0
+        },
+        "m_SizeDelta": {
+          "x": 160.0,
+          "y": 160.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 429,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Text (TMP) (1)",
+      "name": "Text (TMP) (1)",
+      "active": true,
+      "components": [
+        3883,
+        3323,
+        4394
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": -25.899999618530273,
+          "y": -51.900001525878906
+        },
+        "m_SizeDelta": {
+          "x": 200.0,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 449,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Bar/DarkBG",
+      "name": "DarkBG",
+      "active": true,
+      "components": [
+        3893,
+        3330,
+        4684
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -143.16000366210938
+        },
+        "m_SizeDelta": {
+          "x": 100.5999984741211,
+          "y": 99.19999694824219
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 455,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/Pointing",
+      "name": "Pointing",
+      "active": true,
+      "components": [
+        3897,
+        3015,
+        4686
+      ],
+      "classes": [
+        "TurnOffIfPhone"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 168.41392517089844,
+          "y": 168.41390991210938
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 463,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Array/GameObject (1)",
+      "name": "GameObject (1)",
+      "active": true,
+      "components": [
+        3901,
+        2989
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 505,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (1)/Text (TMP) (1)",
+      "name": "Text (TMP) (1)",
+      "active": true,
+      "components": [
+        3921,
+        3346,
+        4402
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": -0.2581000030040741,
+          "y": 79.71790313720703
+        },
+        "m_SizeDelta": {
+          "x": 126.89900207519531,
+          "y": 48.828399658203125
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 509,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Array/GameObject (4)",
+      "name": "GameObject (4)",
+      "active": true,
+      "components": [
+        3924,
+        2991
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 513,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/RecommendedWeightTip",
+      "name": "RecommendedWeightTip",
+      "active": false,
+      "components": [
+        3928
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 340.2001953125,
+          "y": 166.9656982421875
+        },
+        "m_SizeDelta": {
+          "x": 180.7040557861328,
+          "y": 180.7040557861328
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 524,
+      "path": "SingleplayerPlayer/Canvas/MobileControls/Move Tutorial/Arrows",
+      "name": "Arrows",
+      "active": true,
+      "components": [
+        3930,
+        3351,
+        4715
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 160.2100067138672
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 554,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Array/GameObject",
+      "name": "GameObject",
+      "active": true,
+      "components": [
+        3945,
+        2992
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 564,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button/Text (TMP) (1)",
+      "name": "Text (TMP) (1)",
+      "active": true,
+      "components": [
+        3951,
+        3366,
+        4408
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": -0.03799999877810478,
+          "y": 79.4977035522461
+        },
+        "m_SizeDelta": {
+          "x": 124.6978988647461,
+          "y": 51.029598236083984
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 586,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/X2 Button",
+      "name": "X2 Button",
+      "active": true,
+      "components": [
+        3964,
+        3378,
+        4751,
+        4750
+      ],
+      "classes": [
+        "Image",
+        "Button"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "m_AnchorMax": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "m_AnchoredPosition": {
+          "x": -90.35205841064453,
+          "y": -90.91779327392578
+        },
+        "m_SizeDelta": {
+          "x": 160.0,
+          "y": 160.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 601,
+      "path": "SingleplayerPlayer/Canvas/MobileControls/Move Tutorial",
+      "name": "Move Tutorial",
+      "active": true,
+      "components": [
+        3972,
+        3020,
+        4753
+      ],
+      "classes": [
+        "ChangeTransformOnPortrait"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -56.04999923706055
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 608,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Button/Text (TMP) (2)",
+      "name": "Text (TMP) (2)",
+      "active": true,
+      "components": [
+        3975,
+        3387,
+        4419
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 102.19999694824219
+        },
+        "m_SizeDelta": {
+          "x": 164.6846923828125,
+          "y": 55.60129928588867
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 619,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/!",
+      "name": "!",
+      "active": false,
+      "components": [
+        3980,
+        3391,
+        4761
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "m_AnchorMax": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "m_AnchoredPosition": {
+          "x": -37.10968780517578,
+          "y": -71.71770477294922
+        },
+        "m_SizeDelta": {
+          "x": 160.0,
+          "y": 160.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 634,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Bar/BG",
+      "name": "BG",
+      "active": true,
+      "components": [
+        3986,
+        3394,
+        4765
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -143.16000366210938
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 643,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain",
+      "name": "AutoTrain",
+      "active": true,
+      "components": [
+        3991,
+        4770,
+        4771
+      ],
+      "classes": [
+        "ChangeTransformOnPortrait",
+        "TurnOffIfTutorial"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "m_AnchorMax": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "m_AnchoredPosition": {
+          "x": 85.0,
+          "y": 10.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 664,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/MobilePointing/Pointing (1)/Image (1)",
+      "name": "Image (1)",
+      "active": true,
+      "components": [
+        4000,
+        3404,
+        4776
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 671,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/GameObject",
+      "name": "GameObject",
+      "active": true,
+      "components": [
+        4005
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 165.0,
+          "y": -405.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 740,
+      "path": "SingleplayerPlayer/Canvas/KeepTrainingTip/Image",
+      "name": "Image",
+      "active": true,
+      "components": [
+        4041,
+        3432,
+        4806
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 779,
+      "path": "SingleplayerPlayer/Canvas/KeepTrainingTip/Image (1)",
+      "name": "Image (1)",
+      "active": true,
+      "components": [
+        4062,
+        3449,
+        4822
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 787,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Array",
+      "name": "Array",
+      "active": true,
+      "components": [
+        4066,
+        4825
+      ],
+      "classes": [
+        "PlayAudioArray"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 795,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/Pointing/Image (1)",
+      "name": "Image (1)",
+      "active": true,
+      "components": [
+        4072,
+        3456,
+        4830
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 803,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/GameObject (1)",
+      "name": "GameObject (1)",
+      "active": true,
+      "components": [
+        4078
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -182.99998474121094,
+          "y": -39.000022888183594
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 804,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Button",
+      "name": "Button",
+      "active": true,
+      "components": [
+        4079,
+        3461,
+        4835,
+        4834,
+        4836
+      ],
+      "classes": [
+        "Image",
+        "Button",
+        "EventTrigger"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 1.0,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 1.0,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 33.0,
+          "y": -43.0
+        },
+        "m_SizeDelta": {
+          "x": 200.0,
+          "y": 200.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 854,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/MobilePointing/Pointing (1)/Image",
+      "name": "Image",
+      "active": true,
+      "components": [
+        4108,
+        3482,
+        4861
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -63.400001525878906
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 208.4344024658203
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 873,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/GameObject",
+      "name": "GameObject",
+      "active": true,
+      "components": [
+        4120
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -380.0,
+          "y": -351.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 881,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT",
+      "name": "WORKING OUT",
+      "active": false,
+      "components": [
+        4123
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -26.699996948242188
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 910,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (2)",
+      "name": "Button (2)",
+      "active": true,
+      "components": [
+        4138,
+        3506,
+        4894,
+        4893
+      ],
+      "classes": [
+        "Image",
+        "Button"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 71.5999984741211,
+          "y": -104.30000305175781
+        },
+        "m_SizeDelta": {
+          "x": 160.0,
+          "y": 160.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 913,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/GameObject (1)",
+      "name": "GameObject (1)",
+      "active": true,
+      "components": [
+        4140
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 134.99996948242188,
+          "y": 59.999908447265625
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 934,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/GameObject",
+      "name": "GameObject",
+      "active": true,
+      "components": [
+        4151
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -214.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 937,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (2)/Text (TMP) (1)",
+      "name": "Text (TMP) (1)",
+      "active": true,
+      "components": [
+        4154,
+        3515,
+        4464
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 0.23489999771118164,
+          "y": 80.41259765625
+        },
+        "m_SizeDelta": {
+          "x": 125.29060363769531,
+          "y": 47.78710174560547
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 954,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/GameObject",
+      "name": "GameObject",
+      "active": true,
+      "components": [
+        4162
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 268.0,
+          "y": -151.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 961,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Button/Text (TMP) (1)",
+      "name": "Text (TMP) (1)",
+      "active": true,
+      "components": [
+        4166,
+        3524,
+        4469
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 9.626199926060508e-07,
+          "y": 105.5
+        },
+        "m_SizeDelta": {
+          "x": 164.6846923828125,
+          "y": 55.60129928588867
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 969,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/Pointing/Image",
+      "name": "Image",
+      "active": true,
+      "components": [
+        4173,
+        3529,
+        4914
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -63.400001525878906
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 208.4344024658203
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 1009,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/MobilePointing/Pointing (1)",
+      "name": "Pointing (1)",
+      "active": true,
+      "components": [
+        4195,
+        3032
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 168.41392517089844,
+          "y": 168.41390991210938
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 1014,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Text (TMP) (2)",
+      "name": "Text (TMP) (2)",
+      "active": true,
+      "components": [
+        4199,
+        3546,
+        4480,
+        4930
+      ],
+      "classes": [
+        "TextMeshProUGUI",
+        "TurnOffIfPhone"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 1.0,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 1.0,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 32.999977111816406,
+          "y": 9.600000381469727
+        },
+        "m_SizeDelta": {
+          "x": 164.6846923828125,
+          "y": 55.60130310058594
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 1030,
+      "path": "SingleplayerPlayer/Canvas/KeepTrainingTip/Text (TMP) (1)",
+      "name": "Text (TMP) (1)",
+      "active": true,
+      "components": [
+        4208,
+        3554,
+        4484
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 203.0,
+          "y": 50.5
+        },
+        "m_SizeDelta": {
+          "x": 400.1971130371094,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 1035,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/CountdownOBJ/Image",
+      "name": "Image",
+      "active": true,
+      "components": [
+        4211,
+        3557,
+        4936
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 1053,
+      "path": "SingleplayerPlayer/Canvas/KeepTrainingTip/Text (TMP)",
+      "name": "Text (TMP)",
+      "active": true,
+      "components": [
+        4219,
+        3564,
+        4489
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -0.9182999730110168,
+          "y": 9.199999809265137
+        },
+        "m_SizeDelta": {
+          "x": 400.1971130371094,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 1119,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Bar/WorkingOutBar",
+      "name": "WorkingOutBar",
+      "active": true,
+      "components": [
+        4254,
+        3595,
+        4969
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -143.16000366210938
+        },
+        "m_SizeDelta": {
+          "x": 100.5999984741211,
+          "y": 99.19999694824219
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 1124,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Fade",
+      "name": "Fade",
+      "active": true,
+      "components": [
+        4256,
+        3597,
+        4971
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -108.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 1128,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/!/Text (TMP) (1)",
+      "name": "Text (TMP) (1)",
+      "active": true,
+      "components": [
+        4260,
+        3600,
+        4504
+      ],
+      "classes": [
+        "TextMeshProUGUI"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": -0.2337000072002411,
+          "y": 83.5999984741211
+        },
+        "m_SizeDelta": {
+          "x": 61.25579833984375,
+          "y": 49.44219970703125
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 1161,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/RecommendedWeightTip/Arrow/Image",
+      "name": "Image",
+      "active": true,
+      "components": [
+        4277,
+        3614,
+        4985,
+        3035
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 1.52587890625e-05
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 1167,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/GameObject (1)",
+      "name": "GameObject (1)",
+      "active": true,
+      "components": [
+        4281
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 43.900001525878906
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 1201,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/ExitTooltip/Pointing",
+      "name": "Pointing",
+      "active": true,
+      "components": [
+        4301,
+        3038
+      ],
+      "classes": [],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 168.41392517089844,
+          "y": 168.41390991210938
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "id": 1206,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/ExitTooltip/Pointing/Image",
+      "name": "Image",
+      "active": true,
+      "components": [
+        4304,
+        3637,
+        4999
+      ],
+      "classes": [
+        "Image"
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ],
+  "buttons": [
+    {
+      "component_id": 4583,
+      "game_object_id": 159,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (1)",
+      "calls": [
+        {
+          "raw_offset": 452,
+          "target": {
+            "file_id": 0,
+            "path_id": 5006
+          },
+          "target_type": "WorkingOutManager, Assembly-CSharp",
+          "method": "ChangeCurWeight",
+          "mode": 3,
+          "int_argument": -5,
+          "float_argument": 0.0,
+          "string_argument": "",
+          "bool_argument": false,
+          "object_argument": {
+            "file_id": 0,
+            "path_id": 0
+          },
+          "object_argument_type": "UnityEngine.Object, UnityEngine",
+          "call_state": 2
+        }
+      ]
+    },
+    {
+      "component_id": 4654,
+      "game_object_id": 377,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/Button",
+      "calls": [
+        {
+          "raw_offset": 448,
+          "target": {
+            "file_id": 0,
+            "path_id": 5006
+          },
+          "target_type": "WorkingOutManager, Assembly-CSharp",
+          "method": "ExitWorkout",
+          "mode": 1,
+          "int_argument": 0,
+          "float_argument": 0.0,
+          "string_argument": "",
+          "bool_argument": false,
+          "object_argument": {
+            "file_id": 0,
+            "path_id": 0
+          },
+          "object_argument_type": "UnityEngine.Object, UnityEngine",
+          "call_state": 2
+        }
+      ]
+    },
+    {
+      "component_id": 4662,
+      "game_object_id": 402,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button",
+      "calls": [
+        {
+          "raw_offset": 452,
+          "target": {
+            "file_id": 0,
+            "path_id": 5006
+          },
+          "target_type": "WorkingOutManager, Assembly-CSharp",
+          "method": "ChangeCurWeight",
+          "mode": 3,
+          "int_argument": 5,
+          "float_argument": 0.0,
+          "string_argument": "",
+          "bool_argument": false,
+          "object_argument": {
+            "file_id": 0,
+            "path_id": 0
+          },
+          "object_argument_type": "UnityEngine.Object, UnityEngine",
+          "call_state": 2
+        }
+      ]
+    },
+    {
+      "component_id": 4750,
+      "game_object_id": 586,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/X2 Button",
+      "calls": [
+        {
+          "raw_offset": 456,
+          "target": {
+            "file_id": 0,
+            "path_id": 5006
+          },
+          "target_type": "WorkingOutManager, Assembly-CSharp",
+          "method": "TryDoubleAutoTrain",
+          "mode": 1,
+          "int_argument": 0,
+          "float_argument": 0.0,
+          "string_argument": "",
+          "bool_argument": false,
+          "object_argument": {
+            "file_id": 0,
+            "path_id": 0
+          },
+          "object_argument_type": "UnityEngine.Object, UnityEngine",
+          "call_state": 2
+        }
+      ]
+    },
+    {
+      "component_id": 4834,
+      "game_object_id": 804,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Button",
+      "calls": []
+    },
+    {
+      "component_id": 4893,
+      "game_object_id": 910,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (2)",
+      "calls": [
+        {
+          "raw_offset": 460,
+          "target": {
+            "file_id": 0,
+            "path_id": 5006
+          },
+          "target_type": "WorkingOutManager, Assembly-CSharp",
+          "method": "ClickRecommendedButton",
+          "mode": 1,
+          "int_argument": 0,
+          "float_argument": 0.0,
+          "string_argument": "",
+          "bool_argument": false,
+          "object_argument": {
+            "file_id": 0,
+            "path_id": 0
+          },
+          "object_argument_type": "UnityEngine.Object, UnityEngine",
+          "call_state": 2
+        }
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "component_id": 4315,
+      "game_object_id": 1,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/X2 Button/Text (TMP) (1)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "X2"
+        }
+      ]
+    },
+    {
+      "component_id": 4322,
+      "game_object_id": 28,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Weight (1)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "75kg"
+        }
+      ]
+    },
+    {
+      "component_id": 4344,
+      "game_object_id": 139,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Weight",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "75kg"
+        }
+      ]
+    },
+    {
+      "component_id": 4363,
+      "game_object_id": 248,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/CountdownOBJ/Countdown",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "TIME LEFT: 120"
+        }
+      ]
+    },
+    {
+      "component_id": 4370,
+      "game_object_id": 294,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/Button/Text (TMP) (1)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "EXIT"
+        }
+      ]
+    },
+    {
+      "component_id": 4394,
+      "game_object_id": 429,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Text (TMP) (1)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "Recommended:"
+        }
+      ]
+    },
+    {
+      "component_id": 4402,
+      "game_object_id": 505,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (1)/Text (TMP) (1)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "- 5kg"
+        }
+      ]
+    },
+    {
+      "component_id": 4408,
+      "game_object_id": 564,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button/Text (TMP) (1)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "+ 5kg"
+        }
+      ]
+    },
+    {
+      "component_id": 4419,
+      "game_object_id": 608,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Button/Text (TMP) (2)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "WORKOUT FASTER"
+        }
+      ]
+    },
+    {
+      "component_id": 4464,
+      "game_object_id": 937,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (2)/Text (TMP) (1)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "55kg"
+        }
+      ]
+    },
+    {
+      "component_id": 4469,
+      "game_object_id": 961,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Button/Text (TMP) (1)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "WORKOUT FASTER"
+        }
+      ]
+    },
+    {
+      "component_id": 4480,
+      "game_object_id": 1014,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Text (TMP) (2)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "(Press E)"
+        }
+      ]
+    },
+    {
+      "component_id": 4484,
+      "game_object_id": 1030,
+      "path": "SingleplayerPlayer/Canvas/KeepTrainingTip/Text (TMP) (1)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "!"
+        }
+      ]
+    },
+    {
+      "component_id": 4489,
+      "game_object_id": 1053,
+      "path": "SingleplayerPlayer/Canvas/KeepTrainingTip/Text (TMP)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "Keep working out to defeat stronger opponents!"
+        }
+      ]
+    },
+    {
+      "component_id": 4504,
+      "game_object_id": 1128,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/!/Text (TMP) (1)",
+      "strings": [
+        {
+          "offset": 88,
+          "value": "!"
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "component_id": 4527,
+      "game_object_id": 16,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/Fade (1)",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 479,
+          "sprite_name": "Glow"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        0.8461648225784302,
+        0.0,
+        0.7647058963775635
+      ],
+      "raw_hex": "00000000100000000000000001000000010000005f02000000000000000000000000000000000000000000000000803f429e583f00000000c4c3433f0000000000000000000000000000000000000000010000000000000002000000df01000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4547,
+      "game_object_id": 69,
+      "path": "SingleplayerPlayer/Canvas/MobileControls/Move Tutorial/Finger",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 497,
+          "sprite_name": "Finger"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "00000000450000000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000f101000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4561,
+      "game_object_id": 100,
+      "path": "SingleplayerPlayer/Canvas/KeepTrainingTip/Image (2)",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 450,
+          "sprite_name": "Teleport Button"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "00000000640000000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000c201000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4575,
+      "game_object_id": 142,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Fade",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 441,
+          "sprite_name": "FadeCircle"
+        }
+      ],
+      "color_rgba": [
+        0.0,
+        0.0,
+        0.0,
+        0.9450980424880981
+      ],
+      "raw_hex": "000000008e0000000000000001000000010000005f0200000000000000000000000000000000000000000000000000000000000000000000f2f1713f0000000000000000000000000000000000000000010000000000000002000000b901000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4584,
+      "game_object_id": 159,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (1)",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 508,
+          "sprite_name": "Join Room BTN 2"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "000000009f0000000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000fc01000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4597,
+      "game_object_id": 187,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/ExitTooltip/Pointing/Image (1)",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 497,
+          "sprite_name": "Finger"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "00000000bb0000000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000f101000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4601,
+      "game_object_id": 195,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/RecommendedWeightTip/Fade (1)",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 479,
+          "sprite_name": "Glow"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        0.8461648225784302,
+        0.0,
+        0.7647058963775635
+      ],
+      "raw_hex": "00000000c30000000000000001000000010000005f02000000000000000000000000000000000000000000000000803f429e583f00000000c4c3433f0000000000000000000000000000000000000000010000000000000002000000df01000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4634,
+      "game_object_id": 313,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/X2 Button/Image",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 511,
+          "sprite_name": "AdIcon"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "00000000390100000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0100000000000000000000000000000000000000010000000000000002000000ff01000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4645,
+      "game_object_id": 356,
+      "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/FightTooltip/Pointing/Image (1)",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 497,
+          "sprite_name": "Finger"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "00000000640100000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000f101000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4655,
+      "game_object_id": 377,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/Button",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 518,
+          "sprite_name": "Join Room BTN 3"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "00000000790100000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f00000000000000000000000000000000000000000100000000000000020000000602000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4661,
+      "game_object_id": 401,
+      "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/FightTooltip/Pointing/Image",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 441,
+          "sprite_name": "FadeCircle"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        0.7198542952537537,
+        0.0,
+        1.0
+      ],
+      "raw_hex": "00000000910100000000000001000000010000005f02000000000000000000000000000000000000000000000000803f5f48383f000000000000803f0000000000000000000000000000000000000000010000000000000002000000b901000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4663,
+      "game_object_id": 402,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 508,
+          "sprite_name": "Join Room BTN 2"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "00000000920100000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000fc01000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4684,
+      "game_object_id": 449,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Bar/DarkBG",
+      "sprite_candidates": [],
+      "color_rgba": [
+        0.7647059559822083,
+        0.545098066329956,
+        0.19215688109397888,
+        1.0
+      ],
+      "raw_hex": "00000000c10100000000000001000000010000005f0200000000000000000000000000000000000000000000c5c3433f8c8b0b3fc6c4443e0000803f00000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4715,
+      "game_object_id": 524,
+      "path": "SingleplayerPlayer/Canvas/MobileControls/Move Tutorial/Arrows",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 413,
+          "sprite_name": "arrows"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "000000000c0200000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f00000000000000000000000000000000000000000100000000000000020000009d01000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4751,
+      "game_object_id": 586,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/X2 Button",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 468,
+          "sprite_name": "Join Room BTN"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "000000004a0200000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000d401000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4761,
+      "game_object_id": 619,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/!",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 435,
+          "sprite_name": "XButton"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "000000006b0200000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000b301000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4765,
+      "game_object_id": 634,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Bar/BG",
+      "sprite_candidates": [],
+      "color_rgba": [
+        0.32549020648002625,
+        0.20784315466880798,
+        0.08627451211214066,
+        1.0
+      ],
+      "raw_hex": "000000007a0200000000000001000000010000005f0200000000000000000000000000000000000000000000a7a6a63ed6d4543eb1b0b03d0000803f00000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4776,
+      "game_object_id": 664,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/MobilePointing/Pointing (1)/Image (1)",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 497,
+          "sprite_name": "Finger"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "00000000980200000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000f101000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4806,
+      "game_object_id": 740,
+      "path": "SingleplayerPlayer/Canvas/KeepTrainingTip/Image",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 450,
+          "sprite_name": "Teleport Button"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "00000000e40200000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000c201000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4822,
+      "game_object_id": 779,
+      "path": "SingleplayerPlayer/Canvas/KeepTrainingTip/Image (1)",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 450,
+          "sprite_name": "Teleport Button"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "000000000b0300000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000c201000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4830,
+      "game_object_id": 795,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/Pointing/Image (1)",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 497,
+          "sprite_name": "Finger"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "000000001b0300000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000f101000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4835,
+      "game_object_id": 804,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Button",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 476,
+          "sprite_name": "Join Room BTN 1"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "00000000240300000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000dc01000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4861,
+      "game_object_id": 854,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/MobilePointing/Pointing (1)/Image",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 441,
+          "sprite_name": "FadeCircle"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        0.7198542952537537,
+        0.0,
+        1.0
+      ],
+      "raw_hex": "00000000560300000000000001000000010000005f02000000000000000000000000000000000000000000000000803f5f48383f000000000000803f0000000000000000000000000000000000000000010000000000000002000000b901000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4894,
+      "game_object_id": 910,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (2)",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 508,
+          "sprite_name": "Join Room BTN 2"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "raw_hex": "000000008e0300000000000001000000010000005f02000000000000000000000000000000000000000000000000803f0000803f0000803f0000803f0000000000000000000000000000000000000000010000000000000002000000fc01000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4914,
+      "game_object_id": 969,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/Pointing/Image",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 441,
+          "sprite_name": "FadeCircle"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        0.7198542952537537,
+        0.0,
+        1.0
+      ],
+      "raw_hex": "00000000c90300000000000001000000010000005f02000000000000000000000000000000000000000000000000803f5f48383f000000000000803f0000000000000000000000000000000000000000010000000000000002000000b901000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4936,
+      "game_object_id": 1035,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/CountdownOBJ/Image",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 441,
+          "sprite_name": "FadeCircle"
+        }
+      ],
+      "color_rgba": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "raw_hex": "000000000b0400000000000001000000010000005f02000000000000000000000000000000000000000000000000000000000000000000000000803f0000000000000000000000000000000000000000010000000000000002000000b901000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4969,
+      "game_object_id": 1119,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Bar/WorkingOutBar",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 512,
+          "sprite_name": "Square"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        0.8297314643859863,
+        0.3647059202194214,
+        1.0
+      ],
+      "raw_hex": "000000005f0400000000000001000000010000005f02000000000000000000000000000000000000000000000000803f4869543fbcbaba3e0000803f0000000000000000000000000000000000000000010000000000000002000000000200000000000003000000000000000100000000000000000000000100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4971,
+      "game_object_id": 1124,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Fade",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 441,
+          "sprite_name": "FadeCircle"
+        }
+      ],
+      "color_rgba": [
+        0.0,
+        0.0,
+        0.0,
+        0.9450980424880981
+      ],
+      "raw_hex": "00000000640400000000000001000000010000005f0200000000000000000000000000000000000000000000000000000000000000000000f2f1713f0000000000000000000000000000000000000000010000000000000002000000b901000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4985,
+      "game_object_id": 1161,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/RecommendedWeightTip/Arrow/Image",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 405,
+          "sprite_name": "arrowDown"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        0.7341389060020447,
+        0.0,
+        1.0
+      ],
+      "raw_hex": "00000000890400000000000001000000010000005f02000000000000000000000000000000000000000000000000803f87f03b3f000000000000803f01000000000000000000000000000000000000000100000000000000020000009501000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    },
+    {
+      "component_id": 4999,
+      "game_object_id": 1206,
+      "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/ExitTooltip/Pointing/Image",
+      "sprite_candidates": [
+        {
+          "offset": 88,
+          "sprite_id": 441,
+          "sprite_name": "FadeCircle"
+        }
+      ],
+      "color_rgba": [
+        1.0,
+        0.7198542952537537,
+        0.0,
+        1.0
+      ],
+      "raw_hex": "00000000b60400000000000001000000010000005f02000000000000000000000000000000000000000000000000803f5f48383f000000000000803f0000000000000000000000000000000000000000010000000000000002000000b901000000000000000000000000000001000000040000000000803f0100000000000000000000000000803f"
+    }
+  ],
+  "observed_weight": {
+    "recommended_formula": "max(5, RoundToInt(min(300,RoundToInt((strength * float32.fromhex(0x1.42381ep-6) + 5f)/5f)*5f)/5f)*5); RoundToInt uses ties-to-even. strength key follows Chest/Arms/Back/Legs.",
+    "recommend_coefficient_exact_f32": 0.019666699692606926,
+    "recommend_sources": [
+      "WorkingOutManager-CalculateRecommendedWeight:136-399"
+    ],
+    "enter_workout": "Resets progress; sets autoTraining=false; workingOut=true; curWeight=CalculateRecommendedWeight(); refreshes recommended and both weight labels.",
+    "change_weight": "ChangeCurWeight(change) sets changedWeightSinceEnablingAutoTrain=true; ResetWorkoutBar(); curWeight=max(5,curWeight+change); UpdateWeightText(). No maximum weight clamp here.",
+    "recommended_click": "ResetWorkoutBar(); curWeight=CalculateRecommendedWeight(); UpdateWeightText(); does not set changedWeightSinceEnablingAutoTrain.",
+    "display": "weightText and _weightText both show decimal int immediately followed by kg. Recommended button shows recommended int followed by kg.",
+    "tip": "recommendedWeightTip GO513 active iff curWeight < recommendedWeight, in UpdateWeightText and UpdateRecommendedText.",
+    "persistence": "curWeight is not stored to PlayerPrefs in any extracted WorkingOutManager method; entering each workout sets it from recommendation.",
+    "plate_fields": "plates[16] serialized all zero; backPlates,legPlates,armPlates,chestPlates each length16, only first two refs non-null; plateMaterials length9. Constructor allocates plates[16]. No accesses to these fields found in all WorkingOutManager method WAT bodies other than constructor storing plates. No demonstrated plate rebuild on ChangeCurWeight/UpdateWeightText.",
+    "weight_effect_boundary": "Full WorkingOutManager.Update does not load this.curWeight. curWeight does not enter speed, completion threshold or strength payout in supplied original. Do not invent weight/strength difficulty or dynamic plate formula."
+  },
+  "observed_workout": {
+    "speed": "Every working Update forces autoTraining=true. E keydown or pending holdingBTN sets speed=3.5 desktop (5 phone), consumes holdingBTN=false, flashes bar to yellow RGBA(1,1,0,1), plays next workoutArray audio with random pitch. Then speed=Lerp(speed,doubleAutoTrain?1.3:0.5,deltaTime*(phone?16:25)). workoutProgress=max(0,workoutProgress+speed*deltaTime). Animator currentType+Workout=true, WorkoutSpeed=speed. Image fill=workoutProgress; completion when >=0.99.",
+    "button": "WorkoutButton(true) sets pending holdingBTN; false does nothing. PointerDown/Up supplied through EventTrigger, not Button.onClick. Therefore one pulse per press; holding does not generate continual pulses.",
+    "bar_color": "Every working Update lerps bar color to RGBA(1,.75,.2,1) with factor deltaTime*7; activation pulse flashes RGBA(1,1,0,1).",
+    "history": "Records (workoutSpeed,currentTime) every working frame; predicate func50053 removes entries older than 0.5 second; every 0.5 sec evaluates average speed.",
+    "face_sweat": [
+      {
+        "average_speed": "<0.6 or history empty",
+        "face": "normalFace sharedassets0:43",
+        "sweat_rate": 0
+      },
+      {
+        "average_speed": "[0.6,1)",
+        "face": "angryFace sharedassets0:45",
+        "sweat_rate": 20
+      },
+      {
+        "average_speed": "[1,1.5)",
+        "face": "strugglingFace sharedassets0:46",
+        "sweat_rate": 50
+      },
+      {
+        "average_speed": "[1.5,2.3)",
+        "face": "strugglingFace sharedassets0:46",
+        "sweat_rate": 90
+      },
+      {
+        "average_speed": ">=2.3",
+        "face": "unchanged by this sample",
+        "sweat_rate": "unchanged by this sample"
+      }
+    ],
+    "muscle_colour": "UpdateMuscleColour(image.fillAmount): t=Clamp01(abs(Clamp01(value)-.5)*2); color=Color.Lerp(redColor,skinColor,t); applies only current muscle if corresponding MuscleManager multiplier<1. Therefore skin at progress0/1, red at progress.5. ResetWorkoutBar resets all four muscle material colors to skinColor.",
+    "payout": "At completion base per PrestigeLVL1..10=[11,13,15,20,24,28,33,38,43,48]; multiply by 1 + current muscle Modifier / 100f; truncate float to int. Current weight absent.",
+    "completion": "CameraShake intensity=.08f duration=.14f; SpawnParticle(strengthGained); currentType+Workout=false; PlayerPrefs currentType+Strength += gain; play workoutParticles[particleIndex], next index=(index+1<3?index+1:0), despite serialized length4; LoadStats; ResetWorkoutBar; UpdateRecommendedText.",
+    "auto_weight": "After completion autoTraining && !changedWeightSinceEnablingAutoTrain updates to new recommendation. Otherwise update if curWeight<recommended && autoTraining or OnPhone==1. Actual Update sets autoTraining=true unconditionally while working, which must be preserved when matching this artifact.",
+    "keyboard_split": "Configured Keybind4 (original initialized Space in separate settings evidence) and Escape trigger ExitWorkout in Update lines155-180. Literal e via InputUnsafeUtility.GetKeyDownString triggers faster-workout pulse later. e is not GetString fallback.",
+    "speed_lifecycle": "Ctor func50054 sets workoutSpeed=.3f (float bits1050253722). ResetWorkoutBar/EnterWorkout/ExitWorkout/ChangeCurWeight/ClickRecommendedButton do not write private speed offset356 (0x164). Reset progress and AnimatorFloat0 preserve speed/history. Pulse first sets3.5/5 then same frame still Lerp to doubleAutoTrain?1.3:.5. Pointer held does not continuously raise target; each true sets one pending pulse consumed once. Update samples previous speed to history before current-frame pulse/Lerp."
+  },
+  "observed_tutorial": {
+    "line_state0": "CompletedTutorial default0: line position1=playerPos, position0=workoutStation; when ArmsStrength>=51 write CompletedTutorial=1 (line switches target on next Update).",
+    "line_state1": "CompletedTutorial==1: line position1=playerPos, position0=fightZone. Other persisted values produce no line position update.",
+    "start_post_first_opponent": "Tutorial.Start if CurOpponent>0: if KeepTrainingHint!=1 activate keepTrainingHint GO372 and write KeepTrainingHint=1; deactivate tutorialLine GO199; disable Tutorial component. Occurs at Start, not a demonstrated live CurOpponent watcher.",
+    "arms_workout_hints": "CalculateRecommendedWeight when current type Arms and CurOpponent==0: disables tutorialLine GO199. ArmsStrength<=49 activates workoutTooltip GO3; ArmsStrength>=50 deactivates workoutTooltip then Invoke(ExitTooltip,.2f). ExitTooltip activates exitTooltip GO314. This side effect can be invoked repeatedly by recommendation and label refreshes.",
+    "workout_exit": "ExitWorkout activates interactBTNHolder GO417; if CurOpponent==0 activates tutorialLine GO199. Deactivates workoutUI parent GO881; it does not directly reset the child workoutTooltip/exitTooltip activeSelf flags.",
+    "fight_menu_hint": "FightMenu.OnEnable activates fightTooltip when CurOpponent==0. OnEnable also deactivates object at FightMenu+0x80; exact ref resolved separately.",
+    "gated_objects": "TurnOffIfTutorial.Start disables own GO when CurOpponent<=0. Component present on Daily Rewards Button GO510, AutoTrain GO643, TrainerButton GO855. It uses first opponent completion, not CompletedTutorial.",
+    "post_fight_hint": "KeepTrainingTip GO372 serialized inactive; text: Keep working out to defeat stronger opponents! Delete4652 serialized turnOffAfterTime=true,destroy=false,time=4.5,randomTime=false. Delete.OnEnable CancelInvoke(TurnOff), then Invoke(TurnOff,4.5); TurnOff sets GO active=false. Also contains TurnOffIfPhone4653. Animator3013 uses sharedassets0 controller383 KeepTrainingTip.",
+    "threshold_difference": "Workout tooltip ends at50 but tutorial line target switches at51; preserve both thresholds.",
+    "no_invented_mask": "Tutorial has no screen mask field. WorkoutTooltip and ExitTooltip are pointing image children. Fullscreen dim overlays must be traced to real serialized image/animation if used."
+  },
+  "integration_suggestions": {
+    "ownership": "WeightStage owns scene-referenced weight labels/buttons, hint GOs, pulse/progress/speed; parent flow owns enter/exit and persistent stats. Native source behavior above supersedes any suggestions.",
+    "hooks": [
+      "EnterWorkout(muscle,strength,curOpponent): reset, compute recommendation, set labels; tutorial line off for first Arms workout.",
+      "ChangeWeight(delta): reset repetition before applying ±5; minimum5, no upper cap.",
+      "ApplyRecommendedWeight(): reset repetition and assign recommendation.",
+      "PulseWorkout(): one pending pulse consumed next tick.",
+      "TickWorkout(deltaTime,onPhone,doubleAutoTrain): speed/history/face/sweat/color/progress; emit completion at.99.",
+      "CompleteWorkout(): calculate gain with actual tier/base table; persist stat; reset; refresh recommended; auto-update selected weight under source condition.",
+      "TickTutorial(): use persisted CompletedTutorial and ArmsStrength>=51; line target original arms station or fightZone.",
+      "StartTutorial(): disable line/hide 3 native feature controls when CurOpponent<=0; one-time KeepTrainingHint when CurOpponent>0."
+    ],
+    "camera": "ChestPressMachine.GetCameraPosition(level)=Vector3.Lerp(newCameraPos,newCameraPosLvl10,(Clamp(level,1,10)-1)/9f); these serialized station values and original stage transforms should be owned by scene stage, not UI runtime construction."
+  },
+  "workout_button_event_trigger": {
+    "componentId": 4836,
+    "gameObjectId": 804,
+    "events": [
+      {
+        "eventId": 2,
+        "eventName": "PointerDown",
+        "calls": [
+          {
+            "target": {
+              "file_id": 0,
+              "path_id": 5006
+            },
+            "targetType": "WorkingOutManager, Assembly-CSharp",
+            "method": "WorkoutButton",
+            "mode": 6,
+            "int": 0,
+            "float": 0.0,
+            "string": "",
+            "bool": true,
+            "callState": 2
+          }
+        ]
+      },
+      {
+        "eventId": 3,
+        "eventName": "PointerUp",
+        "calls": [
+          {
+            "target": {
+              "file_id": 0,
+              "path_id": 5006
+            },
+            "targetType": "WorkingOutManager, Assembly-CSharp",
+            "method": "WorkoutButton",
+            "mode": 6,
+            "int": 0,
+            "float": 0.0,
+            "string": "",
+            "bool": false,
+            "callState": 2
+          }
+        ]
+      }
+    ],
+    "decodeComplete": true
+  },
+  "keep_training_delete": {
+    "componentId": 4652,
+    "gameObjectId": 372,
+    "rawHex": "00000000740100000000000001000000010000004f000000000000000000000001000000000000000000904000000000",
+    "turnOffAfterTime": true,
+    "destroy": false,
+    "time": 4.5,
+    "randomTime": false
+  },
+  "unresolved": [
+    "No live original execution performed; correctness claims are static supplied-artifact facts.",
+    "Dynamic plate generation is not present in extracted WorkingOutManager bodies; no formula to implement.",
+    "Movement tutorial dismissal and exact tutorial sprite animation curves are outside this focused WorkingOutManager/Tutorial trace.",
+    "Given AssetRipper export path does not exist in this subagent filesystem; original UnityFS is available and parsed directly."
+  ]
+}

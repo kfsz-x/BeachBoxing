@@ -1,0 +1,220 @@
+{
+  "textures": [
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/NativeTrainingFeedback/Dependencies/Texture2D/Face 2.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 152,
+      "nativeName": "Face 2",
+      "mipsStripped": 2,
+      "pngSha256": "5cede2e330f799e6be08e28d272ddd42a52a49f3a15c0321d175b0f730e4d29d"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/NativeTrainingFeedback/Dependencies/Texture2D/Face 3.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 202,
+      "nativeName": "Face 3",
+      "mipsStripped": 2,
+      "pngSha256": "e32009bd165ffbb58a22ff490dcdb037b178af7d5ad747a4ba8714ee161b20ac"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/Resources/BeachOriginal/Look/Sand.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 105,
+      "nativeName": "DesertTexture",
+      "mipsStripped": 2,
+      "pngSha256": "6f11f7105a96ac6e4059b956d3e3ef3eff2f2e622c5285c7f6549faf8249d37f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/Texture2D/BoxingRing.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 163,
+      "nativeName": "BoxingRing",
+      "mipsStripped": 2,
+      "pngSha256": "ac0febf2c1e0dfb9ed9a62cd015b58391132fdb441671c8ce7f883de172f92ff"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/Texture2D/Face 1.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 168,
+      "nativeName": "Face 1",
+      "mipsStripped": 2,
+      "pngSha256": "f892ebcecac5417aee64de4fe315db8a63b3f23d4e8aac8459774974ffc8dc5d"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/Texture2D/Face 4.png",
+      "nativeAsset": "sharedassets1.assets",
+      "nativePathId": 67,
+      "nativeName": "Face 4",
+      "mipsStripped": 2,
+      "pngSha256": "004fad89cdcc10d43bf31a5af27dfa8faf239b64325fde17e901a82698825737"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/Texture2D/Torso.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 83,
+      "nativeName": "Torso",
+      "mipsStripped": 2,
+      "pngSha256": "5912878f773d3eaf52e6ba7fa8fb4f9c3bae3245c6369da9114d5e6be241c6f3"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/Texture2D/Trunks.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 137,
+      "nativeName": "Trunks",
+      "mipsStripped": 2,
+      "pngSha256": "d7ae92560df22d6180c40150a0c6ddfc55f3dd5e4245efb117d55603637fbc62"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/Texture2D/Wood.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 99,
+      "nativeName": "Wood",
+      "mipsStripped": 2,
+      "pngSha256": "fa8ed64b79de746322d467dc47cf12bb352aa36a8fee529f6bb2aeb0c3a6f98a"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/Texture2D/black-and-white-checkered-seamless-repeating-pattern-background-vector-illustration.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 82,
+      "nativeName": "black-and-white-checkered-seamless-repeating-pattern-background-vector-illustration",
+      "mipsStripped": 2,
+      "pngSha256": "7cbdb1ad929a90fe51182b6091e88bf97e8564eb72dc401ac625ea2e7e21d224"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/01.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 145,
+      "nativeName": "01",
+      "mipsStripped": 2,
+      "pngSha256": "d1233faf01efcf7f5e8646b87bf38ffeb667372c5d9769930e0b7f5a4c570b83"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/02.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 146,
+      "nativeName": "02",
+      "mipsStripped": 2,
+      "pngSha256": "04bdfcf5dfa7dfe7d404ee47bbf2a4d461965fdb8b678ddc4decdac657d10f00"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/03.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 86,
+      "nativeName": "03",
+      "mipsStripped": 2,
+      "pngSha256": "41c4c9c407b130200c8e9bf19123754b92db688f8efca24e7454784b219d3631"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/04.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 108,
+      "nativeName": "04",
+      "mipsStripped": 2,
+      "pngSha256": "1ab07d4bbcf28975d01b129ede98cdd364b7b667c9c42b474b977f1816d260b0"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/08.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 95,
+      "nativeName": "08",
+      "mipsStripped": 2,
+      "pngSha256": "0dabdd7439dc54cd4df32089191646f5e5b4c037711ef9b3aec3b93741208f32"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 1.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 176,
+      "nativeName": "Clothes 1",
+      "mipsStripped": 2,
+      "pngSha256": "921b632e2b235840b71597110255a1f603b9495592c4d34665a9b9b020538329"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 3.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 117,
+      "nativeName": "Clothes 3",
+      "mipsStripped": 2,
+      "pngSha256": "6d81ee83e4ba49e519b42f51577ab5bf0348e836462e25ce60048bbaeeb20031"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 4.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 174,
+      "nativeName": "Clothes 4",
+      "mipsStripped": 2,
+      "pngSha256": "0b527ef5fdf2eb7ed2b69fd49bfd3f65ad1464f9c84fc4d7cd6f2408d3145217"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 5.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 218,
+      "nativeName": "Clothes 5",
+      "mipsStripped": 2,
+      "pngSha256": "a70769d75943d1a90e8397bb0d1b28fe7dfe1ba54d86f900a5c6ec484ac44d29"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 6.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 85,
+      "nativeName": "Clothes 6",
+      "mipsStripped": 2,
+      "pngSha256": "a349d039ba1f1418acc8f724f412fd7d94d920802bb49eb7b7bf019ecf55537f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Face 10.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 183,
+      "nativeName": "Face 10",
+      "mipsStripped": 2,
+      "pngSha256": "c51d0d8e583b3e042433d279453eee625cf53a0576b679be10d0664465e5fd90"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Face 9.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 217,
+      "nativeName": "Face 9",
+      "mipsStripped": 2,
+      "pngSha256": "e000919ab7aec90112a34975dd06bc80cf50aa7a86ed7b1ec87a46f84c45ff04"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Fishnets.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 187,
+      "nativeName": "Fishnets",
+      "mipsStripped": 2,
+      "pngSha256": "3f570ac6ca2d1a9035bed38e4233015f79a57e3c630d95ead4e555a27955c22f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Trainer 1.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 221,
+      "nativeName": "Trainer 1",
+      "mipsStripped": 2,
+      "pngSha256": "2774bece4a7407176f35cabdd70972c7b814963166bc03d92d791b236a48104f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Trainer 2.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 81,
+      "nativeName": "Trainer 2",
+      "mipsStripped": 2,
+      "pngSha256": "e92128802674f7040189fc2e0afdb517bbbe4303b6f0adddad2eb2c38ae1e5ff"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Trainer 3.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 235,
+      "nativeName": "Trainer 3",
+      "mipsStripped": 2,
+      "pngSha256": "7cf6c3c3cd2581b5b01e5965e9b155e0965028cedcf646a2398663a9972a1b02"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Trainer 4.png",
+      "nativeAsset": "sharedassets0.assets",
+      "nativePathId": 192,
+      "nativeName": "Trainer 4",
+      "mipsStripped": 2,
+      "pngSha256": "de3fbc4823de315cf846bea83ed25e1f8207cd9bef21f5777d99277fe1903d75"
+    }
+  ]
+}

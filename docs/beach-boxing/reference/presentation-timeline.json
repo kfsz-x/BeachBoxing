@@ -1,0 +1,1192 @@
+{
+  "opening": {
+    "name": "Fight",
+    "source": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\BeachBoxing-reference\\ripped\\ExportedProject\\Assets\\AnimationClip\\Fight.anim",
+    "sha256": "1408136be003f1e5066ee8c6bd7d91dac316d2bc7b573e8c6e2bc96188772e72",
+    "duration": 4.5,
+    "scales": [
+      {
+        "path": "FIGHT",
+        "keys": [
+          {
+            "time": 0,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 0.5,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 3.5,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 3.5833333,
+            "x": 1.1,
+            "y": 1.1,
+            "z": 1,
+            "inX": "4.323535e-06",
+            "inY": "4.323535e-06",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 3.6666667,
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "inX": "-2.543898e-07",
+            "inY": "-2.543898e-07",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 4.3333335,
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 4.5,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "1.2714651e-06",
+            "inY": "1.2714651e-06",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          }
+        ]
+      },
+      {
+        "path": "1",
+        "keys": [
+          {
+            "time": 0,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 0.5,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 2.5,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 2.5833333,
+            "x": 1.1,
+            "y": 1.1,
+            "z": 1,
+            "inX": "4.323535e-06",
+            "inY": "4.323535e-06",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 2.6666667,
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "inX": "-2.543898e-07",
+            "inY": "-2.543898e-07",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 3.25,
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 3.4166667,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "1.9073253e-06",
+            "inY": "1.9073253e-06",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          }
+        ]
+      },
+      {
+        "path": "2",
+        "keys": [
+          {
+            "time": 0,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 0.5,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 1.5,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 1.5833334,
+            "x": 1.1,
+            "y": 1.1,
+            "z": 1,
+            "inX": "2.924655e-06",
+            "inY": "2.924655e-06",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 1.6666666,
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "inX": "1.2713511e-07",
+            "inY": "1.2713511e-07",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 2.25,
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 2.4166667,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "1.9073253e-06",
+            "inY": "1.9073253e-06",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          }
+        ]
+      },
+      {
+        "path": "3",
+        "keys": [
+          {
+            "time": 0,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 0.5,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 0.5833333,
+            "x": 1.1,
+            "y": 1.1,
+            "z": 1,
+            "inX": "3.6239767e-06",
+            "inY": "3.6239767e-06",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 0.6666667,
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "inX": "2.5430938e-07",
+            "inY": "2.5430938e-07",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 1.25,
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 1.4166666,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "-9.536808e-07",
+            "inY": "-9.536808e-07",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          }
+        ]
+      }
+    ],
+    "floats": [],
+    "events": [
+      {
+        "time": 0.11666667,
+        "functionName": "PlayAudio1",
+        "data": null,
+        "objectReferenceParameter": {
+          "fileID": 0
+        },
+        "floatParameter": 0,
+        "intParameter": 0,
+        "messageOptions": 0
+      }
+    ]
+  },
+  "result": {
+    "name": "VictoryScreen",
+    "source": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\BeachBoxing-reference\\ripped\\ExportedProject\\Assets\\AnimationClip\\VictoryScreen.anim",
+    "sha256": "8d1f2c8d7ef018e5a42c57c1fb1a014028cbfa7402b895c1a7aade6834ebd00c",
+    "duration": 3.65,
+    "scales": [
+      {
+        "path": "",
+        "keys": [
+          {
+            "time": 0,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 1.3333334,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 1.55,
+            "x": 1.1,
+            "y": 1.1,
+            "z": 1,
+            "inX": "2.537653e-06",
+            "inY": "2.537653e-06",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 1.65,
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "inX": "-9.5368e-08",
+            "inY": "-9.5368e-08",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 3.65,
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          }
+        ]
+      },
+      {
+        "path": "MENU/Title",
+        "keys": [
+          {
+            "time": 0,
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 1.6666666,
+            "x": 7.0642535e-08,
+            "y": 7.0642535e-08,
+            "z": 1,
+            "inX": "1.1285145e-07",
+            "inY": "1.1285145e-07",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 1.8,
+            "x": 0,
+            "y": 0,
+            "z": 1,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 2.0166667,
+            "x": 1.1,
+            "y": 1.1,
+            "z": 1,
+            "inX": "1.1510317e-06",
+            "inY": "1.1510317e-06",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 2.1166666,
+            "x": 1,
+            "y": 1,
+            "z": 1,
+            "inX": "7.6275974e-08",
+            "inY": "7.6275974e-08",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          }
+        ]
+      },
+      {
+        "path": "MENU/MiddleBit",
+        "keys": [
+          {
+            "time": 0,
+            "x": 1.0796,
+            "y": 1.0796,
+            "z": 1.0796,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 1.6,
+            "x": -1.2111664e-07,
+            "y": -1.2111664e-07,
+            "z": 1.0796,
+            "inX": "-9.226054e-08",
+            "inY": "-9.226054e-08",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 2.2166667,
+            "x": 0,
+            "y": 0,
+            "z": 1.0796,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          },
+          {
+            "time": 2.4333334,
+            "x": 1.1777701,
+            "y": 1.1777701,
+            "z": 1.1559278,
+            "inX": "-1.3138939e-06",
+            "inY": "-1.3138939e-06",
+            "inZ": "-1.1382113e-07",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          },
+          {
+            "time": 2.6166666,
+            "x": 1.0619,
+            "y": 1.0619,
+            "z": 1.1464273,
+            "inX": "2.3003491e-07",
+            "inY": "2.3003491e-07",
+            "inZ": "1.6004414e-08",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          }
+        ]
+      },
+      {
+        "path": "MENU/AcceptBTN",
+        "keys": [
+          {
+            "time": 0,
+            "x": 2.7264614,
+            "y": 2.726461,
+            "z": 1.342601,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          },
+          {
+            "time": 1.65,
+            "x": -5.816668e-07,
+            "y": 3.532767e-07,
+            "z": 1.3426006,
+            "inX": "-7.825191e-07",
+            "inY": "6.0418296e-07",
+            "inZ": "5.1552516e-14",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 2.7166667,
+            "x": 0,
+            "y": 0,
+            "z": 1.3426006,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          },
+          {
+            "time": 2.9333334,
+            "x": 2.9674802,
+            "y": 2.9674807,
+            "z": 1.4612864,
+            "inX": "-4.122273e-06",
+            "inY": "5.062258e-07",
+            "inZ": "-2.1360115e-07",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          },
+          {
+            "time": 3.05,
+            "x": 2.726461,
+            "y": 2.7264614,
+            "z": 1.3426006,
+            "inX": "6.4025335e-07",
+            "inY": "6.4025335e-07",
+            "inZ": "-1.2448037e-07",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          }
+        ]
+      },
+      {
+        "path": "MENU/HomeButton",
+        "keys": [
+          {
+            "time": 0,
+            "x": 3.304744,
+            "y": 3.304743,
+            "z": 1.627367,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "0",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "-Infinity"
+          },
+          {
+            "time": 0.35,
+            "x": -6.980896e-07,
+            "y": -8.1062313e-07,
+            "z": 1.627367,
+            "inX": "-5.50428e-06",
+            "inY": "-6.3053662e-06",
+            "inZ": "0",
+            "outX": "-Infinity",
+            "outY": "-Infinity",
+            "outZ": "0"
+          },
+          {
+            "time": 2.7166667,
+            "x": 0,
+            "y": 0,
+            "z": 1.6273667,
+            "inX": "0",
+            "inY": "0",
+            "inZ": "-7.7186426e-14",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          },
+          {
+            "time": 2.9333334,
+            "x": 4.2028565,
+            "y": 4.2028556,
+            "z": 2.0696273,
+            "inX": "-7.819167e-06",
+            "inY": "1.1540931e-07",
+            "inZ": "-3.0916857e-07",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          },
+          {
+            "time": 3.05,
+            "x": 3.6259654,
+            "y": 3.6259644,
+            "z": 1.7855468,
+            "inX": "-1.2354271e-06",
+            "inY": "-1.2354271e-06",
+            "inZ": "8.4250973e-07",
+            "outX": "0",
+            "outY": "0",
+            "outZ": "0"
+          }
+        ]
+      }
+    ],
+    "floats": [],
+    "events": [
+      {
+        "time": 1.3166667,
+        "functionName": "PlayAudio1",
+        "data": null,
+        "objectReferenceParameter": {
+          "fileID": 0
+        },
+        "floatParameter": 0,
+        "intParameter": 0,
+        "messageOptions": 0
+      }
+    ]
+  },
+  "fadeOut": {
+    "name": "fffff",
+    "source": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\BeachBoxing-reference\\ripped\\ExportedProject\\Assets\\AnimationClip\\fffff.anim",
+    "sha256": "34f92afe2ccad9719e6f0ffa84719711352b28753ef494f08f8e2bf7b9508fd5",
+    "duration": 0.93333334,
+    "scales": [],
+    "floats": [
+      {
+        "path": "",
+        "attribute": "script_0x1222D899_SSStRRJ",
+        "keys": [
+          {
+            "time": 0,
+            "value": 0,
+            "inTangent": "0",
+            "outTangent": "0"
+          },
+          {
+            "time": 0.16666667,
+            "value": 1,
+            "inTangent": "-1.0728836e-06",
+            "outTangent": "-Infinity"
+          },
+          {
+            "time": 0.93333334,
+            "value": 1,
+            "inTangent": "0",
+            "outTangent": "0"
+          }
+        ]
+      }
+    ],
+    "events": []
+  },
+  "fadeIn": {
+    "name": "FadeIn_",
+    "source": "C:\\Users\\Administrator\\AppData\\Local\\Temp\\BeachBoxing-reference\\ripped\\ExportedProject\\Assets\\AnimationClip\\FadeIn_.anim",
+    "sha256": "5ecfbabac1eb816bd85d686c269d0b20014e152e123d68d195440768c88d6431",
+    "duration": 0.5,
+    "scales": [],
+    "floats": [
+      {
+        "path": "",
+        "attribute": "script_0x1222D899_SSStRRJ",
+        "keys": [
+          {
+            "time": 0,
+            "value": 1,
+            "inTangent": "0",
+            "outTangent": "0"
+          },
+          {
+            "time": 0.5,
+            "value": 0,
+            "inTangent": "0",
+            "outTangent": "0"
+          }
+        ]
+      }
+    ],
+    "events": []
+  },
+  "openingUnlockSeconds": 4.5,
+  "knockoutTimeScale": 0.1,
+  "sceneLoadDelaySeconds": 0.18,
+  "notes": [
+    "Opening unlock: BoxingController.Start func49914 invokes ExitCutscene at4.5; CombatManager.Start func49865 invokes TurnOnCamRot at4.5.",
+    "EnemyManager.Die func28135 setsTimeScale0.1 then calls Victory; BoxingController.Die func28146 setsTimeScale0.1.",
+    "Victory func28150 itself never setsTimeScale. Both result canvases become active immediately.",
+    "Combat.unity Animators1928 and1943 both updateMode0; shared FIGHT MENU State speed1, speedParameterActive0.",
+    "ActuallyGoBackToWorkout func49909 and ActuallyFightAgain func49906 activate fadeOut then Invoke scene load after0.18 scaled seconds. GoBackToWorkout func49910 first restores timescale1.",
+    "CORRECTION: timeScale0.1 is initial only; EnemyManager.Update function49842 recovers it each frame using scaled deltaTime. Defeat only matches result root curve due renamed child paths; see native-presentation/timing-recovery-evidence.json."
+  ],
+  "openingArtwork": {
+    "rootSize": [
+      200,
+      147.10771
+    ],
+    "glowSprite": "FadeCircle",
+    "circleSprite": "AllAxis_Ridged",
+    "glowScale": [
+      3.622306,
+      3.622306,
+      3.622306
+    ],
+    "glowPosition": [
+      0,
+      -6.100052
+    ],
+    "circleScale": [
+      1.4710771,
+      1.4710771,
+      1.4710771
+    ],
+    "fontSize": 115.78,
+    "fightFontSize": 96.6,
+    "glowColors": {
+      "3": [
+        1,
+        0.21568627655506134,
+        0,
+        1
+      ],
+      "2": [
+        1,
+        0.6431372761726379,
+        0,
+        1
+      ],
+      "1": [
+        0.9803921580314636,
+        1,
+        0,
+        1
+      ],
+      "FIGHT": [
+        0.054901961237192154,
+        1,
+        0,
+        1
+      ]
+    },
+    "circleColors": {
+      "3": [
+        1,
+        0.21434637904167175,
+        0,
+        1
+      ],
+      "2": [
+        1,
+        0.6443302035331726,
+        0,
+        1
+      ],
+      "1": [
+        0.9801799058914185,
+        1,
+        0,
+        1
+      ],
+      "FIGHT": [
+        0.05310630798339844,
+        1,
+        0,
+        1
+      ]
+    },
+    "fightBlackBannerScale": [
+      11.198575,
+      2.1698387,
+      1.4710771
+    ],
+    "canvas": {
+      "sourceCanvasScalerPathId": 2948,
+      "referenceResolution": [
+        800,
+        600
+      ],
+      "uiScaleMode": 1,
+      "screenMatchMode": 0,
+      "matchWidthOrHeight": 0
+    }
+  },
+  "audio": {
+    "opening": {
+      "source": "level1 MonoBehaviour2949 -> AudioSource1918",
+      "clip": "RaceStartSFX",
+      "eventTime": 0.11666667,
+      "volume": 0.03400000184774399
+    },
+    "victory": {
+      "source": "level1 MonoBehaviour3130 -> AudioSource1915",
+      "clip": "Success 7",
+      "eventTime": 1.3166667,
+      "volume": 0.2619999945163727
+    },
+    "defeat": {
+      "source": "level1 MonoBehaviour2921 -> AudioSource1910",
+      "clip": "Debuff Downgrade 37",
+      "eventTime": 1.3166667,
+      "volume": 0.42500001192092896
+    },
+    "victoryParticlesScaledTime": 2
+  },
+  "knockoutTimeScaleRecovery": {
+    "initial": 0.1,
+    "update": "s = Lerp(s,1,Time.deltaTime)",
+    "sourceFunction": 49842,
+    "deltaTimeFunction": 1396,
+    "bothOutcomesSetEnemyDeadOffset": 312
+  },
+  "resultActualBindings": {
+    "defeat": [
+      ""
+    ],
+    "victory": [
+      "",
+      "MENU/Title",
+      "MENU/MiddleBit",
+      "MENU/AcceptBTN"
+    ]
+  },
+  "introCamera": {
+    "sourceAnimator": 1937,
+    "sourceClip": [
+      "sharedassets1.assets",
+      94
+    ],
+    "duration": 4.583333492279053,
+    "cutAwayAt": 4.5,
+    "pivot": {
+      "x": 18.299999237060547,
+      "y": 5.159999847412109,
+      "z": -5.970001220703125
+    },
+    "curves": [
+      {
+        "keys": [
+          {
+            "time": 0.0,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          },
+          {
+            "time": 2.5,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          },
+          {
+            "time": 4.349999904632568,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          },
+          {
+            "time": 4.583333492279053,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          }
+        ]
+      },
+      {
+        "keys": [
+          {
+            "time": 0.0,
+            "a": 0.753434419631958,
+            "b": -3.611585855484009,
+            "c": 0.0,
+            "d": 26.299999237060547
+          },
+          {
+            "time": 2.5,
+            "a": 0.8414251208305359,
+            "b": -1.2725129127502441,
+            "c": -3.9310343265533447,
+            "d": 15.5
+          },
+          {
+            "time": 4.349999904632568,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 9.199999809265137
+          },
+          {
+            "time": 4.583333492279053,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 9.199999809265137
+          }
+        ]
+      },
+      {
+        "keys": [
+          {
+            "time": 0.0,
+            "a": 0.07650574296712875,
+            "b": 0.44873568415641785,
+            "c": 0.0,
+            "d": -32.29999923706055
+          },
+          {
+            "time": 2.5,
+            "a": -8.369954109191895,
+            "b": 22.232524871826172,
+            "c": 3.6781609058380127,
+            "d": -28.299999237060547
+          },
+          {
+            "time": 4.349999904632568,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 1.600000023841858
+          },
+          {
+            "time": 4.583333492279053,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 1.600000023841858
+          }
+        ]
+      },
+      {
+        "keys": [
+          {
+            "time": 0.0,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          },
+          {
+            "time": 2.5,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          },
+          {
+            "time": 2.866666555404663,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          }
+        ]
+      },
+      {
+        "keys": [
+          {
+            "time": 0.0,
+            "a": -28.800003051757812,
+            "b": 108.00000762939453,
+            "c": 0.0,
+            "d": 0.0
+          },
+          {
+            "time": 2.5,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 225.0
+          },
+          {
+            "time": 2.866666555404663,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 225.0
+          }
+        ]
+      },
+      {
+        "keys": [
+          {
+            "time": 0.0,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          },
+          {
+            "time": 2.5,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          },
+          {
+            "time": 2.866666555404663,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          }
+        ]
+      },
+      {
+        "keys": [
+          {
+            "time": 0.0,
+            "a": 0.7506723403930664,
+            "b": -4.898137092590332,
+            "c": 0.0,
+            "d": 45.0
+          },
+          {
+            "time": 4.349999904632568,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 14.104999542236328
+          },
+          {
+            "time": 4.583333492279053,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 14.104999542236328
+          }
+        ]
+      },
+      {
+        "keys": [
+          {
+            "time": 0.0,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          },
+          {
+            "time": 4.349999904632568,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          },
+          {
+            "time": 4.583333492279053,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          }
+        ]
+      },
+      {
+        "keys": [
+          {
+            "time": 0.0,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          },
+          {
+            "time": 4.349999904632568,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          },
+          {
+            "time": 4.583333492279053,
+            "a": 0.0,
+            "b": 0.0,
+            "c": 0.0,
+            "d": 0.0
+          }
+        ]
+      }
+    ],
+    "axisOrder": [
+      "Camera.localPosition.x",
+      "Camera.localPosition.y",
+      "Camera.localPosition.z",
+      "pivot.localEuler.x",
+      "pivot.localEuler.y",
+      "pivot.localEuler.z",
+      "Camera.localEuler.x",
+      "Camera.localEuler.y",
+      "Camera.localEuler.z"
+    ],
+    "fieldOfView": 60
+  }
+}

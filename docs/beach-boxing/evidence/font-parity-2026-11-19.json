@@ -1,0 +1,196 @@
+{
+  "source": "Unity 2022.3.34f1 WebGL data.unity3d",
+  "fontAssets": [
+    {
+      "pathId": 3372,
+      "name": "BOLD",
+      "rawSha256": "0fc0cd3fd975776ae123beb098dec89e08b23afc1a68588470b7599504d4e63e",
+      "atlasPathId": 246,
+      "atlasPngSha256": "22b19d5050212f16256e4b596d60742b11e729e8d5bfcff0564339d7f1a2cb0c"
+    },
+    {
+      "pathId": 3373,
+      "name": "LilitaOne-Regular SDF",
+      "rawSha256": "caf947c66521af372cff4da412c1279c6206242c878b4633b9da9cfba5cc249f",
+      "atlasPathId": 247,
+      "atlasPngSha256": "22b19d5050212f16256e4b596d60742b11e729e8d5bfcff0564339d7f1a2cb0c"
+    }
+  ],
+  "glyphCount": 96,
+  "characterRange": "U+0020-U+007E and U+2026",
+  "pointSize": 70,
+  "face": {
+    "ascent": 64.61000061035156,
+    "descent": -15.399999618530273,
+    "lineHeight": 80.01000213623047,
+    "scale": 1
+  },
+  "kerning": {
+    "legacyCount": 0,
+    "legacyCountOffset": 9556,
+    "glyphPairCount": 0,
+    "glyphPairCountOffset": 9560
+  },
+  "materials": {
+    "outlined": {
+      "assetPathId": 2,
+      "outlineWidth": 0.453,
+      "scaleRatioA": 0.8333333,
+      "outlineColor": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "regular": {
+      "assetPathId": 3,
+      "outlineWidth": 0,
+      "scaleRatioA": 0.8333333
+    }
+  },
+  "shader": {
+    "source": "sharedassets0.assets TextMeshPro/Distance Field compressedBlob GLES3 subprogram0",
+    "evidence": "native-lilita-distance-field-glsl-2026-11-19.txt",
+    "sha256": "92880c83c0a8b3c74d9615f02288976fdd4b1c9350867e6185ab243a2164de95",
+    "sourceCoverage": "linear saturate with screen-space vertex scale; premultiplied color blend",
+    "materialKeywords": [],
+    "underlayEnabled": false
+  },
+  "nativeLabelCount": 351,
+  "nativeLabelStyles": [
+    0
+  ],
+  "nativeLabelFontWeights": [
+    400
+  ],
+  "verification": {
+    "editMode": "pending main Editor owner RED/GREEN",
+    "visual": "pending; no pixel tolerance claimed",
+    "editModeRed": {
+      "jobId": "ebdf886ff4cf4cfdb811ccc7760e1411",
+      "result": "2/2 expected failures: Native fractional SDF renderer is missing",
+      "runner": "Unity Editor, main owner"
+    },
+    "sourceMetricAudit": "PASS:96 glyph metrics, rectangles and character records exactly match raw3373; kerning/feature counts0.",
+    "firstGreenAttempt": "Test reflection failed with AmbiguousMatchException on inherited OnPopulateMesh overloads; test fixed by BindingFlags.DeclaredOnly before rerunning padding regression.",
+    "paddingRed": {
+      "jobId": "d29e8aef92ad4a7bb830f2b07a1359d1",
+      "result": "Expected46.1875 actual53.6875; bold advance test passed",
+      "runner": "Unity Editor, main owner"
+    },
+    "profileAudit": "PASS:43 selected profiles match original351 source id/path/pointSize/fontId records; only3 world-space labels opt into native point size.",
+    "editModeGreen": {
+      "result": "2/2 passed after native padding patch",
+      "runner": "Unity Editor, main owner report"
+    },
+    "cacheReloadRed": {
+      "jobId": "5e5a5bfe547a42b1bd416f6d58a9e675",
+      "result": "Expected8 vertices, actual0 after clearing only unserializable Dictionary cache",
+      "runner": "Unity Editor, main owner"
+    },
+    "cacheReloadGreen": {
+      "result": "Root reported full EditMode40 GREEN including cache reload regression",
+      "runner": "Unity Editor, main owner"
+    },
+    "resultClockTestUpdate": "Initial result frame checks timeline/global agreement in.1.. .12 and ResultTime<=.025; reveal simulates336steps at1/60=5.6wall sec, source scalar check yieldsspeed.96806789 andclip3.31817914; asserts source clip>3.05 and visible actions before normal callback."
+  },
+  "implementation": {
+    "renderer": "Assets/BeachBoxing/Runtime/UI/OriginalSdfText.cs",
+    "editorEntry": "BeachBoxing.Editor.BeachFontParityRestore.Apply",
+    "shader": "Assets/BeachBoxing/OriginalFont/NativeLilitaSDF.shader",
+    "data": "Assets/BeachBoxing/OriginalFont/LilitaOneNativeMetrics.json",
+    "noRuntimeUnityObjectCreation": true,
+    "sceneMigration": "Explicit only, preserves RectTransform, replaces legacy Text and rebinds recorded scene component references; scene save remains operator-controlled",
+    "preservedExistingLayout": "Existing anchors, coordinates, integer fontSize and bestFit bounds preserved; nativePointSize supports original fractional sizes when individually calibrated",
+    "nativeActualFontStyle": "FontStyles.Normal on all351 source TMP labels; asset3372 named BOLD means outlined material, not font-style Bold",
+    "nativeMarkup": "No source label contains rich-text markup",
+    "shaderScope": "Active original face/outline variant with white FaceTex/OutlineTex and no underlay/glow/bevel keywords; clip/alpha-clip variants retained",
+    "pending": "Main Editor owner: apply transition then BeachFontParityRestore.Apply; validate serialized references and fixed-state screenshots. No pixel tolerance claim.",
+    "fontProfiles": "Assets/BeachBoxing/OriginalFont/LilitaOneNativeUiProfiles.json:43 explicit source-path/id mappings; 2D font style/outline only; world name/level/title nativePointSize25",
+    "pointSizePolicy": "Preserve saved screen HUD fontSize/layout. Original parent ChangeTransformOnPortrait scales are not yet fully calibrated, so no automatic ScreenWidth800 conversion is applied. The active saved HUD Canvas is900x620/.85 per main Editor owner, not the legacy builder432x768."
+  },
+  "nativeMeshPadding": {
+    "source": "ShaderUtilities.GetPadding RVA0x4CE2 / wasm table19682 -> function2616",
+    "evidence": "native-lilita-padding-wasm-2026-11-19.txt",
+    "plain": 1.25,
+    "outlined": 3.5149999094,
+    "formula": "min((FaceDilate+OutlineSoftness+OutlineWidth)*ScaleRatioA+extraPadding4,1)*GradientScale+1.25",
+    "extraPaddingLabels": "6 source input Text/Placeholder labels only; none in recreated core HUD"
+  },
+  "sourceCanvasScalers": {
+    "nativeOverlayReferenceResolution": [
+      800,
+      600
+    ],
+    "nativeMatchWidthOrHeight": 0,
+    "nativeSourceObjects": [
+      4543,
+      2831,
+      2835,
+      2948,
+      2970
+    ],
+    "policy": "Evidence only; no Canvas setting modified by font migration."
+  },
+  "sourceShaderExtractionScript": "docs/beach-boxing/evidence/extract-native-shader-code.py",
+  "cacheReloadFix": {
+    "cause": "Hot reload can restore serializable private loadedMetrics/metrics while Dictionary glyphs is discarded, so the old metadata-only cache check accepts an empty lookup.",
+    "officialReference": "https://docs.unity3d.com/2021.3/Documentation/Manual/script-Serialization.html",
+    "change": "Mark loadedMetrics and metrics NonSerialized and validate dictionary count against native glyph array before reusing cache.",
+    "verification": "GREEN and scene refresh readability pending main Editor owner. Screenshot size group issue investigated separately by main owner; cache defect not claimed as sole cause."
+  },
+  "animatedScaleReview": {
+    "finding": "SDF vertex UV1.y encodes lossyScale only when mesh is generated; ancestor countdown/result scale animation can leave stale UV1 without a text/rect change.",
+    "regression": "OriginalFontScaleTests.ParentScaleAnimationRefreshesSdfScaleWithoutChangingText",
+    "fixture": "Actual UGUI VertexHelper output immediately before CanvasRenderer.SetMesh, observed through test-only BaseMeshEffect: unchanged AA caption under ancestor scale0 then1, expected UV1.y0 ->1.",
+    "executeAlways": "Inherited from UnityEngine.UI.Graphic, local com.unity.ugui1.0.0/Core/Graphic.cs:19.",
+    "status": "Scale invalidation GREEN. Gameplay timing expectations updated separately for native per-frame recovery; full suite rerun pending main owner.",
+    "red": {
+      "jobId": "27a096aefc7b486398525efc52a02940",
+      "result": "Expected1 actual0 in real Canvas rebuild pipeline.",
+      "runner": "Unity Editor, main owner"
+    },
+    "fix": "LateUpdate compares current absolute lossyScale.y with the scale used by the last generated mesh and marks vertices dirty only when changed. OnCanvasHierarchyChanged invalidates that value. No runtime object creation or shader change.",
+    "green": {
+      "jobPrefix": "4dcd",
+      "result": "Actual Canvas scale regression passed in full PlayMode run; overall20/22 with two separate outdated result-clock assertions.",
+      "runner": "Unity Editor, main owner report"
+    }
+  },
+  "defeatTargetedRestoration": {
+    "viewport": [
+      900,
+      620
+    ],
+    "sourceCanvas": {
+      "referenceResolution": [
+        800,
+        600
+      ],
+      "matchWidthOrHeight": 0
+    },
+    "nativeAutoSizing": false,
+    "titlePrimary": 2785,
+    "titleShadow": 2784,
+    "buttonPrimaries": [
+      2810,
+      2706
+    ],
+    "buttonShadows": [
+      2794,
+      2720
+    ],
+    "titleEffectivePoint": 69.30893926458772,
+    "buttonEffectivePoints": [
+      25.773218452019833,
+      25.773216592627566
+    ],
+    "buttonLineSpacingMultiplier": 0.7670291352084867,
+    "rawDetails": "defeat-font-native-details-2026-11-19.json",
+    "appliedRecipes": "defeat-font-applied-profile-2026-11-19.json",
+    "scope": "Only3Defeat profiles. Preserve primary RectTransforms/references, all other calibrated sizes and Rookie. Explicit Editor Apply adds3 same-parent earlier-sibling native SDF duplicates idempotently. No runtime Unity object creation.",
+    "correctionToEarlierUnderlayNote": "Native materials have no UNDERLAY keyword, but this does not imply no text shadow: actual source uses duplicate black/brown/green glyph objects with distinct anchored offsets. Those3 source duplicates are restored.",
+    "verification": "Root has fullEdit44/Play22 passing before targeted visual change. New source-derived point/spacing/duplicate restoration awaits root Apply, reference audit and900px defeat screenshot."
+  }
+}

@@ -7,8 +7,6 @@
   "references": [
     "UnityCore.Samples",
     "UnityCore.Runtime",
-    "Unity.Addressables",
-    "Unity.Addressables.Editor",
     "UnityEngine.UI"
   ]
 }

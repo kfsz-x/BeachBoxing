@@ -1,0 +1,6 @@
+{
+  "name": "BeachBoxing.EditTests",
+  "references": ["BeachBoxing.Runtime", "UnityCore.Runtime", "UnityEngine.UI"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"]
+}

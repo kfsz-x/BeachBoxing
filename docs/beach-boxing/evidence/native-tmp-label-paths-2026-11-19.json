@@ -1,0 +1,3161 @@
+[
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3413,
+    "path": "Trainer Nova/TitleCanvas/Title",
+    "text": "LVL 1 Trainer",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3415,
+    "path": "NPC/TitleCanvas/NameText",
+    "text": "Amateur Champ",
+    "fontId": 3372,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3426,
+    "path": "ArmsParticle/TextHolder/Text (TMP) (1)",
+    "text": "+7",
+    "fontId": 3373,
+    "size": 30.440000534057617,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3427,
+    "path": "LegsParticle/TextHolder/Text (TMP) (1)",
+    "text": "+7",
+    "fontId": 3373,
+    "size": 30.440000534057617,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3428,
+    "path": "ChestParticle/TextHolder/Text (TMP) (1)",
+    "text": "+7",
+    "fontId": 3373,
+    "size": 30.440000534057617,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3429,
+    "path": "BackParticle/TextHolder/Text (TMP) (1)",
+    "text": "+7",
+    "fontId": 3373,
+    "size": 30.440000534057617,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3448,
+    "path": "Trainer Serena/TitleCanvas/NameText",
+    "text": "Serena",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3453,
+    "path": "Trainer Serena/TitleCanvas/Title",
+    "text": "LVL 1 Trainer",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3455,
+    "path": "NPC/TitleCanvas/LevelText",
+    "text": "LVL 1",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3461,
+    "path": "ArmsParticle/TextHolder/Text (TMP)",
+    "text": "+7",
+    "fontId": 3373,
+    "size": 30.440000534057617,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3462,
+    "path": "LegsParticle/TextHolder/Text (TMP)",
+    "text": "+7",
+    "fontId": 3373,
+    "size": 30.440000534057617,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3463,
+    "path": "ChestParticle/TextHolder/Text (TMP)",
+    "text": "+7",
+    "fontId": 3373,
+    "size": 30.440000534057617,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3464,
+    "path": "BackParticle/TextHolder/Text (TMP)",
+    "text": "+7",
+    "fontId": 3373,
+    "size": 30.440000534057617,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3478,
+    "path": "NPC/TitleCanvas/Title",
+    "text": "Amateur Champ",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3531,
+    "path": "Trainer Dion/TitleCanvas/NameText",
+    "text": "Dion",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3537,
+    "path": "Trainer Yui/TitleCanvas/Title",
+    "text": "Trainer",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3549,
+    "path": "Trainer Nova/TitleCanvas/NameText",
+    "text": "Nova",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3563,
+    "path": "Trainer Yui/TitleCanvas/NameText",
+    "text": "Yui",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3567,
+    "path": "Trainer Dion/TitleCanvas/Title",
+    "text": "LVL 1 Trainer",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3568,
+    "path": "Trainer Zara/TitleCanvas/NameText",
+    "text": "Zara",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3592,
+    "path": "Trainer Zara/TitleCanvas/Title",
+    "text": "Trainer",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3598,
+    "path": "Trainer Cody/TitleCanvas/Title",
+    "text": "LVL 1 Trainer",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets0.assets",
+    "id": 3600,
+    "path": "Trainer Cody/TitleCanvas/NameText",
+    "text": "Cody",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4315,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/X2 Button/Text (TMP) (1)",
+    "text": "X2",
+    "fontId": 3373,
+    "size": 31.290000915527344,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4316,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL6/PrevTitle",
+    "text": "15.00K   ->   23.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4317,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL4/PrevTitle",
+    "text": "6.00K   ->   10.00k",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4318,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/Join Room PANEL/CloseButton/Text (TMP) (1)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4319,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/MENU/Music/Text (TMP)",
+    "text": "Music Volume",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4320,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL4/RewardsText",
+    "text": "+45% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4321,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/MENU/SFX/Text (TMP) (1)",
+    "text": "SFX Volume",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4322,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Weight (1)",
+    "text": "75kg",
+    "fontId": 3373,
+    "size": 46.5,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4323,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL4/RewardsText",
+    "text": "+45% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4324,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL3/RewardsText",
+    "text": "+30% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4325,
+    "path": "SingleplayerPlayer/Canvas/Reward Collected/Text (TMP)",
+    "text": "Reward Collected!",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4326,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 5/Claimable/!/Text (TMP) (1)",
+    "text": "!",
+    "fontId": 3373,
+    "size": 58.20000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4327,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Node/First Time Rewards/Stars/Num",
+    "text": "100",
+    "fontId": 3372,
+    "size": 20.200000762939453,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4328,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (7)/TITLE (1)",
+    "text": "Locker",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4329,
+    "path": "SingleplayerPlayer/TitleCanvas/NameText",
+    "text": "Amateur Champ",
+    "fontId": 3372,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4330,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/Trainer Button (2)/Button/LVL Text",
+    "text": "LVL 100",
+    "fontId": 3372,
+    "size": 14.699999809265137,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4331,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (1)/TITLE (1)",
+    "text": "Left",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4332,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/CloseButton/Text (TMP) (1)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4333,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/Trainer Button (4)/Button/Text (TMP)",
+    "text": "Serena",
+    "fontId": 3372,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4334,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/CloseButton/Text (TMP) (1)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4335,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (5)/Button/Text (TMP)",
+    "text": "Escape",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4336,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 5/Claimed/Text (TMP)",
+    "text": "CLAIMED",
+    "fontId": 3372,
+    "size": 43.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4337,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward/Button/Text (TMP)",
+    "text": "W",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4338,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL8/RewardsText",
+    "text": "+110% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4339,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL5/PrevTitle",
+    "text": "10.00K   ->   15.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4340,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/LVL UP BTN/Text (TMP)",
+    "text": "LVL UP",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4341,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL2/PrevTitle",
+    "text": "1.00K   ->   3.00k",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4342,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/CloseButton/Text (TMP) (1)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4343,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 4/Claimed/Text (TMP)",
+    "text": "CLAIMED",
+    "fontId": 3372,
+    "size": 43.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4344,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Weight",
+    "text": "75kg",
+    "fontId": 3373,
+    "size": 46.5,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4345,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL2/RewardsText",
+    "text": "+15% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4346,
+    "path": "SingleplayerPlayer/Canvas/ConnectedAlert/Text (TMP) (1)",
+    "text": "Connected to Server!",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4347,
+    "path": "SingleplayerPlayer/Canvas/DisconnectedAlert/Text (TMP)",
+    "text": "Disconnected from Server!",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4348,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Gauntlet/Text (TMP) (1)",
+    "text": "Rookie Gauntlet",
+    "fontId": 3372,
+    "size": 16.799999237060547,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4349,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL9/PrevTitle",
+    "text": "45.00K   ->   70.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4350,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/CloseButton/Text (TMP)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4351,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Gold/Text",
+    "text": "0",
+    "fontId": 3372,
+    "size": 35.70000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4352,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (3)/TITLE (1)",
+    "text": "Right",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4353,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/Text (TMP) (2)",
+    "text": "Change Name",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4354,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/PrestigeBTN/Text (TMP)",
+    "text": "LVL UP",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4355,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL8/PrevTitle",
+    "text": "33.00K   ->   45.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4356,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/CloseButton/Text (TMP)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4357,
+    "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/Text (TMP) (1)",
+    "text": "0.0K",
+    "fontId": 3373,
+    "size": 29.389999389648438,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4358,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (5)/TITLE",
+    "text": "Menu",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4359,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/InputField (TMP)/Text Area/Text",
+    "text": "​",
+    "fontId": 3372,
+    "size": 14.0,
+    "extraPadding": true
+  },
+  {
+    "asset": "level0",
+    "id": 4360,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (3)/Button/Text (TMP)",
+    "text": "D",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4361,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Node/First Time Rewards/Title (1)",
+    "text": "DEFEAT REWARDS",
+    "fontId": 3373,
+    "size": 29.100000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4362,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (4)/TITLE (1)",
+    "text": "Jump",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4363,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/CountdownOBJ/Countdown",
+    "text": "TIME LEFT: 120",
+    "fontId": 3372,
+    "size": 31.290000915527344,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4364,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL3/PrevTitle",
+    "text": "3.00K   ->   6.00k",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4365,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 2/Claimed/Text (TMP)",
+    "text": "CLAIMED",
+    "fontId": 3372,
+    "size": 43.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4366,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL3/PrevTitle",
+    "text": "3.00K   ->   6.00k",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4367,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 4/Button/Text (TMP)",
+    "text": "10.00K",
+    "fontId": 3372,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4368,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL6/RewardsText",
+    "text": "+75% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4369,
+    "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/Text (TMP) (1)",
+    "text": "0.0K",
+    "fontId": 3373,
+    "size": 29.389999389648438,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4370,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/Button/Text (TMP) (1)",
+    "text": "EXIT",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4371,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (6)/TITLE",
+    "text": "Shop",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4372,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 6/Button/Text (TMP)",
+    "text": "Zara",
+    "fontId": 3372,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4373,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/TITLE",
+    "text": "KEYBINDS",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4374,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL8/RewardsText",
+    "text": "+110% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4375,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/Trainer Button (3)/Button/Text (TMP)",
+    "text": "Zara",
+    "fontId": 3372,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4376,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Node/NAME",
+    "text": "TRAINEE",
+    "fontId": 3372,
+    "size": 46.5,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4377,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Stats/Back/Text (TMP) (2)",
+    "text": "0.0K",
+    "fontId": 3372,
+    "size": 16.799999237060547,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4378,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/FightBTN/Text (TMP)",
+    "text": "FIGHT!",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4379,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/MENU/Music/Text (TMP) (1)",
+    "text": "Music Volume",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4380,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (2)/TITLE (1)",
+    "text": "Backward",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4381,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/EquipBTN/Text (TMP) (1)",
+    "text": "EQUIP",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4382,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/TITLE",
+    "text": "PERSONAL TRAINERS",
+    "fontId": 3373,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4383,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Stats/Chest/Text (TMP) (2)",
+    "text": "0.0K",
+    "fontId": 3372,
+    "size": 16.799999237060547,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4384,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 1/Claimed/Text (TMP)",
+    "text": "CLAIMED",
+    "fontId": 3372,
+    "size": 43.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4385,
+    "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/Text (TMP) (2)",
+    "text": "0.0K",
+    "fontId": 3373,
+    "size": 29.389999389648438,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4386,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/Trainer Button (1)/Button/LVL Text",
+    "text": "LVL 100",
+    "fontId": 3372,
+    "size": 14.699999809265137,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4387,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/Trainer Button/Button/Text (TMP)",
+    "text": "Cody",
+    "fontId": 3372,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4388,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL3/RewardsText",
+    "text": "+30% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4389,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/Trainer Button (2)/Button/Text (TMP)",
+    "text": "Nova",
+    "fontId": 3372,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4390,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL7/RewardsText",
+    "text": "+90% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4391,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (7)/TITLE",
+    "text": "Locker",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4392,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/Back/Text (TMP)",
+    "text": "+15%",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4393,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/MENU/TITLE",
+    "text": "MENU",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4394,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Text (TMP) (1)",
+    "text": "Recommended:",
+    "fontId": 3373,
+    "size": 24.100000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4395,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/TITLE",
+    "text": "DAILY REWARDS",
+    "fontId": 3373,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4396,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 1/Button/Text (TMP)",
+    "text": "Cody",
+    "fontId": 3372,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4397,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 5/Button/Text (TMP)",
+    "text": "100 Stars",
+    "fontId": 3372,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4398,
+    "path": "SingleplayerPlayer/TitleCanvas/LevelText",
+    "text": "LVL 1",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4399,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/CloseButton/Text (TMP)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4400,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/Trainer Button (4)/Button/LVL Text",
+    "text": "LVL 100",
+    "fontId": 3372,
+    "size": 14.699999809265137,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4401,
+    "path": "SingleplayerPlayer/Canvas/TopRight/TrainerButton/!/Text (TMP) (1)",
+    "text": "!",
+    "fontId": 3373,
+    "size": 58.20000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4402,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (1)/Text (TMP) (1)",
+    "text": "- 5kg",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4403,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL5/RewardsText",
+    "text": "+60% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4404,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL7/PrevTitle",
+    "text": "23.00K   ->   33.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4405,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (5)/TITLE (1)",
+    "text": "Menu",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4406,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/Text (TMP) (3)",
+    "text": "Change Name",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4407,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (8)/TITLE (1)",
+    "text": "Interact",
+    "fontId": 3373,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4408,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button/Text (TMP) (1)",
+    "text": "+ 5kg",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4409,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL5/RewardsText",
+    "text": "+60% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4410,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/PurchaseBTN/Text (TMP)",
+    "text": "10",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4411,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (6)/Button/Text (TMP)",
+    "text": "M",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4412,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/TITLE",
+    "text": "LEVEL UP",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4413,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL10/PrevTitle",
+    "text": "70.00K   ->   100.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4414,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL9/RewardsText",
+    "text": "+125% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4415,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (8)/TITLE",
+    "text": "Interact",
+    "fontId": 3373,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4416,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/MENU/Music/VALUE (2)",
+    "text": "0.0",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4417,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/Join Room PANEL/Join Room BTN/Text (TMP)",
+    "text": "Join Room",
+    "fontId": 3373,
+    "size": 20.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4418,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/TITLE",
+    "text": "KEYBINDS",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4419,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Button/Text (TMP) (2)",
+    "text": "WORKOUT FASTER",
+    "fontId": 3373,
+    "size": 28.100000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4420,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (1)/TITLE",
+    "text": "Left",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4421,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/MENU/TITLE",
+    "text": "MENU",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4422,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/PurchaseBTN/Text (TMP) (1)",
+    "text": "10",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4423,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL5/PrevTitle",
+    "text": "10.00K   ->   15.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4424,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/Arm/Text (TMP)",
+    "text": "+15%",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4425,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL10/PrevTitle",
+    "text": "70.00K   ->   100.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4426,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/TITLE",
+    "text": "PICK OPPONENT",
+    "fontId": 3373,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4427,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/MENU/SFX/Text (TMP)",
+    "text": "SFX Volume",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4428,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/PrestigeBTN/Text (TMP) (1)",
+    "text": "LVL UP",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4429,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/CloseButton/Text (TMP)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4430,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 6/Claimable/!/Text (TMP) (1)",
+    "text": "!",
+    "fontId": 3373,
+    "size": 58.20000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4431,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL4/PrevTitle",
+    "text": "6.00K   ->   10.00k",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4432,
+    "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder/PrestigeButtonHolder/PrestigeBTN (1)/Text (TMP)",
+    "text": "LVL UP",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4433,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/LVL UP BTN/Text (TMP) (1)",
+    "text": "LVL UP",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4434,
+    "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/Text (TMP) (2)",
+    "text": "0.0K",
+    "fontId": 3373,
+    "size": 29.389999389648438,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4435,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/Join Room PANEL/InputField (TMP)/Text Area/Text",
+    "text": "​",
+    "fontId": 3373,
+    "size": 16.0,
+    "extraPadding": true
+  },
+  {
+    "asset": "level0",
+    "id": 4436,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/DailyRewards/Text (TMP) (1)",
+    "text": "Collect from\nDaily Rewards",
+    "fontId": 3372,
+    "size": 33.5099983215332,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4437,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL10/RewardsText",
+    "text": "+150% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4438,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/MENU/SFX/VALUE (1)",
+    "text": "0.0",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4439,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/TITLE",
+    "text": "DAILY REWARDS",
+    "fontId": 3373,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4440,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/FightBTN/Text (TMP) (1)",
+    "text": "FIGHT!",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4441,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/EquipBTN/Text (TMP)",
+    "text": "EQUIP",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4442,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Node/First Time Rewards/Title",
+    "text": "DEFEAT REWARDS",
+    "fontId": 3373,
+    "size": 29.100000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4443,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL8/PrevTitle",
+    "text": "33.00K   ->   45.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4444,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (3)/TITLE",
+    "text": "Right",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4445,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 2/Claimable/!/Text (TMP) (1)",
+    "text": "!",
+    "fontId": 3373,
+    "size": 58.20000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4446,
+    "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/Text (TMP)",
+    "text": "0.0K",
+    "fontId": 3373,
+    "size": 29.389999389648438,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4447,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/TITLE",
+    "text": "LEVEL UP",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4448,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/Join Room PANEL/CloseButton/Text (TMP)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4449,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (8)/Button/Text (TMP)",
+    "text": "E",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4450,
+    "path": "SingleplayerPlayer/Canvas/DisconnectedAlert/Text (TMP) (1)",
+    "text": "Disconnected from Server!",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4451,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/CloseButton/Text (TMP) (1)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4452,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (1)/Button/Text (TMP)",
+    "text": "A",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4453,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 5/Button/LVL Text",
+    "text": "DAY 5",
+    "fontId": 3372,
+    "size": 19.15999984741211,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4454,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/TITLE",
+    "text": "PICK OPPONENT",
+    "fontId": 3373,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4455,
+    "path": "SingleplayerPlayer/Canvas/notEnoughFunds/Text (TMP) (1)",
+    "text": "Not Enough Funds!",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4456,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/Join Room PANEL/Join Room BTN/Text (TMP) (1)",
+    "text": "Join Room",
+    "fontId": 3373,
+    "size": 20.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4457,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (4)/TITLE",
+    "text": "Jump",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4458,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward/TITLE (1)",
+    "text": "Forward",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4459,
+    "path": "SingleplayerPlayer/Canvas/notEnoughFunds/Text (TMP)",
+    "text": "Not Enough Funds!",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4460,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/CloseButton/Text (TMP)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4461,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/Trainer Button (3)/Button/LVL Text",
+    "text": "LVL 100",
+    "fontId": 3372,
+    "size": 14.699999809265137,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4462,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 3/Claimable/!/Text (TMP) (1)",
+    "text": "!",
+    "fontId": 3373,
+    "size": 58.20000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4463,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/Trainer Button (5)/Button/Text (TMP)",
+    "text": "Yui",
+    "fontId": 3372,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4464,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (2)/Text (TMP) (1)",
+    "text": "55kg",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4465,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL7/RewardsText",
+    "text": "+90% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4466,
+    "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder/PrestigeButtonHolder/!/Text (TMP) (1)",
+    "text": "!",
+    "fontId": 3373,
+    "size": 58.20000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4467,
+    "path": "SingleplayerPlayer/Canvas/ProfanityDetected/Text (TMP)",
+    "text": "Profanity Detected!",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4468,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL2/RewardsText",
+    "text": "+15% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4469,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Button/Text (TMP) (1)",
+    "text": "WORKOUT FASTER",
+    "fontId": 3373,
+    "size": 28.100000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4470,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/LVL UP BTN/Text (TMP) (2)",
+    "text": "10.00K",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4471,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 6/Claimed/Text (TMP)",
+    "text": "CLAIMED",
+    "fontId": 3372,
+    "size": 43.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4472,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/InputField (TMP)/Text Area/Placeholder",
+    "text": "ENTER NAME...",
+    "fontId": 3372,
+    "size": 14.0,
+    "extraPadding": true
+  },
+  {
+    "asset": "level0",
+    "id": 4473,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/Trainer Button/Button/LVL Text",
+    "text": "LVL 100",
+    "fontId": 3372,
+    "size": 14.699999809265137,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4474,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/CloseButton/Text (TMP) (1)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4475,
+    "path": "SingleplayerPlayer/Canvas/ConnectedAlert/Text (TMP)",
+    "text": "Connected to Server!",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4476,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL6/RewardsText",
+    "text": "+75% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4477,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL10/RewardsText",
+    "text": "+150% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4478,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 4/Claimable/!/Text (TMP) (1)",
+    "text": "!",
+    "fontId": 3373,
+    "size": 58.20000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4479,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/Join Room PANEL/InputField (TMP)/Text Area/Placeholder",
+    "text": "Enter ID...",
+    "fontId": 3373,
+    "size": 14.0,
+    "extraPadding": true
+  },
+  {
+    "asset": "level0",
+    "id": 4480,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Text (TMP) (2)",
+    "text": "(Press E)",
+    "fontId": 3373,
+    "size": 23.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4481,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 1/Button/LVL Text",
+    "text": "DAY 1",
+    "fontId": 3372,
+    "size": 19.15999984741211,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4482,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/Trainer Button (1)/Button/Text (TMP)",
+    "text": "Dion",
+    "fontId": 3372,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4483,
+    "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/Text (TMP) (1)",
+    "text": "0.0K",
+    "fontId": 3373,
+    "size": 29.389999389648438,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4484,
+    "path": "SingleplayerPlayer/Canvas/KeepTrainingTip/Text (TMP) (1)",
+    "text": "!",
+    "fontId": 3372,
+    "size": 67.19999694824219,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4485,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL2/PrevTitle",
+    "text": "1.00K   ->   3.00k",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4486,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 3/Button/LVL Text",
+    "text": "DAY 3",
+    "fontId": 3372,
+    "size": 19.15999984741211,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4487,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Stars/Text",
+    "text": "0",
+    "fontId": 3372,
+    "size": 35.70000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4488,
+    "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/Text (TMP) (2)",
+    "text": "0.0K",
+    "fontId": 3373,
+    "size": 29.389999389648438,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4489,
+    "path": "SingleplayerPlayer/Canvas/KeepTrainingTip/Text (TMP)",
+    "text": "Keep working out to defeat stronger opponents!",
+    "fontId": 3372,
+    "size": 31.25,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4490,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL7/PrevTitle",
+    "text": "23.00K   ->   33.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4491,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 6/Button/LVL Text",
+    "text": "DAY 6",
+    "fontId": 3372,
+    "size": 19.15999984741211,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4492,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Stats/Arms/Text (TMP) (2)",
+    "text": "0.0K",
+    "fontId": 3372,
+    "size": 16.799999237060547,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4493,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/Leg/Text (TMP)",
+    "text": "+15%",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4494,
+    "path": "SingleplayerPlayer/TitleCanvas/Title",
+    "text": "Amateur Champ",
+    "fontId": 3373,
+    "size": 25.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4495,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL6/PrevTitle",
+    "text": "15.00K   ->   23.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4496,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL9/RewardsText",
+    "text": "+125% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4497,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/TITLE",
+    "text": "PERSONAL TRAINERS",
+    "fontId": 3373,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4498,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/LVL Text",
+    "text": "LVL 100",
+    "fontId": 3372,
+    "size": 63.43000030517578,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4499,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (6)/TITLE (1)",
+    "text": "Shop",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4500,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/Trainer Button (5)/Button/LVL Text",
+    "text": "LVL 100",
+    "fontId": 3372,
+    "size": 14.699999809265137,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4501,
+    "path": "SingleplayerPlayer/Canvas/Reward Collected/Text (TMP) (1)",
+    "text": "Reward Collected!",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4502,
+    "path": "SingleplayerPlayer/Canvas/InteractButtonHolder/InteractButton/Text (TMP)",
+    "text": "Interact",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4503,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 2/Button/LVL Text",
+    "text": "DAY 2",
+    "fontId": 3372,
+    "size": 19.15999984741211,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4504,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/!/Text (TMP) (1)",
+    "text": "!",
+    "fontId": 3373,
+    "size": 58.20000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4505,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU/MENU/LVL9/PrevTitle",
+    "text": "45.00K   ->   70.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4506,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Stats/Legs/Text (TMP) (2)",
+    "text": "0.0K",
+    "fontId": 3372,
+    "size": 16.799999237060547,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4507,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (7)/Button/Text (TMP)",
+    "text": "I",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4508,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 3/Claimed/Text (TMP)",
+    "text": "CLAIMED",
+    "fontId": 3372,
+    "size": 43.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4509,
+    "path": "SingleplayerPlayer/Canvas/TopRight/Daily Rewards Button/!/Text (TMP) (1)",
+    "text": "!",
+    "fontId": 3373,
+    "size": 58.20000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4510,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/Chest/Text (TMP)",
+    "text": "+15%",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4511,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward/TITLE",
+    "text": "Forward",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4512,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 4/Button/LVL Text",
+    "text": "DAY 4",
+    "fontId": 3372,
+    "size": 19.15999984741211,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4513,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 1/Claimable/!/Text (TMP) (1)",
+    "text": "!",
+    "fontId": 3373,
+    "size": 58.20000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4514,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Node/First Time Rewards/Coins/Num",
+    "text": "100",
+    "fontId": 3372,
+    "size": 20.200000762939453,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4515,
+    "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/Text (TMP) (1)",
+    "text": "0.0K",
+    "fontId": 3373,
+    "size": 29.389999389648438,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4516,
+    "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder/PrestigeButtonHolder/PrestigeBTN (1)/Text (TMP) (1)",
+    "text": "LVL UP",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4517,
+    "path": "SingleplayerPlayer/Canvas/ProfanityDetected/Text (TMP) (1)",
+    "text": "Profanity Detected!",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4518,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 3/Button/Text (TMP)",
+    "text": "60 Stars",
+    "fontId": 3372,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4519,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (2)/TITLE",
+    "text": "Backward",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4520,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU/MENU/Day 2/Button/Text (TMP)",
+    "text": "3.00K",
+    "fontId": 3372,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4521,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (4)/Button/Text (TMP)",
+    "text": "Space",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4522,
+    "path": "SingleplayerPlayer/Canvas/InteractButtonHolder/InteractButton/Text (TMP) (1)",
+    "text": "Interact",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4523,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (2)/Button/Text (TMP)",
+    "text": "S",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4524,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Scroll View/Viewport/Content/LVL Text",
+    "text": "MORE TRAINERS COMING!",
+    "fontId": 3372,
+    "size": 14.699999809265137,
+    "extraPadding": false
+  },
+  {
+    "asset": "level0",
+    "id": 4525,
+    "path": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Stats/Text (TMP) (1)",
+    "text": "STATS",
+    "fontId": 3372,
+    "size": 16.799999237060547,
+    "extraPadding": false
+  },
+  {
+    "asset": "sharedassets1.assets",
+    "id": 38015,
+    "path": "HitMarker/Text (TMP) (1)",
+    "text": "-3",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2702,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/X2 Button/Text (TMP) (1)",
+    "text": "X2",
+    "fontId": 3373,
+    "size": 31.290000915527344,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2703,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/OFF/Button/Text (TMP) (1)",
+    "text": "OFF",
+    "fontId": 3373,
+    "size": 32.970001220703125,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2704,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL4/PrevTitle",
+    "text": "6.00K   ->   10.00k",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2705,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/Join Room PANEL/CloseButton/Text (TMP) (1)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2706,
+    "path": "SingleplayerPlayer/DefeatCanvas/GameObject/FIGHT MENU/MENU/BallsButton/Text (TMP) (1)",
+    "text": "RETURN HOME",
+    "fontId": 3373,
+    "size": 22.850000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2707,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/MENU/Music/Text (TMP)",
+    "text": "Music Volume",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2708,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL4/RewardsText",
+    "text": "+60% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2709,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/MENU/SFX/Text (TMP) (1)",
+    "text": "SFX Volume",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2710,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Weight (1)",
+    "text": "75kg",
+    "fontId": 3373,
+    "size": 46.5,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2711,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL4/RewardsText",
+    "text": "+60% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2712,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL3/RewardsText",
+    "text": "+40% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2713,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (7)/TITLE (1)",
+    "text": "Locker",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2714,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (1)/TITLE (1)",
+    "text": "Left",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2715,
+    "path": "Camrot/Camera/WorldCanvas/HealthBar/Text (TMP) (1)",
+    "text": "50",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2716,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (5)/Button/Text (TMP)",
+    "text": "Escape",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2717,
+    "path": "SingleplayerPlayer/VictoryCanvas/GameObject/FIGHT MENU/MENU/AcceptBTN/Text (TMP) (1)",
+    "text": "CONTINUE",
+    "fontId": 3373,
+    "size": 22.850000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2718,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward/Button/Text (TMP)",
+    "text": "W",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2719,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL5/PrevTitle",
+    "text": "10.00K   ->   15.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2720,
+    "path": "SingleplayerPlayer/DefeatCanvas/GameObject/FIGHT MENU/MENU/BallsButton/Text (TMP)",
+    "text": "RETURN HOME",
+    "fontId": 3373,
+    "size": 22.850000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2721,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL2/PrevTitle",
+    "text": "1.00K   ->   3.00k",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2722,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/CloseButton/Text (TMP) (1)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2723,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Weight",
+    "text": "75kg",
+    "fontId": 3373,
+    "size": 46.5,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2724,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL2/RewardsText",
+    "text": "+20% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2725,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (3)/TITLE (1)",
+    "text": "Right",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2726,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/PrestigeBTN/Text (TMP)",
+    "text": "LVL UP",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2727,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (5)/TITLE",
+    "text": "Menu",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2728,
+    "path": "SingleplayerPlayer/VictoryCanvas/GameObject/FIGHT MENU/MENU/Title/TITLE",
+    "text": "VICTORY!",
+    "fontId": 3372,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2729,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (3)/Button/Text (TMP)",
+    "text": "D",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2730,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (4)/TITLE (1)",
+    "text": "Jump",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2731,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL3/PrevTitle",
+    "text": "3.00K   ->   6.00k",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2732,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL3/PrevTitle",
+    "text": "3.00K   ->   6.00k",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2733,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/Text (TMP)",
+    "text": "AUTO-TRAIN :",
+    "fontId": 3373,
+    "size": 30.200000762939453,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2734,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/Button/Text (TMP) (1)",
+    "text": "EXIT",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2735,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (6)/TITLE",
+    "text": "Shop",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2736,
+    "path": "CombatManager/Canvas/1/Text (TMP)",
+    "text": "1",
+    "fontId": 3372,
+    "size": 115.77999877929688,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2737,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/TITLE",
+    "text": "KEYBINDS",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2738,
+    "path": "SingleplayerPlayer/Canvas/GameObject/BlockHintScreen/MiddleThing/Text (TMP)",
+    "text": "BLOCK           to Recharge        !",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2739,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/MENU/Music/Text (TMP) (1)",
+    "text": "Music Volume",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2740,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (2)/TITLE (1)",
+    "text": "Backward",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2741,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL3/RewardsText",
+    "text": "+40% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2742,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (7)/TITLE",
+    "text": "Locker",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2743,
+    "path": "SingleplayerPlayer/VictoryCanvas/GameObject/FIGHT MENU/MENU/MiddleBit/you defeated",
+    "text": "You Defeated:",
+    "fontId": 3373,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2744,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/MENU/TITLE",
+    "text": "MENU",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2745,
+    "path": "SingleplayerPlayer/VictoryCanvas/GameObject/FIGHT MENU/MENU/MiddleBit/GoldEarned/Text",
+    "text": "x20",
+    "fontId": 3372,
+    "size": 46.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2746,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Text (TMP) (1)",
+    "text": "Recommended:",
+    "fontId": 3373,
+    "size": 24.100000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2747,
+    "path": "Camrot/Camera/WorldCanvas/StaminaBar/Text (TMP) (1)",
+    "text": "50",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2748,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (1)/Text (TMP) (1)",
+    "text": "- 5kg",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2749,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL5/RewardsText",
+    "text": "+80% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2750,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (5)/TITLE (1)",
+    "text": "Menu",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2751,
+    "path": "SingleplayerPlayer/Canvas/GameObject/OutOfStaminaAlert/Text (TMP)",
+    "text": "OUT OF ENERGY",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2752,
+    "path": "SingleplayerPlayer/VictoryCanvas/GameObject/FIGHT MENU/MENU/MiddleBit/Bonus Reward 1/Text",
+    "text": "NEW TRAINER!",
+    "fontId": 3372,
+    "size": 46.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2753,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (8)/TITLE (1)",
+    "text": "Interact",
+    "fontId": 3373,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2754,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button/Text (TMP) (1)",
+    "text": "+ 5kg",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2755,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL5/RewardsText",
+    "text": "+80% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2756,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/MENU/HomeButton/Text (TMP) (1)",
+    "text": "RETURN HOME",
+    "fontId": 3373,
+    "size": 22.850000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2757,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (6)/Button/Text (TMP)",
+    "text": "M",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2758,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/TITLE",
+    "text": "LEVEL UP",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2759,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (8)/TITLE",
+    "text": "Interact",
+    "fontId": 3373,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2760,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/MENU/Music/VALUE (2)",
+    "text": "0.0",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2761,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/Join Room PANEL/Join Room BTN/Text (TMP)",
+    "text": "Join Room",
+    "fontId": 3373,
+    "size": 20.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2762,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/TITLE",
+    "text": "KEYBINDS",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2763,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/MENU/HomeButton/Text (TMP)",
+    "text": "RETURN HOME",
+    "fontId": 3373,
+    "size": 22.850000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2764,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Button/Text (TMP) (2)",
+    "text": "WORKOUT",
+    "fontId": 3373,
+    "size": 28.100000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2765,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (1)/TITLE",
+    "text": "Left",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2766,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/MENU/TITLE",
+    "text": "MENU",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2767,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL5/PrevTitle",
+    "text": "10.00K   ->   15.00k",
+    "fontId": 3373,
+    "size": 51.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2768,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/MENU/SFX/Text (TMP)",
+    "text": "SFX Volume",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2769,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/PrestigeBTN/Text (TMP) (1)",
+    "text": "LVL UP",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2770,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/CloseButton/Text (TMP)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2771,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL4/PrevTitle",
+    "text": "6.00K   ->   10.00k",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2772,
+    "path": "CombatManager/Canvas/2/Text (TMP)",
+    "text": "2",
+    "fontId": 3372,
+    "size": 115.77999877929688,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2773,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/Join Room PANEL/InputField (TMP)/Text Area/Text",
+    "text": "​",
+    "fontId": 3373,
+    "size": 16.0,
+    "extraPadding": true
+  },
+  {
+    "asset": "level1",
+    "id": 2774,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/MENU/SFX/VALUE (1)",
+    "text": "0.0",
+    "fontId": 3373,
+    "size": 26.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2775,
+    "path": "CombatManager/Canvas/FIGHT/Text (TMP)",
+    "text": "FIGHT!",
+    "fontId": 3372,
+    "size": 96.5999984741211,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2776,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (3)/TITLE",
+    "text": "Right",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2777,
+    "path": "SingleplayerPlayer/VictoryCanvas/GameObject/FIGHT MENU/MENU/MiddleBit/Rewards",
+    "text": "REWARDS",
+    "fontId": 3373,
+    "size": 42.79999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2778,
+    "path": "SingleplayerPlayer/VictoryCanvas/GameObject/FIGHT MENU/MENU/Title/TITLE",
+    "text": "VICTORY!",
+    "fontId": 3372,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2779,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/TITLE",
+    "text": "LEVEL UP",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2780,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/Join Room PANEL/CloseButton/Text (TMP)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2781,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (8)/Button/Text (TMP)",
+    "text": "E",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2782,
+    "path": "Camrot/Camera/WorldCanvas/BlockBar/Text (TMP) (2)",
+    "text": "30",
+    "fontId": 3372,
+    "size": 72.11000061035156,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2783,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (1)/Button/Text (TMP)",
+    "text": "A",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2784,
+    "path": "SingleplayerPlayer/DefeatCanvas/GameObject/FIGHT MENU/MENU/Titled/TITLE",
+    "text": "Defeat.",
+    "fontId": 3372,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2785,
+    "path": "SingleplayerPlayer/DefeatCanvas/GameObject/FIGHT MENU/MENU/Titled/TITLE",
+    "text": "Defeat.",
+    "fontId": 3372,
+    "size": 44.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2786,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/Join Room PANEL/Join Room BTN/Text (TMP) (1)",
+    "text": "Join Room",
+    "fontId": 3373,
+    "size": 20.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2787,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (4)/TITLE",
+    "text": "Jump",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2788,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward/TITLE (1)",
+    "text": "Forward",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2789,
+    "path": "Camrot/Camera/ENEMYWorldCanvas/HealthBar/Text (TMP) (1)",
+    "text": "50",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2790,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/CloseButton/Text (TMP)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2791,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/OFF/Button/Text (TMP) (2)",
+    "text": "OFF",
+    "fontId": 3373,
+    "size": 32.970001220703125,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2792,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/Button (2)/Text (TMP) (1)",
+    "text": "55kg",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2793,
+    "path": "SingleplayerPlayer/VictoryCanvas/GameObject/FIGHT MENU/MENU/MiddleBit/Stars Earned/Text",
+    "text": "x20",
+    "fontId": 3372,
+    "size": 46.29999923706055,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2794,
+    "path": "SingleplayerPlayer/DefeatCanvas/GameObject/FIGHT MENU/MENU/AcceptBTNd/Text (TMP)",
+    "text": "TRY\nAGAIN",
+    "fontId": 3373,
+    "size": 22.850000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2795,
+    "path": "Camrot/Camera/ENEMYWorldCanvas/StaminaBar/Text (TMP) (1)",
+    "text": "50",
+    "fontId": 3372,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2796,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL2/RewardsText",
+    "text": "+20% Training Speed",
+    "fontId": 3373,
+    "size": 38.22999954223633,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2797,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Button/Text (TMP) (1)",
+    "text": "WORKOUT",
+    "fontId": 3373,
+    "size": 28.100000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2798,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/CloseButton/Text (TMP) (1)",
+    "text": "X",
+    "fontId": 3373,
+    "size": 36.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2799,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/Join Room PANEL/InputField (TMP)/Text Area/Placeholder",
+    "text": "Enter ID...",
+    "fontId": 3373,
+    "size": 14.0,
+    "extraPadding": true
+  },
+  {
+    "asset": "level1",
+    "id": 2800,
+    "path": "CombatManager/Canvas/3/Text (TMP)",
+    "text": "3",
+    "fontId": 3372,
+    "size": 115.77999877929688,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2801,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/Text (TMP) (2)",
+    "text": "(Hold E)",
+    "fontId": 3373,
+    "size": 23.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2802,
+    "path": "SingleplayerPlayer/Canvas/PRESTIGE MENU/MENU/LVL2/PrevTitle",
+    "text": "1.00K   ->   3.00k",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2803,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/Button/Text (TMP) (2)",
+    "text": "ON",
+    "fontId": 3373,
+    "size": 32.970001220703125,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2804,
+    "path": "Camrot/Camera/ENEMYWorldCanvas/BlockBar/Text (TMP) (2)",
+    "text": "20",
+    "fontId": 3372,
+    "size": 72.11000061035156,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2805,
+    "path": "SingleplayerPlayer/VictoryCanvas/GameObject/FIGHT MENU/MENU/MiddleBit/AlreadyReceivedRewards/Rewards",
+    "text": "ALREADY CLAIMED FIGHTER'S REWARDS",
+    "fontId": 3373,
+    "size": 54.93000030517578,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2806,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (6)/TITLE (1)",
+    "text": "Shop",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2807,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/!/Text (TMP) (1)",
+    "text": "!",
+    "fontId": 3373,
+    "size": 58.20000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2808,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (7)/Button/Text (TMP)",
+    "text": "I",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2809,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward/TITLE",
+    "text": "Forward",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2810,
+    "path": "SingleplayerPlayer/DefeatCanvas/GameObject/FIGHT MENU/MENU/AcceptBTNd/Text (TMP) (1)",
+    "text": "TRY\nAGAIN",
+    "fontId": 3373,
+    "size": 22.850000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2811,
+    "path": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/Button/Text (TMP) (1)",
+    "text": "ON",
+    "fontId": 3373,
+    "size": 32.970001220703125,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2812,
+    "path": "SingleplayerPlayer/VictoryCanvas/GameObject/FIGHT MENU/MENU/MiddleBit/Gauntlet Name",
+    "text": "ROOKIE GAUNTLET",
+    "fontId": 3373,
+    "size": 35.70000076293945,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2813,
+    "path": "SingleplayerPlayer/VictoryCanvas/GameObject/FIGHT MENU/MENU/AcceptBTN/Text (TMP)",
+    "text": "CONTINUE",
+    "fontId": 3373,
+    "size": 22.850000381469727,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2814,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (2)/TITLE",
+    "text": "Backward",
+    "fontId": 3373,
+    "size": 54.599998474121094,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2815,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (4)/Button/Text (TMP)",
+    "text": "Space",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2816,
+    "path": "SingleplayerPlayer/Canvas/PAUSE MENU/KEYBINDS/Scroll View/Viewport/Content/Forward (2)/Button/Text (TMP)",
+    "text": "S",
+    "fontId": 3373,
+    "size": 24.0,
+    "extraPadding": false
+  },
+  {
+    "asset": "level1",
+    "id": 2817,
+    "path": "SingleplayerPlayer/VictoryCanvas/GameObject/FIGHT MENU/MENU/MiddleBit/Fighter Name",
+    "text": "RAMEZ",
+    "fontId": 3373,
+    "size": 76.80000305175781,
+    "extraPadding": false
+  }
+]

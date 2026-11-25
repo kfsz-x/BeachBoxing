@@ -1,0 +1,1 @@
+900x620; diagnostic save; actual UI buttons; completed

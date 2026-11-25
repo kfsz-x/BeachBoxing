@@ -1,0 +1,68 @@
+[
+  {
+    "target": "Beach UI/Safe area/Defeat panel/Original Defeat title",
+    "sourceWhite": 2785,
+    "sourceShadow": 2784,
+    "autoSizing": false,
+    "viewportScale": 1.125,
+    "sourceParentScaleWithoutLabel": 1.0553962737321854,
+    "sourceLabelScale": 1.492522954940796,
+    "pointSizeMultiplier": 1.5752031651042664,
+    "effectivePointSize": 69.30893926458772,
+    "lineSpacingMultiplier": 1.0,
+    "shadowOffset": {
+      "x": -0.42215851578352614,
+      "y": -9.181960464725307
+    },
+    "shadowColor": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  },
+  {
+    "target": "Beach UI/Safe area/Defeat panel/TRY AGAIN/Label",
+    "sourceWhite": 2810,
+    "sourceShadow": 2794,
+    "autoSizing": false,
+    "viewportScale": 1.125,
+    "sourceParentScaleWithoutLabel": 3.487813753852045,
+    "sourceLabelScale": 0.3233919143676758,
+    "pointSizeMultiplier": 1.1279307668161223,
+    "effectivePointSize": 25.773218452019833,
+    "lineSpacingMultiplier": 0.7670291352084867,
+    "shadowOffset": {
+      "x": 5.82091719555004e-05,
+      "y": -3.7561083508808397
+    },
+    "shadowColor": [
+      0.7725490927696228,
+      0.5490196347236633,
+      0.19215688109397888,
+      1.0
+    ]
+  },
+  {
+    "target": "Beach UI/Safe area/Defeat panel/Defeat RETURN HOME/Label",
+    "sourceWhite": 2706,
+    "sourceShadow": 2720,
+    "autoSizing": false,
+    "viewportScale": 1.125,
+    "sourceParentScaleWithoutLabel": 3.487813502225965,
+    "sourceLabelScale": 0.3233919143676758,
+    "pointSizeMultiplier": 1.1279306854422826,
+    "effectivePointSize": 25.773216592627566,
+    "lineSpacingMultiplier": 0.7670291352084867,
+    "shadowOffset": {
+      "x": 5.820916775603713e-05,
+      "y": -3.756099764303425
+    },
+    "shadowColor": [
+      0.25882354378700256,
+      0.6549019813537598,
+      0.27843138575553894,
+      1.0
+    ]
+  }
+]

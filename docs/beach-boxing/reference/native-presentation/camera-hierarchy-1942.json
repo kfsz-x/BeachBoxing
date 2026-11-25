@@ -1,0 +1,1106 @@
+[
+  {
+    "object": 645,
+    "name": "Camera",
+    "path": "",
+    "crc": 0,
+    "transform": 1163,
+    "position": {
+      "x": -8.699999809265137,
+      "y": 4.900000095367432,
+      "z": 6.940000057220459
+    },
+    "rotation": {
+      "x": -0.021744927391409874,
+      "y": -0.9521657228469849,
+      "z": 0.06978064030408859,
+      "w": -0.29671230912208557
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 337,
+    "name": "Camera (1)",
+    "path": "Camera (1)",
+    "crc": 3208921749,
+    "transform": 1037,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 165,
+    "name": "WinParticles",
+    "path": "WinParticles",
+    "crc": 2133608165,
+    "transform": 961,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": false
+  },
+  {
+    "object": 218,
+    "name": "Particle System",
+    "path": "WinParticles/Particle System",
+    "crc": 431733686,
+    "transform": 986,
+    "position": {
+      "x": 0.0,
+      "y": -2.299999952316284,
+      "z": 3.819999933242798
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.42283767461776733,
+      "y": 0.42283767461776733,
+      "z": 0.4228377044200897
+    },
+    "active": true
+  },
+  {
+    "object": 386,
+    "name": "Particle System (1)",
+    "path": "WinParticles/Particle System (1)",
+    "crc": 2710513568,
+    "transform": 1055,
+    "position": {
+      "x": -0.0,
+      "y": 2.549999952316284,
+      "z": 3.819999933242798
+    },
+    "rotation": {
+      "x": -1.0593795174429488e-08,
+      "y": 1.4901162970204496e-08,
+      "z": -1.0,
+      "w": 9.685755486543712e-08
+    },
+    "scale": {
+      "x": 0.42283767461776733,
+      "y": 0.42283767461776733,
+      "z": 0.4228377044200897
+    },
+    "active": true
+  },
+  {
+    "object": 596,
+    "name": "Particle System (2)",
+    "path": "WinParticles/Particle System (2)",
+    "crc": 2325902435,
+    "transform": 1140,
+    "position": {
+      "x": -0.0,
+      "y": 2.549999952316284,
+      "z": 3.819999933242798
+    },
+    "rotation": {
+      "x": -1.0593795174429488e-08,
+      "y": 1.4901162970204496e-08,
+      "z": -1.0,
+      "w": 9.685755486543712e-08
+    },
+    "scale": {
+      "x": 0.42283767461776733,
+      "y": 0.42283767461776733,
+      "z": 0.4228377044200897
+    },
+    "active": true
+  },
+  {
+    "object": 449,
+    "name": "WorldCanvas",
+    "path": "WorldCanvas",
+    "crc": 804771946,
+    "transform": 2552,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 12.875274658203125
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.2000000476837158,
+      "y": 1.2000000476837158,
+      "z": 1.100000023841858
+    },
+    "active": true
+  },
+  {
+    "object": 677,
+    "name": "UpArrows",
+    "path": "WorldCanvas/UpArrows",
+    "crc": 1839259817,
+    "transform": 2687,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": false
+  },
+  {
+    "object": 279,
+    "name": "Image",
+    "path": "WorldCanvas/UpArrows/Image",
+    "crc": 2655325321,
+    "transform": 2456,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.49619001150131226,
+      "y": 0.49619001150131226,
+      "z": 0.49619001150131226
+    },
+    "active": true
+  },
+  {
+    "object": 381,
+    "name": "Image (1)",
+    "path": "WorldCanvas/UpArrows/Image (1)",
+    "crc": 808844658,
+    "transform": 2514,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -4.063952729893572e-08
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.49619001150131226,
+      "y": 0.49619001150131226,
+      "z": 0.49619001150131226
+    },
+    "active": true
+  },
+  {
+    "object": 551,
+    "name": "StaminaBar",
+    "path": "WorldCanvas/StaminaBar",
+    "crc": 1615012679,
+    "transform": 2616,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 180,
+    "name": "BarBG",
+    "path": "WorldCanvas/StaminaBar/BarBG",
+    "crc": 3461978998,
+    "transform": 2399,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 140,
+    "name": "ICON",
+    "path": "WorldCanvas/StaminaBar/ICON",
+    "crc": 3095627788,
+    "transform": 2380,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.2259591812835424e-06
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.6000000238418579,
+      "y": 0.6000000238418579,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 418,
+    "name": "LoadingBar",
+    "path": "WorldCanvas/StaminaBar/LoadingBar",
+    "crc": 1745996783,
+    "transform": 2535,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 324,
+    "name": "Bar",
+    "path": "WorldCanvas/StaminaBar/Bar",
+    "crc": 3267925647,
+    "transform": 2478,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 267,
+    "name": "Text (TMP) (1)",
+    "path": "WorldCanvas/StaminaBar/Text (TMP) (1)",
+    "crc": 3534361993,
+    "transform": 2451,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.00814993679523468,
+      "y": 0.00814993865787983,
+      "z": 0.8149936199188232
+    },
+    "active": true
+  },
+  {
+    "object": 122,
+    "name": "HealthBar",
+    "path": "WorldCanvas/HealthBar",
+    "crc": 337125022,
+    "transform": 2367,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -2.2521078335557831e-07
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 16,
+    "name": "BarBG",
+    "path": "WorldCanvas/HealthBar/BarBG",
+    "crc": 3979207305,
+    "transform": 2308,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 676,
+    "name": "ICON",
+    "path": "WorldCanvas/HealthBar/ICON",
+    "crc": 362662139,
+    "transform": 2686,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.6000000238418579,
+      "y": 0.6000000238418579,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 69,
+    "name": "LoadingBar",
+    "path": "WorldCanvas/HealthBar/LoadingBar",
+    "crc": 1494439064,
+    "transform": 2337,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 6,
+    "name": "Bar",
+    "path": "WorldCanvas/HealthBar/Bar",
+    "crc": 3137349605,
+    "transform": 2300,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 46,
+    "name": "Text (TMP) (1)",
+    "path": "WorldCanvas/HealthBar/Text (TMP) (1)",
+    "crc": 2984579289,
+    "transform": 2326,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.00814993679523468,
+      "y": 0.00814993865787983,
+      "z": 0.8149936199188232
+    },
+    "active": true
+  },
+  {
+    "object": 380,
+    "name": "BlockBar",
+    "path": "WorldCanvas/BlockBar",
+    "crc": 2912795826,
+    "transform": 2513,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 244,
+    "name": "BG",
+    "path": "WorldCanvas/BlockBar/BG",
+    "crc": 3870492133,
+    "transform": 2434,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.2000000476837158,
+      "y": 1.2000001668930054,
+      "z": 1.2000000476837158
+    },
+    "active": true
+  },
+  {
+    "object": 687,
+    "name": "Bar",
+    "path": "WorldCanvas/BlockBar/Bar",
+    "crc": 2136070475,
+    "transform": 2692,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.2000000476837158,
+      "y": 1.2000001668930054,
+      "z": 1.2000000476837158
+    },
+    "active": true
+  },
+  {
+    "object": 473,
+    "name": "Text (TMP) (2)",
+    "path": "WorldCanvas/BlockBar/Text (TMP) (2)",
+    "crc": 2894295686,
+    "transform": 2567,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.006108682602643967,
+      "y": 0.006108684465289116,
+      "z": 0.6108608245849609
+    },
+    "active": true
+  },
+  {
+    "object": 534,
+    "name": "ENEMYWorldCanvas",
+    "path": "ENEMYWorldCanvas",
+    "crc": 1158505187,
+    "transform": 2603,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 12.875274658203125
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.100000023841858,
+      "y": 1.100000023841858,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 383,
+    "name": "UpArrows",
+    "path": "ENEMYWorldCanvas/UpArrows",
+    "crc": 2298598777,
+    "transform": 2516,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": false
+  },
+  {
+    "object": 195,
+    "name": "Image",
+    "path": "ENEMYWorldCanvas/UpArrows/Image",
+    "crc": 3196461388,
+    "transform": 2406,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.49619001150131226,
+      "y": 0.49619001150131226,
+      "z": 0.49619001150131226
+    },
+    "active": true
+  },
+  {
+    "object": 114,
+    "name": "Image (1)",
+    "path": "ENEMYWorldCanvas/UpArrows/Image (1)",
+    "crc": 2592772784,
+    "transform": 2362,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -4.063952729893572e-08
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.49619001150131226,
+      "y": 0.49619001150131226,
+      "z": 0.49619001150131226
+    },
+    "active": true
+  },
+  {
+    "object": 210,
+    "name": "StaminaBar",
+    "path": "ENEMYWorldCanvas/StaminaBar",
+    "crc": 3083388634,
+    "transform": 2415,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.4528632164001465e-07
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 129,
+    "name": "BarBG",
+    "path": "ENEMYWorldCanvas/StaminaBar/BarBG",
+    "crc": 1024181451,
+    "transform": 2372,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 504,
+    "name": "ICON",
+    "path": "ENEMYWorldCanvas/StaminaBar/ICON",
+    "crc": 1403878686,
+    "transform": 2586,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 3.3527612686157227e-07
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.6000000238418579,
+      "y": 0.6000000238418579,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 64,
+    "name": "LoadingBar",
+    "path": "ENEMYWorldCanvas/StaminaBar/LoadingBar",
+    "crc": 1132548126,
+    "transform": 2333,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 630,
+    "name": "Bar",
+    "path": "ENEMYWorldCanvas/StaminaBar/Bar",
+    "crc": 3792419658,
+    "transform": 2656,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 549,
+    "name": "Text (TMP) (1)",
+    "path": "ENEMYWorldCanvas/StaminaBar/Text (TMP) (1)",
+    "crc": 3234545664,
+    "transform": 2614,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.00814993679523468,
+      "y": 0.00814993865787983,
+      "z": 0.8149936199188232
+    },
+    "active": true
+  },
+  {
+    "object": 173,
+    "name": "HealthBar",
+    "path": "ENEMYWorldCanvas/HealthBar",
+    "crc": 2452581759,
+    "transform": 2395,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -7.992446171556367e-08
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 258,
+    "name": "BarBG",
+    "path": "ENEMYWorldCanvas/HealthBar/BarBG",
+    "crc": 100865947,
+    "transform": 2444,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 153,
+    "name": "ICON",
+    "path": "ENEMYWorldCanvas/HealthBar/ICON",
+    "crc": 895411518,
+    "transform": 2384,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 3.3527612686157227e-07
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.6000000238418579,
+      "y": 0.6000000238418579,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 14,
+    "name": "LoadingBar",
+    "path": "ENEMYWorldCanvas/HealthBar/LoadingBar",
+    "crc": 2110928674,
+    "transform": 2306,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 672,
+    "name": "Bar",
+    "path": "ENEMYWorldCanvas/HealthBar/Bar",
+    "crc": 396906896,
+    "transform": 2683,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 516,
+    "name": "Text (TMP) (1)",
+    "path": "ENEMYWorldCanvas/HealthBar/Text (TMP) (1)",
+    "crc": 1733937536,
+    "transform": 2592,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.00814993679523468,
+      "y": 0.00814993865787983,
+      "z": 0.8149936199188232
+    },
+    "active": true
+  },
+  {
+    "object": 570,
+    "name": "BlockBar",
+    "path": "ENEMYWorldCanvas/BlockBar",
+    "crc": 1228704098,
+    "transform": 2627,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 1.1646611710602883e-06
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "active": true
+  },
+  {
+    "object": 193,
+    "name": "BG",
+    "path": "ENEMYWorldCanvas/BlockBar/BG",
+    "crc": 1759142393,
+    "transform": 2405,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.2000000476837158,
+      "y": 1.2000001668930054,
+      "z": 1.2000000476837158
+    },
+    "active": true
+  },
+  {
+    "object": 488,
+    "name": "Bar",
+    "path": "ENEMYWorldCanvas/BlockBar/Bar",
+    "crc": 1809771616,
+    "transform": 2576,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.2000000476837158,
+      "y": 1.2000001668930054,
+      "z": 1.2000000476837158
+    },
+    "active": true
+  },
+  {
+    "object": 618,
+    "name": "Text (TMP) (2)",
+    "path": "ENEMYWorldCanvas/BlockBar/Text (TMP) (2)",
+    "crc": 3338257190,
+    "transform": 2648,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 0.006108682602643967,
+      "y": 0.006108684465289116,
+      "z": 0.6108608245849609
+    },
+    "active": true
+  }
+]

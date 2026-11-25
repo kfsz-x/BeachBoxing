@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-19",
+  "editor": "2021.3.14f1c1",
+  "pipeline": "Built-in",
+  "colorSpace": "Linear",
+  "editMode": {
+    "jobId": "427c72ee78684465972209c1757949f2",
+    "passed": 27,
+    "failed": 0,
+    "skipped": 0
+  },
+  "playMode": {
+    "jobId": "0b38bff2e1e54f06b745f1068e8bc9d1",
+    "passed": 21,
+    "failed": 0,
+    "skipped": 0
+  },
+  "scene": {
+    "path": "Assets/BeachBoxing/Scenes/BeachBoxing.unity",
+    "transforms": 2438,
+    "missingScripts": 0,
+    "missingMeshes": 0,
+    "unsupportedShaders": []
+  },
+  "persistence": {
+    "worldMoveSaveReopen": true,
+    "uiMoveSaveReopen": true,
+    "restoredOriginalPositions": true
+  },
+  "recordings": {
+    "training": {
+      "frames": 240,
+      "fps": 30,
+      "trained": true,
+      "exited": true
+    },
+    "combat": {
+      "frames": 360,
+      "fps": 30,
+      "blockedHits": 5,
+      "note": "Guard pursuit keeps the opponent in range; previous random clips also exposed and motivated the orbit-camera regression.",
+      "unityRandomSeed": 2468
+    }
+  },
+  "vivoBuildPerformed": false,
+  "deviceTested": false,
+  "strictPixelFrameParityPassed": false,
+  "handoffState": {
+    "playing": false,
+    "gameView": [
+      900,
+      620
+    ],
+    "captureFramerate": 0,
+    "editorEnterPlayModeOptionsEnabled": false,
+    "saveRestored": true
+  }
+}

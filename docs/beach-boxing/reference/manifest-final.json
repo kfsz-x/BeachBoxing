@@ -1,0 +1,709 @@
+{
+  "date": "2026-11-19",
+  "referenceUnity": "2022.3.34f1",
+  "replicaUnity": "2021.3.14f1c1",
+  "files": [
+    {
+      "file": "combat-button-source.json",
+      "bytes": 1514,
+      "sha256": "81db3b48afe52dfd965bda8f5e49caa4491c7ec6ecd6ee38e9d603836c4b4255",
+      "kind": "analysis"
+    },
+    {
+      "file": "combat-cameras.json",
+      "bytes": 2560,
+      "sha256": "6896a93e6f078a900f77d21fd6027706bab037322bce532505fb439ae9ebd7c0",
+      "kind": "analysis"
+    },
+    {
+      "file": "comparison-defeat.png",
+      "bytes": 406694,
+      "sha256": "287971263ff8f235e16301a743ff5b86d355f3adb865c6f615c0a2746dd83b06",
+      "dimensions": [
+        1800,
+        650
+      ],
+      "kind": "analysis"
+    },
+    {
+      "file": "comparison-selection.png",
+      "bytes": 407212,
+      "sha256": "5ef53a3349476f691a590f5cf30f4c61ade964a23713ef03d7b20b2ef993b0a3",
+      "dimensions": [
+        1800,
+        650
+      ],
+      "kind": "analysis"
+    },
+    {
+      "file": "comparison-spawn.png",
+      "bytes": 398079,
+      "sha256": "9c641fd320255007c938f971de5d49d51cb33d13e37f029c5afa34b1059b0e93",
+      "dimensions": [
+        1800,
+        650
+      ],
+      "kind": "analysis"
+    },
+    {
+      "file": "comparison-workouts.png",
+      "bytes": 1710239,
+      "sha256": "0e3a74457a9448cba233189c6043527ae56c2dea7767db5de5b57b5328561e92",
+      "dimensions": [
+        1800,
+        2600
+      ],
+      "kind": "analysis"
+    },
+    {
+      "file": "desktop-00.png",
+      "bytes": 240099,
+      "sha256": "7e0f65928fd614ce342930b0b051987fe3625bdaf498fadb08706acf1bb2280a",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "desktop-01.png",
+      "bytes": 232393,
+      "sha256": "ae6fb5ce64426c5fd86978aebba2553c4423a7b6fcc0c59e6fffe85d43b7fa9b",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "desktop-03.png",
+      "bytes": 282909,
+      "sha256": "bf94ddbc166702b66ded64d70c5430bf1e0ac2e045e8a4b072fdffe02b3f79bf",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "desktop-09.png",
+      "bytes": 194338,
+      "sha256": "b76055ce2f631f7d3a689f6dac80ef972b038c168962e785080119929eb40d9e",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "desktop-11.png",
+      "bytes": 236397,
+      "sha256": "7d1daef84160ba0609984cb7beec49cdef4db3e17845751d009f86f8f36f10a7",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "desktop-15.png",
+      "bytes": 217515,
+      "sha256": "baeb71eef94d0283b69ec9b5c35b36b0b6f8b4887e173184fe77077f7c8520a1",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "desktop-22.png",
+      "bytes": 228101,
+      "sha256": "b5c5a93b69bf978271a65033309244e9d7842a2ad45c61f81d508c1d74d9259c",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "difference-spawn.png",
+      "bytes": 313871,
+      "sha256": "99a5100cef89a006d9ff33c52c911352676a7afae9cc3082e741f521a4cbff1e",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "analysis"
+    },
+    {
+      "file": "editor-combat-walkthrough.mp4",
+      "bytes": 2905916,
+      "sha256": "c3cdc38df2f9b434ed007789e3a0628222dba01f3e89f6d19bdb946321e36ab9",
+      "kind": "replica"
+    },
+    {
+      "file": "editor-training-walkthrough.mp4",
+      "bytes": 1749001,
+      "sha256": "a205e3007eddee5b6cfebab1995c7517123695f21f0ddb8240de8fdd39794207",
+      "kind": "replica"
+    },
+    {
+      "file": "final-verification.json",
+      "bytes": 1384,
+      "sha256": "4df72a74d3550ea29db9c4911f55fd831179cf2a82c55ec37f95b75d742932fa",
+      "kind": "analysis"
+    },
+    {
+      "file": "manifest.json",
+      "bytes": 1372,
+      "sha256": "b5dc9db2dc734f9ccfc8e6922c1043b4fabc5fbf43a385067997a61d2e9d737e",
+      "kind": "analysis"
+    },
+    {
+      "file": "mobile-01.png",
+      "bytes": 157695,
+      "sha256": "3a21664df984f718f9bf6bf2b2b9543505d3b6be401c157eb0fdce3869f56e8a",
+      "dimensions": [
+        432,
+        768
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "mobile-04.png",
+      "bytes": 183601,
+      "sha256": "2a1c5773b7b8d7a3a558f47ddf5269de997a56af532b3435a4ab76bbfda9ce92",
+      "dimensions": [
+        432,
+        768
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-ambient.json",
+      "bytes": 1048,
+      "sha256": "27dc405cea501d05c4fa5ea4708a4301db3d1d8e2ebeb89c92a1e83517478e46",
+      "kind": "original"
+    },
+    {
+      "file": "original-arms-visual.mp4",
+      "bytes": 1186801,
+      "sha256": "72d8269bd909cb8b5d029ee30d7faa8d37070e002ff8b811f4feaf4fc65f9daf",
+      "kind": "original"
+    },
+    {
+      "file": "original-combat-visual.mp4",
+      "bytes": 6874976,
+      "sha256": "15cd91fd0a310bddb15ed58db3ccbb61876848d4326abee82508c93f91d283af",
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/Arms-mobile.png",
+      "bytes": 203070,
+      "sha256": "cf3da44c9b2321fbac19a9a641ebb28796e143d2451c72e29cc756d6010d8632",
+      "dimensions": [
+        432,
+        768
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/Arms.png",
+      "bytes": 296376,
+      "sha256": "a73003f5efdd19c52803443e0705201e96a590d5bdbb509237145a7b6e46e692",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/Back.png",
+      "bytes": 311129,
+      "sha256": "e25a94a9249842c1d91e60cabb017dee7554eb7e3b00f79ce76b43b921818b47",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/Chest.png",
+      "bytes": 215280,
+      "sha256": "4ab0472dcdc06d41b336a7853ced41a094dd6762bf27cc8482b3ab27f11b6ae7",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/combat-10s.png",
+      "bytes": 476813,
+      "sha256": "52066360ef5d9d7a6d623266ac73df3d214ed1a4a6d492d25bfd717c793f6f65",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/combat-12s.png",
+      "bytes": 411341,
+      "sha256": "e9f9759b86e4d13a7a28daaa633e4b4c6ace013c2b44fcc0560cf0b721fe21e0",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/combat-14s.png",
+      "bytes": 393200,
+      "sha256": "ae27f2ad88a97636748d2e6228f95a60aabca6bab7426b38fd7a3d4dcc4ffc09",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/combat-16s.png",
+      "bytes": 402875,
+      "sha256": "14809eef2168c158bc491a9b23af2a83407aa1bd0f1f4b61c931ab852188ff69",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/combat-18s.png",
+      "bytes": 408902,
+      "sha256": "45a1620e3e8b275f5225d436c83394a879a410a3814763327dae774cd603aa2a",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/Defeat.png",
+      "bytes": 244419,
+      "sha256": "2a05f4c382d18085335540fe37e5234a4226e69e7be5a3f57fa4e73e8b27887a",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/fight-live.png",
+      "bytes": 228173,
+      "sha256": "70693a68419b36811efd51c6784ddaaec5ee7a17d3e638cce4dc4fb6769cfaff",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/fight-menu.png",
+      "bytes": 229403,
+      "sha256": "f6ba400670371992fde8b6c7ea040ca3eb69720a233844357659a1d94f867b88",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/Legs.png",
+      "bytes": 199112,
+      "sha256": "51645a2152763ee470dfa092925fb0a0d2f497595b694add17014219d0324669",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/spawn.png",
+      "bytes": 223872,
+      "sha256": "c9d65ec56398ba5718d940b72d1a457b3379e12359cec82a62d13c8a736ee44c",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/spawn_wide.png",
+      "bytes": 274225,
+      "sha256": "8a7e1235b9957eb4a9e3bd809609dee68cc1002a9b5595662fc7c62be221c05c",
+      "dimensions": [
+        1136,
+        512
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-extra/Victory.png",
+      "bytes": 176460,
+      "sha256": "9171f24508df49d07167210f4bec68dd2c89f35dbfa2114bdf34f886334e2853",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "original"
+    },
+    {
+      "file": "original-mobile-training-visual.mp4",
+      "bytes": 973052,
+      "sha256": "45d11fb9d4e51b3c16ed5b2d6f0e9afa10f8975b6f40d342cad233327bc314bb",
+      "kind": "original"
+    },
+    {
+      "file": "original-scene-data.zip",
+      "bytes": 248873,
+      "sha256": "b2d29a66d631ca63a940a82357c31f3ebf64dcf83ea141c470b5d173af539d89",
+      "kind": "original"
+    },
+    {
+      "file": "overlay-spawn.png",
+      "bytes": 243166,
+      "sha256": "e72579092ca1e156df08684c04f84c99a8e0cb4ed6520116ac924410c4fce0c4",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "analysis"
+    },
+    {
+      "file": "replica-countdown.png",
+      "bytes": 152109,
+      "sha256": "05cadb10403c4557ce801297503a468bea5ab99fc342762580fd6d20918d8748",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-defeat.png",
+      "bytes": 211551,
+      "sha256": "bda2c974e5e614fb901d6e8a828bec55f39ba506f0c74ff4108b12e71581f9cc",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-desktop-font-fixed.png",
+      "bytes": 307953,
+      "sha256": "00f5bd75dc71f81cb378f0ef9b04c28c2e4591e4caec4fbe5d871f360d280ec3",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-desktop-restored.png",
+      "bytes": 316937,
+      "sha256": "37f0dce15ad6ae911257da87f9af9ea9a14b8ecd7b084f29cebc3a5aee290edd",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-desktop-workout-preserved.png",
+      "bytes": 295785,
+      "sha256": "80cdfc117cc0dca768940fd75997aa8f2db8093f265ea7ea1e753907eb931ee6",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-fight-live.png",
+      "bytes": 226169,
+      "sha256": "050a032de48c82de3e17f66f117ceac52b518de9d223070a3361ed7afb5149d2",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-fight-source-camera.png",
+      "bytes": 237253,
+      "sha256": "ae8bfee8657d95600d85d45c00618c6fd086d6b5a122d3720ca77a1b0c11a218",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-final-desktop-1.png",
+      "bytes": 237077,
+      "sha256": "d3d69f9253bad312bd8d0b883935fa55e613bdadb26f9b58744db2e4cfeb5f07",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-final-desktop.png",
+      "bytes": 235200,
+      "sha256": "0d7e308a5c08ab3c121d9d3f8b5b8ca1f887dc65c1a909736b00364adf5be38d",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-live-world.png",
+      "bytes": 820331,
+      "sha256": "b3cbd536aee572950ad08cb72b2081104815e5e51d6f7a2ccb6c2725916097f3",
+      "dimensions": [
+        2400,
+        1080
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-mobile-fight.png",
+      "bytes": 134985,
+      "sha256": "57a68349dbc41c047d2473f64b4af72a204d73b5a249fc6ba40423fd2c9090cf",
+      "dimensions": [
+        432,
+        768
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-mobile-selection.png",
+      "bytes": 98564,
+      "sha256": "3b09ad85c99ff039d2327c3c3d5e083d57016e2cfc8a36c9afebf12d44b5168c",
+      "dimensions": [
+        432,
+        768
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-mobile-spawn.png",
+      "bytes": 162353,
+      "sha256": "39f728a3abadec095ceee20bcd43ed5a928578991d62347a35497fc2261b1a30",
+      "dimensions": [
+        432,
+        768
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-mobile-workout-final.png",
+      "bytes": 198177,
+      "sha256": "03db11272783d144ac684ed40ad2f81117244c6378497a381bf5ffe043f68952",
+      "dimensions": [
+        432,
+        768
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-mobile-workout-layout.png",
+      "bytes": 204086,
+      "sha256": "da77205c77826010de07b35c7fedcd935c1b4ceeda1a8bbcdba922f5ab14eb4d",
+      "dimensions": [
+        432,
+        768
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-pause.png",
+      "bytes": 160262,
+      "sha256": "7948c8620a059eb2f5f382b9a83c345bf3507a11b56810d82d34e365dffea67d",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-picker-desktop-1.png",
+      "bytes": 257830,
+      "sha256": "dd0eb34ffeee242f2feadf77d82bc3725af9e299cac177e2fd8d525197450679",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-picker-desktop.png",
+      "bytes": 259185,
+      "sha256": "60bb9a865a99295fd1afad3cf77efe662029df5613a25f86f24b8e2e309e724f",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-picker-kyle-mobile.png",
+      "bytes": 183373,
+      "sha256": "da7e87a46f3a6fac580b92a75725d19fa750fd9e5575dd89cb11b1fb9927984f",
+      "dimensions": [
+        432,
+        768
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-picker-layout-desktop.png",
+      "bytes": 263352,
+      "sha256": "245c302ffffeebd3b1cd138a3f71964fe578b036e8b9610ad4abf24fde099efa",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-picker-mobile.png",
+      "bytes": 181256,
+      "sha256": "3b7b2e8727c49c666bf893ad92ff778f8f281f2b10d0706e25b8fadb5f9fdc59",
+      "dimensions": [
+        432,
+        768
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-selection.png",
+      "bytes": 212297,
+      "sha256": "775562f52304bd797a81834bdac0214f0bba3ef1414866eae59aa34049988403",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-spawn-camera.png",
+      "bytes": 389604,
+      "sha256": "6c67f90cb67376150780703b97e972311cc4c618a47b149d083307c0cc30fc04",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-spawn-fixed.png",
+      "bytes": 295518,
+      "sha256": "05b4e152a313772fd9e4d8beec4fe5f11a2d1154927e0f65edac50330a04c19e",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-victory.png",
+      "bytes": 187349,
+      "sha256": "ccaede8265e8ed6ab57fa38ce5f9fd3ffb067173b101feaebc516477f52972b7",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-wide-spawn.png",
+      "bytes": 252043,
+      "sha256": "a58e9c93156307a88e748f372dd5bdc93dbed908581d0759fdb7d186b72828bf",
+      "dimensions": [
+        1136,
+        512
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-workout-Arms.png",
+      "bytes": 256686,
+      "sha256": "958ecde52eaa7dbf426416996b0026927d5f7c8647293f1bef2ef68a00de9e5a",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-workout-Back.png",
+      "bytes": 275573,
+      "sha256": "2948d1664c74d823431fa4a0930cf0ca3cba4c8d9171dd12f7f4cf7962943514",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-workout-Chest.png",
+      "bytes": 184129,
+      "sha256": "b7eb875b38cd8c4f63728553b55b9b33bd019ea5793b45d6bcbce7813ae57524",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-workout-Legs.png",
+      "bytes": 164506,
+      "sha256": "141cca53ace6b3a8b272e158a431d31b3b99211e479bffd0609bec29dbd6b0e5",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-world-before-light.png",
+      "bytes": 75781,
+      "sha256": "1356d53d46f886bf80dfd731978c2165b0fcaf1e0651d0918923b07f0ec5b9a7",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "replica-world-restored.png",
+      "bytes": 271890,
+      "sha256": "a7df99f8d54bd73fcffc0aec94481e88af162cc7404fc28bef414a902f4725f2",
+      "dimensions": [
+        900,
+        620
+      ],
+      "kind": "replica"
+    },
+    {
+      "file": "workout-cameras.json",
+      "bytes": 824,
+      "sha256": "1a2ed25bc9a09ad5a4bde606918d0755f61aa8a775aeb20eddc498485561700b",
+      "kind": "analysis"
+    }
+  ]
+}

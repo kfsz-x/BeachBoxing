@@ -1,0 +1,105 @@
+{
+  "viewport": [
+    900,
+    620
+  ],
+  "source": "reference/native-presentation/defeat-10.png",
+  "replicaBefore": "reference/replica-presentation/defeat-result-6.00.png (before final position correction)",
+  "method": "White glyph pixels min(R,G,B)>230 inside isolated panel text rectangles; compare glyph-ink centers, not whole randomized frame.",
+  "labels": [
+    {
+      "label": "title",
+      "sourceBounds": [
+        366,
+        175,
+        568,
+        219
+      ],
+      "beforeBounds": [
+        375,
+        178,
+        577,
+        222
+      ],
+      "anchoredDelta": [
+        -9,
+        3
+      ],
+      "finalBounds": [
+        366,
+        175,
+        568,
+        219
+      ],
+      "edgeErrors": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "retry",
+      "sourceBounds": [
+        449,
+        275,
+        523,
+        317
+      ],
+      "beforeBounds": [
+        458,
+        280,
+        533,
+        320
+      ],
+      "anchoredDelta": [
+        -9.5,
+        4
+      ],
+      "finalBounds": [
+        448,
+        276,
+        523,
+        316
+      ],
+      "edgeErrors": [
+        -1,
+        1,
+        0,
+        -1
+      ]
+    },
+    {
+      "label": "home",
+      "sourceBounds": [
+        445,
+        365,
+        529,
+        407
+      ],
+      "beforeBounds": [
+        453,
+        371,
+        538,
+        411
+      ],
+      "anchoredDelta": [
+        -8.5,
+        5
+      ],
+      "finalBounds": [
+        445,
+        366,
+        530,
+        406
+      ],
+      "edgeErrors": [
+        0,
+        1,
+        1,
+        -1
+      ]
+    }
+  ],
+  "scope": "Only three saved foreground RectTransforms; the explicit font migration copies their placement to the three preplaced source shadows without duplicating nodes."
+}

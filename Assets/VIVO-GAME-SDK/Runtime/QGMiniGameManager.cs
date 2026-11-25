@@ -1320,7 +1320,7 @@ namespace QGMiniGame
         public void AdOnErrorCallBack(string msg)
         {
             var res = JsonUtility.FromJson<QGBaseResponse>(msg);
-            var ad = QGBaseAd.QGAds[res.callbackId];
+            if (res == null || string.IsNullOrEmpty(res.callbackId) || !QGBaseAd.QGAds.TryGetValue(res.callbackId, out var ad)) return;
             if (ad != null)
             {
                 ad.onErrorAction?.Invoke(res);
@@ -1330,7 +1330,7 @@ namespace QGMiniGame
         public void AdOnLoadCallBack(string msg)
         {
             var res = JsonUtility.FromJson<QGBaseResponse>(msg);
-            var ad = QGBaseAd.QGAds[res.callbackId];
+            if (res == null || string.IsNullOrEmpty(res.callbackId) || !QGBaseAd.QGAds.TryGetValue(res.callbackId, out var ad)) return;
             if (ad != null)
             {
                 ad.onLoadAction?.Invoke();
@@ -1340,7 +1340,7 @@ namespace QGMiniGame
         public void AdOnCloseCallBack(string msg)
         {
             var res = JsonUtility.FromJson<QGBaseResponse>(msg);
-            var ad = QGBaseAd.QGAds[res.callbackId];
+            if (res == null || string.IsNullOrEmpty(res.callbackId) || !QGBaseAd.QGAds.TryGetValue(res.callbackId, out var ad)) return;
             if (ad != null)
             {
                 ad.onCloseAction?.Invoke();
@@ -1350,7 +1350,7 @@ namespace QGMiniGame
         public void AdOnHideCallBack(string msg)
         {
             var res = JsonUtility.FromJson<QGBaseResponse>(msg);
-            var ad = QGBaseAd.QGAds[res.callbackId];
+            if (res == null || string.IsNullOrEmpty(res.callbackId) || !QGBaseAd.QGAds.TryGetValue(res.callbackId, out var ad)) return;
             if (ad != null)
             {
                 ad.onHideAction?.Invoke();
@@ -1360,7 +1360,7 @@ namespace QGMiniGame
         public void AdOnShowCallBack(string msg)
         {
             var res = JsonUtility.FromJson<QGBaseResponse>(msg);
-            var ad = QGBaseAd.QGAds[res.callbackId];
+            if (res == null || string.IsNullOrEmpty(res.callbackId) || !QGBaseAd.QGAds.TryGetValue(res.callbackId, out var ad)) return;
             if (ad != null && ad is QGBoxPortalAd)
             {
                 ((QGBoxPortalAd)ad).onShowAction?.Invoke();
@@ -1370,7 +1370,7 @@ namespace QGMiniGame
         public void NativeAdOnLoadCallBack(string msg)
         {
             var res = JsonUtility.FromJson<QGNativeResponse>(msg);
-            var ad = QGBaseAd.QGAds[res.callbackId];
+            if (res == null || string.IsNullOrEmpty(res.callbackId) || !QGBaseAd.QGAds.TryGetValue(res.callbackId, out var ad)) return;
             if (ad != null && ad is QGNativeAd)
             {
                 ((QGNativeAd)ad).onLoadNativeAction?.Invoke(res);
@@ -1381,7 +1381,7 @@ namespace QGMiniGame
         public void RewardedVideoAdOnCloseCallBack(string msg)
         {
             var res = JsonUtility.FromJson<QGRewardedVideoResponse>(msg);
-            var ad = QGBaseAd.QGAds[res.callbackId];
+            if (res == null || string.IsNullOrEmpty(res.callbackId) || !QGBaseAd.QGAds.TryGetValue(res.callbackId, out var ad)) return;
             if (ad != null && ad is QGRewardedVideoAd)
             {
                 ((QGRewardedVideoAd)ad).onCloseRewardedVideoAction?.Invoke(res);
@@ -1391,7 +1391,7 @@ namespace QGMiniGame
         public void RewardedVideoAdOnRewardCallBack(string msg)
         {
             var res = JsonUtility.FromJson<QGRewardedVideoResponse>(msg);
-            var ad = QGBaseAd.QGAds[res.callbackId];
+            if (res == null || string.IsNullOrEmpty(res.callbackId) || !QGBaseAd.QGAds.TryGetValue(res.callbackId, out var ad)) return;
             if (ad != null && ad is QGRewardedVideoAd)
             {
                 ((QGRewardedVideoAd)ad).onRewardedVideoAction?.Invoke(res);

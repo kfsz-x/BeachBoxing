@@ -1,0 +1,21 @@
+{
+  "width": 414,
+  "height": 734,
+  "dpr": 1,
+  "canvas": [
+    {
+      "width": 414,
+      "height": 734,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 414,
+        "height": 734,
+        "top": 0,
+        "right": 414,
+        "bottom": 734,
+        "left": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "source": ".superpowers/sdd/2026-11-20-remaining-native-parity/evidence/native-combat-presentation-2026-11-20.json",
+  "tracks": [
+    {
+      "name": "Cam_Punch1",
+      "duration": 0.26666668,
+      "fov": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 60.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          },
+          {
+            "time": 0.1,
+            "value": 58.2,
+            "inSlope": 6.4921373e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          },
+          {
+            "time": 0.26666668,
+            "value": 60.0,
+            "inSlope": 5.3445533e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          }
+        ]
+      },
+      "pitch": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 8.383,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          },
+          {
+            "time": 0.1,
+            "value": 9.383,
+            "inSlope": -8.940697e-07,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          },
+          {
+            "time": 0.26666668,
+            "value": 8.383,
+            "inSlope": 1.3907695e-07,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          }
+        ]
+      },
+      "yaw": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": -214.616,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          },
+          {
+            "time": 0.1,
+            "value": -215.616,
+            "inSlope": 8.940697e-07,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          },
+          {
+            "time": 0.26666668,
+            "value": -214.616,
+            "inSlope": -1.3907695e-07,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cam_Punch2",
+      "duration": 0.26666668,
+      "fov": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 60.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          },
+          {
+            "time": 0.1,
+            "value": 58.2,
+            "inSlope": 6.4921373e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          },
+          {
+            "time": 0.26666668,
+            "value": 60.0,
+            "inSlope": 5.3445533e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          }
+        ]
+      },
+      "pitch": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": 8.383,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          },
+          {
+            "time": 0.1,
+            "value": 9.383,
+            "inSlope": -8.940697e-07,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          },
+          {
+            "time": 0.26666668,
+            "value": 8.383,
+            "inSlope": 1.3907695e-07,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          }
+        ]
+      },
+      "yaw": {
+        "keys": [
+          {
+            "time": 0.0,
+            "value": -214.616,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          },
+          {
+            "time": 0.1,
+            "value": -213.616,
+            "inSlope": -8.940697e-07,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          },
+          {
+            "time": 0.26666668,
+            "value": -214.616,
+            "inSlope": 1.3907695e-07,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334,
+            "weightedMode": 0
+          }
+        ]
+      }
+    }
+  ]
+}

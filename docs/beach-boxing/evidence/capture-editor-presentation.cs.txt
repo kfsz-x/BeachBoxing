@@ -1,0 +1,67 @@
+// Unity MCP execute_code method body. Enter the populated gameplay scene in Play first.
+// Captures use real clocks. Forced zero HP is a diagnostic knockout trigger, not a combat-balance result.
+// If interrupted, restore the progress JSON saved in replica-presentation/save-backup.json before further play.
+
+Application.runInBackground=true;
+EditorWindow.GetWindow(typeof(Editor).Assembly.GetType("UnityEditor.GameView")).Focus();
+var flow=UnityEngine.Object.FindObjectOfType<BeachBoxing.BeachGameFlow>();
+var flags=System.Reflection.BindingFlags.NonPublic|System.Reflection.BindingFlags.Instance;
+flow.GetType().GetField("focused",flags).SetValue(flow,true);
+var player=GameObject.Find("Player").transform;
+var data=new SerializedObject(flow);
+var entry=(Transform)data.FindProperty("stage.ringEntry").objectReferenceValue;
+var timeline=(BeachBoxing.BeachPresentationTimeline)flow.GetType().GetField("presentationTimeline",flags).GetValue(flow);
+var storage=UnityCore.CoreRoot.Current.Storage;
+string backup=storage.GetString("beachBoxing.progress");
+string folder="D:/Desktop/BeachBoxing/docs/beach-boxing/reference/replica-presentation";
+System.IO.Directory.CreateDirectory(folder);
+System.IO.File.WriteAllText(folder+"/save-backup.json",backup??"");
+var samples=new System.Collections.Generic.List<string>();
+int placed=flow.GetComponentsInChildren<Transform>(true).Length;
+int step=0,index=0,outcome=0;
+double next=EditorApplication.timeSinceStartup+.4,start=0;
+float[] opening={.75f,1.75f,2.75f,3.75f,4.5f};
+float[] resultTimes={.05f,.5f,1f,2f,3f,4f,5f,6f};
+System.Action<string> shot=name=>{
+ScreenCapture.CaptureScreenshot(folder+"/"+name+".png");
+samples.Add("{\"name\":\""+name+"\",\"openingTime\":"+timeline.OpeningTime.ToString(System.Globalization.CultureInfo.InvariantCulture)+",\"resultTime\":"+timeline.ResultTime.ToString(System.Globalization.CultureInfo.InvariantCulture)+",\"timeScale\":"+Time.timeScale.ToString(System.Globalization.CultureInfo.InvariantCulture)+",\"wall\":"+(EditorApplication.timeSinceStartup-start).ToString(System.Globalization.CultureInfo.InvariantCulture)+"}");
+};
+System.Action<string> invoke=name=>flow.GetType().GetMethod(name,flags).Invoke(flow,null);
+EditorApplication.CallbackFunction capture=null;
+capture=()=>{
+if(!Application.isPlaying||!flow){EditorApplication.update-=capture;return;}
+double now=EditorApplication.timeSinceStartup;
+if(now<next)return;
+if(step==0){start=now;shot("spawn");step=1;next=now+.3;return;}
+if(step==1){player.position=entry.position;invoke("LocateInteraction");invoke("Interact");step=2;next=now+.3;return;}
+if(step==2){shot("selection");step=3;next=now+.2;return;}
+if(step==3){invoke("BeginFight");step=4;index=0;return;}
+if(step==4){
+if(!timeline.OpeningActive)return;
+if(index<opening.Length&&timeline.OpeningTime>=opening[index]){shot((outcome==0?"defeat":"victory")+"-opening-"+index);index++;}
+if(!timeline.OpeningComplete)return;
+var fight=(BeachBoxing.FightController)flow.GetType().GetField("fight",flags).GetValue(flow);
+typeof(BeachBoxing.FighterState).GetProperty("Health").SetValue(outcome==0?fight.Player:fight.Enemy,0f,null);
+step=5;index=0;return;
+}
+if(step==5){if(!timeline.ResultActive)return;start=now;step=6;return;}
+if(step==6){
+if(index<resultTimes.Length&&now-start>=resultTimes[index]){shot((outcome==0?"defeat":"victory")+"-result-"+resultTimes[index].ToString("0.00",System.Globalization.CultureInfo.InvariantCulture));index++;}
+if(index<resultTimes.Length)return;step=7;next=now+.25;return;
+}
+if(step==7){invoke("Home");step=8;next=now+.5;return;}
+if(step==8){
+if((BeachBoxing.BeachPhase)flow.GetType().GetField("phase",flags).GetValue(flow)!=BeachBoxing.BeachPhase.Training)return;
+shot(outcome==0?"defeat-home":"victory-home");
+if(outcome==0){outcome=1;step=1;next=now+.3;return;}
+storage.SetString("beachBoxing.progress",backup??"");storage.Save();
+flow.GetType().GetField("progress",flags).SetValue(flow,new BeachBoxing.ProgressStore(storage).Load());
+bool unchanged=placed==flow.GetComponentsInChildren<Transform>(true).Length;
+System.IO.File.WriteAllText(folder+"/capture.json","{\"viewport\":["+Screen.width+","+Screen.height+"],\"samePlacedObjects\":"+unchanged.ToString().ToLowerInvariant()+",\"saveRestored\":true,\"samples\":["+string.Join(",",samples.ToArray())+"]}");
+EditorApplication.update-=capture;
+Debug.Log("Presentation source-clock sequence captured; progress restored; objects unchanged="+unchanged);
+}
+};
+EditorApplication.update+=capture;
+return "Capturing opening, actual KO recovery, both results and Home through normal clocks.";
+

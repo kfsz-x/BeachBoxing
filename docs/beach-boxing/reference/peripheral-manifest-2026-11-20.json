@@ -1,0 +1,2323 @@
+{
+  "date": "2026-11-20",
+  "target": "1920x1080 landscape",
+  "files": [
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachAmbientNpcRestore.cs",
+      "bytes": 4589,
+      "sha256": "27d4ccab9fe491f40af3d95808dfa735b80309a5989cfdf115f1c8d6a9b7d709"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachAmbientNpcRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "2b0f8df1c00dadc47288b5fcd02e208b637290e249471d6e8e29b874ba14ab7a"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachBoxingBuild.cs",
+      "bytes": 1808,
+      "sha256": "99cd01801d80ff8313b99daf45f13bcf5f43f6e06ecc2dd61c5f77479066cfd9"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachBoxingBuild.cs.meta",
+      "bytes": 243,
+      "sha256": "f5531e0de42c98e202058d8aa4a75fae2004ff12ede51d1de7fd0c174cb25c00"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachColliderRestore.cs",
+      "bytes": 9276,
+      "sha256": "b9e48817a00decd0ba8897013d1350950612e94d3d95d9e78725969c31914f4a"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachColliderRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "498c54445e00cd00b6febc5c71d5f35d5f692c470c8c15375be78f0de04a31e9"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachFontParityRestore.cs",
+      "bytes": 16365,
+      "sha256": "baf82a8722bb0b682766be31520dd070d6df2f76d58c6f2684b337cb8e452684"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachFontParityRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "ecb5859976d7e9edbe29e7da5147e391c9138ca83f178ddd1b501f27e60c934e"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachLightingRestore.cs",
+      "bytes": 6584,
+      "sha256": "53c267ddff322162359983ad027eaac48f2cecdf76c9f8a873921ef51e84a712"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachLightingRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "6f55154f74ebf49807617831315e7ba2fd9941edcbe97f15ca185ae00b74ff20"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachMobileWorkoutRestore.cs",
+      "bytes": 5940,
+      "sha256": "acfee77c09abf9bab4568a0ba7c162e43b79f412e10e9e77efa3f78d959e6b78"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachMobileWorkoutRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "cc64c5b7716a435887df0228cf9b18ec098cd9743e0e56cb662bf711053283f1"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachMuscleRestore.cs",
+      "bytes": 6583,
+      "sha256": "b505f5471d34c43187a7568ba7047a0fdf6cdf553cf60b1837f28c3f816bdab7"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachMuscleRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "55c521beb40c0e3b32be05ed4fc931b1a627c243ff0ca6192087acea8d1cc056"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachOpponentPickerRestore.cs",
+      "bytes": 10281,
+      "sha256": "37875a1c238e7cd88aaf22949d25a67e64f6ab254252cf40e5da9bd810a51e44"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachOpponentPickerRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "027a4947321bb722e02c79ad1b0b78eed636d93ead5b9b7d7331d6bf0deb172a"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachOriginalHudRestore.cs",
+      "bytes": 28855,
+      "sha256": "e8f159ea67717f9e6910218d174807360454a2050b535a2715827f5b4043fe31"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachOriginalHudRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "7e79b9fa9e38a857882d4d26ee2adc30c7495e56aa8521240a6b3c0960e000a6"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachPeripheralRestore.cs",
+      "bytes": 24885,
+      "sha256": "ae9ee14f1ec4cc9fb629a3de198b3ca613d33922178cd7b8bb6ef54a6b99d187"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachPeripheralRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "06a1293969e50d0ab34f15bd027054d0a102fa0274b7b108fbf91f4c20e4e025"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachPlayerNamesRestore.cs",
+      "bytes": 2231,
+      "sha256": "c846a18bb0834dfa6428264f9a64dd6b600bd0e30d2f4a3dfb8fef15cc311848"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachPlayerNamesRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "5422ac6b66011a157bf6a671c3b165da18adce023809e13d467d5211b30553a3"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachReferenceCapture.cs",
+      "bytes": 12306,
+      "sha256": "5a368db43d7a87e6a857fb4cb2e808f1088a393fbfe119733f5cc9bd0f10a8ec"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachReferenceCapture.cs.meta",
+      "bytes": 243,
+      "sha256": "83956c496e40746cb4431cda44003f5e154a7058a3175eabf33c59414e221c71"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachTrainerRestore.cs",
+      "bytes": 6817,
+      "sha256": "25b2c348208043972521925d278cdbb775b8261421bec35f6addf1bef6e5106b"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachTrainerRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "63e60e535e01e0c595194d6e118e91cbb4f57d37b70804e621c3bdc3134f7bf2"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachTransitionRestore.cs",
+      "bytes": 20298,
+      "sha256": "df6e1569fcf93ebb221402f2f9e962fd4fd274657224c946fc7e65469ea5d707"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/BeachTransitionRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "fda5efb3218a6ec30c37c07a74fb338c6296586dd2b5a1762cb54aca4e51adef"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/OriginalWorldRestore.cs",
+      "bytes": 5066,
+      "sha256": "acefcda8d58e3ec4029d0734f014e56fb43f81afb1a0fcd64e3fc174a622887f"
+    },
+    {
+      "path": "Assets/BeachBoxing/Editor/OriginalWorldRestore.cs.meta",
+      "bytes": 243,
+      "sha256": "5176945316b96a31a89623be82bf1978fa522e67b7ccfe6813e8baf0b78b317b"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeAudio.meta",
+      "bytes": 172,
+      "sha256": "4a558e33a4c42147a5f492d416704844bd25a43be18d811ede45dc092eaf7099"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeAudio/native-ui-356.wav",
+      "bytes": 76368,
+      "sha256": "6fcc68942b6060515506c171078386e36d6221b93f97321867ba191279a567ad"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeAudio/native-ui-356.wav.meta",
+      "bytes": 458,
+      "sha256": "469e5e9ea7505b587929be9bac7965337520166582b3d4bcaf7b5a8227cea1a7"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeAudio/native-ui-360.wav",
+      "bytes": 94544,
+      "sha256": "4a7eb80fb6fa785aa004e6eacda1ac4e17e0b328ba548de695b6bf4b926b5d54"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeAudio/native-ui-360.wav.meta",
+      "bytes": 458,
+      "sha256": "e74833f584cc8ddb80bf6f1de7b781d7e03c9cf9b2bf3f3e89be2474e94e17f4"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeAudio/native-ui-361.wav",
+      "bytes": 76368,
+      "sha256": "c563844185339c4708e354dec6e058630676373b1315bea8e83a9bff3dd0b7cc"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeAudio/native-ui-361.wav.meta",
+      "bytes": 458,
+      "sha256": "4bda018679b14bfa950545246e2d53d08560e5634f252fb01803533011349302"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeMenuClose.anim",
+      "bytes": 5020,
+      "sha256": "4ed167a2f784b28b8d128724068a29a39ec5363b69468ce05f226970ffe75f9e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeMenuClose.anim.meta",
+      "bytes": 188,
+      "sha256": "ed7ac5639a8777947ec7198e930fca5563fbf2fe4bb06bed907a5439aae9c11f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeMenuOpen.anim",
+      "bytes": 5964,
+      "sha256": "ebcf9c1ad8ff0a253fc7f4c81a6844816d8dc135e03ed8725957d4307b55adf1"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeMenuOpen.anim.meta",
+      "bytes": 188,
+      "sha256": "0f013d941d52aa6c0e254ed26debb495d935ef2757aae00b063ef3ded2394143"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativePeripheralUi.json",
+      "bytes": 475589,
+      "sha256": "1d442e00be203e7c8cba8d3618f4a5657ef000610908b88cb6a63755cf7aed87"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativePeripheralUi.json.meta",
+      "bytes": 158,
+      "sha256": "4d356827dd3078964b450a12d242880b5d82e46d438f7f597a54c93b15f07c28"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites.meta",
+      "bytes": 172,
+      "sha256": "3dd017f1c665bd903e14a15976267e231f33b4a7487764ecab2d9825a7ab2bfd"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/AdIcon.png",
+      "bytes": 3881,
+      "sha256": "beb03c365e7bc409025e10e4250da5a68b4d53d27793ac2ec75458462407717d"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/AdIcon.png.meta",
+      "bytes": 3213,
+      "sha256": "609c71569761246de62c2a8439860b10a654e95616444b111931aeebb4dbeace"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/aRmwad 1.png",
+      "bytes": 15456,
+      "sha256": "32240e6efea154babce9970053494f2a63628c25958d8e17576c50cc6679c544"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/aRmwad 1.png.meta",
+      "bytes": 3213,
+      "sha256": "ad4d7869ff52990605898e4cbf12661c8688c92fce6a73c3f87002771c7791c7"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/aRmwad 2.png",
+      "bytes": 9373,
+      "sha256": "af226d6ae5802672a16dabab50604c824e8371dba31ce7b276dd3995dc98cab8"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/aRmwad 2.png.meta",
+      "bytes": 3213,
+      "sha256": "ef1fb0b3c25feabd555b668e8cc24c38822d127fda4f3cecce3d4b1932aee99f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/aRmwad 3.png",
+      "bytes": 11383,
+      "sha256": "9da926fa850e109f57aa225abdccab6f3d9dc46bc939f7988e0cf1acb853b094"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/aRmwad 3.png.meta",
+      "bytes": 3213,
+      "sha256": "9d31a2c936d1343df20cc0c22ce90863567a1f0bc9f8648798795556352bbacc"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/aRmwad.png",
+      "bytes": 11402,
+      "sha256": "ad83e02c330a071550467d039c3c74acf5aa130f11acb201d4c88e6510a40141"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/aRmwad.png.meta",
+      "bytes": 3213,
+      "sha256": "ca9cd3707290a8bf2e22b8508f74329f4325dded899107da7f3d16042ed58fd6"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/arrowDown.png",
+      "bytes": 330,
+      "sha256": "3f13cecaedccf039ef56059917d75d6a7e880b6980a90ec48e2948e65e7ce00f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/arrowDown.png.meta",
+      "bytes": 3207,
+      "sha256": "fdb89efe233356237b948b3ea4671d7cdee0d0f9b4f934790571db2105c5664c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Background.png",
+      "bytes": 196,
+      "sha256": "2573f496b91bbdfd698c8a791afd5e5ee4abf47a2e2292360990b5eda1ab6e39"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Background.png.meta",
+      "bytes": 3214,
+      "sha256": "2e415108b9c53b579bb6952f5770103268cae9718c91f5f3452ce958a6c7f814"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/BG 1.png",
+      "bytes": 5887,
+      "sha256": "8393f05581586d0ce260c6287e445d73dfb93aee667e0dca6a5557547ee05152"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/BG 1.png.meta",
+      "bytes": 3213,
+      "sha256": "4c80c947938f46aedf71701be2c6d7992c1e33108fe597e6adc92219ded1d2c7"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/BG 2.png",
+      "bytes": 1298,
+      "sha256": "39dfb8a477b189f233eac9406aa57df6dfac1949134db154fb64453735bbaf60"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/BG 2.png.meta",
+      "bytes": 3213,
+      "sha256": "a4af87e3705caf2282c1c562e7d6c401b9bbf5cd0acafcefa2d5810f15295512"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/BigGuy.png",
+      "bytes": 30798,
+      "sha256": "94a1320302fb54eae8bc4160f98e43269cf07ea828f4e596f7598bb0b98388ae"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/BigGuy.png.meta",
+      "bytes": 3206,
+      "sha256": "45b1a3b80253016f431d1de4624e892116c67aff7256e9ae954e9d563b6771b9"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Coin.png",
+      "bytes": 13816,
+      "sha256": "f8a86072f34351129e96fcde5100f81e17a340ede97171e2d4cbbd6c9514463e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Coin.png.meta",
+      "bytes": 3213,
+      "sha256": "c77a642d3b987dd58519787ff38d79d9b81abf569ec049f47e7c68dbf3aaf1e6"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/CountBG (4).png",
+      "bytes": 2335,
+      "sha256": "cd11286896f69cf7723ceb63e4210155d3668c368cf836ef4de3cd69d54efa4c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/CountBG (4).png.meta",
+      "bytes": 3213,
+      "sha256": "30c2d9f81ded75b408eb28774067a12a3ea6fce454d4a51eb429507ff482649b"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/CountBG FillAmount.png",
+      "bytes": 1234,
+      "sha256": "11f62b38a3b1e93a74663193a63b66f448282304cdd9b448861089cbd6475bc0"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/CountBG FillAmount.png.meta",
+      "bytes": 3213,
+      "sha256": "ffb942de439033579d41299d14465899e55bbb720879b7e6594cd78ab93a6f94"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/CountBG Full.png",
+      "bytes": 1890,
+      "sha256": "6286683dccac28aa6bde68f8283f110e05493ec193be3ac2cc77e4088e6d17eb"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/CountBG Full.png.meta",
+      "bytes": 3213,
+      "sha256": "24eb88fceb32e4ffac975c11dfe8cb3cbba451dd23faf69e8b675f6d368c814e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/crosshair026.png",
+      "bytes": 495,
+      "sha256": "c1e5b12f859c6f4779763206a980a92ddbbe67928902ac1a993107e54aa1f1c0"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/crosshair026.png.meta",
+      "bytes": 3207,
+      "sha256": "2bbd550fcd680d02e288010cda1dfff3127871e616e80ce636825ada7264569a"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/DailyRewardsBTN.png",
+      "bytes": 7333,
+      "sha256": "e973f08a638ed2dc3bbb6cf4b06ab17373c0abb8a02eae416e4f97c492e47840"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/DailyRewardsBTN.png.meta",
+      "bytes": 3213,
+      "sha256": "7b8d794b43cb00eb6a6060f73423a087adb58d249e198be1fd0a4b8c6e398698"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/FadeCircle.png",
+      "bytes": 12103,
+      "sha256": "9e3b049290401a0fb8bc5573e97ef4103aaeecaa2c96a2646b044e11639ec253"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/FadeCircle.png.meta",
+      "bytes": 3213,
+      "sha256": "a3b0a61e8ee222d2a0b0150564b06af21abd442203077aad81736dff42b0e72f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/fades.png",
+      "bytes": 7657,
+      "sha256": "3837a626daa8259a75f48c359192660e9996ec84a0c3c5fac04c9b43611ac564"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/fades.png.meta",
+      "bytes": 3213,
+      "sha256": "2f7ab3941590901faed077803b16683ac46c63ff46e6b2ff3ce8d818bbbe7777"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Finger.png",
+      "bytes": 1802,
+      "sha256": "4ef2245187a722efcc9d5fe68fc7f3211b97ecd3c76ca1d3b7f2aa614e832b1e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Finger.png.meta",
+      "bytes": 3207,
+      "sha256": "95baf5f2e00af881c5aefda7ffe5daa36dfde0fd4c60a4bb26dc085317481237"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Gem.png",
+      "bytes": 18407,
+      "sha256": "6f7f8b26c6e4301a5985e7238511df77cb440f2ea095f1fc2454d3a4bdfc89a1"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Gem.png.meta",
+      "bytes": 3213,
+      "sha256": "d8381c3a7006ba23e634e4fee3f4b3e88284351bdfc56437e04b8b088c493a88"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Glow.png",
+      "bytes": 13555,
+      "sha256": "374c3a75564eeab33a667a3844546b1a2567c3535b6d1557a6b8a178b1b36bc9"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Glow.png.meta",
+      "bytes": 3213,
+      "sha256": "809216543bd8c5d7a05bc4e4bcc37dc13846a0d298c765fee0c94cdfbe666dcc"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Handle_Ridged.png",
+      "bytes": 12786,
+      "sha256": "dadb9c38b01ea864fcae0e80c52bdb334a1456f5d43986d02a20d121de1e1a18"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Handle_Ridged.png.meta",
+      "bytes": 3213,
+      "sha256": "dbeada0000905a47d68568a679676542fe95492aaaaeea9f66fa4bc30bb4a7b1"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Join Room BTN 1.png",
+      "bytes": 1714,
+      "sha256": "4e863d1de693a9094f86aac26e463717e71fcef1f2d5bdb3e076a210d165baf6"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Join Room BTN 1.png.meta",
+      "bytes": 3213,
+      "sha256": "bd60a939c91398a1e193d86e2c1ca442cdf3ac7341f81837a24787844c872823"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Join Room BTN 2.png",
+      "bytes": 1741,
+      "sha256": "aee5859c6748bfbb3d58a71262c5384856b261497d681d333d906b0fafd5fe1c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Join Room BTN 2.png.meta",
+      "bytes": 3213,
+      "sha256": "658e485371e327962c591cfbe3a6853bacb7f25c119e47591947fa922e9c723c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Join Room BTN.png",
+      "bytes": 1634,
+      "sha256": "fa71b6df80375599f9e51ff044fca56bea661e49003cc8af5761fea770647197"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Join Room BTN.png.meta",
+      "bytes": 3213,
+      "sha256": "db44e4ba9428f4d4512760de44239a09e84513760606a9fda593d8f5a4d7a1cd"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/keyboard_comma.png",
+      "bytes": 404,
+      "sha256": "69da2bee3d905712da7b35c541e416b4fe195ceaeb5df4f344907967d5897cfa"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/keyboard_comma.png.meta",
+      "bytes": 3207,
+      "sha256": "ca630b0f53d7434448c26579566c55bc3d51a30a05c8cf1efe311ccedd5734af"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/keyboard_e.png",
+      "bytes": 371,
+      "sha256": "1d1515039366e4d740ab389acad908114536adda0c1077f4c493b5d67332860c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/keyboard_e.png.meta",
+      "bytes": 3207,
+      "sha256": "a3d4c9c0f8124e24504a80972cad40732a5b4d1fb65304c262c38ba0d61a046e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Menu Button.png",
+      "bytes": 5268,
+      "sha256": "18a10fb053aaeb717d7394732eedd0e40d2a5acd25c7703b467d75de5549267b"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Menu Button.png.meta",
+      "bytes": 3213,
+      "sha256": "8f8659928753c59b9281a044b09968c9383fcf1e2a40bebbe158bf672e4b5c0a"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/New Project (42) (1).png",
+      "bytes": 2819,
+      "sha256": "5a36d3eb7db6396b2f8475a8c0cd7c7963d9d4381261651410893c15349c2868"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/New Project (42) (1).png.meta",
+      "bytes": 3213,
+      "sha256": "08e183eb2d595f86e8f3dbcae3d7da2f524cf3506264b0446e70c292452529be"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/SmallGuy.png",
+      "bytes": 27069,
+      "sha256": "08c98e0cebb0dbeb6400e5b682b3c8b18a154a58f9df2cc82062256dea3a050a"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/SmallGuy.png.meta",
+      "bytes": 3206,
+      "sha256": "f144e072e2434c23f4eec36622e2946c0c1648e0c83ecb725268ab80be98db73"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Square.png",
+      "bytes": 79,
+      "sha256": "84595179392c2754adbac6c6f6e53be180854cea518afc2485d66a8942b5e37c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/Square.png.meta",
+      "bytes": 3207,
+      "sha256": "c26c05ccd3aba4dd6e4e3babb7e53fadf65f4f7338dc6fb1edef004a63dbac5d"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerButton.png",
+      "bytes": 19837,
+      "sha256": "38a82b352d44266f8c32d38fb2dd1680f7653df4f5e9cce440e1599273fca71a"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerButton.png.meta",
+      "bytes": 3213,
+      "sha256": "4f45498c1b80ea170b8ed7a305c22405b262da37abce8d3d76130a435284fbf5"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerIcon 1.png",
+      "bytes": 21595,
+      "sha256": "d384a4ce444c400ca457cf9ffa4ae935c3a49947631a36291dfb1e1bf5618387"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerIcon 1.png.meta",
+      "bytes": 3206,
+      "sha256": "6caff9ee5d3bf0f78cd625717eaf1607ed71a2c0a0bb941b6d7d16b4b0c032e6"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerIcon 2.png",
+      "bytes": 19874,
+      "sha256": "58d4130402512a42422280ed54b49463642ebfd799e853ec55d73d820de2952c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerIcon 2.png.meta",
+      "bytes": 3206,
+      "sha256": "763f2fe5b1033f0c7e8b0b811da8d4e4ba2e86330831eb0a8ea50fd046bcf09f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerIcon 3.png",
+      "bytes": 20896,
+      "sha256": "d364ef6fdf6bc3c9f0190ca4b15951a6a8aee629228c2daa740452c929d4c426"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerIcon 3.png.meta",
+      "bytes": 3206,
+      "sha256": "107807915557f38f598a37ec4cefbffba76865a709968551471c788ba9e85fc3"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerIcon 4.png",
+      "bytes": 23347,
+      "sha256": "d2751319622d480699611cdd97a5c54533bfde7080773d0da2997beafb797560"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerIcon 4.png.meta",
+      "bytes": 3206,
+      "sha256": "dddeb72dcc9e75d6c8622cc8057297b7e8a5ab191b2d3cbfca94139d880a0ef8"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerIcon 5.png",
+      "bytes": 26649,
+      "sha256": "c0fb00cad6ae0473e2e2d1f22469598b91316550e0d53190068828d7e13eda12"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerIcon 5.png.meta",
+      "bytes": 3206,
+      "sha256": "5d9f6efad3149412155319f31ed0579dcce7e06366da9c7c89daa98ed85f6f52"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerIcon 6.png",
+      "bytes": 28939,
+      "sha256": "00b012664b5a957be9e38cd6f80682bc130a6a6abdd796e62629e8507a698eee"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/TrainerIcon 6.png.meta",
+      "bytes": 3206,
+      "sha256": "a2c0ce1edb15e0f38f819a8ae957f868a9538648bcdbcf44e4f91121d80b5869"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/UIMask.png",
+      "bytes": 111,
+      "sha256": "d83a2d14b3065c5f558b9abaec28f781d50a11422e93cefbd207b829cbbfe66d"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/UIMask.png.meta",
+      "bytes": 3214,
+      "sha256": "e9e1531f7e5916be51afc43bb5705a3d0ac4741b50b7988be181b9ce93b09ef4"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/UISprite.png",
+      "bytes": 205,
+      "sha256": "f43674bb002bd13f0c977252361842b6818e0b1a51583625c71bf8f8160b5ff6"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/UISprite.png.meta",
+      "bytes": 3214,
+      "sha256": "75ce0b4dcadf9189e15103c18957046b2ddbfa45ed9b8b869103d437e106384b"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/XButton.png",
+      "bytes": 4315,
+      "sha256": "f12061d073f857b97ec3530d92b494100d0e0eb0c3ffe4c168ac6e7d98a6adb7"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeSprites/XButton.png.meta",
+      "bytes": 3213,
+      "sha256": "e47b569e2616d9006a381fdcdc4238a7d83effed22de5d162ac0648e660bc7f4"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeTextAlert.anim",
+      "bytes": 6535,
+      "sha256": "aaf38f14a6f127c4ad3f8dda3dc9e4224efaf540280244e6f5bce4776540d62b"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/UI/NativeTextAlert.anim.meta",
+      "bytes": 188,
+      "sha256": "b170ce3b4857c46045692645b58afba206f3bf9bb7f6ba0f6a4020f20efcab15"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeColliderData.json",
+      "bytes": 23645,
+      "sha256": "ecd011e6413900100e183bc40e1af6c1f4903c2464c7bbd5dad0fb2c756c51a2"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeMuscleMorph.json",
+      "bytes": 36313,
+      "sha256": "331f3181cef6d6d6ce811de6aba9b5061b96578fb141ee5db4ac6b9f59306c89"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativePlayerNames.json",
+      "bytes": 1596,
+      "sha256": "b12044fd28d1bdb538b3cb5637a66781c60a58e0fb4c3a640f6db10855ed8ebe"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/AnimationClip.meta",
+      "bytes": 172,
+      "sha256": "d3a1b1517aadc1547a6b31be045b500100e7c62d93d514006283c5b6c3500e74"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/AnimationClip/Cheer.anim",
+      "bytes": 80621,
+      "sha256": "61b124d49f7380a51b133f3258d1623d6c10aabdc77df9310b4c4f10ee9b4316"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/AnimationClip/Cheer.anim.meta",
+      "bytes": 227,
+      "sha256": "dc46d0043f7e1b159530fe16cf3bd36f829ae267b6d92cc3835c9e547f4a445d"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/AnimationClip/Cheer2.anim",
+      "bytes": 67091,
+      "sha256": "d1a4c6e061c9c5f168bab704ec57b2badeea79d0a41961dfd73d17ab6957d7ce"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/AnimationClip/Cheer2.anim.meta",
+      "bytes": 227,
+      "sha256": "ec95b1f40a8356d00f11fb0d2497d40ff75ef824531b1effe559d41f64504829"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/AnimationClip/Idle.anim",
+      "bytes": 103026,
+      "sha256": "40755c5f283d05ac868e0603375e0c9b12709dacc65c6e9a8a595fe308fef94f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/AnimationClip/Idle.anim.meta",
+      "bytes": 227,
+      "sha256": "8ed8c2c9317242bda78a4e99f6491e831ad77fa98787e9423c032dbbcce6f889"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/AnimationClip/Run.anim",
+      "bytes": 175238,
+      "sha256": "44f6bb772a51628435a37a733f97f50d71c636f0253367babbefef0bd0896e9f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/AnimationClip/Run.anim.meta",
+      "bytes": 227,
+      "sha256": "3e2c3889b8ddb638ed6be6f603f7461d24233e3ec6c0ff8fe95b9f00e3b2f0ec"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/AnimatorController.meta",
+      "bytes": 172,
+      "sha256": "8be2d6d42ec0ac6af570f082f842c2657e756bab94f6fd3f91466d5ae1f34060"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/AnimatorController/mixamorig_Hips.controller",
+      "bytes": 8428,
+      "sha256": "3313ff2bfd8520f0994ef8aefdd5104a74d3a6dba76a395a5435c8fd4111c891"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/AnimatorController/mixamorig_Hips.controller.meta",
+      "bytes": 227,
+      "sha256": "5d5f315c035f30b50771f1407ea16c31746f6688b27d330f8fdd84ec8a82398f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Avatar.meta",
+      "bytes": 172,
+      "sha256": "fdeefdd297ad7556324f32cc5774eef654ca928372ffe40481bc3297c393160b"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Avatar/CharacterAvatar.asset",
+      "bytes": 21449,
+      "sha256": "a7f1611d63e0804375a22e0932ef413bd1a4e4f243fbbaa15b7b9a363777411d"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Avatar/CharacterAvatar.asset.meta",
+      "bytes": 227,
+      "sha256": "c930844bb1464960695c6a42d00bc5c4a7db60c6ce9c00cf3db9732fb6530e0b"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject.meta",
+      "bytes": 172,
+      "sha256": "89ae699c5c455694979fbdc158ab23e31aa4b05533ea78948df9c149ffe0fbc9"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject/Trainer Cody.prefab",
+      "bytes": 582132,
+      "sha256": "1da8324bcce619bb82bbaa319a4ba76a04d2158069fde8137ae97b6507eab298"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject/Trainer Cody.prefab.meta",
+      "bytes": 290,
+      "sha256": "0e5af4e6915a4664b84b24941dc0dcf507bed17f80db22634618e0ac02acee29"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject/Trainer Dion.prefab",
+      "bytes": 576233,
+      "sha256": "bfb66ad6dcef8fe187341522630a76e562045cbb3de901b556d950400092430a"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject/Trainer Dion.prefab.meta",
+      "bytes": 290,
+      "sha256": "c7dd14ac2b7e8895547dc84ef2c1c1bd8d51bb778c0c319cfe8aa86de68f62ce"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject/Trainer Nova.prefab",
+      "bytes": 78675,
+      "sha256": "b03c808a6cb03d4b74eb2124cbd8b9a0b19ae38bf14b3ff590801937a790dac2"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject/Trainer Nova.prefab.meta",
+      "bytes": 290,
+      "sha256": "d872adb972ded0f1adcdc827689424f70953bcbc2c6142b0cd915490d9c3bf21"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject/Trainer Serena.prefab",
+      "bytes": 76159,
+      "sha256": "7bc3adf733671445f0c5ac02663719b083ca850959b1df50077345b54a7f7871"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject/Trainer Serena.prefab.meta",
+      "bytes": 290,
+      "sha256": "701753ed4b7bdfe594da8a192ae856fd1d8473786f7db1940e459c778a186bb5"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject/Trainer Yui.prefab",
+      "bytes": 68326,
+      "sha256": "a9e942f5f25c1e02cad7c2e2a8ea1f623f209ca4623da32c218afaed7b9173ba"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject/Trainer Yui.prefab.meta",
+      "bytes": 290,
+      "sha256": "3d4217804b45e1084b90566a883e9f3c4c6ad602e513031d0a635a89189cf55e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject/Trainer Zara.prefab",
+      "bytes": 71166,
+      "sha256": "707f22176fb45248b350273dbe7641d23cde2f8a17850f7d1c1be8fee561afb9"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/GameObject/Trainer Zara.prefab.meta",
+      "bytes": 290,
+      "sha256": "5c3fccd2e7a79b8d969ca32217bae6f89b9319421b1ec70784dbc94ba66fc2b3"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material.meta",
+      "bytes": 172,
+      "sha256": "c770673c1fd1db396f9ce38bfa5c64874ea138b42d3d5a715d6b2b5cb15fcc29"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Bench.mat",
+      "bytes": 2190,
+      "sha256": "27b06fc85d282c6bc0e209741a27a0494a9944df0bf6ba92934b28975ed0d985"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Bench.mat.meta",
+      "bytes": 227,
+      "sha256": "685597518f3e009181e47d0a16a335272eff49ea3b1a26daae7207ce38342a9f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Clothes 1 Decal.mat",
+      "bytes": 1345,
+      "sha256": "6b1ca6b5dc587bcffdddcd213c8cdb20a633b5730a5aedb646f155e796245ab8"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Clothes 1 Decal.mat.meta",
+      "bytes": 227,
+      "sha256": "126ebf6e87dfb5d9b99a69fd73aefc5f080a155d6fa6998698932ebbb6031ae6"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Clothes 3 Decal.mat",
+      "bytes": 1345,
+      "sha256": "4b4021dad336a4de1557879e95a8c6fa54ab9e8c2c64a381ee213b77417202b6"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Clothes 3 Decal.mat.meta",
+      "bytes": 227,
+      "sha256": "1a5b606805863dab3e965097e72ac26975b01f0b396c8cc2e1525ae4a66e8c16"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Clothes 4 Decal.mat",
+      "bytes": 1345,
+      "sha256": "4fb687ac8496c2d79d0202d2bccfaac30db3737afeb9f1f411b24269e2e4f2e6"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Clothes 4 Decal.mat.meta",
+      "bytes": 227,
+      "sha256": "a3d12648c948d8029a9ec6070f8f14fc5fb9d4ab5efc25ef5b82f92e560a9e32"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Clothes 5 Decal.mat",
+      "bytes": 1345,
+      "sha256": "f92b166ee19b3b93cbdce56deeb9569abe9bb9d2b5bc528b920dde021dae0a77"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Clothes 5 Decal.mat.meta",
+      "bytes": 227,
+      "sha256": "06a1705623ed5819979d7677f874e7ab4d77ece02bbd9aa4a6ffbdd7852c233c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Clothes 6 Decal.mat",
+      "bytes": 1345,
+      "sha256": "58d29fc7c454218b3f3b0265588fa65fe3c7a04d7ca590ec787a00b3ce6d7599"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Clothes 6 Decal.mat.meta",
+      "bytes": 227,
+      "sha256": "dcf193dc25bbf22c6365ce6aceb7abefbfe1672cafa7a2908db9b2ed4d9a72d0"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Default OBJ.003.mat",
+      "bytes": 2241,
+      "sha256": "cdc553de9feb2affc22b6b71703eaf2315923c6fe0ca3538b4f13d1969133c5e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Default OBJ.003.mat.meta",
+      "bytes": 227,
+      "sha256": "5883fb5018825d678d3a1a9176d29e0bdff7086cd1beae9308179fcee45e58a2"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Default OBJ.004.mat",
+      "bytes": 2241,
+      "sha256": "f0ed91a853da50f201891b9f257e852ec56bf17f7221843e09d156ced35badf0"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Default OBJ.004.mat.meta",
+      "bytes": 227,
+      "sha256": "60e06702cf59f280e85da2e4707e9e618dfd3b8992ae1edfc139bd44fcfaa57f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Default OBJ.005.mat",
+      "bytes": 2241,
+      "sha256": "5c688dfb5e060ebb577ae16a22eeae3cacb3d663e05a46ac2837fa28d1c276e4"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Default OBJ.005.mat.meta",
+      "bytes": 227,
+      "sha256": "f2e009e84ed70acbda4a609373db644daedad740bf1a608f40f41c080d532cc2"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Default OBJ.006.mat",
+      "bytes": 2241,
+      "sha256": "cb64491f400cdd5a8b29743871648d99d6349cfabd1b16a5aa2ed537b274ee71"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Default OBJ.006.mat.meta",
+      "bytes": 227,
+      "sha256": "0afa13d89016b969fb7a28fd8d0a03bf34a4ef419ef15ad07cb3b80035c9e85e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Default OBJ.011.mat",
+      "bytes": 2241,
+      "sha256": "a08d9320d30b9bc8535bd0724f8b2c2ceece92b02af37461e100a865bfd29e6d"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Default OBJ.011.mat.meta",
+      "bytes": 227,
+      "sha256": "e7dd3c034389d634a9e000a43d397641d384d5ab548216fd0623509be1056c40"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/FaceDecal 10.mat",
+      "bytes": 1342,
+      "sha256": "9948c2c3be3253af665ca31eb34fa1839ebe1a5f17230ea955d2023cd7e4ed83"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/FaceDecal 10.mat.meta",
+      "bytes": 227,
+      "sha256": "eb3a2e3607de1710df57d6e991cf9fdb30be66263b675727d65ef361fe7f011d"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/FaceDecal 9.mat",
+      "bytes": 1341,
+      "sha256": "257bab7936942c1da4be4b658255c7b231f8ca12d2a3c512450b1f80ecbfa5ba"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/FaceDecal 9.mat.meta",
+      "bytes": 227,
+      "sha256": "3894de9d9033e77a2e991a415781e1fa10360c7502ba4a8f8195ea221284763a"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Fishnets.mat",
+      "bytes": 2904,
+      "sha256": "749e283a541fa3f4dae5be0d8d9db80d5b93bafb1badeafbf970e3474414d3bb"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Fishnets.mat.meta",
+      "bytes": 227,
+      "sha256": "9be1be0ad662883b79fe8998b6d00768a77663f15e2560ab83c9f371276538c4"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Hair 1.mat",
+      "bytes": 2807,
+      "sha256": "1cec2e6b5441d79c7a1c274259c4f447cc238f7eddf3f310c3aeeb86cf5720a5"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Hair 1.mat.meta",
+      "bytes": 227,
+      "sha256": "218c96557792cb62a4f4bacf30436da15d610e86c149bc062a3d28022b1ba5f2"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Hair 2.mat",
+      "bytes": 2813,
+      "sha256": "c87656c91c1d20ba19f51b22bb143598ed329ddada87c08bf0b6c2c2d4928851"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Hair 2.mat.meta",
+      "bytes": 227,
+      "sha256": "08f96e7f555ce493ec59fd69ab68fcf0fd5fd77ca2888ce766398ca407da0f44"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Metal 1.mat",
+      "bytes": 2190,
+      "sha256": "2f4d2b58aa964130dd39c4fb5189ab9a3429c45f013199e3cd7dd4a62e5fd568"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Metal 1.mat.meta",
+      "bytes": 227,
+      "sha256": "0efdfe5afe64f1d3d59ec9ec5a985847ab49c95977139d68c9e8c105d9e6d288"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Metal.mat",
+      "bytes": 2187,
+      "sha256": "f159c9346eb1db7bb439df8ce6f23838630a051b08552b42c18fe20efa560990"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Metal.mat.meta",
+      "bytes": 227,
+      "sha256": "b6629c2986f42c6705e9c2952e85bb2265a628f3992a557917fc1f21c1ad7ae3"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Skin3.mat",
+      "bytes": 2259,
+      "sha256": "b22a0f1df4b7f1b941fdf1299eabc5f27a0136118f59280f84185f6003fd7a4f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Skin3.mat.meta",
+      "bytes": 227,
+      "sha256": "9fb1db17c66166a414a81a23abfa94c6333c7b2319b8b4febcce99bd17947996"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Skin7.mat",
+      "bytes": 2261,
+      "sha256": "c37e30c04420ee62fc4d4f7cf95e058163537e6247f19d8e89fdb477a9f0f24e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Skin7.mat.meta",
+      "bytes": 227,
+      "sha256": "05963eed79a6a2fecb5b0c37b0871dc0080b8d9ab9bb2c9e6a2d280ccc9422f3"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer 1 Decal.mat",
+      "bytes": 1345,
+      "sha256": "88a088ccb332741a0c257903d1bd4c5f51a2d53496458d30f8d5be3836f26cc9"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer 1 Decal.mat.meta",
+      "bytes": 227,
+      "sha256": "8582b0b38e544250953278def5bcfb1ec80f8455bbd2589e214467f20bcf5d74"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer 2 Decal.mat",
+      "bytes": 1345,
+      "sha256": "a6161ac23ae4a9c2479f2cbd0d5e1ee2a4d01d2a7c6e74c61ee11bf78a69c6fa"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer 2 Decal.mat.meta",
+      "bytes": 227,
+      "sha256": "c789d9f2c8bbb434ac67cd66c45acd9f29c6b2679f75af0ae1057781c7678d25"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer 3 Decal.mat",
+      "bytes": 1345,
+      "sha256": "84fde56d9c5d636c2f46ef909615a89c8a4ee7282ac89641fbe1808ab74f715f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer 3 Decal.mat.meta",
+      "bytes": 227,
+      "sha256": "beb50e2c4bb6b1f0bed6914204db68e8eccef64e5a0e00fe52b38354d40ff4d5"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer 4 Decal.mat",
+      "bytes": 1345,
+      "sha256": "40f53da06fb00710ab608b874710d43a79ac0ab0284beab6ecc15ca504eaf6a4"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer 4 Decal.mat.meta",
+      "bytes": 227,
+      "sha256": "5b80f126c3f9c3663667da4babb355063ed4c99c4474aee41ddf637fdf9013fe"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer Body Mat 1.mat",
+      "bytes": 2878,
+      "sha256": "0e65f1e42ed723245651c1239e322dec9ff9f855bde5838d6f2699a789ae2b3d"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer Body Mat 1.mat.meta",
+      "bytes": 227,
+      "sha256": "b6346de7fe841058ba369de3fcc26f7a7fd177539e0546f5bf70931b110fcf0f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer Body Mat 2.mat",
+      "bytes": 2889,
+      "sha256": "25a685a3c7147c43bef94f0855cb303ce397b5b3980c63694f3f5bf028e0d3dc"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer Body Mat 2.mat.meta",
+      "bytes": 227,
+      "sha256": "f79bb856bb17babe63b7864d0dd060a1ac7b67255f5978f17c0f7ae6319f75d0"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer Body Mat 3.mat",
+      "bytes": 2876,
+      "sha256": "beff0909e9544eb52a45516dc35e362af12e1fe69500737c5528c1a46ec71282"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer Body Mat 3.mat.meta",
+      "bytes": 227,
+      "sha256": "f576895dacc4d82ed2c71acf9e06300feaec926e68eaebd2dfb351c5cce3b5c4"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer Body Mat 4.mat",
+      "bytes": 2885,
+      "sha256": "42bd952d0f10920dab0b5683a3b4823855815af2de911e56ef814683e8848823"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer Body Mat 4.mat.meta",
+      "bytes": 227,
+      "sha256": "415a16b1569f45eeae6ad736ed7ff4dc9b4d3f58229a58d435d0f26e022dfebc"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer Body Mat 5.mat",
+      "bytes": 2884,
+      "sha256": "7a2485919eca2776c5527e73c9ba57cc3245b410b3d31cb0b6b83d3942c5f214"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trainer Body Mat 5.mat.meta",
+      "bytes": 227,
+      "sha256": "63e91db917c05422cdb8fb73ac8d25d7129ad5bf812a929f05c7b8271a21839e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trunks1.mat",
+      "bytes": 2261,
+      "sha256": "1c33adee3fa759b672f0920a2120ed6d41143d50c2c7f96ece4d28ed20cc81cb"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trunks1.mat.meta",
+      "bytes": 227,
+      "sha256": "9bf01f051072e7d7baa14fd622e3202219ca1f09058e9e1578dbab3dbcd982b1"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trunks3.mat",
+      "bytes": 2260,
+      "sha256": "17544208db882ddec3c78f76cbdd5ea226a1a79163ff079b4b651eee476b501c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Trunks3.mat.meta",
+      "bytes": 227,
+      "sha256": "62b8e11baec376f11bf3383ada687cac9b8086b364c52b7933d729381f8b4d45"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight1.mat",
+      "bytes": 2127,
+      "sha256": "786991164490657a4a91cef68e788ac72b67add01299e1e865a99d1e5217d3d7"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight1.mat.meta",
+      "bytes": 227,
+      "sha256": "560a37c5d302841f002313f0067c40f1e0a6c78f6272bf1798f9d43de060f31f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight2.mat",
+      "bytes": 2116,
+      "sha256": "1415e5dd2fed785da81787bdee974e82a053103a8f2302e92d22d1e1bb8a90e6"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight2.mat.meta",
+      "bytes": 227,
+      "sha256": "ab9ccdf27601bb0f422ed841e70e551186ddb8f980610efcd11ea7d39cc55346"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight3.mat",
+      "bytes": 2124,
+      "sha256": "e00543763b16999fe1a8a62eb2289c2de23b35a6549f38f40849f25fb927d1dc"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight3.mat.meta",
+      "bytes": 227,
+      "sha256": "8003e4548fbcb95210ca14abc0529cfc4858443016dec494d85c26534cb57f46"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight4.mat",
+      "bytes": 2126,
+      "sha256": "14976f300579a3b3b9ec8814c4be4442169532095c40e40cb83b5d8693685a42"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight4.mat.meta",
+      "bytes": 227,
+      "sha256": "1bc48a1692ae4314b0e9552626e21a6320ad6793b27645a7d92ae50cc7a73c64"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight5.mat",
+      "bytes": 2117,
+      "sha256": "998e2348d32359c4e9f247b868efcf27c79a828db72308071086205a2d017a70"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight5.mat.meta",
+      "bytes": 227,
+      "sha256": "b77ce2a53a9048ef4e5f642ef66187fe187e6d0c83a893c7eff627bc5d152877"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight6.mat",
+      "bytes": 2123,
+      "sha256": "17427f021cb65c7344d6b3cd323395890b095954a92b2c1b8f388c2e9423a5a8"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight6.mat.meta",
+      "bytes": 227,
+      "sha256": "d933cf32f839ed1c685e43d7596b11abaf46118dd47e03272fbe606c2802a289"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight7.mat",
+      "bytes": 2117,
+      "sha256": "906429579256e565d67e7046f182cedef4b2442fedac9b3a01d1db8ce3af60db"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight7.mat.meta",
+      "bytes": 227,
+      "sha256": "aacc29996fbefb8bd8e8fb7970c81075a4d7eeb146716dda0a28030206ea7cde"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight8.mat",
+      "bytes": 2126,
+      "sha256": "c0102f5103a7968fabbcdc3c7319431f98af4112089f8be648d2fa357b887c2c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/Weight8.mat.meta",
+      "bytes": 227,
+      "sha256": "eeaf33bb51e8270afc72cb9f2e4d9a28bf803a9e8267dfc4805e1f41a147303d"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/White.mat",
+      "bytes": 2870,
+      "sha256": "0f1dc3768be86b2b43cdba72c91b045977bf16491e86e07b4fad50e84284aabe"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Material/White.mat.meta",
+      "bytes": 227,
+      "sha256": "09fbc4d7e6f98a00fce4adfa8ab07e70b8ada2b2fcc92cc8052fdce0b74a5ecb"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh.meta",
+      "bytes": 172,
+      "sha256": "9e3ff8ce00f7432c8fb95c01d327a06da736a3f39185f648ce79fc08dac8a9eb"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/01.001.asset",
+      "bytes": 26244,
+      "sha256": "1d6ecd400c0275072bc6676cdca434350077ae7374eaa82c463da9ec2598cf74"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/01.001.asset.meta",
+      "bytes": 227,
+      "sha256": "f612e9b2ca1aacab8ddbdfc05fffcea616a29c5a438101e40943f975893786a4"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/02.001.asset",
+      "bytes": 40698,
+      "sha256": "3babc2a016b0d392d6317bd0bf243284e2cdbac78033b3fac09e953a3d98bad6"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/02.001.asset.meta",
+      "bytes": 227,
+      "sha256": "34cf3e2f165116b254a5cd9883ea69c00a275fff58ee7bd9a795a14e1e9ef81a"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/03.001.asset",
+      "bytes": 19388,
+      "sha256": "d40aed02626d408d0dbe597d7f763e2c353a9c02ae074af5db89ca79e2190ef7"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/03.001.asset.meta",
+      "bytes": 227,
+      "sha256": "b34bc72e8b1a3500b343caefe440576bff3788918c172b733991f1633c1deb35"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/04.asset",
+      "bytes": 145171,
+      "sha256": "90e4e04f5d667219ce448080de83c69337e821ed939a314f8db5828dc308b1ed"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/04.asset.meta",
+      "bytes": 227,
+      "sha256": "99be3f193247d02a411f204271d066c351c74a5a2a495bc72c688afde102e6ec"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/08.asset",
+      "bytes": 48998,
+      "sha256": "f49bf97cff56bf93f3bf4e2bae42a23c4c402b1f8ee20c929333d2083072c110"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/08.asset.meta",
+      "bytes": 227,
+      "sha256": "dbbdf0b802b18a44494170e286cfabfc6b2f4b5139927e74a6e6d67ecfb14dc1"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Arms.asset",
+      "bytes": 22207,
+      "sha256": "05d82f6aeede82a85fd767b858cb7b639e1d25594b5c28b31ae82eca361a80d3"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Arms.asset.meta",
+      "bytes": 227,
+      "sha256": "3bc74ac9cca43fe9ea74eab8d52e4a0958436fffbdde800cf653250008359867"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Back.asset",
+      "bytes": 77318,
+      "sha256": "7a132048e83c4a3b869f948d5a0b9725de4abb9b57ab8cf8ff7316a512244324"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Back.asset.meta",
+      "bytes": 227,
+      "sha256": "9412ef5c9e01dce446438b8c246e2d227fe07c6de15bdda7615bb13ee59c2eda"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Front.asset",
+      "bytes": 14131,
+      "sha256": "2c78f6b57268d7834c3258cd70d5790cb29c3a49227011f0d21c7c2e41f43cee"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Front.asset.meta",
+      "bytes": 227,
+      "sha256": "c5ad4bc5f8809c0ab8ffef40c7b19a69e07d698d4921b5edc0f5e5cf964ed001"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV_0.asset",
+      "bytes": 30566,
+      "sha256": "bab8bb7c836f09f0d84b4e26eb17f8a6a7348c11b366313e42102ec05a0df548"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV_0.asset.meta",
+      "bytes": 227,
+      "sha256": "9a457ceac91efd5668f54c86688c12d363e4dc0bca5eee23df8e6db4ca5c6e28"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.001_0.asset",
+      "bytes": 12026,
+      "sha256": "5f854c3f303a47f660da8e74080f00f497649868e388e847d4b5284b927c32b3"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.001_0.asset.meta",
+      "bytes": 227,
+      "sha256": "1be7b57c021e91e34ede5b7796088e63c95601987cb620164c8e1cbb7519cb52"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.001.asset",
+      "bytes": 12048,
+      "sha256": "ffadb85ea92d320cd311f6f146bae177495e24c48df00354197e0bd1a1f7bbdb"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.001.asset.meta",
+      "bytes": 227,
+      "sha256": "c4d4baacff14ad248db1280022dd644a8d88b5a14675b0762c23e01b5304e5c1"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.002.asset",
+      "bytes": 15670,
+      "sha256": "651d803b12885b7f03b8e2666367283132a92d2ca3cf1965656fb88593178161"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.002.asset.meta",
+      "bytes": 227,
+      "sha256": "bbc7529125afa1e91281ac8a16cd1a656fbfcc7fee04aaf4b9e832a937f34e85"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.003_0.asset",
+      "bytes": 10199,
+      "sha256": "af6f9ca112687acdc595d87dae6828d85674b73dd29304624b1e61e227cf7a6f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.003_0.asset.meta",
+      "bytes": 227,
+      "sha256": "2903632716aaf838bfd6772ea2f10cd4e6a413bc48bafd9df2ca0a00e4a276f2"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.003.asset",
+      "bytes": 10778,
+      "sha256": "04e07bae8608720f48f1ab24fed395d3826187b81a805327061f36bc4775d1a8"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.003.asset.meta",
+      "bytes": 227,
+      "sha256": "5ac7bfe62ea49cd30cbebf89b0c1d93dd4c8c0e39fa9f381305ee2f66f83a249"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.004_0.asset",
+      "bytes": 14622,
+      "sha256": "14a1587338a7cfaaed5d88a68e1cc4f27664e9fc878ed156206be2be2ff6d741"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.004_0.asset.meta",
+      "bytes": 227,
+      "sha256": "cc0f0421364934442fbc07a5ac03685c436f152ea98bc63a5529952c5c676826"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.004.asset",
+      "bytes": 14639,
+      "sha256": "abec8b31847d78fcdecc8dd455c0bab4fcaca22d13ce819450445b564b1ee963"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.004.asset.meta",
+      "bytes": 227,
+      "sha256": "b5531c08913416c170f1baf92c2c1420b51eabf476605805147979001f807b4b"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.005_0.asset",
+      "bytes": 7804,
+      "sha256": "ed72f197b5b30b933a00d4ff6ce19c151445acac92ceef3a3c832929f3754edf"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.005_0.asset.meta",
+      "bytes": 227,
+      "sha256": "b5c7edce6247f1038b6f92b4adcad581a9ddc0f5a66508778d540e41dddb65e7"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.005.asset",
+      "bytes": 8689,
+      "sha256": "7b1be6e013cdc9394d31215ac595ac525a452a6ef87afa86df893df8279263ff"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.005.asset.meta",
+      "bytes": 227,
+      "sha256": "c9e2be713b0c21d076d695a103942f9e2471fbe6877a35bf4e2517bae68789a3"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.asset",
+      "bytes": 17686,
+      "sha256": "1be8902131efbfb104329700da057eb3295ffb10407d8c4cdc3194bfee49e548"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Girl character UV.asset.meta",
+      "bytes": 227,
+      "sha256": "fff8d9517664cde78dfe17c7955bad6c486e61958f2d22cda8ba43694420b0c3"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Head.asset",
+      "bytes": 15136,
+      "sha256": "9e77afc44a0bd5296fe87076f22a09d1258319b800b5d29280ca75526a00f6cf"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Head.asset.meta",
+      "bytes": 227,
+      "sha256": "16d8a90e195947e9b51428a181b743305d31a24c632751714e2bbd5e4a19509c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Side.asset",
+      "bytes": 30064,
+      "sha256": "720fa57fa187ac2ae548fc646fa065bb6ae3009689c3cfcc7fb33f317edd8452"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Side.asset.meta",
+      "bytes": 227,
+      "sha256": "31aaafeba4cdbe759cd6dd7074f16b531659a9d4aa3874f5ed29f78053f35dd7"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Torso.asset",
+      "bytes": 21904,
+      "sha256": "f1c2f68571a38c1e45e83808a372d7ddc65fc4da06802925e85d12ea1fd00a68"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/Torso.asset.meta",
+      "bytes": 227,
+      "sha256": "252705037b4f0cedef0efbac112a12055fad5b15b38257749cded783ad3fda6a"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/try hair idk.asset",
+      "bytes": 189569,
+      "sha256": "7d62fa1b5196ffacdbef136095ffbb1b9da86a81627623430cf0e1376629f20f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/try hair idk.asset.meta",
+      "bytes": 227,
+      "sha256": "8a37940b87b7acabb091f7fe7f6a25749894cf61f3b512e0e14da7c81f23f073"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/vsn_mesh_0_BodyB.asset",
+      "bytes": 7095,
+      "sha256": "e9a27c1bdaa2b658195fd3462d95c1257a8e0c7f1cfa3c58b50f48c44f2220d7"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Mesh/vsn_mesh_0_BodyB.asset.meta",
+      "bytes": 227,
+      "sha256": "2392d6e4021b3945bcfdc3015e7b708d710748272fbef6d8ca25b72f2ad5cc9e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Sprite.meta",
+      "bytes": 172,
+      "sha256": "64de192f11ce43a34e0de5a76c5a86710ff1d949d51f35d661ce5dd70d0a3f96"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Sprite/Circle.asset",
+      "bytes": 3650,
+      "sha256": "05f2db2abe6ed54d3391704d9b7a190c8616dece53babee3b344285e52704915"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Sprite/Circle.asset.meta",
+      "bytes": 228,
+      "sha256": "065f9dd4304d02a84682b134c4f0320cbfad572f0215d3ee27b4afd6ebd419f3"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D.meta",
+      "bytes": 172,
+      "sha256": "e2baf6af7d18a30a3ae1907357e557ca4c88293a8d8444636f33c254e4dc6795"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/01.png",
+      "bytes": 6375,
+      "sha256": "d1233faf01efcf7f5e8646b87bf38ffeb667372c5d9769930e0b7f5a4c570b83"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/01.png.meta",
+      "bytes": 2801,
+      "sha256": "18a10853eae1ceb5d566ae113d5ad3ff7f79bd264017456bdd4fda136da3815c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/02.png",
+      "bytes": 6431,
+      "sha256": "04bdfcf5dfa7dfe7d404ee47bbf2a4d461965fdb8b678ddc4decdac657d10f00"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/02.png.meta",
+      "bytes": 2801,
+      "sha256": "b7c2e11d13333c0f86c0bfd92982020157f8c6cc27b0463f64ccb4656cdc6175"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/03.png",
+      "bytes": 5926,
+      "sha256": "41c4c9c407b130200c8e9bf19123754b92db688f8efca24e7454784b219d3631"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/03.png.meta",
+      "bytes": 2801,
+      "sha256": "1cf66dad2197eedaec4b39a1148cd7d00b342fe520c3b44c2701e22eb063f1fe"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/04.png",
+      "bytes": 6258,
+      "sha256": "1ab07d4bbcf28975d01b129ede98cdd364b7b667c9c42b474b977f1816d260b0"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/04.png.meta",
+      "bytes": 2801,
+      "sha256": "d739c3aa36ad4026fa3a62b25d71fa18989b8ea09acff732317a736b41336ba3"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/08.png",
+      "bytes": 6171,
+      "sha256": "0dabdd7439dc54cd4df32089191646f5e5b4c037711ef9b3aec3b93741208f32"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/08.png.meta",
+      "bytes": 2801,
+      "sha256": "9997341a6c27113a31deeaf12a0140689c205b377457ae41564182999d0b7ae2"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Circle.png",
+      "bytes": 646,
+      "sha256": "563718c900eb729e375f2a27a8534599e6604d5eb2d8d82941efb7ab5d3f9d09"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Circle.png.meta",
+      "bytes": 3214,
+      "sha256": "ac34bb79699137f2775e43bf544d21b77be5c9669c7d68d1d1704ccf7c0759a9"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 1.png",
+      "bytes": 2527,
+      "sha256": "921b632e2b235840b71597110255a1f603b9495592c4d34665a9b9b020538329"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 1.png.meta",
+      "bytes": 2801,
+      "sha256": "e9a0d7372376631e37ee4f81ef19b5d19d5a4c7e148ba8903592c2738ff48aca"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 3.png",
+      "bytes": 2681,
+      "sha256": "6d81ee83e4ba49e519b42f51577ab5bf0348e836462e25ce60048bbaeeb20031"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 3.png.meta",
+      "bytes": 2801,
+      "sha256": "5bd8825a26886e767ecc34696b5049b2ee3ab226d4c54f7fd7c3b4526f0baaf4"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 4.png",
+      "bytes": 3016,
+      "sha256": "0b527ef5fdf2eb7ed2b69fd49bfd3f65ad1464f9c84fc4d7cd6f2408d3145217"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 4.png.meta",
+      "bytes": 2801,
+      "sha256": "502a65601de63bd6cab8a097edfaa4f60d30ee895d13605cd5cbfdb431171753"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 5.png",
+      "bytes": 3245,
+      "sha256": "a70769d75943d1a90e8397bb0d1b28fe7dfe1ba54d86f900a5c6ec484ac44d29"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 5.png.meta",
+      "bytes": 2801,
+      "sha256": "5b948df7f1ce6e9eca585650c3137d9990cf398d5abb42498f1e3d557be3e36f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 6.png",
+      "bytes": 1486,
+      "sha256": "a349d039ba1f1418acc8f724f412fd7d94d920802bb49eb7b7bf019ecf55537f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Clothes 6.png.meta",
+      "bytes": 2801,
+      "sha256": "9c7e2ed5827fa02e729542f182383eeabb233efb3f7b4a0daddebcbd617d3330"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Face 10.png",
+      "bytes": 1538,
+      "sha256": "c51d0d8e583b3e042433d279453eee625cf53a0576b679be10d0664465e5fd90"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Face 10.png.meta",
+      "bytes": 2801,
+      "sha256": "c35aee4cc6c7c2a8e7027f5d421f83de10da31877e23980c5cf585af3b2d722e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Face 9.png",
+      "bytes": 2036,
+      "sha256": "e000919ab7aec90112a34975dd06bc80cf50aa7a86ed7b1ec87a46f84c45ff04"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Face 9.png.meta",
+      "bytes": 2801,
+      "sha256": "4d232e94963a66315a3691bda2394c63b1cfd4d655399faada7bec073a16534f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Fishnets.png",
+      "bytes": 9399,
+      "sha256": "3f570ac6ca2d1a9035bed38e4233015f79a57e3c630d95ead4e555a27955c22f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Fishnets.png.meta",
+      "bytes": 2800,
+      "sha256": "1dd57ecc00e9fbac6daf216aedfe514e00fd35908ed320fb89e7776c53d6f47c"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Square.png",
+      "bytes": 153,
+      "sha256": "9d705f87e834095860e5b7a172fa043816307ba8312d63d48c2cdc6bb9f67b3e"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Square.png.meta",
+      "bytes": 3208,
+      "sha256": "c51e4a336124b616bafdfde92f45edd02cc271628642f1ac01ec4a41aece4e1d"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Trainer 1.png",
+      "bytes": 4339,
+      "sha256": "2774bece4a7407176f35cabdd70972c7b814963166bc03d92d791b236a48104f"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Trainer 1.png.meta",
+      "bytes": 2801,
+      "sha256": "12e997cb7d9e261df3e70c6b8ffe1f3f1f58911433e5b2b7024a7cea5e65a738"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Trainer 2.png",
+      "bytes": 4050,
+      "sha256": "e92128802674f7040189fc2e0afdb517bbbe4303b6f0adddad2eb2c38ae1e5ff"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Trainer 2.png.meta",
+      "bytes": 2801,
+      "sha256": "3fdc0c589e389c0b43e71b183c1db8f76a72db0a8e280b377fe0d9d766425bf0"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Trainer 3.png",
+      "bytes": 3871,
+      "sha256": "7cf6c3c3cd2581b5b01e5965e9b155e0965028cedcf646a2398663a9972a1b02"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Trainer 3.png.meta",
+      "bytes": 2801,
+      "sha256": "796a8a4ba7ff81f75e98c7a3ea571b66019d2e968d7ec4b60d0ef0350389a1e7"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Trainer 4.png",
+      "bytes": 5494,
+      "sha256": "de3fbc4823de315cf846bea83ed25e1f8207cd9bef21f5777d99277fe1903d75"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Trainer 4.png.meta",
+      "bytes": 2801,
+      "sha256": "937ce2db1f9ab90ddb1c85ecd9b714736cf06a4c012e0d02e942d66e7f581e38"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight1.png",
+      "bytes": 178,
+      "sha256": "958b22fbc3ce0a3a97afcb5bf1a951307ceb4239d8b132668f7225a56b00a235"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight1.png.meta",
+      "bytes": 2801,
+      "sha256": "457ceb364aaa54aa10dba48df946c0cd2ffc875ef3847220282a8cbef2fae418"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight2.png",
+      "bytes": 179,
+      "sha256": "7f491ad9f4ef0e1aa466469516bd22da85168a13ee7bb3126982b13b70fc8621"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight2.png.meta",
+      "bytes": 2801,
+      "sha256": "337891d001de22d3b09c0d515c6a437b365bb3a63480a8bd8a21838c6a02e490"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight3.png",
+      "bytes": 179,
+      "sha256": "a3055249b488389b27923c563468a07446fb286b494c98e4a5c8aaf69fb3b481"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight3.png.meta",
+      "bytes": 2801,
+      "sha256": "1fb05c7bb3557cdca8a303adc7e15b7d70b1b4835fff07a1ce07a02a555294f4"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight4.png",
+      "bytes": 179,
+      "sha256": "d0a8467d1f5173e216cec44cbd4be94f83436d7bece5106f382ad91d46b224ca"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight4.png.meta",
+      "bytes": 2801,
+      "sha256": "26af975c900efd755086073b919aa25606fc9a0d2520a811cf02890d34b67e35"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight5.png",
+      "bytes": 179,
+      "sha256": "1f688189ca2a31d963bfcdff22fb91f75190f30a86300cad36436230b18c74ed"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight5.png.meta",
+      "bytes": 2801,
+      "sha256": "ff0dec5e185f0c1c8976f1665223fe30039cb627bdc427d067211a31116679ce"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight6.png",
+      "bytes": 181,
+      "sha256": "6e2288081810775bb1d9a4d78da169db2fa0363003a0e0cd2f493ecffd903bdb"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight6.png.meta",
+      "bytes": 2801,
+      "sha256": "a406cba9383381b0ab569afa7952780ff287e289adc6c0e4851c61c5bc380c89"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight7.png",
+      "bytes": 182,
+      "sha256": "3f653dac3af4898d6865f1c03e65488df5c357f8f18ab1591d3dd1b30f8e3903"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight7.png.meta",
+      "bytes": 2801,
+      "sha256": "943a5798e58e822197da39913c3d6bef59469967ad325a3c04ec7f6c1c29bcb8"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight9.png",
+      "bytes": 183,
+      "sha256": "bce684d47b6ffb0cda223f8c604339b5305991550c61b3b6844ab07da94197e8"
+    },
+    {
+      "path": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers/Texture2D/Weight9.png.meta",
+      "bytes": 2801,
+      "sha256": "ffb18fe0fe6486ec0a17b22bf953ba26ce13244b8b2809bdf2049c935397af9f"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/BeachBoxing.Runtime.asmdef",
+      "bytes": 144,
+      "sha256": "894425af21bae15362acd0c4f0a471ccb3133d9ff02a11c3101ab3e20d05bbe3"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/BeachBoxing.Runtime.asmdef.meta",
+      "bytes": 166,
+      "sha256": "e72e3226ce4aa54afa3d1b5201d18c8b99eff3041dab4f847561edcbae362026"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Combat.meta",
+      "bytes": 172,
+      "sha256": "8b9aa1b865bf672ac60b3d38326ce163da0723543bd54232872dcf8c5806cb87"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Combat/FightController.cs",
+      "bytes": 6230,
+      "sha256": "d3217d048a87031f45c2491959377b191429b99a90510ef3f5659f776f070e20"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Combat/FightController.cs.meta",
+      "bytes": 243,
+      "sha256": "127b166a5c0f4ee9f1c1be24c1f568687ee360e660efe66ab6cd4cdeb434be1d"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Combat/FightRules.cs",
+      "bytes": 5955,
+      "sha256": "dbc378871b8ab84aca213ad5d3e331c8117ddb79b3390f55180ed04ce41a4709"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Combat/FightRules.cs.meta",
+      "bytes": 243,
+      "sha256": "2cde2c31b4913000802adc997384823806aed64ff105d36e7c3202845ce35817"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Combat/OpponentBrain.cs",
+      "bytes": 3175,
+      "sha256": "5c1ad1415c7387e3aaeceac45e832d52f835497b9eb935b74d8efc54a3dce60f"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Combat/OpponentBrain.cs.meta",
+      "bytes": 243,
+      "sha256": "d407194ee7fe5660eb386a79667f906bd0ef5500a27710ba4dab6aad3ace5b00"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Combat/OpponentProfile.cs",
+      "bytes": 1188,
+      "sha256": "4c04f7137ae3c79f7250b54572671bbafeec25a38c463c87e676b0e9e6d146f5"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Combat/OpponentProfile.cs.meta",
+      "bytes": 243,
+      "sha256": "8ef18b6e6e6f839a74d6ebd98903715c6cba19e63bb27a2c55e74a12b02bcc0b"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow.meta",
+      "bytes": 172,
+      "sha256": "a466a1aa9725993b5f8b316e3c82deb555239b360fc752c6311bd7f89c03c8b2"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/BeachAmbientNpc.cs",
+      "bytes": 1412,
+      "sha256": "edf59cc467b088a8b094b8ece5255d88088edc351fd774829c04cd2fab7fb798"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/BeachAmbientNpc.cs.meta",
+      "bytes": 243,
+      "sha256": "80ec46116ddeb9c7567ca744540c2f428b91605be7a0a71497654899d0812124"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/BeachGameFlow.cs",
+      "bytes": 20949,
+      "sha256": "82cd99729ab33184a5a45f8f1bf3adece6915d4357f2559d1ffb5201e696e4c6"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/BeachGameFlow.cs.meta",
+      "bytes": 243,
+      "sha256": "afa141efe41f9bba678edd5228706368bc7d7fe050b66736cb5b0bc8f4731fe4"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/BeachLightingPreview.cs",
+      "bytes": 473,
+      "sha256": "016724c1a009fb11160a37a8b264c10904cc92f1417909a2555729aa5701d181"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/BeachLightingPreview.cs.meta",
+      "bytes": 243,
+      "sha256": "9f7df865ad17e9b806f1e48e84a2d3a1345e56e33be9f876ebdb9aeae014cbe0"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/BeachPresentationTimeline.cs",
+      "bytes": 7289,
+      "sha256": "24a171c88f4d45bdd5d916321da55ab9bf8279c24615ced5afd4d3f61a350bcb"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/BeachPresentationTimeline.cs.meta",
+      "bytes": 243,
+      "sha256": "1c19a08d206ac026b5e48d5ff932d568c7c80d9f24f060de3b52768649b64cb3"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/BeachStage.cs",
+      "bytes": 31415,
+      "sha256": "d22e3998d4205371be3313cbbd8cbfde357af451edf7126cfb5472d860651619"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/BeachStage.cs.meta",
+      "bytes": 243,
+      "sha256": "36f0968fd627d5b5687b4fbe851402dce7798a9f32b15d1ebe4f431ea2ec2970"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/BeachSurface.shader",
+      "bytes": 1060,
+      "sha256": "2a3eeed2b3cd886b73dc4a93eb37ca320e22a8d3d3152c3c481ff8000d6d4ed6"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/BeachSurface.shader.meta",
+      "bytes": 201,
+      "sha256": "79de58a229c5eb29112ddbcfffad59ee104b43f9b37d73ed185f893fc3da1d0c"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/OriginalArt.cs",
+      "bytes": 660,
+      "sha256": "2419ec8a6bd1cf172ad0fd09bf9cee44ff09665c1e6ebeaf277c3afa88a0ac67"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/OriginalArt.cs.meta",
+      "bytes": 243,
+      "sha256": "dfdfd9d0f4acdbe8c07253bf380985878bee0013e1e3e1874013c59cb0149281"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/ProgressStore.cs",
+      "bytes": 3236,
+      "sha256": "1b75571ba367bc2231fb69f53a51575091a6f831842bfbb204c1ac5815f04e6e"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Flow/ProgressStore.cs.meta",
+      "bytes": 243,
+      "sha256": "56e1b84a1bbed5f043176fbc223ff558e3c71a2ad7abe167206e1587025292af"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Input.meta",
+      "bytes": 172,
+      "sha256": "8dbf6344db6b81cfeb9d2437d8b524089c51b468a7202f6f73532e921cbedabb"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Input/BeachInput.cs",
+      "bytes": 3649,
+      "sha256": "d8859efe7e60199b6ed4cb81f7525886f238dba9eb9dadbea1649c3e3fe1715d"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Input/BeachInput.cs.meta",
+      "bytes": 243,
+      "sha256": "b1805cbbc88fedf4776a6739de7d6c04369b39dc9daf02b8797689864e3dd694"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Input/TouchControl.cs",
+      "bytes": 1920,
+      "sha256": "b4aed2d21b092e4bd8dc5a174697c9483ed9f8beb434bca66c776fb5d6428a9f"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Input/TouchControl.cs.meta",
+      "bytes": 243,
+      "sha256": "276091a12768919cafcf443b17fc474eb682a31e25e4c1f3bd90cbd4268c7eaf"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral.meta",
+      "bytes": 172,
+      "sha256": "ebf281c195c3c09d0cd4630813a4cc4be1aa8ed954595bcccb9cce9f821a8d0e"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral/BeachAutoTraining.cs",
+      "bytes": 4172,
+      "sha256": "cf060ff3a668bb4bc2c7371f2e06ea989c68ebda84fb59025fe344b9b2897323"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral/BeachAutoTraining.cs.meta",
+      "bytes": 243,
+      "sha256": "78b0c4025a5201dbabb47d417f21f5bb329a6e4effad998089f22d743deea77d"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral/BeachPeripheralRules.cs",
+      "bytes": 8320,
+      "sha256": "42387cf756384459be2c5ff82623f721abb4c8a236a0e818256c55a8739bb74f"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral/BeachPeripheralRules.cs.meta",
+      "bytes": 243,
+      "sha256": "3f066526df222871876921f4c52fcdceeec26e57e28d6405f73461cc208db197"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral/BeachPeripheralView.cs",
+      "bytes": 14207,
+      "sha256": "ce9b3fc85c54197fcb42ec34f085a7d64f2c8bbd34c7555a1de4ad50dfecdb6f"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral/BeachPeripheralView.cs.meta",
+      "bytes": 243,
+      "sha256": "c5186cd9fbf49e8ee0e386d802ed8b9ea4761ae7bc108ea691d84c2edf9a4d3c"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral/BeachPlayerNames.cs",
+      "bytes": 652,
+      "sha256": "c405cfaedd8c3b7a65f6ab40da1a1228044ff907aad1e2ae721f6bcab27d8e10"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral/BeachPlayerNames.cs.meta",
+      "bytes": 243,
+      "sha256": "271e6e8aba699c4944c113a3789ec398c8c55f80346018f7a9ff79d23959a62a"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral/BeachTrainerFollowers.cs",
+      "bytes": 5021,
+      "sha256": "5322caaf99d58a43dd511b774f37d4c6596031d5a90bb6c9994c84e87864ee11"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral/BeachTrainerFollowers.cs.meta",
+      "bytes": 243,
+      "sha256": "b3716bcf8ed484bcf47f9dbf04bb72ffb117f4c46236cda229e515d0378a6d6a"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral/NativeStationTouch.cs",
+      "bytes": 1085,
+      "sha256": "bb24f0e181a1d1c754a79af3f09299e711aa1d03e294ba3ce39b45850bbd2061"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Peripheral/NativeStationTouch.cs.meta",
+      "bytes": 243,
+      "sha256": "9ce84191806c087b94cb5c79144e365d863abde2ba99dd11b73f99aecae97025"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Progression.meta",
+      "bytes": 172,
+      "sha256": "30d67e457e2c08586e947c511d8a7eccd312c4bdfde38ffdc3970511cc38e449"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Progression/BeachMuscleView.cs",
+      "bytes": 2343,
+      "sha256": "fbe7f1f62a3b0379bdf1dffd643db3951069c8053dc5a32ebe222ebde20ea8d4"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Progression/BeachMuscleView.cs.meta",
+      "bytes": 243,
+      "sha256": "8071a422e22fb37c8b48aa383f190e0a68550cce7722f5c3966a47e79561c357"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Progression/BeachProgressionRules.cs",
+      "bytes": 3978,
+      "sha256": "fe3999fe001c8f146a06c76e95d968a0e9d15224807e74b4f065afc5ba8e53f7"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Progression/BeachProgressionRules.cs.meta",
+      "bytes": 243,
+      "sha256": "dd6e60ca3f5f35086fb44ff011a71155e03a143eeedb7db82b6e86f5659f23d2"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Training.meta",
+      "bytes": 172,
+      "sha256": "2aca329995db7e0c3fcafbee1ed45b56630fba641f8cf4c1d406a0177e78637b"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Training/BeachMotor.cs",
+      "bytes": 5769,
+      "sha256": "541bd6887b323cc12dce28a757f080d57c20a5004f41db839e0b6466ef78ddb9"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Training/BeachMotor.cs.meta",
+      "bytes": 243,
+      "sha256": "635229f25cbf3ab943e98846bf31ba47a6677b71191f728a2e8b7b2d56a7a142"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Training/TrainingStation.cs",
+      "bytes": 1509,
+      "sha256": "3a78e4942de1134c73949668465054ff5bc8c74c648f501391f9b3485c2cb5e9"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/Training/TrainingStation.cs.meta",
+      "bytes": 243,
+      "sha256": "e0a693366cc0f775d4c9bd70b22e0890c91bbac948affcdcc8eb977035b16a6d"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/UI.meta",
+      "bytes": 172,
+      "sha256": "a914a5af8b3992e2270c25d12082d94bd8f397b9d918b36144a717b573aa9b14"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/UI/BeachHud.cs",
+      "bytes": 28476,
+      "sha256": "5edebdfa6b2ef1dacef20114c65769440dfed1e4944358193231197d205d0125"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/UI/BeachHud.cs.meta",
+      "bytes": 243,
+      "sha256": "c87cb95f43c7f77cafb6332fc1e7e39b25d23a1582842ebea7bc0d0a697a9d54"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/UI/BeachNameBillboard.cs",
+      "bytes": 386,
+      "sha256": "7ca1cfe3c1fc2089e7f9331347981d6dbfd8421bb06164ad451271417f86ae42"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/UI/BeachNameBillboard.cs.meta",
+      "bytes": 243,
+      "sha256": "b9a25845fa2e46bd1dbc1ed512e14efef936c31e4538ed5e6891192a903558af"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/UI/OriginalSdfText.cs",
+      "bytes": 11224,
+      "sha256": "8d519565118f7897a5aeee8ffd205e5db23253855393a565f16036e0375d47a6"
+    },
+    {
+      "path": "Assets/BeachBoxing/Runtime/UI/OriginalSdfText.cs.meta",
+      "bytes": 243,
+      "sha256": "0bb6924b3e46934c855bebb386afec3d6e21b7c93cba5761ba12eea636fc79a3"
+    },
+    {
+      "path": "Assets/BeachBoxing/Scenes/BeachBoxing.unity",
+      "bytes": 5248473,
+      "sha256": "4d960836480fff1298f62c60a3e82c9f8640e46cec6dabc40bf3733ccac12137"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode.meta",
+      "bytes": 172,
+      "sha256": "70c4b120bf950979b0f98abfc9f632865cd957fcb7708b16abaec16948f2e5ef"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/AutoTrainingTests.cs",
+      "bytes": 4112,
+      "sha256": "b3f4ac9494cc3bd80b0a43138458015415e4eb27cc7da00c3d3b0d6b737bdf58"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/AutoTrainingTests.cs.meta",
+      "bytes": 243,
+      "sha256": "abb9bc64d556839d89df9fa8dd269ab9ac846b6203108434009f1a67f3d939c3"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/BeachBoxing.EditTests.asmdef",
+      "bytes": 201,
+      "sha256": "ce573469740e93d09444eac73cd1fe9af0a16172aa13a4b5e0401a325fa8524b"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/BeachBoxing.EditTests.asmdef.meta",
+      "bytes": 166,
+      "sha256": "a9a66edc52211b981e6718cb4e379477bfa997704946cd0a55a2e638de6b7890"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/CombatParityTests.cs",
+      "bytes": 3628,
+      "sha256": "421c06f013d04cf52308929d2fa5f09e112ddac65e75cb73210ad1e778159d98"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/CombatParityTests.cs.meta",
+      "bytes": 243,
+      "sha256": "4763e1935f698a3e12fd12079cfca21180062e2e6c7eebe4e0316ba55f386545"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/EntryTests.cs",
+      "bytes": 2765,
+      "sha256": "b17116f3b40fbe42ba946fee62ae62ffe60c467224e848ed5dd64efeb5f3ad46"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/EntryTests.cs.meta",
+      "bytes": 243,
+      "sha256": "ad98c9cc494e84855e362c3972bcbf950276db025132b0dc1e35d098f8425d75"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/LateVivoAdEventsTests.cs",
+      "bytes": 1075,
+      "sha256": "ee8c43556ed807ccfc6fc3d999df8dcc449f5919ea08b1c59c7e2b11c5210fed"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/LateVivoAdEventsTests.cs.meta",
+      "bytes": 243,
+      "sha256": "bb922cdcf94df690c1998a1693b021ae0b5ebe2b91ccf1331170f889d32741f5"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/LightingParityTests.cs",
+      "bytes": 5848,
+      "sha256": "74f02d4eb74532309749dc2c9e1910cef5b31ca4ebcf7331f28828fb1f2c08e1"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/LightingParityTests.cs.meta",
+      "bytes": 243,
+      "sha256": "d5b29a930efdfadce622c10d622bdc0c0408ba63051224ba7c50ce9bebbfd7b3"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/MuscleViewTests.cs",
+      "bytes": 3603,
+      "sha256": "cab853e03047fa4a3f4d9dc2ea2256fcf60f250dbf98132d1d474704a31fdd7b"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/MuscleViewTests.cs.meta",
+      "bytes": 243,
+      "sha256": "806075bc94a18b27d4e4f70116d628b7fb125caa2aab34c6b33f96715d5a17fd"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/NativeColliderParityTests.cs",
+      "bytes": 7265,
+      "sha256": "f66ef73fdc326d7dd021f7b6b201aa04021452b61e9a323339ccebd5f1d4f19e"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/NativeColliderParityTests.cs.meta",
+      "bytes": 243,
+      "sha256": "f6bb311f318b69ea90e3b0b45759499b618046ab3f4162b8b0f98af946273039"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/OriginalFontParityTests.cs",
+      "bytes": 5985,
+      "sha256": "d1b27ca7af6deaf044363ccc10ee2cf5be858ad1c96c67d6b37840e2cb07bed0"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/OriginalFontParityTests.cs.meta",
+      "bytes": 243,
+      "sha256": "be887d650476b763706fda9b04a78a6d4d8e783168cd888309d1586b8b314a42"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/PeripheralIntegrationTests.cs",
+      "bytes": 3451,
+      "sha256": "cc085b1770a5b323fc2b7704beac9696450164dc3fc905af81a7cae4923a9dfa"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/PeripheralIntegrationTests.cs.meta",
+      "bytes": 243,
+      "sha256": "3aef3435f01cd9219ec3d5997cd3a5b21d951fb95b82843881ac38726f114b7d"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/PeripheralRulesTests.cs",
+      "bytes": 10146,
+      "sha256": "5a9a8f8ade7d1bc59babeadb7e746f85d846203a4a233ca37d60f19639f50d2c"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/PeripheralRulesTests.cs.meta",
+      "bytes": 243,
+      "sha256": "ad82422f59a42774e30b66cfcb751e7f7a844c1ee362d74b23dec2723535934d"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/PlayerNameTests.cs",
+      "bytes": 1446,
+      "sha256": "f9c881dbafa9700ee35d316bd5f9258d382a97477f4373b2b538350eba41bebd"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/PlayerNameTests.cs.meta",
+      "bytes": 243,
+      "sha256": "ed594b430186f2d75c1223cc2e4a637f60f216df8bb6703ad0b43c187722bf70"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/PresentationTimelineTests.cs",
+      "bytes": 9089,
+      "sha256": "20a9d8cf3cdca4fa148166704082f4bd0d0b518bf313563b0437ecf3d58394e5"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/PresentationTimelineTests.cs.meta",
+      "bytes": 243,
+      "sha256": "4cc7ef00e8edd4da01d9b008db5f2c4d680e55a582d161e899538d3bb8060755"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/ProgressionRulesTests.cs",
+      "bytes": 8246,
+      "sha256": "e011fce8d9d8b2706d46df13829c03529951d7f03456e0d14e350f489629e4dd"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/ProgressionRulesTests.cs.meta",
+      "bytes": 243,
+      "sha256": "2f312719bcfd81450c624e1925ee6efff39790e568f0d51c8c2467b3929c9346"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/RuleTests.cs",
+      "bytes": 3457,
+      "sha256": "f80317838dd5d60530428640ef4ddb789aa2a8dc8ea437826823ee7d87288f9d"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/RuleTests.cs.meta",
+      "bytes": 243,
+      "sha256": "d1220c8492a84133cdbf2b9ee08c9d485a5a8036f24bd9b3e5d467660357d481"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/TrainerFollowersTests.cs",
+      "bytes": 4892,
+      "sha256": "84ea1df39bf16e204460a4c2fce6a6fcf132b0524386eb3d2807e7efabfdf9ae"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/EditMode/TrainerFollowersTests.cs.meta",
+      "bytes": 243,
+      "sha256": "bd830168e443392c8acd265ec24e7ac1c399e091cb384dc00bfbd2ad0a4d39d1"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode.meta",
+      "bytes": 172,
+      "sha256": "dc0588e4ac8878b038fb21e4eb3b04251209c8d200c6364805fc7724d899fe17"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/BeachBoxing.PlayTests.asmdef",
+      "bytes": 167,
+      "sha256": "08ef20c8334df833c588bf3642e0b7571aa04b0a98442b112c7346ae11cdc3ab"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/BeachBoxing.PlayTests.asmdef.meta",
+      "bytes": 166,
+      "sha256": "6abac1279b091e6e27d69df2c9606a895a70da7f5043b330ca5a03990633f6ec"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/GameplayTests.cs",
+      "bytes": 21384,
+      "sha256": "b603edafe922659c0242d9cdcd1ca400f832ada95be765d3e5099d75e3a79bd9"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/GameplayTests.cs.meta",
+      "bytes": 243,
+      "sha256": "18435028eac9a90f12dc637ab5add58916dfa57af5057d6b3bc7f0c3b3ffe220"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/NativeReachabilityTests.cs",
+      "bytes": 14487,
+      "sha256": "6849375fe3adea80141431593a6fa0a1f8393ec03cdd60d11acea887ac7440fa"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/NativeReachabilityTests.cs.meta",
+      "bytes": 243,
+      "sha256": "a9a315a54c73010ec1415f855d8400b4d9494f59c5f94f1ae1d741d4e3ea29d9"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/OriginalArtTests.cs",
+      "bytes": 1656,
+      "sha256": "41aee1f23e69d43e4369ef387b6250f648c83b9af1182c09930930c5e59646fd"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/OriginalArtTests.cs.meta",
+      "bytes": 243,
+      "sha256": "51e949e1e2dfdf5e6df50230b9fd2b20964b65dd372b3eeb994fbbcec8110bd4"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/OriginalFontMeshProbe.cs",
+      "bytes": 678,
+      "sha256": "8c6241ad911e6a8a711f45b294d9012b3a58716a6ed05fff7db0de2a545708af"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/OriginalFontMeshProbe.cs.meta",
+      "bytes": 243,
+      "sha256": "ba7e8823f2161cfc2d66b75a5c652916ee6c11bfa82f4801334da80fe5842251"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/OriginalFontScaleTests.cs",
+      "bytes": 2891,
+      "sha256": "1a59133450827fbff2a2af707a067f714cafa8c57682e63ad0024de19ae42e3e"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/OriginalFontScaleTests.cs.meta",
+      "bytes": 243,
+      "sha256": "eaf07cc21bbce99e0b644163eacee8bfd29b56d101fae14c2a5e7c4f8add3cae"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/PeripheralMenuTests.cs",
+      "bytes": 20912,
+      "sha256": "90e7ae3ccb6c8c53bbeb737c7acfe22301700a30107e4ddd456b4039abb9ac36"
+    },
+    {
+      "path": "Assets/BeachBoxing/Tests/PlayMode/PeripheralMenuTests.cs.meta",
+      "bytes": 243,
+      "sha256": "e6abea7e72aa0ded6f71bd7e9eca8b6ca331da515b6f1d574a6ff98b5d964d66"
+    },
+    {
+      "path": "Assets/GameFrame/Tests/PlayMode/SceneTests.cs",
+      "bytes": 4754,
+      "sha256": "cb7f47f696f5d81f103836e86f48511ca2bab61b57b204d4baa8acc53917ae3e"
+    },
+    {
+      "path": "Assets/VIVO-GAME-SDK/Default/src/manifest.json",
+      "bytes": 497,
+      "sha256": "f8919e7e712b736a75cddd801a02c8f1e78674458c179fdb67311c9ea5d004f5"
+    },
+    {
+      "path": "Assets/VIVO-GAME-SDK/Runtime/QGMiniGameManager.cs",
+      "bytes": 67760,
+      "sha256": "3422e1bbefb5e88de49cce661a439f83c33c00e62bb781208b3597ca3def0367"
+    },
+    {
+      "path": "ProjectSettings/ProjectSettings.asset",
+      "bytes": 18845,
+      "sha256": "fa5a38af6a87990fc0161c6bb6e223ba4ee5784ef4556c1eb4f8054c2fcdca22"
+    }
+  ],
+  "fileCount": 463,
+  "note": "Verification manifest, not a complete original-package parity claim."
+}

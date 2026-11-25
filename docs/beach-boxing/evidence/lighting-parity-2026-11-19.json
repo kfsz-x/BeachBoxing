@@ -1,0 +1,362 @@
+{
+  "sourceDataSha256": "3b109d92fcf4ced42ddf76c238e92d38a755d006d7413ea21bedc742aaf6cf67",
+  "lightProbes": {
+    "m_Name": "(Clone)",
+    "m_Data": {
+      "m_Tetrahedralization": {
+        "m_Tetrahedra": [],
+        "m_HullRays": []
+      },
+      "m_ProbeSets": [],
+      "m_Positions": [],
+      "m_NonTetrahedralizedProbeSetIndexMap": []
+    },
+    "m_BakedCoefficients": [],
+    "m_BakedLightOcclusion": []
+  },
+  "reflection": {
+    "m_Name": "ReflectionProbe-0",
+    "m_ForcedFallbackFormat": 4,
+    "m_DownscaleFallback": false,
+    "m_IsAlphaChannelOptional": true,
+    "m_Width": 128,
+    "m_Height": 128,
+    "m_CompleteImageSize": 10936,
+    "m_MipsStripped": 0,
+    "m_TextureFormat": 10,
+    "m_MipCount": 8,
+    "m_IsReadable": false,
+    "m_IsPreProcessed": false,
+    "m_IgnoreMipmapLimit": false,
+    "m_MipmapLimitGroupName": "",
+    "m_StreamingMipmaps": false,
+    "m_StreamingMipmapsPriority": 0,
+    "m_ImageCount": 6,
+    "m_TextureDimension": 2,
+    "m_TextureSettings": {
+      "m_FilterMode": 2,
+      "m_Aniso": 0,
+      "m_MipBias": 0.0,
+      "m_WrapU": 1,
+      "m_WrapV": 1,
+      "m_WrapW": 1
+    },
+    "m_LightmapFormat": 7,
+    "m_ColorSpace": 1,
+    "m_StreamData": {
+      "offset": 0,
+      "size": 0,
+      "path": ""
+    }
+  },
+  "renderSettings": {
+    "level0": {
+      "m_Fog": false,
+      "m_FogColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "m_FogMode": 3,
+      "m_FogDensity": 0.009999999776482582,
+      "m_LinearFogStart": 0.0,
+      "m_LinearFogEnd": 300.0,
+      "m_AmbientSkyColor": {
+        "r": 0.21199999749660492,
+        "g": 0.22699999809265137,
+        "b": 0.2590000033378601,
+        "a": 1.0
+      },
+      "m_AmbientEquatorColor": {
+        "r": 0.11400000005960464,
+        "g": 0.125,
+        "b": 0.13300000131130219,
+        "a": 1.0
+      },
+      "m_AmbientGroundColor": {
+        "r": 0.04699999839067459,
+        "g": 0.0430000014603138,
+        "b": 0.03500000014901161,
+        "a": 1.0
+      },
+      "m_AmbientIntensity": 1.0,
+      "m_AmbientMode": 0,
+      "m_SubtractiveShadowColor": {
+        "r": 0.41999998688697815,
+        "g": 0.4779999852180481,
+        "b": 0.6269999742507935,
+        "a": 1.0
+      },
+      "m_SkyboxMaterial": {
+        "m_FileID": 2,
+        "m_PathID": 16
+      },
+      "m_HaloStrength": 0.5,
+      "m_FlareStrength": 1.0,
+      "m_FlareFadeSpeed": 3.0,
+      "m_HaloTexture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_SpotCookie": {
+        "m_FileID": 3,
+        "m_PathID": 10001
+      },
+      "m_DefaultReflectionMode": 0,
+      "m_DefaultReflectionResolution": 128,
+      "m_ReflectionBounces": 1,
+      "m_ReflectionIntensity": 1.0,
+      "m_CustomReflection": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_AmbientProbe": {
+        "sh[ 0]": 0.38810044527053833,
+        "sh[ 1]": -0.31267857551574707,
+        "sh[ 2]": -0.01423674076795578,
+        "sh[ 3]": -0.013275189325213432,
+        "sh[ 4]": -0.01365154329687357,
+        "sh[ 5]": -0.015355262905359268,
+        "sh[ 6]": -0.013093145564198494,
+        "sh[ 7]": 0.0029039301443845034,
+        "sh[ 8]": -0.038794487714767456,
+        "sh[ 9]": 0.727814793586731,
+        "sh[10]": -0.19972063601016998,
+        "sh[11]": -0.011302202939987183,
+        "sh[12]": -0.010960719548165798,
+        "sh[13]": -0.011438503861427307,
+        "sh[14]": -0.012267470359802246,
+        "sh[15]": 0.0013639628887176514,
+        "sh[16]": 0.0018594246357679367,
+        "sh[17]": 0.005322916433215141,
+        "sh[18]": 0.7324987053871155,
+        "sh[19]": -0.04495140165090561,
+        "sh[20]": -0.0027381181716918945,
+        "sh[21]": -0.0026475361082702875,
+        "sh[22]": -0.0029258597642183304,
+        "sh[23]": -0.003039431758224964,
+        "sh[24]": 0.002847086638212204,
+        "sh[25]": 0.00011665694182738662,
+        "sh[26]": 0.009220984764397144
+      },
+      "m_GeneratedSkyboxReflection": {
+        "m_FileID": 2,
+        "m_PathID": 368
+      },
+      "m_Sun": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_IndirectSpecularColor": {
+        "r": 0.38810044527053833,
+        "g": 0.727814793586731,
+        "b": 0.7324987053871155,
+        "a": 1.0
+      },
+      "m_UseRadianceAmbientProbe": false
+    },
+    "level1": {
+      "m_Fog": false,
+      "m_FogColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5,
+        "a": 1.0
+      },
+      "m_FogMode": 3,
+      "m_FogDensity": 0.009999999776482582,
+      "m_LinearFogStart": 0.0,
+      "m_LinearFogEnd": 300.0,
+      "m_AmbientSkyColor": {
+        "r": 0.21199999749660492,
+        "g": 0.22699999809265137,
+        "b": 0.2590000033378601,
+        "a": 1.0
+      },
+      "m_AmbientEquatorColor": {
+        "r": 0.11400000005960464,
+        "g": 0.125,
+        "b": 0.13300000131130219,
+        "a": 1.0
+      },
+      "m_AmbientGroundColor": {
+        "r": 0.04699999839067459,
+        "g": 0.0430000014603138,
+        "b": 0.03500000014901161,
+        "a": 1.0
+      },
+      "m_AmbientIntensity": 1.0,
+      "m_AmbientMode": 0,
+      "m_SubtractiveShadowColor": {
+        "r": 0.41999998688697815,
+        "g": 0.4779999852180481,
+        "b": 0.6269999742507935,
+        "a": 1.0
+      },
+      "m_SkyboxMaterial": {
+        "m_FileID": 2,
+        "m_PathID": 16
+      },
+      "m_HaloStrength": 0.5,
+      "m_FlareStrength": 1.0,
+      "m_FlareFadeSpeed": 3.0,
+      "m_HaloTexture": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_SpotCookie": {
+        "m_FileID": 4,
+        "m_PathID": 10001
+      },
+      "m_DefaultReflectionMode": 0,
+      "m_DefaultReflectionResolution": 128,
+      "m_ReflectionBounces": 1,
+      "m_ReflectionIntensity": 1.0,
+      "m_CustomReflection": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_AmbientProbe": {
+        "sh[ 0]": 0.38810044527053833,
+        "sh[ 1]": -0.31267857551574707,
+        "sh[ 2]": -0.01423674076795578,
+        "sh[ 3]": -0.013275189325213432,
+        "sh[ 4]": -0.01365154329687357,
+        "sh[ 5]": -0.015355262905359268,
+        "sh[ 6]": -0.013093145564198494,
+        "sh[ 7]": 0.0029039301443845034,
+        "sh[ 8]": -0.038794487714767456,
+        "sh[ 9]": 0.727814793586731,
+        "sh[10]": -0.19972063601016998,
+        "sh[11]": -0.011302202939987183,
+        "sh[12]": -0.010960719548165798,
+        "sh[13]": -0.011438503861427307,
+        "sh[14]": -0.012267470359802246,
+        "sh[15]": 0.0013639628887176514,
+        "sh[16]": 0.0018594246357679367,
+        "sh[17]": 0.005322916433215141,
+        "sh[18]": 0.7324987053871155,
+        "sh[19]": -0.04495140165090561,
+        "sh[20]": -0.0027381181716918945,
+        "sh[21]": -0.0026475361082702875,
+        "sh[22]": -0.0029258597642183304,
+        "sh[23]": -0.003039431758224964,
+        "sh[24]": 0.002847086638212204,
+        "sh[25]": 0.00011665694182738662,
+        "sh[26]": 0.009220984764397144
+      },
+      "m_GeneratedSkyboxReflection": {
+        "m_FileID": 2,
+        "m_PathID": 368
+      },
+      "m_Sun": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_IndirectSpecularColor": {
+        "r": 0.38810044527053833,
+        "g": 0.727814793586731,
+        "b": 0.7324987053871155,
+        "a": 1.0
+      },
+      "m_UseRadianceAmbientProbe": false
+    }
+  },
+  "implementationNotes": {
+    "textureColorSpaceEncoding": "Serialized Texture m_ColorSpace 1 is sRGB (verified against the original Sand texture and live Unity import); it is not UnityEngine.ColorSpace.Linear. Restored RGBA_DXT1_SRGB, correcting the first-pass UNorm interpretation.",
+    "ambient": "Saved original-ambient.json runtime coefficients, independently verified against actual WebGL unity_SH uniforms in native-presentation-dense2/runtime-gl-programs.json.",
+    "reflection": "Custom mode binds byte-identical original generated sky cubemap in one editable Unity scene; six faces and eight mips preserved.",
+    "probes": "Native spatial LightProbes arrays empty. Prior missing-volume diagnosis withdrawn."
+  },
+  "redRegression": "549d53101b19422fb1b7d5297ecf6817: expected native m_ColorSpace1, actual0",
+  "terrainCorrection": {
+    "source": "Native DesertTexture DXT1 RGB,64x64,mips7, terrain layer smoothness0/metallic0. Actual GLES3 terrain shader uses BRDF3/NHxRoughness.",
+    "cause": "PNG export/import retained opaque alpha and platform ASTC is RGBA. Terrain treated diffuse alpha as smoothness1 and sampled sharp reflection, overriding layer smoothness0. AlphaSource None alone did not fix RGBA ASTC.",
+    "proof": "debug-terrain-smoothness.png GPU output roughness/metallic/grazing(0,0,1), debug-terrain-reflection.png sharp cloud reflections; RGB24 trial removes distant green reflection.",
+    "fix": "RGB24 sRGB, AlphaSource None on tiny64px source texture; explicit source BRDF3 forward pass on both saved Terrain objects. No art pixels changed.",
+    "reference": "../reference/native-presentation-dense2/runtime-gl-programs.json",
+    "sampledGroundRegions": [
+      {
+        "box": [
+          40,
+          300,
+          200,
+          400
+        ],
+        "meanAbsoluteRgbDelta": [
+          2.591375,
+          1.627875,
+          1.541375
+        ]
+      },
+      {
+        "box": [
+          40,
+          420,
+          200,
+          560
+        ],
+        "meanAbsoluteRgbDelta": [
+          2.4466071428571428,
+          1.3832142857142857,
+          1.3320982142857143
+        ]
+      },
+      {
+        "box": [
+          600,
+          460,
+          820,
+          600
+        ],
+        "meanAbsoluteRgbDelta": [
+          3.200162337662338,
+          2.301720779220779,
+          1.5330194805194806
+        ]
+      }
+    ],
+    "sampledGroundRegionsFinal": [
+      {
+        "box": [
+          40,
+          300,
+          200,
+          400
+        ],
+        "meanAbsoluteRgbDelta": [
+          2.591375,
+          1.627875,
+          1.541375
+        ]
+      },
+      {
+        "box": [
+          40,
+          420,
+          200,
+          560
+        ],
+        "meanAbsoluteRgbDelta": [
+          2.4466071428571428,
+          1.3832142857142857,
+          1.3320982142857143
+        ]
+      },
+      {
+        "box": [
+          600,
+          460,
+          820,
+          600
+        ],
+        "meanAbsoluteRgbDelta": [
+          3.200162337662338,
+          2.301720779220779,
+          1.5330194805194806
+        ]
+      }
+    ]
+  }
+}

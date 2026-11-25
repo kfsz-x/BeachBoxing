@@ -1,0 +1,137 @@
+{
+  "891": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 4
+    },
+    "m_LocalRotation": {
+      "x": -0.021744929254055023,
+      "y": -0.9521657824516296,
+      "z": 0.06978064775466919,
+      "w": -0.29671233892440796
+    },
+    "m_LocalPosition": {
+      "x": -12.770000457763672,
+      "y": 5.960000038146973,
+      "z": 12.84000015258789
+    },
+    "m_LocalScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "m_Children": [],
+    "m_Father": {
+      "m_FileID": 0,
+      "m_PathID": 1077
+    }
+  },
+  "1163": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 645
+    },
+    "m_LocalRotation": {
+      "x": -0.021744927391409874,
+      "y": -0.9521657228469849,
+      "z": 0.06978064030408859,
+      "w": -0.29671230912208557
+    },
+    "m_LocalPosition": {
+      "x": -8.699999809265137,
+      "y": 4.900000095367432,
+      "z": 6.940000057220459
+    },
+    "m_LocalScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "m_Children": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1037
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 961
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2552
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2603
+      }
+    ],
+    "m_Father": {
+      "m_FileID": 0,
+      "m_PathID": 1077
+    }
+  },
+  "2552": {
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 449
+    },
+    "m_LocalRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "m_LocalPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 12.875274658203125
+    },
+    "m_LocalScale": {
+      "x": 1.2000000476837158,
+      "y": 1.2000000476837158,
+      "z": 1.100000023841858
+    },
+    "m_Children": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 2687
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2616
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2367
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2513
+      }
+    ],
+    "m_Father": {
+      "m_FileID": 0,
+      "m_PathID": 1163
+    },
+    "m_AnchorMin": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_AnchorMax": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_AnchoredPosition": {
+      "x": -3.215364694595337,
+      "y": -2.8028676509857178
+    },
+    "m_SizeDelta": {
+      "x": 10.0,
+      "y": 10.0
+    },
+    "m_Pivot": {
+      "x": 0.5,
+      "y": 0.5
+    }
+  }
+}

@@ -1,0 +1,133 @@
+[
+  {
+    "shaders": [
+      "#version 300 es\n\nuniform \tvec4 hlslcc_mtx4x4unity_ObjectToWorld[4];\nuniform \tvec4 hlslcc_mtx4x4unity_MatrixVP[4];\nuniform \tvec4 _Control_ST;\nuniform \tvec4 _Control_TexelSize;\nuniform \tvec4 _Splat0_ST;\nuniform \tvec4 _Splat1_ST;\nuniform \tvec4 _Splat2_ST;\nuniform \tvec4 _Splat3_ST;\nin highp vec4 in_POSITION0;\nin highp vec2 in_TEXCOORD0;\nout highp vec2 vs_TEXCOORD0;\nout highp vec2 vs_TEXCOORD1;\nout highp vec2 vs_TEXCOORD2;\nout highp vec2 vs_TEXCOORD3;\nout highp vec2 vs_TEXCOORD4;\nvec4 u_xlat0;\nvec4 u_xlat1;\nvec2 u_xlat4;\nvoid main()\n{\n    u_xlat0 = in_POSITION0.yyyy * hlslcc_mtx4x4unity_ObjectToWorld[1];\n    u_xlat0 = hlslcc_mtx4x4unity_ObjectToWorld[0] * in_POSITION0.xxxx + u_xlat0;\n    u_xlat0 = hlslcc_mtx4x4unity_ObjectToWorld[2] * in_POSITION0.zzzz + u_xlat0;\n    u_xlat0 = u_xlat0 + hlslcc_mtx4x4unity_ObjectToWorld[3];\n    u_xlat1 = u_xlat0.yyyy * hlslcc_mtx4x4unity_MatrixVP[1];\n    u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[0] * u_xlat0.xxxx + u_xlat1;\n    u_xlat1 = hlslcc_mtx4x4unity_MatrixVP[2] * u_xlat0.zzzz + u_xlat1;\n    gl_Position = hlslcc_mtx4x4unity_MatrixVP[3] * u_xlat0.wwww + u_xlat1;\n    u_xlat0.xy = _Control_TexelSize.zw + vec2(-1.0, -1.0);\n    u_xlat4.xy = in_TEXCOORD0.xy * _Control_ST.xy + _Control_ST.zw;\n    u_xlat0.xy = u_xlat4.xy * u_xlat0.xy + vec2(0.5, 0.5);\n    vs_TEXCOORD0.xy = u_xlat0.xy * _Control_TexelSize.xy;\n    vs_TEXCOORD1.xy = u_xlat4.xy * _Splat0_ST.xy + _Splat0_ST.zw;\n    vs_TEXCOORD2.xy = u_xlat4.xy * _Splat1_ST.xy + _Splat1_ST.zw;\n    vs_TEXCOORD3.xy = u_xlat4.xy * _Splat2_ST.xy + _Splat2_ST.zw;\n    vs_TEXCOORD4.xy = u_xlat4.xy * _Splat3_ST.xy + _Splat3_ST.zw;\n    return;\n}\n",
+      "#version 300 es\n\nprecision highp float;\nprecision highp int;\nuniform \tfloat _Smoothness0;\nuniform \tfloat _Smoothness1;\nuniform \tfloat _Smoothness2;\nuniform \tfloat _Smoothness3;\nuniform mediump sampler2D _Control;\nuniform mediump sampler2D _Splat0;\nuniform mediump sampler2D _Splat1;\nuniform mediump sampler2D _Splat2;\nuniform mediump sampler2D _Splat3;\nin highp vec2 vs_TEXCOORD0;\nin highp vec2 vs_TEXCOORD1;\nin highp vec2 vs_TEXCOORD2;\nin highp vec2 vs_TEXCOORD3;\nin highp vec2 vs_TEXCOORD4;\nlayout(location = 0) out highp vec4 SV_Target0;\nvec4 u_xlat0;\nvec4 u_xlat1;\nvec4 u_xlat2;\nvoid main()\n{\n    u_xlat0 = texture(_Splat0, vs_TEXCOORD1.xy);\n    u_xlat0.w = u_xlat0.w * _Smoothness0;\n    u_xlat1 = texture(_Splat1, vs_TEXCOORD2.xy);\n    u_xlat1.w = u_xlat1.w * _Smoothness1;\n    u_xlat2 = texture(_Control, vs_TEXCOORD0.xy);\n    u_xlat1 = u_xlat1 * u_xlat2.yyyy;\n    u_xlat0 = u_xlat0 * u_xlat2.xxxx + u_xlat1;\n    u_xlat1 = texture(_Splat2, vs_TEXCOORD3.xy);\n    u_xlat1.w = u_xlat1.w * _Smoothness2;\n    u_xlat0 = u_xlat1 * u_xlat2.zzzz + u_xlat0;\n    u_xlat1 = texture(_Splat3, vs_TEXCOORD4.xy);\n    u_xlat1.w = u_xlat1.w * _Smoothness3;\n    SV_Target0 = u_xlat1 * u_xlat2.wwww + u_xlat0;\n    return;\n}\n"
+    ],
+    "uniforms": {}
+  },
+  {
+    "shaders": [
+      "#version 300 es\n\nuniform \tmediump vec4 unity_SHBr;\nuniform \tmediump vec4 unity_SHBg;\nuniform \tmediump vec4 unity_SHBb;\nuniform \tmediump vec4 unity_SHC;\nuniform \tvec4 hlslcc_mtx4x4unity_ObjectToWorld[4];\nuniform \tvec4 hlslcc_mtx4x4unity_MatrixVP[4];\nin highp vec4 in_POSITION0;\nin highp vec3 in_NORMAL0;\nin highp vec4 in_TEXCOORD0;\nout highp vec3 vs_TEXCOORD0;\nout highp vec3 vs_TEXCOORD1;\nout highp vec4 vs_TEXCOORD2;\nout mediump vec3 vs_TEXCOORD3;\nout highp vec4 vs_TEXCOORD4;\nout highp vec4 vs_TEXCOORD5;\nvec4 u_xlat0;\nmediump vec4 u_xlat16_0;\nvec4 u_xlat1;\nmediump float u_xlat16_2;\nmediump vec3 u_xlat16_3;\nfloat u_xlat12;\nvoid main()\n{\n    u_xlat0 = in_POSITION0.yyyy * hlslcc_mtx4x4unity_ObjectToWorld[1];\n    u_xlat0 = hlslcc_mtx4x4unity_ObjectToWorld[0] * in_POSITION0.xxxx + u_xlat0;\n    u_xlat0 = hlslcc_mtx4x4unity_ObjectToWorld[2] * in_POSITION0.zzzz + u_xlat0;\n    u_xlat1 = u_xlat0 + hlslcc_mtx4x4unity_ObjectToWorld[3];\n    vs_TEXCOORD1.xyz = hlslcc_mtx4x4unity_ObjectToWorld[3].xyz * in_POSITION0.www + u_xlat0.xyz;\n    u_xlat0 = u_xlat1.yyyy * hlslcc_mtx4x4unity_MatrixVP[1];\n    u_xlat0 = hlslcc_mtx4x4unity_MatrixVP[0] * u_xlat1.xxxx + u_xlat0;\n    u_xlat0 = hlslcc_mtx4x4unity_MatrixVP[2] * u_xlat1.zzzz + u_xlat0;\n    gl_Position = hlslcc_mtx4x4unity_MatrixVP[3] * u_xlat1.wwww + u_xlat0;\n    u_xlat0.xyz = in_NORMAL0.yyy * hlslcc_mtx4x4unity_ObjectToWorld[1].xyz;\n    u_xlat0.xyz = hlslcc_mtx4x4unity_ObjectToWorld[0].xyz * in_NORMAL0.xxx + u_xlat0.xyz;\n    u_xlat0.xyz = hlslcc_mtx4x4unity_ObjectToWorld[2].xyz * in_NORMAL0.zzz + u_xlat0.xyz;\n    u_xlat12 = dot(u_xlat0.xyz, u_xlat0.xyz);\n    u_xlat12 = inversesqrt(u_xlat12);\n    u_xlat0.xyz = vec3(u_xlat12) * u_xlat0.xyz;\n    vs_TEXCOORD0.xyz = u_xlat0.xyz;\n    vs_TEXCOORD2.xy = in_TEXCOORD0.xy;\n    vs_TEXCOORD2.zw = vec2(0.0, 0.0);\n    u_xlat16_2 = u_xlat0.y * u_xlat0.y;\n    u_xlat16_2 = u_xlat0.x * u_xlat0.x + (-u_xlat16_2);\n    u_xlat16_0 = u_xlat0.yzzx * u_xlat0.xyzz;\n    u_xlat16_3.x = dot(unity_SHBr, u_xlat16_0);\n    u_xlat16_3.y = dot(unity_SHBg, u_xlat16_0);\n    u_xlat16_3.z = dot(unity_SHBb, u_xlat16_0);\n    vs_TEXCOORD3.xyz = unity_SHC.xyz * vec3(u_xlat16_2) + u_xlat16_3.xyz;\n    vs_TEXCOORD4 = vec4(0.0, 0.0, 0.0, 0.0);\n    vs_TEXCOORD5 = vec4(0.0, 0.0, 0.0, 0.0);\n    return;\n}\n",
+      "#version 300 es\n#extension GL_EXT_shader_texture_lod : enable\n#extension GL_EXT_shader_framebuffer_fetch : enable\n\nprecision highp float;\nprecision highp int;\nuniform \tvec3 _WorldSpaceCameraPos;\nuniform \tmediump vec4 _WorldSpaceLightPos0;\nuniform \tmediump vec4 unity_SHAr;\nuniform \tmediump vec4 unity_SHAg;\nuniform \tmediump vec4 unity_SHAb;\nuniform \tmediump vec4 unity_SpecCube0_HDR;\nuniform \tmediump vec4 _LightColor0;\nuniform \tvec4 _Control_TexelSize;\nuniform \tvec4 _Splat0_ST;\nuniform \tvec4 _Splat1_ST;\nuniform \tvec4 _Splat2_ST;\nuniform \tvec4 _Splat3_ST;\nuniform \tmediump float _Metallic0;\nuniform \tmediump float _Metallic1;\nuniform \tmediump float _Metallic2;\nuniform \tmediump float _Metallic3;\nuniform \tmediump float _Smoothness0;\nuniform \tmediump float _Smoothness1;\nuniform \tmediump float _Smoothness2;\nuniform \tmediump float _Smoothness3;\nuniform mediump sampler2D _Control;\nuniform mediump sampler2D _Splat0;\nuniform mediump sampler2D _Splat1;\nuniform mediump sampler2D _Splat2;\nuniform mediump sampler2D _Splat3;\nuniform highp sampler2D unity_NHxRoughness;\nuniform mediump samplerCube unity_SpecCube0;\nin highp vec3 vs_TEXCOORD0;\nin highp vec3 vs_TEXCOORD1;\nin highp vec4 vs_TEXCOORD2;\nin mediump vec3 vs_TEXCOORD3;\nlayout(location = 0) out mediump vec4 SV_Target0;\nvec4 u_xlat0;\nmediump vec3 u_xlat16_1;\nvec4 u_xlat2;\nvec4 u_xlat3;\nmediump vec3 u_xlat16_4;\nvec4 u_xlat5;\nmediump vec3 u_xlat16_5;\nmediump vec4 u_xlat16_6;\nmediump vec3 u_xlat16_7;\nmediump vec3 u_xlat16_8;\nmediump vec3 u_xlat16_9;\nmediump vec3 u_xlat16_10;\nfloat u_xlat13;\nmediump vec3 u_xlat16_15;\nmediump float u_xlat16_17;\nmediump float u_xlat16_26;\nfloat u_xlat33;\nmediump float u_xlat16_34;\nvoid main()\n{\n    u_xlat0.xyz = vs_TEXCOORD0.xyz;\n    u_xlat0.w = 1.0;\n    u_xlat16_1.x = dot(unity_SHAr, u_xlat0);\n    u_xlat16_1.y = dot(unity_SHAg, u_xlat0);\n    u_xlat16_1.z = dot(unity_SHAb, u_xlat0);\n    u_xlat16_1.xyz = u_xlat16_1.xyz + vs_TEXCOORD3.xyz;\n    u_xlat16_1.xyz = max(u_xlat16_1.xyz, vec3(0.0, 0.0, 0.0));\n    u_xlat0.xy = vs_TEXCOORD2.xy * _Splat0_ST.xy + _Splat0_ST.zw;\n    u_xlat0 = texture(_Splat0, u_xlat0.xy);\n    u_xlat2.xy = _Control_TexelSize.zw + vec2(-1.0, -1.0);\n    u_xlat2.xy = vs_TEXCOORD2.xy * u_xlat2.xy + vec2(0.5, 0.5);\n    u_xlat2.xy = u_xlat2.xy * _Control_TexelSize.xy;\n    u_xlat2 = texture(_Control, u_xlat2.xy);\n    u_xlat16_34 = dot(u_xlat2, vec4(1.0, 1.0, 1.0, 1.0));\n    u_xlat3.x = u_xlat16_34 + 0.00100000005;\n    u_xlat2 = u_xlat2 / u_xlat3.xxxx;\n    u_xlat0 = u_xlat0 * u_xlat2.xxxx;\n    u_xlat0.w = u_xlat0.w * _Smoothness0;\n    u_xlat3.xy = vs_TEXCOORD2.xy * _Splat1_ST.xy + _Splat1_ST.zw;\n    u_xlat3 = texture(_Splat1, u_xlat3.xy);\n    u_xlat3 = u_xlat2.yyyy * u_xlat3;\n    u_xlat3.w = u_xlat3.w * _Smoothness1;\n    u_xlat0 = u_xlat0 + u_xlat3;\n    u_xlat3.xy = vs_TEXCOORD2.xy * _Splat2_ST.xy + _Splat2_ST.zw;\n    u_xlat3 = texture(_Splat2, u_xlat3.xy);\n    u_xlat3 = u_xlat2.zzzz * u_xlat3;\n    u_xlat3.w = u_xlat3.w * _Smoothness2;\n    u_xlat0 = u_xlat0 + u_xlat3;\n    u_xlat3.xy = vs_TEXCOORD2.xy * _Splat3_ST.xy + _Splat3_ST.zw;\n    u_xlat3 = texture(_Splat3, u_xlat3.xy);\n    u_xlat3 = u_xlat2.wwww * u_xlat3;\n    u_xlat16_4.x = dot(u_xlat2, vec4(_Metallic0, _Metallic1, _Metallic2, _Metallic3));\n    u_xlat3.w = u_xlat3.w * _Smoothness3;\n    u_xlat0 = u_xlat0 + u_xlat3;\n    u_xlat2.z = (-u_xlat0.w) + 1.0;\n    u_xlat16_15.x = (-u_xlat2.z) * 0.699999988 + 1.70000005;\n    u_xlat16_15.x = u_xlat2.z * u_xlat16_15.x;\n    u_xlat16_15.x = u_xlat16_15.x * 6.0;\n    u_xlat3.xyz = (-vs_TEXCOORD1.xyz) + _WorldSpaceCameraPos.xyz;\n    u_xlat13 = dot(u_xlat3.xyz, u_xlat3.xyz);\n    u_xlat13 = inversesqrt(u_xlat13);\n    u_xlat3.xyz = vec3(u_xlat13) * u_xlat3.xyz;\n    u_xlat16_26 = dot((-u_xlat3.xyz), vs_TEXCOORD0.xyz);\n    u_xlat16_26 = u_xlat16_26 + u_xlat16_26;\n    u_xlat16_5.xyz = vs_TEXCOORD0.xyz * (-vec3(u_xlat16_26)) + (-u_xlat3.xyz);\n    u_xlat5 = textureLod(unity_SpecCube0, u_xlat16_5.xyz, u_xlat16_15.x);\n    u_xlat16_15.x = u_xlat5.w + -1.0;\n    u_xlat16_15.x = unity_SpecCube0_HDR.w * u_xlat16_15.x + 1.0;\n    u_xlat16_15.x = log2(u_xlat16_15.x);\n    u_xlat16_15.x = u_xlat16_15.x * unity_SpecCube0_HDR.y;\n    u_xlat16_15.x = exp2(u_xlat16_15.x);\n    u_xlat16_15.x = u_xlat16_15.x * unity_SpecCube0_HDR.x;\n    u_xlat16_15.xyz = u_xlat5.xyz * u_xlat16_15.xxx;\n    u_xlat16_6.x = (-u_xlat16_4.x) * 0.959999979 + 0.959999979;\n    u_xlat16_17 = (-u_xlat16_6.x) + 1.0;\n    u_xlat16_6.xzw = u_xlat0.xyz * u_xlat16_6.xxx;\n    u_xlat16_17 = u_xlat0.w + u_xlat16_17;\n    u_xlat16_17 = clamp(u_xlat16_17, 0.0, 1.0);\n    u_xlat16_7.xyz = u_xlat0.xyz + vec3(-0.0399999991, -0.0399999991, -0.0399999991);\n    u_xlat16_7.xyz = u_xlat16_4.xxx * u_xlat16_7.xyz + vec3(0.0399999991, 0.0399999991, 0.0399999991);\n    u_xlat16_8.xyz = vec3(u_xlat16_17) + (-u_xlat16_7.xyz);\n    u_xlat0.x = dot(vs_TEXCOORD0.xyz, vs_TEXCOORD0.xyz);\n    u_xlat0.x = inversesqrt(u_xlat0.x);\n    u_xlat0.xyz = u_xlat0.xxx * vs_TEXCOORD0.xyz;\n    u_xlat33 = dot(u_xlat3.xyz, u_xlat0.xyz);\n    u_xlat13 = u_xlat33;\n    u_xlat13 = clamp(u_xlat13, 0.0, 1.0);\n    u_xlat33 = u_xlat33 + u_xlat33;\n    u_xlat3.xyz = u_xlat0.xyz * (-vec3(u_xlat33)) + u_xlat3.xyz;\n    u_xlat0.x = dot(u_xlat0.xyz, _WorldSpaceLightPos0.xyz);\n    u_xlat0.x = clamp(u_xlat0.x, 0.0, 1.0);\n    u_xlat16_9.xyz = u_xlat0.xxx * _LightColor0.xyz;\n    u_xlat0.x = dot(u_xlat3.xyz, _WorldSpaceLightPos0.xyz);\n    u_xlat0.x = u_xlat0.x * u_xlat0.x;\n    u_xlat2.x = u_xlat0.x * u_xlat0.x;\n    u_xlat0.x = texture(unity_NHxRoughness, u_xlat2.xz).x;\n    u_xlat0.x = u_xlat0.x * 16.0;\n    u_xlat16_10.xyz = u_xlat0.xxx * u_xlat16_7.xyz + u_xlat16_6.xzw;\n    u_xlat16_4.x = (-u_xlat13) + 1.0;\n    u_xlat0.x = u_xlat16_4.x * u_xlat16_4.x;\n    u_xlat0.x = u_xlat16_4.x * u_xlat0.x;\n    u_xlat0.x = u_xlat16_4.x * u_xlat0.x;\n    u_xlat16_7.xyz = u_xlat0.xxx * u_xlat16_8.xyz + u_xlat16_7.xyz;\n    u_xlat16_4.xyz = u_xlat16_15.xyz * u_xlat16_7.xyz;\n    u_xlat16_1.xyz = u_xlat16_1.xyz * u_xlat16_6.xzw + u_xlat16_4.xyz;\n    u_xlat16_1.xyz = u_xlat16_10.xyz * u_xlat16_9.xyz + u_xlat16_1.xyz;\n    SV_Target0.xyz = vec3(u_xlat16_34) * u_xlat16_1.xyz;\n    SV_Target0.w = 1.0;\n    return;\n}\n"
+    ],
+    "uniforms": {
+      "unity_SHBr": [
+        -0.01365154329687357,
+        -0.015355262905359268,
+        -0.03927943855524063,
+        0.0029039301443845034
+      ],
+      "unity_SHBg": [
+        -0.011438503861427307,
+        -0.012267470359802246,
+        0.004091888666152954,
+        0.0018594246357679367
+      ],
+      "unity_SHBb": [
+        -0.0029258597642183304,
+        -0.003039431758224964,
+        0.008541259914636612,
+        0.00011665694182738662
+      ],
+      "unity_SHC": [
+        -0.038794487714767456,
+        0.005322916433215141,
+        0.009220984764397144,
+        1
+      ],
+      "unity_SHAr": [
+        -0.013275189325213432,
+        -0.31267857551574707,
+        -0.01423674076795578,
+        0.4011935889720917
+      ],
+      "unity_SHAg": [
+        -0.010960719548165798,
+        -0.19972063601016998,
+        -0.011302202939987183,
+        0.7264508008956909
+      ],
+      "unity_SHAb": [
+        -0.0026475361082702875,
+        -0.04495140165090561,
+        -0.0027381181716918945,
+        0.7296516299247742
+      ],
+      "unity_SpecCube0_HDR": [
+        4.594793796539307,
+        1,
+        0,
+        0
+      ],
+      "_LightColor0": [
+        0.8688994646072388,
+        0.8159727454185486,
+        0.6233566999435425,
+        0.9399999976158142
+      ]
+    }
+  },
+  {
+    "shaders": [
+      "#version 300 es\n\nuniform \tmediump vec4 unity_SHBr;\nuniform \tmediump vec4 unity_SHBg;\nuniform \tmediump vec4 unity_SHBb;\nuniform \tmediump vec4 unity_SHC;\nuniform \tvec4 hlslcc_mtx4x4unity_ObjectToWorld[4];\nuniform \tvec4 hlslcc_mtx4x4unity_WorldToObject[4];\nuniform \tvec4 unity_WorldTransformParams;\nuniform \tvec4 hlslcc_mtx4x4unity_MatrixVP[4];\nin highp vec4 in_POSITION0;\nin highp vec4 in_TANGENT0;\nin highp vec3 in_NORMAL0;\nout highp vec4 vs_TEXCOORD0;\nout highp vec4 vs_TEXCOORD1;\nout highp vec4 vs_TEXCOORD2;\nout mediump vec3 vs_TEXCOORD3;\nout highp vec4 vs_TEXCOORD5;\nout highp vec4 vs_TEXCOORD6;\nvec4 u_xlat0;\nmediump vec4 u_xlat16_0;\nvec4 u_xlat1;\nvec4 u_xlat2;\nvec3 u_xlat3;\nmediump float u_xlat16_4;\nmediump vec3 u_xlat16_5;\nvoid main()\n{\n    u_xlat0 = in_POSITION0.yyyy * hlslcc_mtx4x4unity_ObjectToWorld[1];\n    u_xlat0 = hlslcc_mtx4x4unity_ObjectToWorld[0] * in_POSITION0.xxxx + u_xlat0;\n    u_xlat0 = hlslcc_mtx4x4unity_ObjectToWorld[2] * in_POSITION0.zzzz + u_xlat0;\n    u_xlat1 = u_xlat0 + hlslcc_mtx4x4unity_ObjectToWorld[3];\n    u_xlat0.xyz = hlslcc_mtx4x4unity_ObjectToWorld[3].xyz * in_POSITION0.www + u_xlat0.xyz;\n    u_xlat2 = u_xlat1.yyyy * hlslcc_mtx4x4unity_MatrixVP[1];\n    u_xlat2 = hlslcc_mtx4x4unity_MatrixVP[0] * u_xlat1.xxxx + u_xlat2;\n    u_xlat2 = hlslcc_mtx4x4unity_MatrixVP[2] * u_xlat1.zzzz + u_xlat2;\n    gl_Position = hlslcc_mtx4x4unity_MatrixVP[3] * u_xlat1.wwww + u_xlat2;\n    vs_TEXCOORD0.w = u_xlat0.x;\n    u_xlat1.xyz = in_TANGENT0.yyy * hlslcc_mtx4x4unity_ObjectToWorld[1].yzx;\n    u_xlat1.xyz = hlslcc_mtx4x4unity_ObjectToWorld[0].yzx * in_TANGENT0.xxx + u_xlat1.xyz;\n    u_xlat1.xyz = hlslcc_mtx4x4unity_ObjectToWorld[2].yzx * in_TANGENT0.zzz + u_xlat1.xyz;\n    u_xlat0.x = dot(u_xlat1.xyz, u_xlat1.xyz);\n    u_xlat0.x = inversesqrt(u_xlat0.x);\n    u_xlat1.xyz = u_xlat0.xxx * u_xlat1.xyz;\n    vs_TEXCOORD0.x = u_xlat1.z;\n    u_xlat2.x = dot(in_NORMAL0.xyz, hlslcc_mtx4x4unity_WorldToObject[0].xyz);\n    u_xlat2.y = dot(in_NORMAL0.xyz, hlslcc_mtx4x4unity_WorldToObject[1].xyz);\n    u_xlat2.z = dot(in_NORMAL0.xyz, hlslcc_mtx4x4unity_WorldToObject[2].xyz);\n    u_xlat0.x = dot(u_xlat2.xyz, u_xlat2.xyz);\n    u_xlat0.x = inversesqrt(u_xlat0.x);\n    u_xlat2 = u_xlat0.xxxx * u_xlat2.xyzz;\n    u_xlat3.xyz = u_xlat1.xyz * u_xlat2.wxy;\n    u_xlat3.xyz = u_xlat2.ywx * u_xlat1.yzx + (-u_xlat3.xyz);\n    u_xlat0.x = in_TANGENT0.w * unity_WorldTransformParams.w;\n    u_xlat3.xyz = u_xlat0.xxx * u_xlat3.xyz;\n    vs_TEXCOORD0.y = u_xlat3.x;\n    vs_TEXCOORD0.z = u_xlat2.x;\n    vs_TEXCOORD1.x = u_xlat1.x;\n    vs_TEXCOORD2.x = u_xlat1.y;\n    vs_TEXCOORD1.w = u_xlat0.y;\n    vs_TEXCOORD2.w = u_xlat0.z;\n    vs_TEXCOORD1.y = u_xlat3.y;\n    vs_TEXCOORD2.y = u_xlat3.z;\n    vs_TEXCOORD1.z = u_xlat2.y;\n    vs_TEXCOORD2.z = u_xlat2.w;\n    u_xlat16_4 = u_xlat2.y * u_xlat2.y;\n    u_xlat16_4 = u_xlat2.x * u_xlat2.x + (-u_xlat16_4);\n    u_xlat16_0 = u_xlat2.ywzx * u_xlat2;\n    u_xlat16_5.x = dot(unity_SHBr, u_xlat16_0);\n    u_xlat16_5.y = dot(unity_SHBg, u_xlat16_0);\n    u_xlat16_5.z = dot(unity_SHBb, u_xlat16_0);\n    vs_TEXCOORD3.xyz = unity_SHC.xyz * vec3(u_xlat16_4) + u_xlat16_5.xyz;\n    vs_TEXCOORD5 = vec4(0.0, 0.0, 0.0, 0.0);\n    vs_TEXCOORD6 = vec4(0.0, 0.0, 0.0, 0.0);\n    return;\n}\n",
+      "#version 300 es\n#extension GL_EXT_shader_texture_lod : enable\n#extension GL_EXT_shader_framebuffer_fetch : enable\n\nprecision highp float;\nprecision highp int;\nuniform \tvec3 _WorldSpaceCameraPos;\nuniform \tmediump vec4 _WorldSpaceLightPos0;\nuniform \tmediump vec4 unity_SHAr;\nuniform \tmediump vec4 unity_SHAg;\nuniform \tmediump vec4 unity_SHAb;\nuniform \tmediump vec4 unity_SpecCube0_HDR;\nuniform \tmediump vec4 _LightColor0;\nuniform \tvec4 _BaseColor;\nuniform \tfloat _GridScale;\nuniform \tfloat _Falloff;\nuniform \tfloat _OverlayAmount;\nuniform mediump sampler2D _Grid;\nuniform highp sampler2D unity_NHxRoughness;\nuniform mediump samplerCube unity_SpecCube0;\nin highp vec4 vs_TEXCOORD0;\nin highp vec4 vs_TEXCOORD1;\nin highp vec4 vs_TEXCOORD2;\nin mediump vec3 vs_TEXCOORD3;\nlayout(location = 0) out mediump vec4 SV_Target0;\nvec4 u_xlat0;\nvec4 u_xlat1;\nvec4 u_xlat2;\nivec3 u_xlati2;\nvec3 u_xlat3;\nivec3 u_xlati3;\nvec4 u_xlat4;\nvec3 u_xlat5;\nvec3 u_xlat6;\nmediump vec3 u_xlat16_7;\nmediump vec3 u_xlat16_8;\nmediump vec3 u_xlat16_9;\nmediump vec3 u_xlat16_10;\nfloat u_xlat12;\nfloat u_xlat23;\nfloat u_xlat33;\nfloat u_xlat34;\nmediump float u_xlat16_40;\nvoid main()\n{\n    u_xlat0.x = vs_TEXCOORD0.z;\n    u_xlat0.y = vs_TEXCOORD1.z;\n    u_xlat0.z = vs_TEXCOORD2.z;\n    u_xlat1.xyz = log2(abs(u_xlat0.xyz));\n    u_xlat1.xyz = u_xlat1.xyz * vec3(vec3(_Falloff, _Falloff, _Falloff));\n    u_xlat1.xyz = exp2(u_xlat1.xyz);\n    u_xlat33 = u_xlat1.y + u_xlat1.x;\n    u_xlat33 = u_xlat1.z + u_xlat33;\n    u_xlat1.xyz = u_xlat1.xyz / vec3(u_xlat33);\n    u_xlati2.xyz = ivec3(uvec3(lessThan(vec4(0.0, 0.0, 0.0, 0.0), u_xlat0.xyzx).xyz) * 0xFFFFFFFFu);\n    u_xlati3.xyz = ivec3(uvec3(lessThan(u_xlat0.xyzx, vec4(0.0, 0.0, 0.0, 0.0)).xyz) * 0xFFFFFFFFu);\n    u_xlati2.xyz = (-u_xlati2.xyz) + u_xlati3.xyz;\n    u_xlat2.xyz = vec3(u_xlati2.xyz);\n    u_xlat33 = u_xlat1.y * u_xlat2.y;\n    u_xlat33 = max(u_xlat33, 0.0);\n    u_xlat2.w = 1.0;\n    u_xlat3.z = vs_TEXCOORD2.w;\n    u_xlat3.x = vs_TEXCOORD0.w;\n    u_xlat3.y = vs_TEXCOORD1.w;\n    u_xlat4 = u_xlat3.zyxz * vec4(_GridScale);\n    u_xlat5.xyz = (-u_xlat3.xyz) + _WorldSpaceCameraPos.xyz;\n    u_xlat3.xy = u_xlat3.xy * vec2(_GridScale);\n    u_xlat4 = u_xlat2.xwyw * u_xlat4;\n    u_xlat2.xz = u_xlat2.zw * vec2(-1.0, 1.0);\n    u_xlat12 = u_xlat1.y * (-u_xlat2.y);\n    u_xlat12 = max(u_xlat12, 0.0);\n    u_xlat2.xy = u_xlat2.xz * u_xlat3.xy;\n    u_xlat2.xyz = texture(_Grid, u_xlat2.xy).xyz;\n    u_xlat3.xyz = texture(_Grid, u_xlat4.zw).xyz;\n    u_xlat4.xyz = texture(_Grid, u_xlat4.xy).xyz;\n    u_xlat6.xyz = vec3(u_xlat33) * u_xlat3.xyz;\n    u_xlat4.xyz = u_xlat4.xyz * u_xlat1.xxx + u_xlat6.xyz;\n    u_xlat1.xyw = u_xlat3.xyz * vec3(u_xlat12) + u_xlat4.xyz;\n    u_xlat1.xyz = u_xlat2.xyz * u_xlat1.zzz + u_xlat1.xyw;\n    u_xlat1.xyz = u_xlat1.xyz + vec3(-1.0, -1.0, -1.0);\n    u_xlat1.xyz = vec3(vec3(_OverlayAmount, _OverlayAmount, _OverlayAmount)) * u_xlat1.xyz + vec3(1.0, 1.0, 1.0);\n    u_xlat1.xyz = u_xlat1.xyz * _BaseColor.xyz;\n    u_xlat16_7.xyz = u_xlat1.xyz * vec3(0.959999979, 0.959999979, 0.959999979);\n    u_xlat33 = dot(u_xlat0.xyz, u_xlat0.xyz);\n    u_xlat33 = inversesqrt(u_xlat33);\n    u_xlat0.xyz = vec3(u_xlat33) * u_xlat0.xyz;\n    u_xlat1.x = dot(u_xlat5.xyz, u_xlat5.xyz);\n    u_xlat1.x = inversesqrt(u_xlat1.x);\n    u_xlat1.xyz = u_xlat1.xxx * u_xlat5.xyz;\n    u_xlat16_40 = dot((-u_xlat1.xyz), u_xlat0.xyz);\n    u_xlat16_40 = u_xlat16_40 + u_xlat16_40;\n    u_xlat16_8.xyz = u_xlat0.xyz * (-vec3(u_xlat16_40)) + (-u_xlat1.xyz);\n    u_xlat2 = textureLod(unity_SpecCube0, u_xlat16_8.xyz, 6.0);\n    u_xlat16_40 = u_xlat2.w + -1.0;\n    u_xlat16_40 = unity_SpecCube0_HDR.w * u_xlat16_40 + 1.0;\n    u_xlat16_40 = log2(u_xlat16_40);\n    u_xlat16_40 = u_xlat16_40 * unity_SpecCube0_HDR.y;\n    u_xlat16_40 = exp2(u_xlat16_40);\n    u_xlat16_40 = u_xlat16_40 * unity_SpecCube0_HDR.x;\n    u_xlat16_8.xyz = u_xlat2.xyz * vec3(u_xlat16_40);\n    u_xlat34 = dot(u_xlat1.xyz, u_xlat0.xyz);\n    u_xlat2.x = u_xlat34;\n    u_xlat2.x = clamp(u_xlat2.x, 0.0, 1.0);\n    u_xlat34 = u_xlat34 + u_xlat34;\n    u_xlat1.xyz = u_xlat0.xyz * (-vec3(u_xlat34)) + u_xlat1.xyz;\n    u_xlat1.x = dot(u_xlat1.xyz, _WorldSpaceLightPos0.xyz);\n    u_xlat1.x = u_xlat1.x * u_xlat1.x;\n    u_xlat1.x = u_xlat1.x * u_xlat1.x;\n    u_xlat16_40 = (-u_xlat2.x) + 1.0;\n    u_xlat23 = u_xlat16_40 * u_xlat16_40;\n    u_xlat23 = u_xlat16_40 * u_xlat23;\n    u_xlat23 = u_xlat16_40 * u_xlat23;\n    u_xlat16_40 = u_xlat23 * 2.23517418e-08 + 0.0399999991;\n    u_xlat16_8.xyz = vec3(u_xlat16_40) * u_xlat16_8.xyz;\n    u_xlat23 = dot(u_xlat0.xyz, _WorldSpaceLightPos0.xyz);\n    u_xlat23 = clamp(u_xlat23, 0.0, 1.0);\n    u_xlat16_9.xyz = vec3(u_xlat23) * _LightColor0.xyz;\n    u_xlat0.w = 1.0;\n    u_xlat16_10.x = dot(unity_SHAr, u_xlat0);\n    u_xlat16_10.y = dot(unity_SHAg, u_xlat0);\n    u_xlat16_10.z = dot(unity_SHAb, u_xlat0);\n    u_xlat16_10.xyz = u_xlat16_10.xyz + vs_TEXCOORD3.xyz;\n    u_xlat16_10.xyz = max(u_xlat16_10.xyz, vec3(0.0, 0.0, 0.0));\n    u_xlat16_8.xyz = u_xlat16_10.xyz * u_xlat16_7.xyz + u_xlat16_8.xyz;\n    u_xlat1.y = 1.0;\n    u_xlat0.x = texture(unity_NHxRoughness, u_xlat1.xy).x;\n    u_xlat16_7.xyz = u_xlat0.xxx * vec3(0.639999986, 0.639999986, 0.639999986) + u_xlat16_7.xyz;\n    SV_Target0.xyz = u_xlat16_7.xyz * u_xlat16_9.xyz + u_xlat16_8.xyz;\n    SV_Target0.w = 1.0;\n    return;\n}\n"
+    ],
+    "uniforms": {
+      "unity_SHBr": [
+        -0.01365154329687357,
+        -0.015355262905359268,
+        -0.03927943855524063,
+        0.0029039301443845034
+      ],
+      "unity_SHBg": [
+        -0.011438503861427307,
+        -0.012267470359802246,
+        0.004091888666152954,
+        0.0018594246357679367
+      ],
+      "unity_SHBb": [
+        -0.0029258597642183304,
+        -0.003039431758224964,
+        0.008541259914636612,
+        0.00011665694182738662
+      ],
+      "unity_SHC": [
+        -0.038794487714767456,
+        0.005322916433215141,
+        0.009220984764397144,
+        1
+      ],
+      "unity_SHAr": [
+        -0.013275189325213432,
+        -0.31267857551574707,
+        -0.01423674076795578,
+        0.4011935889720917
+      ],
+      "unity_SHAg": [
+        -0.010960719548165798,
+        -0.19972063601016998,
+        -0.011302202939987183,
+        0.7264508008956909
+      ],
+      "unity_SHAb": [
+        -0.0026475361082702875,
+        -0.04495140165090561,
+        -0.0027381181716918945,
+        0.7296516299247742
+      ],
+      "unity_SpecCube0_HDR": [
+        4.594793796539307,
+        1,
+        0,
+        0
+      ],
+      "_LightColor0": [
+        0.8688994646072388,
+        0.8159727454185486,
+        0.6233566999435425,
+        0.9399999976158142
+      ]
+    }
+  }
+]

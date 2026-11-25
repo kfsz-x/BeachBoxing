@@ -1,0 +1,1635 @@
+{
+  "home.bg": {
+    "path": "Assets/BeachBoxing/Art/UI/Home/Background.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "bbox": [
+      0,
+      0,
+      1920,
+      1080
+    ]
+  },
+  "home.startBtn": {
+    "path": "Assets/BeachBoxing/Art/UI/Home/StartBtn.png",
+    "size": [
+      858,
+      332
+    ],
+    "bbox": [
+      531,
+      658,
+      1389,
+      990
+    ]
+  },
+  "home.circleBtnBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Home/CircleBtnBg.png",
+    "size": [
+      148,
+      151
+    ],
+    "bbox": [
+      1730,
+      220,
+      1878,
+      371
+    ]
+  },
+  "home.settingsIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Home/SettingsIcon.png",
+    "size": [
+      64,
+      61
+    ],
+    "bbox": [
+      1773,
+      255,
+      1837,
+      316
+    ]
+  },
+  "home.circleLabelBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Home/CircleLabelBg.png",
+    "size": [
+      138,
+      48
+    ],
+    "bbox": [
+      46,
+      231,
+      184,
+      279
+    ]
+  },
+  "home.subscribeIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Home/SubscribeIcon.png",
+    "size": [
+      89,
+      97
+    ],
+    "bbox": [
+      71,
+      141,
+      160,
+      238
+    ]
+  },
+  "home.addDesktopIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Home/AddDesktopIcon.png",
+    "size": [
+      82,
+      97
+    ],
+    "bbox": [
+      80,
+      344,
+      162,
+      441
+    ]
+  },
+  "home.shareIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Home/ShareIcon.png",
+    "size": [
+      100,
+      87
+    ],
+    "bbox": [
+      62,
+      562,
+      162,
+      649
+    ]
+  },
+  "home.entryRewardIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Home/EntryRewardIcon.png",
+    "size": [
+      97,
+      94
+    ],
+    "bbox": [
+      1756,
+      449,
+      1853,
+      543
+    ]
+  },
+  "common.alertBadge": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/AlertBadge.png",
+    "size": [
+      44,
+      43
+    ],
+    "bbox": [
+      1836,
+      428,
+      1880,
+      471
+    ]
+  },
+  "loading.bg": {
+    "path": "Assets/BeachBoxing/Art/UI/Loading/Background.jpg",
+    "size": [
+      1920,
+      1080
+    ],
+    "bbox": [
+      0,
+      0,
+      1920,
+      1080
+    ]
+  },
+  "loading.progressTrack": {
+    "path": "Assets/BeachBoxing/Art/UI/Loading/ProgressTrack.png",
+    "size": [
+      1086,
+      106
+    ],
+    "bbox": [
+      399,
+      931,
+      1485,
+      1037
+    ]
+  },
+  "loading.progressFill": {
+    "path": "Assets/BeachBoxing/Art/UI/Loading/ProgressFill.png",
+    "size": [
+      1020,
+      58
+    ],
+    "bbox": [
+      434,
+      951,
+      1454,
+      1009
+    ]
+  },
+  "loading.title": {
+    "path": "Assets/BeachBoxing/Art/UI/Loading/LoadingTitle.png",
+    "size": [
+      481,
+      125
+    ],
+    "bbox": [
+      702,
+      794,
+      1183,
+      919
+    ]
+  },
+  "common.sideMenuBtnBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/SideMenuBtnBg.png",
+    "size": [
+      243,
+      102
+    ],
+    "bbox": [
+      1616,
+      190,
+      1859,
+      292
+    ]
+  },
+  "common.sideSettingsIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/SideSettingsIcon.png",
+    "size": [
+      64,
+      61
+    ],
+    "bbox": [
+      1654,
+      208,
+      1718,
+      269
+    ]
+  },
+  "common.sideBoxerIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/SideBoxerIcon.png",
+    "size": [
+      113,
+      104
+    ],
+    "bbox": [
+      1614,
+      321,
+      1727,
+      425
+    ]
+  },
+  "common.newBadge": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/NewBadge.png",
+    "size": [
+      102,
+      64
+    ],
+    "bbox": [
+      1789,
+      302,
+      1891,
+      366
+    ]
+  },
+  "common.sideSignInIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/SideSignInIcon.png",
+    "size": [
+      70,
+      70
+    ],
+    "bbox": [
+      1650,
+      478,
+      1720,
+      548
+    ]
+  },
+  "common.statBarBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/StatBarBg.png",
+    "size": [
+      313,
+      101
+    ],
+    "bbox": [
+      66,
+      279,
+      379,
+      380
+    ]
+  },
+  "common.statChestIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/StatChestIcon.png",
+    "size": [
+      93,
+      92
+    ],
+    "bbox": [
+      48,
+      47,
+      141,
+      139
+    ]
+  },
+  "common.statArmsIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/StatArmsIcon.png",
+    "size": [
+      95,
+      91
+    ],
+    "bbox": [
+      49,
+      165,
+      144,
+      256
+    ]
+  },
+  "common.statBackIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/StatBackIcon.png",
+    "size": [
+      98,
+      87
+    ],
+    "bbox": [
+      45,
+      286,
+      143,
+      373
+    ]
+  },
+  "common.statLegsIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/StatLegsIcon.png",
+    "size": [
+      81,
+      97
+    ],
+    "bbox": [
+      44,
+      404,
+      125,
+      501
+    ]
+  },
+  "common.coinBarBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/CoinBarBg.png",
+    "size": [
+      324,
+      114
+    ],
+    "bbox": [
+      1158,
+      41,
+      1482,
+      155
+    ]
+  },
+  "common.starBarBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/StarBarBg.png",
+    "size": [
+      321,
+      112
+    ],
+    "bbox": [
+      1540,
+      39,
+      1861,
+      151
+    ]
+  },
+  "common.adBadge": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/AdBadge.png",
+    "size": [
+      39,
+      29
+    ],
+    "bbox": [
+      1446,
+      42,
+      1485,
+      71
+    ]
+  },
+  "common.joystickBase": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/JoystickBase.png",
+    "size": [
+      331,
+      329
+    ],
+    "bbox": [
+      312,
+      598,
+      643,
+      927
+    ]
+  },
+  "common.joystickKnob": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/JoystickKnob.png",
+    "size": [
+      172,
+      170
+    ],
+    "bbox": [
+      392,
+      678,
+      564,
+      848
+    ]
+  },
+  "gameplay.tipBannerBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/TipBannerBg.png",
+    "size": [
+      877,
+      159
+    ],
+    "bbox": [
+      537,
+      155,
+      1414,
+      314
+    ]
+  },
+  "gameplay.tipBannerMascot": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/TipBannerMascot.png",
+    "size": [
+      185,
+      192
+    ],
+    "bbox": [
+      514,
+      132,
+      699,
+      324
+    ]
+  },
+  "gameplay.workoutQuickBtnBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/WorkoutQuickBtnBg.png",
+    "size": [
+      400,
+      137
+    ],
+    "bbox": [
+      623,
+      650,
+      1023,
+      787
+    ]
+  },
+  "gameplay.workoutLightningIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/WorkoutLightningIcon.png",
+    "size": [
+      58,
+      73
+    ],
+    "bbox": [
+      670,
+      679,
+      728,
+      752
+    ]
+  },
+  "gameplay.workoutExitBtnBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/WorkoutExitBtnBg.png",
+    "size": [
+      324,
+      111
+    ],
+    "bbox": [
+      1037,
+      665,
+      1361,
+      776
+    ]
+  },
+  "gameplay.workoutExitIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/WorkoutExitIcon.png",
+    "size": [
+      67,
+      61
+    ],
+    "bbox": [
+      1105,
+      689,
+      1172,
+      750
+    ]
+  },
+  "gameplay.workoutDoubleBtnBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/WorkoutDoubleBtnBg.png",
+    "size": [
+      198,
+      66
+    ],
+    "bbox": [
+      1129,
+      570,
+      1327,
+      636
+    ]
+  },
+  "gameplay.workoutProgressTrack": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/WorkoutProgressTrack.png",
+    "size": [
+      1086,
+      113
+    ],
+    "bbox": [
+      417,
+      831,
+      1503,
+      944
+    ]
+  },
+  "gameplay.workoutProgressFill": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/WorkoutProgressFill.png",
+    "size": [
+      1020,
+      58
+    ],
+    "bbox": [
+      452,
+      851,
+      1472,
+      909
+    ]
+  },
+  "gameplay.healthIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/HealthIcon.png",
+    "size": [
+      56,
+      60
+    ],
+    "bbox": [
+      374,
+      177,
+      430,
+      237
+    ]
+  },
+  "gameplay.healthTrack": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/HealthTrack.png",
+    "size": [
+      356,
+      49
+    ],
+    "bbox": [
+      426,
+      178,
+      782,
+      227
+    ]
+  },
+  "gameplay.healthFill": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/HealthFill.png",
+    "size": [
+      339,
+      35
+    ],
+    "bbox": [
+      435,
+      185,
+      774,
+      220
+    ]
+  },
+  "gameplay.staminaIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/StaminaIcon.png",
+    "size": [
+      52,
+      62
+    ],
+    "bbox": [
+      379,
+      235,
+      431,
+      297
+    ]
+  },
+  "gameplay.staminaTrack": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/StaminaTrack.png",
+    "size": [
+      356,
+      49
+    ],
+    "bbox": [
+      426,
+      239,
+      782,
+      288
+    ]
+  },
+  "gameplay.staminaFill": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/StaminaFill.png",
+    "size": [
+      340,
+      34
+    ],
+    "bbox": [
+      434,
+      247,
+      774,
+      281
+    ]
+  },
+  "gameplay.punchBtn": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/PunchBtn.png",
+    "size": [
+      309,
+      309
+    ],
+    "bbox": [
+      1465,
+      664,
+      1774,
+      973
+    ]
+  },
+  "gameplay.blockBtn": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/BlockBtn.png",
+    "size": [
+      241,
+      241
+    ],
+    "bbox": [
+      1199,
+      689,
+      1440,
+      930
+    ]
+  },
+  "gameplay.countdownBadge": {
+    "path": "Assets/BeachBoxing/Art/UI/Gameplay/CountdownBadge.png",
+    "size": [
+      480,
+      358
+    ],
+    "bbox": [
+      705,
+      389,
+      1185,
+      747
+    ]
+  },
+  "settings.panelBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Settings/PanelBg.png",
+    "size": [
+      790,
+      619
+    ],
+    "bbox": [
+      556,
+      282,
+      1346,
+      901
+    ]
+  },
+  "common.closeBtn": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/CloseBtn.png",
+    "size": [
+      135,
+      130
+    ],
+    "bbox": [
+      1230,
+      251,
+      1365,
+      381
+    ]
+  },
+  "settings.titleArt": {
+    "path": "Assets/BeachBoxing/Art/UI/Settings/TitleArt.png",
+    "size": [
+      478,
+      215
+    ],
+    "bbox": [
+      681,
+      142,
+      1159,
+      357
+    ]
+  },
+  "settings.rowBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Settings/RowBg.png",
+    "size": [
+      593,
+      171
+    ],
+    "bbox": [
+      655,
+      411,
+      1248,
+      582
+    ]
+  },
+  "settings.musicIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Settings/MusicIcon.png",
+    "size": [
+      102,
+      98
+    ],
+    "bbox": [
+      703,
+      448,
+      805,
+      546
+    ]
+  },
+  "settings.sfxIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Settings/SfxIcon.png",
+    "size": [
+      122,
+      129
+    ],
+    "bbox": [
+      688,
+      644,
+      810,
+      773
+    ]
+  },
+  "settings.toggleOn": {
+    "path": "Assets/BeachBoxing/Art/UI/Settings/ToggleOn.png",
+    "size": [
+      187,
+      102
+    ],
+    "bbox": [
+      1036,
+      446,
+      1223,
+      548
+    ]
+  },
+  "settings.toggleOff": {
+    "path": "Assets/BeachBoxing/Art/UI/Settings/ToggleOff.png",
+    "size": [
+      187,
+      102
+    ],
+    "bbox": [
+      1036,
+      658,
+      1223,
+      760
+    ]
+  },
+  "challenge.panelBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/PanelBg.png",
+    "size": [
+      1215,
+      759
+    ],
+    "bbox": [
+      371,
+      242,
+      1586,
+      1001
+    ]
+  },
+  "challenge.titleArt": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/TitleArt.png",
+    "size": [
+      748,
+      280
+    ],
+    "bbox": [
+      635,
+      51,
+      1383,
+      331
+    ]
+  },
+  "challenge.statsBoxBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/StatsBoxBg.png",
+    "size": [
+      289,
+      536
+    ],
+    "bbox": [
+      441,
+      317,
+      730,
+      853
+    ]
+  },
+  "challenge.statsHeaderBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/StatsHeaderBg.png",
+    "size": [
+      204,
+      74
+    ],
+    "bbox": [
+      484,
+      295,
+      688,
+      369
+    ]
+  },
+  "challenge.statRowBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/StatRowBg.png",
+    "size": [
+      239,
+      74
+    ],
+    "bbox": [
+      472,
+      388,
+      711,
+      462
+    ]
+  },
+  "challenge.centerBoxBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/CenterBoxBg.png",
+    "size": [
+      516,
+      474
+    ],
+    "bbox": [
+      762,
+      315,
+      1278,
+      789
+    ]
+  },
+  "challenge.stageMask": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/StageMask.png",
+    "size": [
+      516,
+      344
+    ],
+    "bbox": [
+      762,
+      315,
+      1278,
+      659
+    ]
+  },
+  "challenge.stageBorder": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/StageBorder.png",
+    "size": [
+      516,
+      344
+    ],
+    "bbox": [
+      762,
+      315,
+      1278,
+      659
+    ]
+  },
+  "challenge.nameHeaderBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/NameHeaderBg.png",
+    "size": [
+      288,
+      74
+    ],
+    "bbox": [
+      876,
+      295,
+      1164,
+      369
+    ]
+  },
+  "challenge.arrowLeft": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/ArrowLeft.png",
+    "size": [
+      57,
+      72
+    ],
+    "bbox": [
+      798,
+      451,
+      855,
+      523
+    ]
+  },
+  "challenge.arrowRight": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/ArrowRight.png",
+    "size": [
+      57,
+      72
+    ],
+    "bbox": [
+      1186,
+      451,
+      1243,
+      523
+    ]
+  },
+  "challenge.rewardBoxBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/RewardBoxBg.png",
+    "size": [
+      429,
+      130
+    ],
+    "bbox": [
+      811,
+      644,
+      1240,
+      774
+    ]
+  },
+  "challenge.progressBoxBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/ProgressBoxBg.png",
+    "size": [
+      196,
+      536
+    ],
+    "bbox": [
+      1316,
+      317,
+      1512,
+      853
+    ]
+  },
+  "challenge.progressHeaderBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/ProgressHeaderBg.png",
+    "size": [
+      174,
+      74
+    ],
+    "bbox": [
+      1327,
+      295,
+      1501,
+      369
+    ]
+  },
+  "challenge.progressLine": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/ProgressLine.png",
+    "size": [
+      21,
+      385
+    ],
+    "bbox": [
+      1403,
+      419,
+      1424,
+      804
+    ]
+  },
+  "challenge.progressCrown": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/ProgressCrown.png",
+    "size": [
+      85,
+      61
+    ],
+    "bbox": [
+      1372,
+      387,
+      1457,
+      448
+    ]
+  },
+  "challenge.progressNodeActive": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/ProgressNodeActive.png",
+    "size": [
+      58,
+      58
+    ],
+    "bbox": [
+      1386,
+      487,
+      1444,
+      545
+    ]
+  },
+  "challenge.progressNodePending": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/ProgressNodePending.png",
+    "size": [
+      51,
+      51
+    ],
+    "bbox": [
+      1389,
+      584,
+      1440,
+      635
+    ]
+  },
+  "common.actionYellowBtn": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/ActionYellowBtn.png",
+    "size": [
+      428,
+      106
+    ],
+    "bbox": [
+      798,
+      818,
+      1226,
+      924
+    ]
+  },
+  "challenge.fightBtnSpark": {
+    "path": "Assets/BeachBoxing/Art/UI/Challenge/FightBtnSpark.png",
+    "size": [
+      79,
+      97
+    ],
+    "bbox": [
+      1177,
+      790,
+      1256,
+      887
+    ]
+  },
+  "boxer.panelBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/PanelBg.png",
+    "size": [
+      1340,
+      759
+    ],
+    "bbox": [
+      281,
+      242,
+      1621,
+      1001
+    ]
+  },
+  "boxer.titleArt": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/TitleArt.png",
+    "size": [
+      597,
+      197
+    ],
+    "bbox": [
+      659,
+      80,
+      1256,
+      277
+    ]
+  },
+  "boxer.subtitleBanner": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/SubtitleBanner.png",
+    "size": [
+      562,
+      81
+    ],
+    "bbox": [
+      674,
+      247,
+      1236,
+      328
+    ]
+  },
+  "boxer.gridBoxBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/GridBoxBg.png",
+    "size": [
+      699,
+      630
+    ],
+    "bbox": [
+      339,
+      297,
+      1038,
+      927
+    ]
+  },
+  "common.checkmarkBadge": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/CheckmarkBadge.png",
+    "size": [
+      48,
+      49
+    ],
+    "bbox": [
+      530,
+      321,
+      578,
+      370
+    ]
+  },
+  "boxer.cardSelectFrame": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/CardSelectFrame.png",
+    "size": [
+      221,
+      270
+    ],
+    "bbox": [
+      578,
+      329,
+      799,
+      599
+    ]
+  },
+  "boxer.cardEquippedBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/CardEquippedBg.png",
+    "size": [
+      264,
+      346
+    ],
+    "bbox": [
+      340,
+      282,
+      604,
+      628
+    ]
+  },
+  "boxer.cardNamePill": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/CardNamePill.png",
+    "size": [
+      156,
+      48
+    ],
+    "bbox": [
+      388,
+      524,
+      544,
+      572
+    ]
+  },
+  "boxer.portraitPink": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/BoxerPortraitPink.png",
+    "size": [
+      176,
+      188
+    ],
+    "bbox": [
+      376,
+      346,
+      552,
+      534
+    ]
+  },
+  "boxer.cardNormalBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/CardNormalBg.png",
+    "size": [
+      232,
+      289
+    ],
+    "bbox": [
+      581,
+      327,
+      796,
+      598
+    ]
+  },
+  "boxer.portraitRed": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/BoxerPortraitRed.png",
+    "size": [
+      181,
+      212
+    ],
+    "bbox": null
+  },
+  "boxer.previewPanelBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/PreviewPanelBg.png",
+    "size": [
+      513,
+      628
+    ],
+    "bbox": [
+      1053,
+      301,
+      1566,
+      929
+    ]
+  },
+  "boxer.fullRed": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/BoxerFullRed.png",
+    "size": [
+      237,
+      464
+    ],
+    "bbox": [
+      1199,
+      333,
+      1436,
+      797
+    ]
+  },
+  "boxer.fullSparkle": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/BoxerFullSparkle.png",
+    "size": [
+      190,
+      87
+    ],
+    "bbox": [
+      1234,
+      392,
+      1424,
+      479
+    ]
+  },
+  "boxer.previewNameBadgeBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/PreviewNameBadgeBg.png",
+    "size": [
+      169,
+      87
+    ],
+    "bbox": [
+      1386,
+      345,
+      1555,
+      432
+    ]
+  },
+  "boxer.bonusPanelBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/BonusPanelBg.png",
+    "size": [
+      467,
+      165
+    ],
+    "bbox": [
+      1076,
+      657,
+      1543,
+      822
+    ]
+  },
+  "boxer.bonusAttackIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/BonusAttackIcon.png",
+    "size": [
+      46,
+      45
+    ],
+    "bbox": [
+      1118,
+      702,
+      1164,
+      747
+    ]
+  },
+  "boxer.bonusSpeedIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/BonusSpeedIcon.png",
+    "size": [
+      36,
+      44
+    ],
+    "bbox": [
+      1240,
+      706,
+      1276,
+      750
+    ]
+  },
+  "boxer.bonusDefenseIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/BonusDefenseIcon.png",
+    "size": [
+      48,
+      43
+    ],
+    "bbox": [
+      1348,
+      706,
+      1396,
+      749
+    ]
+  },
+  "boxer.bonusHealthIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Boxer/BonusHealthIcon.png",
+    "size": [
+      45,
+      45
+    ],
+    "bbox": [
+      1461,
+      703,
+      1506,
+      748
+    ]
+  },
+  "signin.panelBg": {
+    "path": "Assets/BeachBoxing/Art/UI/SignIn/PanelBg.png",
+    "size": [
+      1335,
+      759
+    ],
+    "bbox": [
+      291,
+      216,
+      1626,
+      975
+    ]
+  },
+  "signin.titleArt": {
+    "path": "Assets/BeachBoxing/Art/UI/SignIn/TitleArt.png",
+    "size": [
+      815,
+      296
+    ],
+    "bbox": [
+      546,
+      21,
+      1361,
+      317
+    ]
+  },
+  "signin.cardSelectFrame": {
+    "path": "Assets/BeachBoxing/Art/UI/SignIn/CardSelectFrame.png",
+    "size": [
+      246,
+      301
+    ],
+    "bbox": [
+      628,
+      290,
+      874,
+      591
+    ]
+  },
+  "signin.cardClaimedBg": {
+    "path": "Assets/BeachBoxing/Art/UI/SignIn/CardClaimedBg.png",
+    "size": [
+      235,
+      292
+    ],
+    "bbox": [
+      365,
+      290,
+      600,
+      582
+    ]
+  },
+  "signin.cardNormalBg": {
+    "path": "Assets/BeachBoxing/Art/UI/SignIn/CardNormalBg.png",
+    "size": [
+      235,
+      292
+    ],
+    "bbox": [
+      632,
+      290,
+      867,
+      582
+    ]
+  },
+  "signin.cardLockedOverlay": {
+    "path": "Assets/BeachBoxing/Art/UI/SignIn/CardLockedOverlay.png",
+    "size": [
+      215,
+      272
+    ],
+    "bbox": [
+      909,
+      300,
+      1124,
+      572
+    ]
+  },
+  "signin.coinsPileIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/SignIn/CoinsPileIcon.png",
+    "size": [
+      132,
+      105
+    ],
+    "bbox": [
+      686,
+      386,
+      818,
+      491
+    ]
+  },
+  "signin.starsPileIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/SignIn/StarsPileIcon.png",
+    "size": [
+      167,
+      112
+    ],
+    "bbox": [
+      933,
+      386,
+      1100,
+      498
+    ]
+  },
+  "signin.day7CardBg": {
+    "path": "Assets/BeachBoxing/Art/UI/SignIn/Day7CardBg.png",
+    "size": [
+      399,
+      564
+    ],
+    "bbox": [
+      1165,
+      319,
+      1564,
+      883
+    ]
+  },
+  "signin.day7Character": {
+    "path": "Assets/BeachBoxing/Art/UI/SignIn/Day7Character.png",
+    "size": [
+      181,
+      355
+    ],
+    "bbox": [
+      1285,
+      426,
+      1466,
+      781
+    ]
+  },
+  "signin.day7Ribbon": {
+    "path": "Assets/BeachBoxing/Art/UI/SignIn/Day7Ribbon.png",
+    "size": [
+      374,
+      117
+    ],
+    "bbox": [
+      1178,
+      720,
+      1552,
+      837
+    ]
+  },
+  "signin.day7LockedOverlay": {
+    "path": "Assets/BeachBoxing/Art/UI/SignIn/Day7LockedOverlay.png",
+    "size": [
+      399,
+      564
+    ],
+    "bbox": [
+      1165,
+      319,
+      1564,
+      883
+    ]
+  },
+  "result.victoryPanelBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/VictoryPanelBg.png",
+    "size": [
+      1005,
+      759
+    ],
+    "bbox": [
+      660,
+      200,
+      1665,
+      959
+    ]
+  },
+  "result.victoryTitleArt": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/VictoryTitleArt.png",
+    "size": [
+      785,
+      240
+    ],
+    "bbox": [
+      770,
+      50,
+      1555,
+      290
+    ]
+  },
+  "result.rewardBoxBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/RewardBoxBg.png",
+    "size": [
+      801,
+      202
+    ],
+    "bbox": [
+      763,
+      612,
+      1564,
+      814
+    ]
+  },
+  "result.sectionHeaderBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/SectionHeaderBg.png",
+    "size": [
+      290,
+      75
+    ],
+    "bbox": [
+      1017,
+      593,
+      1307,
+      668
+    ]
+  },
+  "common.coinIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/CoinIcon.png",
+    "size": [
+      94,
+      93
+    ],
+    "bbox": [
+      876,
+      678,
+      970,
+      771
+    ]
+  },
+  "common.starIcon": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/StarIcon.png",
+    "size": [
+      97,
+      89
+    ],
+    "bbox": [
+      1228,
+      680,
+      1325,
+      769
+    ]
+  },
+  "result.recordBoxBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/RecordBoxBg.png",
+    "size": [
+      801,
+      252
+    ],
+    "bbox": [
+      763,
+      322,
+      1564,
+      574
+    ]
+  },
+  "result.victoryStatusBadge": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/VictoryStatusBadge.png",
+    "size": [
+      257,
+      64
+    ],
+    "bbox": [
+      1084,
+      462,
+      1341,
+      526
+    ]
+  },
+  "result.dividerLine": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/DividerLine.png",
+    "size": [
+      4,
+      119
+    ],
+    "bbox": [
+      975,
+      404,
+      979,
+      523
+    ]
+  },
+  "result.avatarFrame": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/AvatarFrame.png",
+    "size": [
+      123,
+      121
+    ],
+    "bbox": [
+      825,
+      409,
+      943,
+      528
+    ]
+  },
+  "common.yellowBtn": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/YellowBtn.png",
+    "size": [
+      381,
+      128
+    ],
+    "bbox": [
+      759,
+      853,
+      1140,
+      981
+    ]
+  },
+  "common.blueBtn": {
+    "path": "Assets/BeachBoxing/Art/UI/Common/BlueBtn.png",
+    "size": [
+      381,
+      128
+    ],
+    "bbox": [
+      1185,
+      853,
+      1566,
+      981
+    ]
+  },
+  "result.podiumVictory": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/PodiumVictory.png",
+    "size": [
+      634,
+      423
+    ],
+    "bbox": [
+      135,
+      600,
+      769,
+      1023
+    ]
+  },
+  "result.boxerResultPose": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/BoxerResultPose.png",
+    "size": [
+      289,
+      528
+    ],
+    "bbox": [
+      296,
+      232,
+      585,
+      760
+    ]
+  },
+  "result.victoryConfetti": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/VictoryConfetti.png",
+    "size": [
+      359,
+      158
+    ],
+    "bbox": [
+      228,
+      192,
+      587,
+      350
+    ]
+  },
+  "result.defeatPanelBg": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/DefeatPanelBg.png",
+    "size": [
+      983,
+      759
+    ],
+    "bbox": [
+      669,
+      200,
+      1652,
+      959
+    ]
+  },
+  "result.defeatTitleArt": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/DefeatTitleArt.png",
+    "size": [
+      870,
+      274
+    ],
+    "bbox": [
+      714,
+      20,
+      1584,
+      294
+    ]
+  },
+  "result.defeatStatusBadge": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/DefeatStatusBadge.png",
+    "size": [
+      257,
+      64
+    ],
+    "bbox": [
+      1084,
+      462,
+      1341,
+      526
+    ]
+  },
+  "result.podiumDefeat": {
+    "path": "Assets/BeachBoxing/Art/UI/Result/PodiumDefeat.png",
+    "size": [
+      634,
+      423
+    ],
+    "bbox": [
+      135,
+      600,
+      769,
+      1023
+    ]
+  }
+}

@@ -1,0 +1,872 @@
+{
+  "2441": [
+    {
+      "transform": 2441,
+      "gameObject": 255,
+      "name": "FIGHT MENU",
+      "path": "",
+      "crc": 0,
+      "scale": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "transform": 2443,
+      "gameObject": 257,
+      "name": "MENU",
+      "path": "MENU",
+      "crc": 1267783463,
+      "scale": [
+        0.9381300210952759,
+        0.9381300210952759,
+        0.9381300210952759
+      ]
+    },
+    {
+      "transform": 2453,
+      "gameObject": 269,
+      "name": "BG",
+      "path": "MENU/BG",
+      "crc": 3855856073,
+      "scale": [
+        4.0,
+        4.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2633,
+      "gameObject": 580,
+      "name": "BGImage",
+      "path": "MENU/BGImage",
+      "crc": 3924886734,
+      "scale": [
+        3.588632345199585,
+        3.5886318683624268,
+        0.8302345275878906
+      ]
+    },
+    {
+      "transform": 2607,
+      "gameObject": 539,
+      "name": "Titled",
+      "path": "MENU/Titled",
+      "crc": 3360892243,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2604,
+      "gameObject": 535,
+      "name": "Fade",
+      "path": "MENU/Titled/Fade",
+      "crc": 3407279602,
+      "scale": [
+        12.677969932556152,
+        2.5146384239196777,
+        2.095532178878784
+      ]
+    },
+    {
+      "transform": 2573,
+      "gameObject": 483,
+      "name": "TITLE",
+      "path": "MENU/Titled/TITLE",
+      "crc": 2554848799,
+      "scale": [
+        1.492522954940796,
+        1.492522954940796,
+        1.492522954940796
+      ]
+    },
+    {
+      "transform": 2574,
+      "gameObject": 484,
+      "name": "TITLE",
+      "path": "MENU/Titled/TITLE",
+      "crc": 2554848799,
+      "scale": [
+        1.492522954940796,
+        1.492522954940796,
+        1.492522954940796
+      ]
+    },
+    {
+      "transform": 2471,
+      "gameObject": 310,
+      "name": "AcceptBTNd",
+      "path": "MENU/AcceptBTNd",
+      "crc": 946525991,
+      "scale": [
+        3.304744005203247,
+        3.3047432899475098,
+        1.6273666620254517
+      ]
+    },
+    {
+      "transform": 2613,
+      "gameObject": 548,
+      "name": "Text (TMP)",
+      "path": "MENU/AcceptBTNd/Text (TMP)",
+      "crc": 4995330,
+      "scale": [
+        0.3233919143676758,
+        0.3233919143676758,
+        0.3233919143676758
+      ]
+    },
+    {
+      "transform": 2674,
+      "gameObject": 658,
+      "name": "Text (TMP) (1)",
+      "path": "MENU/AcceptBTNd/Text (TMP) (1)",
+      "crc": 4005097017,
+      "scale": [
+        0.3233919143676758,
+        0.3233919143676758,
+        0.3233919143676758
+      ]
+    },
+    {
+      "transform": 2606,
+      "gameObject": 538,
+      "name": "Image",
+      "path": "MENU/AcceptBTNd/Image",
+      "crc": 3665428366,
+      "scale": [
+        0.1752520650625229,
+        0.1752520650625229,
+        0.1752520650625229
+      ]
+    },
+    {
+      "transform": 2342,
+      "gameObject": 75,
+      "name": "Image (1)",
+      "path": "MENU/AcceptBTNd/Image (1)",
+      "crc": 404943924,
+      "scale": [
+        0.1752520650625229,
+        0.1752520650625229,
+        0.1752520650625229
+      ]
+    },
+    {
+      "transform": 2466,
+      "gameObject": 296,
+      "name": "BallsButton",
+      "path": "MENU/BallsButton",
+      "crc": 439063200,
+      "scale": [
+        3.304744005203247,
+        3.3047430515289307,
+        1.6273670196533203
+      ]
+    },
+    {
+      "transform": 2341,
+      "gameObject": 74,
+      "name": "Text (TMP)",
+      "path": "MENU/BallsButton/Text (TMP)",
+      "crc": 1421846421,
+      "scale": [
+        0.3233919143676758,
+        0.3233919143676758,
+        0.3233919143676758
+      ]
+    },
+    {
+      "transform": 2302,
+      "gameObject": 9,
+      "name": "Text (TMP) (1)",
+      "path": "MENU/BallsButton/Text (TMP) (1)",
+      "crc": 1781892429,
+      "scale": [
+        0.3233919143676758,
+        0.3233919143676758,
+        0.3233919143676758
+      ]
+    },
+    {
+      "transform": 2487,
+      "gameObject": 339,
+      "name": "Image",
+      "path": "MENU/BallsButton/Image",
+      "crc": 1371447553,
+      "scale": [
+        0.18681000173091888,
+        0.18681000173091888,
+        0.18681000173091888
+      ]
+    },
+    {
+      "transform": 2422,
+      "gameObject": 226,
+      "name": "Image (1)",
+      "path": "MENU/BallsButton/Image (1)",
+      "crc": 904612546,
+      "scale": [
+        0.18681000173091888,
+        0.18681000173091888,
+        0.18681000173091888
+      ]
+    },
+    {
+      "transform": 2486,
+      "gameObject": 338,
+      "name": "PopSFX",
+      "path": "PopSFX",
+      "crc": 1618495736,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "2672": [
+    {
+      "transform": 2672,
+      "gameObject": 656,
+      "name": "FIGHT MENU",
+      "path": "",
+      "crc": 0,
+      "scale": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "transform": 2569,
+      "gameObject": 478,
+      "name": "MENU",
+      "path": "MENU",
+      "crc": 1267783463,
+      "scale": [
+        0.9381300210952759,
+        0.9381300210952759,
+        0.9381300210952759
+      ]
+    },
+    {
+      "transform": 2330,
+      "gameObject": 57,
+      "name": "BG",
+      "path": "MENU/BG",
+      "crc": 3855856073,
+      "scale": [
+        4.0,
+        4.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2433,
+      "gameObject": 242,
+      "name": "BGImage",
+      "path": "MENU/BGImage",
+      "crc": 3924886734,
+      "scale": [
+        6.069624900817871,
+        4.176399230957031,
+        1.0707000494003296
+      ]
+    },
+    {
+      "transform": 2615,
+      "gameObject": 550,
+      "name": "Title",
+      "path": "MENU/Title",
+      "crc": 2334040944,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2597,
+      "gameObject": 526,
+      "name": "Fade",
+      "path": "MENU/Title/Fade",
+      "crc": 642993044,
+      "scale": [
+        12.677969932556152,
+        2.5146384239196777,
+        2.095532178878784
+      ]
+    },
+    {
+      "transform": 2546,
+      "gameObject": 437,
+      "name": "Fade (1)",
+      "path": "MENU/Title/Fade (1)",
+      "crc": 1051813660,
+      "scale": [
+        1.1503000259399414,
+        1.1503000259399414,
+        1.1503000259399414
+      ]
+    },
+    {
+      "transform": 2554,
+      "gameObject": 452,
+      "name": "TITLE",
+      "path": "MENU/Title/TITLE",
+      "crc": 1014720460,
+      "scale": [
+        1.492522954940796,
+        1.492522954940796,
+        1.492522954940796
+      ]
+    },
+    {
+      "transform": 2375,
+      "gameObject": 132,
+      "name": "TITLE",
+      "path": "MENU/Title/TITLE",
+      "crc": 1014720460,
+      "scale": [
+        1.492522954940796,
+        1.492522954940796,
+        1.492522954940796
+      ]
+    },
+    {
+      "transform": 2544,
+      "gameObject": 434,
+      "name": "MiddleBit",
+      "path": "MENU/MiddleBit",
+      "crc": 622938722,
+      "scale": [
+        1.0795999765396118,
+        1.0795999765396118,
+        1.0795999765396118
+      ]
+    },
+    {
+      "transform": 2432,
+      "gameObject": 240,
+      "name": "you defeated",
+      "path": "MENU/MiddleBit/you defeated",
+      "crc": 2849953425,
+      "scale": [
+        0.3975185453891754,
+        0.3975185453891754,
+        0.3975185453891754
+      ]
+    },
+    {
+      "transform": 2401,
+      "gameObject": 183,
+      "name": "Image (1)",
+      "path": "MENU/MiddleBit/Image (1)",
+      "crc": 697679372,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2671,
+      "gameObject": 655,
+      "name": "FighterICON",
+      "path": "MENU/MiddleBit/FighterICON",
+      "crc": 273545056,
+      "scale": [
+        1.2246158123016357,
+        1.2246158123016357,
+        1.2246158123016357
+      ]
+    },
+    {
+      "transform": 2691,
+      "gameObject": 684,
+      "name": "Fighter Name",
+      "path": "MENU/MiddleBit/Fighter Name",
+      "crc": 1212843935,
+      "scale": [
+        0.3975185453891754,
+        0.3975185453891754,
+        0.3975185453891754
+      ]
+    },
+    {
+      "transform": 2309,
+      "gameObject": 17,
+      "name": "GoldEarned",
+      "path": "MENU/MiddleBit/GoldEarned",
+      "crc": 4130567853,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2436,
+      "gameObject": 246,
+      "name": "Text",
+      "path": "MENU/MiddleBit/GoldEarned/Text",
+      "crc": 2640716216,
+      "scale": [
+        0.3975185453891754,
+        0.3975185453891754,
+        0.3975185453891754
+      ]
+    },
+    {
+      "transform": 2331,
+      "gameObject": 60,
+      "name": "Image",
+      "path": "MENU/MiddleBit/GoldEarned/Image",
+      "crc": 86082932,
+      "scale": [
+        0.22216999530792236,
+        0.22216999530792236,
+        0.22216999530792236
+      ]
+    },
+    {
+      "transform": 2505,
+      "gameObject": 369,
+      "name": "Stars Earned",
+      "path": "MENU/MiddleBit/Stars Earned",
+      "crc": 3808854918,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2611,
+      "gameObject": 545,
+      "name": "Text",
+      "path": "MENU/MiddleBit/Stars Earned/Text",
+      "crc": 2413434967,
+      "scale": [
+        0.3975185453891754,
+        0.3975185453891754,
+        0.3975185453891754
+      ]
+    },
+    {
+      "transform": 2455,
+      "gameObject": 276,
+      "name": "Image",
+      "path": "MENU/MiddleBit/Stars Earned/Image",
+      "crc": 898025124,
+      "scale": [
+        0.22216999530792236,
+        0.22216999530792236,
+        0.22216999530792236
+      ]
+    },
+    {
+      "transform": 2624,
+      "gameObject": 561,
+      "name": "AlreadyReceivedRewards",
+      "path": "MENU/MiddleBit/AlreadyReceivedRewards",
+      "crc": 1596170772,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2396,
+      "gameObject": 175,
+      "name": "Image",
+      "path": "MENU/MiddleBit/AlreadyReceivedRewards/Image",
+      "crc": 3256954656,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2649,
+      "gameObject": 621,
+      "name": "Rewards",
+      "path": "MENU/MiddleBit/AlreadyReceivedRewards/Rewards",
+      "crc": 3979969874,
+      "scale": [
+        0.3975156247615814,
+        0.3975156247615814,
+        0.3975156247615814
+      ]
+    },
+    {
+      "transform": 2590,
+      "gameObject": 512,
+      "name": "Fade",
+      "path": "MENU/MiddleBit/Fade",
+      "crc": 2293740046,
+      "scale": [
+        3.9758212566375732,
+        0.7579116225242615,
+        0.7579116225242615
+      ]
+    },
+    {
+      "transform": 2549,
+      "gameObject": 445,
+      "name": "Rewards",
+      "path": "MENU/MiddleBit/Rewards",
+      "crc": 1239657552,
+      "scale": [
+        0.3975185453891754,
+        0.3975185453891754,
+        0.3975185453891754
+      ]
+    },
+    {
+      "transform": 2601,
+      "gameObject": 532,
+      "name": "Bonus Reward 1",
+      "path": "MENU/MiddleBit/Bonus Reward 1",
+      "crc": 4065657794,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2477,
+      "gameObject": 322,
+      "name": "Text",
+      "path": "MENU/MiddleBit/Bonus Reward 1/Text",
+      "crc": 4073972508,
+      "scale": [
+        0.3975185453891754,
+        0.3975185453891754,
+        0.3975185453891754
+      ]
+    },
+    {
+      "transform": 2660,
+      "gameObject": 635,
+      "name": "Image",
+      "path": "MENU/MiddleBit/Bonus Reward 1/Image",
+      "crc": 3572848455,
+      "scale": [
+        0.22216999530792236,
+        0.22216999530792236,
+        0.22216999530792236
+      ]
+    },
+    {
+      "transform": 2678,
+      "gameObject": 665,
+      "name": "Gauntlet Name",
+      "path": "MENU/MiddleBit/Gauntlet Name",
+      "crc": 2592467612,
+      "scale": [
+        0.3975185453891754,
+        0.3975185453891754,
+        0.3975185453891754
+      ]
+    },
+    {
+      "transform": 2543,
+      "gameObject": 433,
+      "name": "AcceptBTN",
+      "path": "MENU/AcceptBTN",
+      "crc": 3179254752,
+      "scale": [
+        2.726461410522461,
+        2.7264609336853027,
+        1.34260094165802
+      ]
+    },
+    {
+      "transform": 2679,
+      "gameObject": 667,
+      "name": "Text (TMP)",
+      "path": "MENU/AcceptBTN/Text (TMP)",
+      "crc": 3791858603,
+      "scale": [
+        0.42476117610931396,
+        0.42476117610931396,
+        0.42476117610931396
+      ]
+    },
+    {
+      "transform": 2338,
+      "gameObject": 70,
+      "name": "Text (TMP) (1)",
+      "path": "MENU/AcceptBTN/Text (TMP) (1)",
+      "crc": 4170981174,
+      "scale": [
+        0.42476117610931396,
+        0.42476117610931396,
+        0.42476117610931396
+      ]
+    },
+    {
+      "transform": 2676,
+      "gameObject": 660,
+      "name": "PopSFX",
+      "path": "PopSFX",
+      "crc": 1618495736,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "2469": [
+    {
+      "transform": 2469,
+      "gameObject": 306,
+      "name": "Canvas",
+      "path": "",
+      "crc": 0,
+      "scale": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "transform": 2423,
+      "gameObject": 227,
+      "name": "3",
+      "path": "3",
+      "crc": 1842515611,
+      "scale": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2681,
+      "gameObject": 670,
+      "name": "Image (1)",
+      "path": "3/Image (1)",
+      "crc": 652698540,
+      "scale": [
+        3.6223061084747314,
+        3.6223061084747314,
+        3.6223061084747314
+      ]
+    },
+    {
+      "transform": 2391,
+      "gameObject": 168,
+      "name": "Image",
+      "path": "3/Image",
+      "crc": 818088724,
+      "scale": [
+        1.4710770845413208,
+        1.4710770845413208,
+        1.4710770845413208
+      ]
+    },
+    {
+      "transform": 2635,
+      "gameObject": 586,
+      "name": "Text (TMP)",
+      "path": "3/Text (TMP)",
+      "crc": 4272351203,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2663,
+      "gameObject": 639,
+      "name": "2",
+      "path": "2",
+      "crc": 450215437,
+      "scale": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2690,
+      "gameObject": 682,
+      "name": "Image (1)",
+      "path": "2/Image (1)",
+      "crc": 3882466412,
+      "scale": [
+        3.6223061084747314,
+        3.6223061084747314,
+        3.6223061084747314
+      ]
+    },
+    {
+      "transform": 2509,
+      "gameObject": 373,
+      "name": "Image",
+      "path": "2/Image",
+      "crc": 2528379040,
+      "scale": [
+        1.4710770845413208,
+        1.4710770845413208,
+        1.4710770845413208
+      ]
+    },
+    {
+      "transform": 2530,
+      "gameObject": 408,
+      "name": "Text (TMP)",
+      "path": "2/Text (TMP)",
+      "crc": 1694739340,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2448,
+      "gameObject": 264,
+      "name": "1",
+      "path": "1",
+      "crc": 2212294583,
+      "scale": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2463,
+      "gameObject": 290,
+      "name": "Image (1)",
+      "path": "1/Image (1)",
+      "crc": 2123094637,
+      "scale": [
+        3.6223061084747314,
+        3.6223061084747314,
+        3.6223061084747314
+      ]
+    },
+    {
+      "transform": 2429,
+      "gameObject": 234,
+      "name": "Image",
+      "path": "1/Image",
+      "crc": 2807831101,
+      "scale": [
+        1.4710770845413208,
+        1.4710770845413208,
+        1.4710770845413208
+      ]
+    },
+    {
+      "transform": 2402,
+      "gameObject": 186,
+      "name": "Text (TMP)",
+      "path": "1/Text (TMP)",
+      "crc": 312310140,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2696,
+      "gameObject": 695,
+      "name": "FIGHT",
+      "path": "FIGHT",
+      "crc": 3607004902,
+      "scale": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2527,
+      "gameObject": 402,
+      "name": "Image (1)",
+      "path": "FIGHT/Image (1)",
+      "crc": 304325599,
+      "scale": [
+        3.6223061084747314,
+        3.6223061084747314,
+        3.6223061084747314
+      ]
+    },
+    {
+      "transform": 2522,
+      "gameObject": 396,
+      "name": "Image",
+      "path": "FIGHT/Image",
+      "crc": 2497732541,
+      "scale": [
+        1.4710770845413208,
+        1.4710770845413208,
+        1.4710770845413208
+      ]
+    },
+    {
+      "transform": 2413,
+      "gameObject": 206,
+      "name": "Image (1)",
+      "path": "FIGHT/Image (1)",
+      "crc": 304325599,
+      "scale": [
+        11.198575019836426,
+        2.1698386669158936,
+        1.4710770845413208
+      ]
+    },
+    {
+      "transform": 2536,
+      "gameObject": 419,
+      "name": "Text (TMP)",
+      "path": "FIGHT/Text (TMP)",
+      "crc": 933102501,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2598,
+      "gameObject": 528,
+      "name": "Fade In",
+      "path": "Fade In",
+      "crc": 2863229837,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "transform": 2570,
+      "gameObject": 479,
+      "name": "Audio",
+      "path": "Audio",
+      "crc": 3652983185,
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ]
+}

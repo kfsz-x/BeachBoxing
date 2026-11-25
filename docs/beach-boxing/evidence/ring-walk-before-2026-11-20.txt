@@ -1,0 +1,10 @@
+0:(0.00, -3.86, -0.21):remainingXZ=39.30556:blocker=none
+20:(0.06, -3.86, -4.36):remainingXZ=35.15223:blocker=none
+40:(0.11, -3.86, -8.51):remainingXZ=30.99889:blocker=none
+60:(0.16, -3.86, -12.67):remainingXZ=26.84555:blocker=none
+80:(0.21, -3.86, -16.82):remainingXZ=22.69221:blocker=none
+100:(0.27, -3.86, -20.97):remainingXZ=18.5389:blocker=none
+120:(0.32, -3.86, -25.13):remainingXZ=14.38558:blocker=none
+140:(0.37, -3.53, -29.28):remainingXZ=10.23226:blocker=none
+160:(0.42, -3.43, -33.43):remainingXZ=6.078942:blocker=none
+174:(0.46, -3.43, -36.02):remainingXZ=3.279595:blocker=Ring:Ring (4):distance=0.01000157:normal=(0.00, 0.00, 1.00):top=2.857278

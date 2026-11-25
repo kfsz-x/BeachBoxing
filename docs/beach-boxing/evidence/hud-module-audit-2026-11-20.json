@@ -1,0 +1,3543 @@
+{
+  "source": ".superpowers/sdd/2026-11-18-beach-boxing-scene-parity/source/data.unity3d",
+  "method": "UnityPy standard objects; stripped MonoBehaviour header and UI.Image raw offsets; no game runtime",
+  "imageOffsets": {
+    "spritePPtr": 88,
+    "imageType": 100,
+    "fillMethod": 112,
+    "fillAmount": 116
+  },
+  "ui": [
+    {
+      "go": 45,
+      "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/LVL UP BTN/Image (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 3673,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3176,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4536,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "level0",
+          "spriteId": 0,
+          "spriteName": null,
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            0.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.4991455078125,
+          "y": 0.49910736083984375
+        },
+        "m_SizeDelta": {
+          "x": 94.01090240478516,
+          "y": 27.132999420166016
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 52,
+      "path": "SingleplayerPlayer/Canvas/TopRight/TrainerButton/GameObject",
+      "active": true,
+      "components": [
+        {
+          "id": 3678,
+          "type": "RectTransform"
+        },
+        {
+          "id": 4537,
+          "type": "MonoBehaviour",
+          "script": "TurnOffIfPhone"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 1.5,
+          "y": -27.5
+        },
+        "m_SizeDelta": {
+          "x": 98.41352844238281,
+          "y": 25.39996337890625
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 120,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/FillBar",
+      "active": true,
+      "components": [
+        {
+          "id": 3712,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3206,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4567,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 453,
+          "spriteName": "CountBG FillAmount",
+          "color": [
+            1.0,
+            0.6210260391235352,
+            0.0,
+            1.0
+          ],
+          "imageType": 3,
+          "fillMethod": 0,
+          "fillAmount": 0.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 25.000001907348633,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 129,
+      "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder/PrestigeButtonHolder/PrestigeBTN (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 3716,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3210,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4572,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 508,
+          "spriteName": "Join Room BTN 2",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        },
+        {
+          "id": 4571,
+          "type": "MonoBehaviour",
+          "script": "Button",
+          "serializedStrings": [
+            "Normal",
+            "Highlighted",
+            "Pressed",
+            "Selected",
+            "Disabled",
+            "UnityEngine.GameObject, UnityEngine",
+            "SetActive",
+            "UnityEngine.Object, UnityEngine",
+            "PlayerManagerSingleplayer, Assembly-CSharp",
+            "EnterMenu",
+            "UnityEngine.Object, UnityEngine"
+          ]
+        },
+        {
+          "id": 4570,
+          "type": "MonoBehaviour",
+          "script": "EventTrigger"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 70.0,
+          "y": 70.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 132,
+      "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/LVL UP BTN/Text (TMP)",
+      "active": true,
+      "components": [
+        {
+          "id": 3718,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3212,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4340,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "LVL UP"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -21.705982208251953,
+          "y": 0.4022899866104126
+        },
+        "m_SizeDelta": {
+          "x": 122.58999633789062,
+          "y": 81.5
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 152,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount",
+      "active": true,
+      "components": [
+        {
+          "id": 3732,
+          "type": "RectTransform"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -322.5,
+          "y": 146.3000030517578
+        },
+        "m_SizeDelta": {
+          "x": 150.0,
+          "y": 150.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 220,
+      "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder",
+      "active": true,
+      "components": [
+        {
+          "id": 3770,
+          "type": "RectTransform"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 154.8000030517578
+        },
+        "m_SizeDelta": {
+          "x": 210.0,
+          "y": 210.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 223,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/Text (TMP) (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 3772,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3245,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4357,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "0.0K"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 26.5,
+          "y": -0.30000001192092896
+        },
+        "m_SizeDelta": {
+          "x": 200.0,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 251,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/BarFilledOBJ",
+      "active": false,
+      "components": [
+        {
+          "id": 3786,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3258,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4618,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 474,
+          "spriteName": "CountBG Full",
+          "color": [
+            1.0,
+            0.27843138575553894,
+            0.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 0,
+          "fillAmount": 0.6800000071525574
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 25.000001907348633,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 293,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/Text (TMP) (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 3805,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3271,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4369,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "0.0K"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 26.5,
+          "y": -0.699999988079071
+        },
+        "m_SizeDelta": {
+          "x": 200.0,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 298,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/BG",
+      "active": true,
+      "components": [
+        {
+          "id": 3808,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3273,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4630,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 501,
+          "spriteName": "CountBG (4)",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 25.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 299,
+      "path": "SingleplayerPlayer/Canvas/TopRight/TrainerButton/!",
+      "active": false,
+      "components": [
+        {
+          "id": 3809,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3274,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4631,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 435,
+          "spriteName": "XButton",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "m_AnchorMax": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "m_AnchoredPosition": {
+          "x": -61.900001525878906,
+          "y": -12.300000190734863
+        },
+        "m_SizeDelta": {
+          "x": 160.0,
+          "y": 160.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 324,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/BarFilledOBJ",
+      "active": false,
+      "components": [
+        {
+          "id": 3821,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3281,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4637,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 474,
+          "spriteName": "CountBG Full",
+          "color": [
+            1.0,
+            0.27843138575553894,
+            0.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 0,
+          "fillAmount": 0.6800000071525574
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 25.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 325,
+      "path": "SingleplayerPlayer/Canvas/InteractButtonHolder/InteractButton/Image",
+      "active": true,
+      "components": [
+        {
+          "id": 3822,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3282,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4638,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 497,
+          "spriteName": "Finger",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -19.100000381469727,
+          "y": 1.3548240661621094
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 339,
+      "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder/PrestigeButtonHolder",
+      "active": false,
+      "components": [
+        {
+          "id": 3829,
+          "type": "RectTransform"
+        },
+        {
+          "id": 4640,
+          "type": "MonoBehaviour",
+          "script": "ChangeTransformOnPortrait"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -8.399999618530273
+        },
+        "m_SizeDelta": {
+          "x": 210.0,
+          "y": 210.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 360,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/Text (TMP) (2)",
+      "active": true,
+      "components": [
+        {
+          "id": 3843,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3297,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4385,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "0.0K"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 24.50000762939453,
+          "y": 1.2001169919967651
+        },
+        "m_SizeDelta": {
+          "x": 200.0,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 383,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/Icon",
+      "active": true,
+      "components": [
+        {
+          "id": 3853,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3304,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4656,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 458,
+          "spriteName": "aRmwad",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -54.399993896484375,
+          "y": 0.5
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 385,
+      "path": "SingleplayerPlayer/Canvas/TopRight/MenuButton/GameObject",
+      "active": true,
+      "components": [
+        {
+          "id": 3855,
+          "type": "RectTransform"
+        },
+        {
+          "id": 4657,
+          "type": "MonoBehaviour",
+          "script": "TurnOffIfPhone"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 1.5,
+          "y": -27.5
+        },
+        "m_SizeDelta": {
+          "x": 98.41352844238281,
+          "y": 25.39996337890625
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 417,
+      "path": "SingleplayerPlayer/Canvas/InteractButtonHolder",
+      "active": true,
+      "components": [
+        {
+          "id": 3876,
+          "type": "RectTransform"
+        },
+        {
+          "id": 4672,
+          "type": "MonoBehaviour",
+          "script": "ChangeTransformOnPortrait"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -15.01473617553711,
+          "y": -130.39999389648438
+        },
+        "m_SizeDelta": {
+          "x": 196.40036010742188,
+          "y": 196.40042114257812
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 444,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/BG",
+      "active": true,
+      "components": [
+        {
+          "id": 3889,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3326,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4681,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 501,
+          "spriteName": "CountBG (4)",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 25.000001907348633,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 472,
+      "path": "SingleplayerPlayer/Canvas/TopRight/Daily Rewards Button/GameObject",
+      "active": true,
+      "components": [
+        {
+          "id": 3904,
+          "type": "RectTransform"
+        },
+        {
+          "id": 4694,
+          "type": "MonoBehaviour",
+          "script": "TurnOffIfPhone"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 1.5,
+          "y": -27.5
+        },
+        "m_SizeDelta": {
+          "x": 98.41352844238281,
+          "y": 25.39996337890625
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 480,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/FillBar",
+      "active": true,
+      "components": [
+        {
+          "id": 3909,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3337,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4696,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 453,
+          "spriteName": "CountBG FillAmount",
+          "color": [
+            1.0,
+            0.6210260391235352,
+            0.0,
+            1.0
+          ],
+          "imageType": 3,
+          "fillMethod": 0,
+          "fillAmount": 0.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 25.000001907348633,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 501,
+      "path": "SingleplayerPlayer/Canvas/TopRight/TrainerButton/!/Text (TMP) (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 3920,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3345,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4401,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "!"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": -0.2337000072002411,
+          "y": 83.5999984741211
+        },
+        "m_SizeDelta": {
+          "x": 61.25579833984375,
+          "y": 49.44219970703125
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 510,
+      "path": "SingleplayerPlayer/Canvas/TopRight/Daily Rewards Button",
+      "active": true,
+      "components": [
+        {
+          "id": 3925,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3349,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4708,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 509,
+          "spriteName": "DailyRewardsBTN",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        },
+        {
+          "id": 4707,
+          "type": "MonoBehaviour",
+          "script": "Button",
+          "serializedStrings": [
+            "Normal",
+            "Highlighted",
+            "Pressed",
+            "Selected",
+            "Disabled",
+            "UnityEngine.GameObject, UnityEngine",
+            "SetActive",
+            "UnityEngine.Object, UnityEngine",
+            "PlayerManagerSingleplayer, Assembly-CSharp",
+            "TryToOpenMenu",
+            "UnityEngine.Object, UnityEngine"
+          ]
+        },
+        {
+          "id": 4706,
+          "type": "MonoBehaviour",
+          "script": "EventTrigger"
+        },
+        {
+          "id": 4709,
+          "type": "MonoBehaviour",
+          "script": "TurnOffIfTutorial"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 302.0,
+          "y": 11.199999809265137
+        },
+        "m_SizeDelta": {
+          "x": 70.0,
+          "y": 70.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 512,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount",
+      "active": true,
+      "components": [
+        {
+          "id": 3927,
+          "type": "RectTransform"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -322.5,
+          "y": 101.69999694824219
+        },
+        "m_SizeDelta": {
+          "x": 150.0,
+          "y": 150.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 531,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/BG",
+      "active": true,
+      "components": [
+        {
+          "id": 3934,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3354,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4719,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 501,
+          "spriteName": "CountBG (4)",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 25.000001907348633,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 558,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/Icon",
+      "active": true,
+      "components": [
+        {
+          "id": 3948,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3364,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4733,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 478,
+          "spriteName": "aRmwad 1",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -54.400001525878906,
+          "y": 2.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 618,
+      "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/LVL UP BTN",
+      "active": false,
+      "components": [
+        {
+          "id": 3979,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3390,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4760,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 468,
+          "spriteName": "Join Room BTN",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        },
+        {
+          "id": 4759,
+          "type": "MonoBehaviour",
+          "script": "Button",
+          "serializedStrings": [
+            "Normal",
+            "Highlighted",
+            "Pressed",
+            "Selected",
+            "Disabled",
+            "TrainerMenu, Assembly-CSharp",
+            "LvlUp",
+            "UnityEngine.Object, UnityEngine"
+          ]
+        },
+        {
+          "id": 4758,
+          "type": "MonoBehaviour",
+          "script": "EventTrigger"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -4.900000095367432,
+          "y": -124.69998931884766
+        },
+        "m_SizeDelta": {
+          "x": 120.0,
+          "y": 92.30000305175781
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 628,
+      "path": "SingleplayerPlayer/Canvas/TopRight/Daily Rewards Button/!",
+      "active": false,
+      "components": [
+        {
+          "id": 3983,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3392,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4762,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 435,
+          "spriteName": "XButton",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "m_AnchorMax": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "m_AnchoredPosition": {
+          "x": -61.900142669677734,
+          "y": -11.799999237060547
+        },
+        "m_SizeDelta": {
+          "x": 160.0,
+          "y": 160.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 689,
+      "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/LVL UP BTN/Image",
+      "active": true,
+      "components": [
+        {
+          "id": 4014,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3412,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4789,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 521,
+          "spriteName": "Coin",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -0.9665811061859131,
+          "y": 1.2067999839782715
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 706,
+      "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder/PrestigeButtonHolder/PrestigeBTN (1)/Text (TMP)",
+      "active": true,
+      "components": [
+        {
+          "id": 4025,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3419,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4432,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "LVL UP"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -0.0,
+          "y": 0.30000001192092896
+        },
+        "m_SizeDelta": {
+          "x": 239.39999389648438,
+          "y": 81.5
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 708,
+      "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/LVL UP BTN/Text (TMP) (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 4026,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3420,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4433,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "LVL UP"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -21.705982208251953,
+          "y": 2.1263999938964844
+        },
+        "m_SizeDelta": {
+          "x": 122.58999633789062,
+          "y": 81.5
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 714,
+      "path": "SingleplayerPlayer/Canvas/InteractButtonHolder/InteractButton/GameObject",
+      "active": true,
+      "components": [
+        {
+          "id": 4029,
+          "type": "RectTransform"
+        },
+        {
+          "id": 4797,
+          "type": "MonoBehaviour",
+          "script": "TurnOffIfPhone"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 26.829998016357422,
+          "y": 9.66500186920166
+        },
+        "m_SizeDelta": {
+          "x": 15.14500617980957,
+          "y": 16.755002975463867
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 716,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/Text (TMP) (2)",
+      "active": true,
+      "components": [
+        {
+          "id": 4030,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3423,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4434,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "0.0K"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 24.50000762939453,
+          "y": 1.2001169919967651
+        },
+        "m_SizeDelta": {
+          "x": 200.0,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 739,
+      "path": "SingleplayerPlayer/Canvas/MobileControls/Main Button/Hand Button/Image",
+      "active": true,
+      "components": [
+        {
+          "id": 4040,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3431,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4805,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 404,
+          "spriteName": "New Project (42) (1)",
+          "color": [
+            0.0,
+            0.0,
+            0.0,
+            0.4470588266849518
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 2.200000047683716,
+          "y": 1.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 749,
+      "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder/PrestigeButtonHolder/Fade (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 4045,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3435,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4808,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 479,
+          "spriteName": "Glow",
+          "color": [
+            1.0,
+            0.8461648225784302,
+            0.0,
+            0.7647058963775635
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        },
+        {
+          "id": 3025,
+          "type": "Animator"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 8.5,
+          "y": 1.899999976158142
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 760,
+      "path": "SingleplayerPlayer/Canvas/TopRight/MenuButton",
+      "active": true,
+      "components": [
+        {
+          "id": 4051,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3440,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4813,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 486,
+          "spriteName": "Menu Button",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        },
+        {
+          "id": 4812,
+          "type": "MonoBehaviour",
+          "script": "Button",
+          "serializedStrings": [
+            "Normal",
+            "Highlighted",
+            "Pressed",
+            "Selected",
+            "Disabled",
+            "PlayerManagerSingleplayer, Assembly-CSharp",
+            "TryToOpenMenu",
+            "UnityEngine.Object, UnityEngine"
+          ]
+        },
+        {
+          "id": 4811,
+          "type": "MonoBehaviour",
+          "script": "EventTrigger"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 302.0,
+          "y": 155.0
+        },
+        "m_SizeDelta": {
+          "x": 70.0,
+          "y": 70.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 762,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/FillBar",
+      "active": true,
+      "components": [
+        {
+          "id": 4052,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3441,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4814,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 453,
+          "spriteName": "CountBG FillAmount",
+          "color": [
+            1.0,
+            0.6210260391235352,
+            0.0,
+            1.0
+          ],
+          "imageType": 3,
+          "fillMethod": 0,
+          "fillAmount": 0.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 25.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 772,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/BG",
+      "active": true,
+      "components": [
+        {
+          "id": 4058,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3446,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4817,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 501,
+          "spriteName": "CountBG (4)",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 25.000001907348633,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 800,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount",
+      "active": true,
+      "components": [
+        {
+          "id": 4075,
+          "type": "RectTransform"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -322.5,
+          "y": 57.099998474121094
+        },
+        "m_SizeDelta": {
+          "x": 150.0,
+          "y": 150.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 802,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount/Text (TMP)",
+      "active": true,
+      "components": [
+        {
+          "id": 4077,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3460,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4446,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "0.0K"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 24.500038146972656,
+          "y": 0.800000011920929
+        },
+        "m_SizeDelta": {
+          "x": 200.0,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 831,
+      "path": "SingleplayerPlayer/Canvas/InteractButtonHolder/InteractButton/GameObject/Image",
+      "active": true,
+      "components": [
+        {
+          "id": 4094,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3472,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4849,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 488,
+          "spriteName": "keyboard_comma",
+          "color": [
+            0.06666667014360428,
+            0.35686275362968445,
+            0.06666667014360428,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": -0.8049993515014648
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 855,
+      "path": "SingleplayerPlayer/Canvas/TopRight/TrainerButton",
+      "active": true,
+      "components": [
+        {
+          "id": 4109,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3483,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4864,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 409,
+          "spriteName": "TrainerButton",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        },
+        {
+          "id": 4863,
+          "type": "MonoBehaviour",
+          "script": "Button",
+          "serializedStrings": [
+            "Normal",
+            "Highlighted",
+            "Pressed",
+            "Selected",
+            "Disabled",
+            "UnityEngine.GameObject, UnityEngine",
+            "SetActive",
+            "UnityEngine.Object, UnityEngine",
+            "PlayerManagerSingleplayer, Assembly-CSharp",
+            "TryToOpenMenu",
+            "UnityEngine.Object, UnityEngine"
+          ]
+        },
+        {
+          "id": 4862,
+          "type": "MonoBehaviour",
+          "script": "EventTrigger"
+        },
+        {
+          "id": 4865,
+          "type": "MonoBehaviour",
+          "script": "TurnOffIfTutorial"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 302.0,
+          "y": 83.30000305175781
+        },
+        "m_SizeDelta": {
+          "x": 70.0,
+          "y": 70.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 906,
+      "path": "SingleplayerPlayer/Canvas/InteractButtonHolder/InteractButton/GameObject/Image (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 4136,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3505,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4892,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 400,
+          "spriteName": "keyboard_e",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.8050050735473633
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 916,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/Icon",
+      "active": true,
+      "components": [
+        {
+          "id": 4143,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3508,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4898,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 502,
+          "spriteName": "aRmwad 3",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -54.399993896484375,
+          "y": 0.5
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 944,
+      "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder/PrestigeButtonHolder/!/Text (TMP) (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 4159,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3519,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4466,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "!"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": -0.2337000072002411,
+          "y": 83.5999984741211
+        },
+        "m_SizeDelta": {
+          "x": 61.25579833984375,
+          "y": 49.44219970703125
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 959,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/TorsoCount",
+      "active": true,
+      "components": [
+        {
+          "id": 4164,
+          "type": "RectTransform"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -322.5,
+          "y": 190.89999389648438
+        },
+        "m_SizeDelta": {
+          "x": 150.0,
+          "y": 150.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 966,
+      "path": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/LVL UP BTN/Text (TMP) (2)",
+      "active": true,
+      "components": [
+        {
+          "id": 4170,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3527,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4470,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "10.00K"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 24.600000381469727,
+          "y": 1.2067999839782715
+        },
+        "m_SizeDelta": {
+          "x": 122.58999633789062,
+          "y": 81.5
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1028,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/Text (TMP) (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 4206,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3552,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4483,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "0.0K"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 26.5,
+          "y": -0.30000001192092896
+        },
+        "m_SizeDelta": {
+          "x": 200.0,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1029,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/BarFilledOBJ",
+      "active": false,
+      "components": [
+        {
+          "id": 4207,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3553,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4935,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 474,
+          "spriteName": "CountBG Full",
+          "color": [
+            1.0,
+            0.27843138575553894,
+            0.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 0,
+          "fillAmount": 0.6800000071525574
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 25.000001907348633,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1051,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/Text (TMP) (2)",
+      "active": true,
+      "components": [
+        {
+          "id": 4218,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3563,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4488,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "0.0K"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 24.50000762939453,
+          "y": 1.2001169919967651
+        },
+        "m_SizeDelta": {
+          "x": 200.0,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1057,
+      "path": "SingleplayerPlayer/Canvas/InteractButtonHolder/InteractButton",
+      "active": false,
+      "components": [
+        {
+          "id": 4222,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3567,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4944,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 476,
+          "spriteName": "Join Room BTN 1",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        },
+        {
+          "id": 4943,
+          "type": "MonoBehaviour",
+          "script": "Button",
+          "serializedStrings": [
+            "Normal",
+            "Highlighted",
+            "Pressed",
+            "Selected",
+            "Disabled",
+            "PlayerManagerSingleplayer, Assembly-CSharp",
+            "Interact",
+            "UnityEngine.Object, UnityEngine"
+          ]
+        },
+        {
+          "id": 4942,
+          "type": "MonoBehaviour",
+          "script": "EventTrigger"
+        },
+        {
+          "id": 3033,
+          "type": "Animator"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 70.0,
+          "y": 70.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1083,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/FillBar",
+      "active": true,
+      "components": [
+        {
+          "id": 4231,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3576,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4950,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 453,
+          "spriteName": "CountBG FillAmount",
+          "color": [
+            1.0,
+            0.6210260391235352,
+            0.0,
+            1.0
+          ],
+          "imageType": 3,
+          "fillMethod": 0,
+          "fillAmount": 0.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 25.000001907348633,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1087,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/BackCount/BarFilledOBJ",
+      "active": false,
+      "components": [
+        {
+          "id": 4234,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3579,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4951,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 474,
+          "spriteName": "CountBG Full",
+          "color": [
+            1.0,
+            0.27843138575553894,
+            0.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 0,
+          "fillAmount": 0.6800000071525574
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 25.000001907348633,
+          "y": 0.0
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1110,
+      "path": "SingleplayerPlayer/Canvas/MobileControls/Main Button/Hand Button",
+      "active": false,
+      "components": [
+        {
+          "id": 4247,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3588,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4963,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 422,
+          "spriteName": "Handle_Ridged",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        },
+        {
+          "id": 4962,
+          "type": "MonoBehaviour",
+          "script": "Button",
+          "serializedStrings": [
+            "Normal",
+            "Highlighted",
+            "Pressed",
+            "Selected",
+            "Disabled",
+            "PlayerManagerSingleplayer, Assembly-CSharp",
+            "InteractUp",
+            "UnityEngine.Object, UnityEngine"
+          ]
+        },
+        {
+          "id": 4961,
+          "type": "MonoBehaviour",
+          "script": "EventTrigger"
+        },
+        {
+          "id": 3034,
+          "type": "Animator"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": 0.0,
+          "y": 49.999969482421875
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1111,
+      "path": "SingleplayerPlayer/Canvas/InteractButtonHolder/InteractButton/Text (TMP)",
+      "active": true,
+      "components": [
+        {
+          "id": 4248,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3589,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4502,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "Interact"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 4.300000190734863,
+          "y": 0.5622899532318115
+        },
+        "m_SizeDelta": {
+          "x": 278.0,
+          "y": 81.5
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1121,
+      "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder/PrestigeButtonHolder/!",
+      "active": true,
+      "components": [
+        {
+          "id": 4255,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3596,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4970,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 435,
+          "spriteName": "XButton",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "m_AnchorMax": {
+          "x": 1.0,
+          "y": 1.0
+        },
+        "m_AnchoredPosition": {
+          "x": -27.5,
+          "y": -75.69999694824219
+        },
+        "m_SizeDelta": {
+          "x": 160.0,
+          "y": 160.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1155,
+      "path": "SingleplayerPlayer/Canvas/TopRight/Daily Rewards Button/!/Text (TMP) (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 4274,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3611,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4509,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "!"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.0
+        },
+        "m_AnchoredPosition": {
+          "x": -0.2337000072002411,
+          "y": 83.5999984741211
+        },
+        "m_SizeDelta": {
+          "x": 61.25579833984375,
+          "y": 49.44219970703125
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1172,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/ArmsCount/Text (TMP) (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 4285,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3621,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4515,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "0.0K"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 26.5,
+          "y": -0.30000001192092896
+        },
+        "m_SizeDelta": {
+          "x": 200.0,
+          "y": 50.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1178,
+      "path": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder/PrestigeButtonHolder/PrestigeBTN (1)/Text (TMP) (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 4287,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3623,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4516,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "LVL UP"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -7.838010787963867e-06,
+          "y": 2.2286999225616455
+        },
+        "m_SizeDelta": {
+          "x": 239.39999389648438,
+          "y": 81.5
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1191,
+      "path": "SingleplayerPlayer/Canvas/InteractButtonHolder/InteractButton/Text (TMP) (1)",
+      "active": true,
+      "components": [
+        {
+          "id": 4296,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3631,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 4522,
+          "type": "MonoBehaviour",
+          "script": "TextMeshProUGUI",
+          "text": "Interact"
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": 4.299986839294434,
+          "y": 1.9664000272750854
+        },
+        "m_SizeDelta": {
+          "x": 278.0,
+          "y": 81.5
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    },
+    {
+      "go": 1216,
+      "path": "SingleplayerPlayer/Canvas/TopLeft/LegsCount/Icon",
+      "active": true,
+      "components": [
+        {
+          "id": 4309,
+          "type": "RectTransform"
+        },
+        {
+          "id": 3641,
+          "type": "CanvasRenderer"
+        },
+        {
+          "id": 5011,
+          "type": "MonoBehaviour",
+          "script": "Image",
+          "spriteFile": "sharedassets0.assets",
+          "spriteId": 408,
+          "spriteName": "aRmwad 2",
+          "color": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "imageType": 0,
+          "fillMethod": 4,
+          "fillAmount": 1.0
+        }
+      ],
+      "rect": {
+        "m_AnchorMin": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchorMax": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "m_AnchoredPosition": {
+          "x": -54.399993896484375,
+          "y": 0.5
+        },
+        "m_SizeDelta": {
+          "x": 100.0,
+          "y": 100.0
+        },
+        "m_Pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    }
+  ],
+  "spriteAssets": {
+    "sharedassets0.assets:453": {
+      "name": "CountBG FillAmount",
+      "textureId": 156,
+      "texture": "CountBG FillAmount",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 8.026750564575195,
+        "y": 98.02674865722656,
+        "width": 241.94650268554688,
+        "height": 58.946502685546875
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:508": {
+      "name": "Join Room BTN 2",
+      "textureId": 227,
+      "texture": "Join Room BTN 2",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 24.076120376586914,
+        "y": 85.07611846923828,
+        "width": 207.84774780273438,
+        "height": 85.8477554321289
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:474": {
+      "name": "CountBG Full",
+      "textureId": 184,
+      "texture": "CountBG Full",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 0.07612049579620361,
+        "y": 91.02674865722656,
+        "width": 255.9238739013672,
+        "height": 73.89712524414062
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:501": {
+      "name": "CountBG (4)",
+      "textureId": 216,
+      "texture": "CountBG (4)",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 0.07612049579620361,
+        "y": 91.02674865722656,
+        "width": 255.9238739013672,
+        "height": 73.89712524414062
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:435": {
+      "name": "XButton",
+      "textureId": 134,
+      "texture": "XButton",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 69.07611846923828,
+        "y": 69.07611846923828,
+        "width": 117.8477554321289,
+        "height": 117.8477554321289
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:497": {
+      "name": "Finger",
+      "textureId": 212,
+      "texture": "Finger",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 200.0,
+        "height": 200.0
+      },
+      "textureRect": {
+        "x": 55.02675247192383,
+        "y": 45.07612228393555,
+        "width": 81.94650268554688,
+        "height": 110.84774780273438
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:458": {
+      "name": "aRmwad",
+      "textureId": 161,
+      "texture": "aRmwad",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 26.026750564575195,
+        "y": 25.065279006958008,
+        "width": 203.94650268554688,
+        "height": 205.8716583251953
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:509": {
+      "name": "DailyRewardsBTN",
+      "textureId": 229,
+      "texture": "DailyRewardsBTN",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 18.076120376586914,
+        "y": 11.076120376586914,
+        "width": 219.84774780273438,
+        "height": 219.84774780273438
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:478": {
+      "name": "aRmwad 1",
+      "textureId": 189,
+      "texture": "aRmwad 1",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 20.026750564575195,
+        "y": 21.026750564575195,
+        "width": 214.94650268554688,
+        "height": 213.94650268554688
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:468": {
+      "name": "Join Room BTN",
+      "textureId": 173,
+      "texture": "Join Room BTN",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 24.076120376586914,
+        "y": 85.07611846923828,
+        "width": 207.84774780273438,
+        "height": 85.8477554321289
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:521": {
+      "name": "Coin",
+      "textureId": 242,
+      "texture": "Coin",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 4.076120376586914,
+        "y": 0.07612049579620361,
+        "width": 244.84774780273438,
+        "height": 245.84774780273438
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:404": {
+      "name": "New Project (42) (1)",
+      "textureId": 97,
+      "texture": "New Project (42) (1)",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 59.07612228393555,
+        "y": 35.07612228393555,
+        "width": 137.89712524414062,
+        "height": 184.89712524414062
+      },
+      "assetAlreadyImported": false
+    },
+    "sharedassets0.assets:479": {
+      "name": "Glow",
+      "textureId": 190,
+      "texture": "Glow",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 53.02675247192383,
+        "y": 53.07612228393555,
+        "width": 150.94650268554688,
+        "height": 149.88096618652344
+      },
+      "assetAlreadyImported": false
+    },
+    "sharedassets0.assets:486": {
+      "name": "Menu Button",
+      "textureId": 198,
+      "texture": "Menu Button",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 18.076120376586914,
+        "y": 11.076120376586914,
+        "width": 219.84774780273438,
+        "height": 219.84774780273438
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:488": {
+      "name": "keyboard_comma",
+      "textureId": 201,
+      "texture": "keyboard_comma",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 64.0,
+        "height": 64.0
+      },
+      "textureRect": {
+        "x": 6.076120376586914,
+        "y": 6.076120376586914,
+        "width": 51.847755432128906,
+        "height": 51.847755432128906
+      },
+      "assetAlreadyImported": false
+    },
+    "sharedassets0.assets:409": {
+      "name": "TrainerButton",
+      "textureId": 103,
+      "texture": "TrainerButton",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 18.076120376586914,
+        "y": 11.076120376586914,
+        "width": 219.84774780273438,
+        "height": 219.84774780273438
+      },
+      "assetAlreadyImported": false
+    },
+    "sharedassets0.assets:400": {
+      "name": "keyboard_e",
+      "textureId": 91,
+      "texture": "keyboard_e",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 64.0,
+        "height": 64.0
+      },
+      "textureRect": {
+        "x": 6.076120376586914,
+        "y": 6.076120376586914,
+        "width": 51.847755432128906,
+        "height": 51.847755432128906
+      },
+      "assetAlreadyImported": false
+    },
+    "sharedassets0.assets:502": {
+      "name": "aRmwad 3",
+      "textureId": 219,
+      "texture": "aRmwad 3",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 25.076120376586914,
+        "y": 25.026750564575195,
+        "width": 205.89712524414062,
+        "height": 206.89712524414062
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:476": {
+      "name": "Join Room BTN 1",
+      "textureId": 186,
+      "texture": "Join Room BTN 1",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 24.076120376586914,
+        "y": 85.07611846923828,
+        "width": 207.84774780273438,
+        "height": 85.8477554321289
+      },
+      "assetAlreadyImported": true
+    },
+    "sharedassets0.assets:422": {
+      "name": "Handle_Ridged",
+      "textureId": 120,
+      "texture": "Handle_Ridged",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 255.0
+      },
+      "textureRect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 255.0
+      },
+      "assetAlreadyImported": false
+    },
+    "sharedassets0.assets:408": {
+      "name": "aRmwad 2",
+      "textureId": 102,
+      "texture": "aRmwad 2",
+      "rect": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 256.0,
+        "height": 256.0
+      },
+      "textureRect": {
+        "x": 30.076120376586914,
+        "y": 19.026750564575195,
+        "width": 195.84774780273438,
+        "height": 217.94650268554688
+      },
+      "assetAlreadyImported": true
+    }
+  },
+  "WorkingOutManager": {
+    "id": 5006,
+    "thresholdArrayByteOffset": 460,
+    "thresholds": [
+      0,
+      1000,
+      3000,
+      6000,
+      10000,
+      15000,
+      23000,
+      33000,
+      45000,
+      70000,
+      100000
+    ],
+    "rankStringArrayByteOffset": 624,
+    "rankStrings": [
+      "Rookie",
+      "Amateur",
+      "Semi Pro",
+      "Rising Star",
+      "Pro Boxer",
+      "Division Threat",
+      "Title Challenger",
+      "Title Champion",
+      "World Champion",
+      "Boxing Legend"
+    ],
+    "note": "Serialized configuration only; runtime field semantics/formulas require Wasm verification."
+  }
+}

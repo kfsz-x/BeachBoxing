@@ -1,0 +1,1411 @@
+{
+  "date": "2026-11-19",
+  "files": [
+    {
+      "file": "reference/native-presentation/animation-hierarchy-bindings.json",
+      "bytes": 18240,
+      "sha256": "ce12c27c3f275a87c97a035527cf1ae7248d544c884a3b29c9b5d888d7d7bbb0"
+    },
+    {
+      "file": "reference/native-presentation/camera-hierarchy-1937.json",
+      "bytes": 879,
+      "sha256": "bff3f8f9ec3aafc3c62961af90d61d799937141550bf694cea639e3ba985e3a5"
+    },
+    {
+      "file": "reference/native-presentation/camera-hierarchy-1942.json",
+      "bytes": 20622,
+      "sha256": "29e306d5e2f7e397fefcbb1acc9026ce603a3788e4de3549114e92a84045acd5"
+    },
+    {
+      "file": "reference/native-presentation/capture.json",
+      "bytes": 508528,
+      "sha256": "0b4ab2787f55740dd59c10988b177b91a53dd0d5b595c64458d4cd863a624888"
+    },
+    {
+      "file": "reference/native-presentation/contact-sheet.png",
+      "bytes": 881271,
+      "sha256": "89ff83747031ae19add74e2d0f9236b8070f41592f9eaaed58ea1ff47a792153",
+      "dimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "file": "reference/native-presentation/defeat-0.5.png",
+      "bytes": 234502,
+      "sha256": "3c9c960cc4454c4301c895f2b912f166c9e231b695e5d40b511843dff5b8a373",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/defeat-10.png",
+      "bytes": 243622,
+      "sha256": "11e8a89675f7ba5b8132439599a9029d63c6b31932b36b107909da19f090e3a0",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/defeat-14.png",
+      "bytes": 243792,
+      "sha256": "380cc7753adf02b81c03783459f916f168ff6e0aa24e3e997214e4c4950463ee",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/defeat-17.png",
+      "bytes": 243624,
+      "sha256": "0738ce2bd163ca4cc974cf9ba974981f5ebad762e96ce47f0d77113f629d4304",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/defeat-2.png",
+      "bytes": 242712,
+      "sha256": "e5270532983dbdd6c871103f1adf077f6d1b8a109e78f518ea04e307cb2dcf59",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/defeat-21.png",
+      "bytes": 243951,
+      "sha256": "af887ed6e472a5e304a68625fd37891d41e96b2960281b4ec6a0c479169b4fb9",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/defeat-27.png",
+      "bytes": 244067,
+      "sha256": "f3affefccd486a96c892f9b40b881e163add6a1338482869e1827287d3b8d59b",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/defeat-32.png",
+      "bytes": 243766,
+      "sha256": "ac89de5e167bcffb17c85aacc4d0e6d7fdcc7bf6620c32a0bc84a8fdb4a9291c",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/defeat-5.png",
+      "bytes": 243349,
+      "sha256": "90b3fe36e29eb56b9abd3463d1b48ea7214d9f8be12e29ed8de0ec78b236ad8b",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/EntranceCameraAnim-native.json",
+      "bytes": 17886,
+      "sha256": "2dafb36cdc1ea071910db92d5a18ba49b1153cde4375362030e0c458a6b7c577"
+    },
+    {
+      "file": "reference/native-presentation/Fight-native.json",
+      "bytes": 24230,
+      "sha256": "e83d57625ea7263d7403715595e7093eb0a92dbc022e7668fc7a6b706ad645eb"
+    },
+    {
+      "file": "reference/native-presentation/native-animators-and-controllers.json",
+      "bytes": 13072,
+      "sha256": "7f2b963aec9e82fda9731ba3552f279a4ad0f7f3d247b4c4610b054dd8151083"
+    },
+    {
+      "file": "reference/native-presentation/opening-0.5.png",
+      "bytes": 189445,
+      "sha256": "93f502b6b50606136d23fa11ef05f64457330c22bb4d044cdb71df1c007f6e51",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/opening-1.75.png",
+      "bytes": 172502,
+      "sha256": "6a8be75775855526a09d082051864aad9b3245c8ac88579d846e2bd97c02ebc4",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/opening-1.png",
+      "bytes": 211667,
+      "sha256": "7929a688b5743a96d012c9f69b9b683b30c1fa5af2f1db64eacfbf1184973826",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/opening-2.75.png",
+      "bytes": 185044,
+      "sha256": "de8e14c903e7217b9157df760cb6398f02ab9d06def7368a0db36af6d274afa3",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/opening-3.75.png",
+      "bytes": 171665,
+      "sha256": "9e815bec8019f427cb68d0c783fcdeeedeb6dc511c85ff428b9be9abdefafb63",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/opening-4.75.png",
+      "bytes": 231393,
+      "sha256": "453fb5ce5fb321d19018ed8c37d0196f24842b5ee3d52c05dcff5e0079810271",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/opening-5.5.png",
+      "bytes": 225041,
+      "sha256": "c7c62a5aea437e95736336ab28c7e668b4280f0a2e0984f236add0c832d46ce6",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/opening-controller-native.json",
+      "bytes": 5229,
+      "sha256": "5d4fd311dceb8881c6c46fcf3427704709576b6cbeef9008ab36160e99f3f9b8"
+    },
+    {
+      "file": "reference/native-presentation/selection.png",
+      "bytes": 229267,
+      "sha256": "6c3e6b4b23f46337fe833b87e149bd552e3b108369eebe0992abe3b77353750e",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/spawn.png",
+      "bytes": 236850,
+      "sha256": "1d815120e6e9f40eb1094f01ab49224ef4874ccccfffb158526c7bed0f87e6e4",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation/timing-recovery-evidence.json",
+      "bytes": 8055,
+      "sha256": "54e8816d8f0bc5a0f470d0dceb218a97f2336723f3bbe7f2886306fe2f85d20c"
+    },
+    {
+      "file": "reference/native-presentation/VictoryScreen-native.json",
+      "bytes": 24946,
+      "sha256": "8bb20bb4bf9263aaa7ded2a751abd1fa4dd357884880a7592c6f13ca99233ee1"
+    },
+    {
+      "file": "reference/native-presentation-dense2/capture.json",
+      "bytes": 491047,
+      "sha256": "f53370a3940acfea2465cb4afab7f49aed7b48f5e972172849c039a3809a6c6a"
+    },
+    {
+      "file": "reference/native-presentation-dense2/contact-sheet.png",
+      "bytes": 1409943,
+      "sha256": "cdcbefc68d95c320a8efecdbadbc2218e9378171e348be0e8e9ecb96e7d4936a",
+      "dimensions": [
+        1200,
+        1700
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-0.1.png",
+      "bytes": 179903,
+      "sha256": "615c41b2a055b008073d83d6a5cfcc71b5d0c75aa67f9f82a8eb2e4a79419427",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-0.2.png",
+      "bytes": 191265,
+      "sha256": "1f23d4e5ca76bb0f26978f3b5335a22f10d563e3daa9dd3392c1dc33a582d6b8",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-0.30000000000000004.png",
+      "bytes": 200314,
+      "sha256": "2bc0ffecf60820edbea9ffbe5a9756ca542444d536b72ee20b6ddc4cb5258bcb",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-0.4.png",
+      "bytes": 214668,
+      "sha256": "69da2104fec3f75d06dd79d3fd3d9df41bfab7a92c6703fdd564713051f38b76",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-0.5.png",
+      "bytes": 211502,
+      "sha256": "b78d15668d1e63b8fbb13e3ba6c20e409a27b534568b7a7fb56b9cd11185cf01",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-0.6.png",
+      "bytes": 219260,
+      "sha256": "71739999bc7e80f81991f95aff84f72105ba5030e7b5a5b200367b253983f462",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-0.7000000000000001.png",
+      "bytes": 219904,
+      "sha256": "fdf68c89c02c2e3f0f48be429ebd0404d3565d0eb58ca8096e995283788a419b",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-0.8.png",
+      "bytes": 216222,
+      "sha256": "188e00e1852020a6d991e1a233bd5e9d6f39fc59f39e58235ced3c57c9f86448",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-0.9.png",
+      "bytes": 177205,
+      "sha256": "bb2a0404a5c51a60d66cfbd52d627e99164431320ba112c5d09c9aa7c8ef3011",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-1.1.png",
+      "bytes": 191020,
+      "sha256": "2a0b52f4b0de012fb8ed2650953a303978079d02b8c3689a447e86bf22ff7586",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-1.2000000000000002.png",
+      "bytes": 195213,
+      "sha256": "6afbd625634f4f66d1426431d56e47cd5c64c8ae16098a59a9176d0159b295b3",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-1.3000000000000003.png",
+      "bytes": 199853,
+      "sha256": "ae71077c9f8b1c201005c33418c5bc2d98a776c4ad399892ec8cb760ac84b5f6",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-1.4000000000000001.png",
+      "bytes": 197213,
+      "sha256": "b4a8afaa83d0f16025075d57ea98015f5df4b136b396d6f837d5b8e0b02cad37",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-1.5000000000000002.png",
+      "bytes": 187221,
+      "sha256": "8b7a248c380c20a9d59396073894dfeabce4875b6689e979266e842002a79749",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-1.6.png",
+      "bytes": 194486,
+      "sha256": "19e5952545adcdded41f12f9d4c84ab490e6b6e7e70e135cd9037d0c1a71ce6c",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-1.7000000000000002.png",
+      "bytes": 200511,
+      "sha256": "3b0d7eaee4bcd56655af8f9361acface0f75699ce0c825f82f571e44d4933cee",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-1.8000000000000003.png",
+      "bytes": 206761,
+      "sha256": "bf98bc2cb828908a28e4aaedaa66e95af5e2fc5db1a13a211cbac56552174b73",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-1.9000000000000001.png",
+      "bytes": 205239,
+      "sha256": "4475e67d3f0502225487b286d73c23205f6aa15127cac361e1c842d5085467c0",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-1.png",
+      "bytes": 201513,
+      "sha256": "ec5c8e26d15ccc2e650fc2dc02e56f4cd9fee8f6689cee3abb28221576763afd",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-2.1.png",
+      "bytes": 165722,
+      "sha256": "7d01960ec84f992961b480736b52ddc1b2129b07773132ad08b9b857b9377997",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-2.2.png",
+      "bytes": 172391,
+      "sha256": "d3ff0b80658f7f63312ceeb78d761cd4b882ecb6a629a0a70f004b4447cf178d",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-2.3000000000000003.png",
+      "bytes": 201711,
+      "sha256": "1e67178522705ea49a381c8cf4c29f32cd091a21e4b82a038fb1be75cf0c5c49",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-2.4000000000000004.png",
+      "bytes": 216780,
+      "sha256": "2dcf744557f6702a378ca6e858f93fbe6195a610018f4c3f6ed738651b01dbd8",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-2.5000000000000004.png",
+      "bytes": 235464,
+      "sha256": "2c8b2c5e6b816e8b8843f3ea65e679be64c9778c67985f55dfac95c14a80cdee",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-2.6.png",
+      "bytes": 244416,
+      "sha256": "18249e8c1db64da39e0afe31fe726fc39bc16da65d44ba477510bef6f778f6ff",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-2.7.png",
+      "bytes": 246977,
+      "sha256": "041b35b11ea3cac8bf70a7e2da4d4513ac2751b7401d7b7207e2ce85a1efbf1c",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-2.8000000000000003.png",
+      "bytes": 204984,
+      "sha256": "bcf4648a9c349c18bfdce88c5b6dc1214baffa5fa7d1cf9f07a5c0d0432bb7d7",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-2.9000000000000004.png",
+      "bytes": 253126,
+      "sha256": "e0b23eb6e86cb69d66da5a84da9fd599170e2bd1faa810b8bf817c7657dc36a5",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-2.png",
+      "bytes": 183654,
+      "sha256": "e5dbefb4a187075381a05f4269a6bbc24a08b6d33b8df102815f2b5bbe8f2afa",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-3.0000000000000004.png",
+      "bytes": 229971,
+      "sha256": "6cdeb7805dde64c4c8708ed4f4514e6d337d2efc26eab70268ff94d191a86d66",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-3.1.png",
+      "bytes": 227278,
+      "sha256": "b1cdbf6e6e8e08f0391fe795bd4a6f4adef186b7a1e8e037d7c9cb99d9be1636",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-3.2.png",
+      "bytes": 226385,
+      "sha256": "9e328c31367ea51a5cab2ab201f495f94aaadbe0df397d50af0589eda1d1dbde",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-3.3000000000000003.png",
+      "bytes": 226150,
+      "sha256": "5efdb91db5888d94414789e2d717d6985a9f839cf49f40867b281e77a6b1041f",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-3.4000000000000004.png",
+      "bytes": 226415,
+      "sha256": "d03614bb57c923fc7e599ebc7b53bfa678260dd35f47dca6af609d7e9dc3c525",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-3.5000000000000004.png",
+      "bytes": 226276,
+      "sha256": "4e15b0ba7c3dc5a32ab1170de11a444c1e4ca51e74f597230bcbea87ca450881",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-3.6.png",
+      "bytes": 226745,
+      "sha256": "222d02675c000943c8051c596fe8815e1efabf0520ccd45cb9c34a921aac7a44",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-3.7.png",
+      "bytes": 226613,
+      "sha256": "026eec7ce7df43003de137312e47aaf217e6d8aeea3e55ec2851d21a616adccd",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-3.8000000000000003.png",
+      "bytes": 226774,
+      "sha256": "56f8f7078273989ff5caa6ad3097b9b7964f957006c22d291725e92d60084b5d",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-3.9000000000000004.png",
+      "bytes": 226268,
+      "sha256": "5c6f701ce5869f44968563caa771e06ad5d5cce0ed8f8e51abdb0b1cb1577cf8",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-4.1.png",
+      "bytes": 226650,
+      "sha256": "04a02af775454297e4a2c2ade678327c732722d96877fe2d1eb013ae655e31ad",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-4.2.png",
+      "bytes": 226568,
+      "sha256": "52e4e9351f74e3a19492cb5a107eb1d25f404de63b06adedaa8fa23875204580",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-4.3.png",
+      "bytes": 226528,
+      "sha256": "0219e3174fa1839540f3dcb1e84044aa6adfb61d23da696ac94ab30f20698641",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-4.3999999999999995.png",
+      "bytes": 226252,
+      "sha256": "1c22a04f4dc9b3b50c5e8f2fce26b90c31b2fd1cee7dcc69a90219d3392ce4fe",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-4.5.png",
+      "bytes": 226377,
+      "sha256": "2aa418d1dfd573ac708bf2e26992d86af652f9ae4da8f4e47090f3b42d980488",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-4.6.png",
+      "bytes": 226488,
+      "sha256": "8f3872a82a2030e79b907fb3c444b0851b8df879bf2d9bb6f56f65ec1b864b1f",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/opening-4.png",
+      "bytes": 226459,
+      "sha256": "525f158134f44610833e7c0e3f6f18e4d861c48f92b37096c3b54ba4d02aa23c",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/runtime-gl-programs.json",
+      "bytes": 23114,
+      "sha256": "23d7c784ebc43a177986093929743c124a72e4e0edc23d230393259e06646099"
+    },
+    {
+      "file": "reference/native-presentation-dense2/selection.png",
+      "bytes": 229057,
+      "sha256": "51f68fe227fbbf26e039b8b533a7694240be9583e18a783721dbf18ccdf35d34",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/native-presentation-dense2/spawn.png",
+      "bytes": 237378,
+      "sha256": "0712b3b85e779563f55442926fcf345e9f458333f4fe0f133fdd5406692c1918",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/capture.json",
+      "bytes": 3448,
+      "sha256": "bc57de950475af5d9612fcddd2f9044d04fe28c8d0bc97adab80347e80eb4681"
+    },
+    {
+      "file": "reference/replica-presentation/contact-sheet.png",
+      "bytes": 855798,
+      "sha256": "d39f36b627402661da6afb9d94af8414dd0628653804417828480a46a96643a0",
+      "dimensions": [
+        1200,
+        1200
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-home.png",
+      "bytes": 233456,
+      "sha256": "c3b7b7c6c8979c57fef90c9ce72b6fcf962373ffe618b23774a99a35e10fe4b6",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-opening-0.png",
+      "bytes": 213055,
+      "sha256": "694af44b61317f426acdc4782e5daa1b5be8b80cb8101397e145eeece6c85e4a",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-opening-1.png",
+      "bytes": 187089,
+      "sha256": "4cd2348b26b991d2d77332235162e8e28e4bb8eef736789ebc28fc7c21493b75",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-opening-2.png",
+      "bytes": 187298,
+      "sha256": "9b38cc970dcdbb3ae42c8f161de64050250d7ae171f208f65bab7f874c136507",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-opening-3.png",
+      "bytes": 276496,
+      "sha256": "6421ace286bcf3fba088a3117e961dcc53fee5441a8d483f3a80370d8a28f063",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-opening-4.png",
+      "bytes": 358376,
+      "sha256": "b0b3ecec319015cc432a75c733c5b8518c5900ba0e26563909931695b8f48742",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-result-0.05.png",
+      "bytes": 224859,
+      "sha256": "d21529b8d322fd39f8bc4346a7dda2673ecd92021f2cf6d1beca4e92a38bb0de",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-result-0.50.png",
+      "bytes": 218933,
+      "sha256": "3f93261d6c777e4bb1a98aae49086763027bb730aa6d89541a661dc94d204852",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-result-1.00.png",
+      "bytes": 236898,
+      "sha256": "8103a13c2cd4278068ec04b7f3efd42d76c514a12df96797a82d816ac514edee",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-result-2.00.png",
+      "bytes": 226708,
+      "sha256": "8532b06894c59fdaf389e83bc8ee423dcce7eb4dfa354e2ce74ad4a80c4e3364",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-result-3.00.png",
+      "bytes": 225834,
+      "sha256": "0a2a563aba3a6f90e30955e80aafe32ffe3217010254c62da3cce47ffe76f231",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-result-4.00.png",
+      "bytes": 233032,
+      "sha256": "5c7eec7a2c2a4a62d961c1fa72c2cce17d5e0ed5fd51ad8af981b4591baddcdc",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-result-5.00.png",
+      "bytes": 232889,
+      "sha256": "db636e23c0bffc5d7a93cfb1298adef415b647f541753fd42fa1ad3e2d893e7f",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/defeat-result-6.00.png",
+      "bytes": 232827,
+      "sha256": "533556c2c3008050273132774ddd03558339cbc74ac82724e0b9462db9db40e6",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/mobile-spawn.png",
+      "bytes": 169484,
+      "sha256": "570dc95b4ca10d35391893b6be498c95e36e2ea7fea9aa629ea8d683e9aaf1ca",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/mobile-workout.png",
+      "bytes": 176670,
+      "sha256": "745ac0de630dbaf1243d500f20a14a14fbba7e11e8592bfaee825f219e0a1c08",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/selection.png",
+      "bytes": 225972,
+      "sha256": "5d3af64c647c86b90ac28d2adfb16d235c03db9ce6401aa5d0ae761f2a9024a7",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/spawn.png",
+      "bytes": 241711,
+      "sha256": "53c8b632859fb0d90cb0fcc20ea200a935e8c33b0492c26e5c58f0c0dde9019b",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-home.png",
+      "bytes": 231377,
+      "sha256": "fff9cc268f2385a019ca6b6dec69ab6df02a0ab58ea4dbe56bc96583662e574e",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-opening-0.png",
+      "bytes": 212973,
+      "sha256": "844c0baaa0780e22fc2286476515424185cd36f2f2fd67e7f98d199d4a0199f3",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-opening-1.png",
+      "bytes": 182881,
+      "sha256": "b6f5ef36555b701b49b8e971649eb254297b71bd451f0ad4fbd696044378f325",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-opening-2.png",
+      "bytes": 189199,
+      "sha256": "2c864ad34890227a9d2294327eef54ebb4a73f1f96f995fba8d77905e2405b7b",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-opening-3.png",
+      "bytes": 253971,
+      "sha256": "2e02a2d83df4f8214bf9d1d078e488ca8fd1e399c791c5243ee7c215c4d29214",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-opening-4.png",
+      "bytes": 230298,
+      "sha256": "fedbf6be1a2346d26a81504d181fb77ae6ac08f5704e9b607fbdfeb6693c8cf0",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-result-0.05.png",
+      "bytes": 202689,
+      "sha256": "d514021a615e1e5cac06f7803250659854bc07cb4a8a5a42e3e8410d55983271",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-result-0.50.png",
+      "bytes": 183586,
+      "sha256": "5651f6f193b27d43bbc6d7f94a919e903bdc0930d75d039708080dbd08a77d73",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-result-1.00.png",
+      "bytes": 227359,
+      "sha256": "ca9912a20a2ec4e0deb300e77d13a87dcd7fcff7daa47efc1cfd45eaa5721100",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-result-2.00.png",
+      "bytes": 229962,
+      "sha256": "517ae6f3bf9662b8c3aa6f5e5d2152a71671f479723323da0a9b408dda298198",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-result-3.00.png",
+      "bytes": 226158,
+      "sha256": "2dde61a0361c81c95f90db4814c93e337e20bd02c570e4bb351946bd97386ea0",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-result-4.00.png",
+      "bytes": 193308,
+      "sha256": "f0f0c048ade6dfb2dfc8777fa4203beeb1959bc83eea8e6f7e1a5c08bbc393bf",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-result-5.00.png",
+      "bytes": 223893,
+      "sha256": "2a4d9a920cc08e7d6c6170b7783d8d8687caf386cb69b22688bd38e7dc7d46e9",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation/victory-result-6.00.png",
+      "bytes": 227458,
+      "sha256": "db9642b6add0264484e26ec3a46afcae0fde55ae83da89449d823b3b2c83b4e1",
+      "dimensions": [
+        900,
+        620
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/capture.json",
+      "bytes": 3449,
+      "sha256": "30667a3f9afe14827360e26461733846ea667c850e0ac855973085fff09f8299"
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-home.png",
+      "bytes": 162650,
+      "sha256": "3df9dbc2182ccdfda623d768b94ee9256f55dd249372b9fce7c938d631fed3a1",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-opening-0.png",
+      "bytes": 109690,
+      "sha256": "6734d1300e20dee56691fd850e99b2a68b18ab222f44a4f87364ad522a85d5ce",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-opening-1.png",
+      "bytes": 82787,
+      "sha256": "e4407191425cf85cc51b754ba1634ae563501ab76ae9e3e8f428f066094ad124",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-opening-2.png",
+      "bytes": 106925,
+      "sha256": "88d4189c337a9665dea255a6a14c0c837fe3eafb4fa2f72ed747784cda3c394b",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-opening-3.png",
+      "bytes": 141777,
+      "sha256": "092882db6603d20a8d1b7e51e01f72f8323e375e2a543b411500aaa4f986b766",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-opening-4.png",
+      "bytes": 219811,
+      "sha256": "0337e69b766a03965e0f738201fb76545ed6b61bd8c4ae785d4ef416016cb191",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-result-0.05.png",
+      "bytes": 142889,
+      "sha256": "4e57e20c7a123c7ebf5c113ce970810be3e5cfc50a9edd88973e5276b41efa34",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-result-0.50.png",
+      "bytes": 126575,
+      "sha256": "257ae90875cea45c9f309681705bfcae172cf468f575859c0daac2313344003f",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-result-1.00.png",
+      "bytes": 125703,
+      "sha256": "a53c4fbfa7e7679d860087d0a5a7bcd78ba168cfff82521f53e39fd4371b53ad",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-result-2.00.png",
+      "bytes": 127370,
+      "sha256": "3e5d2827868f3149e416efbd472eef9d6a226d5f78e6504cca5aaa3caf9a756f",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-result-3.00.png",
+      "bytes": 126706,
+      "sha256": "ddc86391a3b293afc6775dd748e7a09a9fb65cbef2bfeca76734922c661b834d",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-result-4.00.png",
+      "bytes": 122779,
+      "sha256": "b87ea4e4f2b178f5dc25caa8325e2d9d45dc8291d91db220ef597d03a663eff4",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-result-5.00.png",
+      "bytes": 122742,
+      "sha256": "d5ddd40bea1d059109cc95e5ec98684d1d4373c70224890c2bfd1b4088d33bf8",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/defeat-result-6.00.png",
+      "bytes": 122827,
+      "sha256": "ce2057a0934b6129e64b85513fab67321ae83e1b6e03dfb15fb1648071e85fe7",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/selection.png",
+      "bytes": 139885,
+      "sha256": "fa0a5ec03a36a9ec96c3abbb44ebf4fe2cb46ef768d94275dd060e8adbb0fb58",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/spawn.png",
+      "bytes": 169141,
+      "sha256": "43c1322ace1c434860f650cd9de47543973aaf437a7221d1bbee428a5eedafe0",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-home.png",
+      "bytes": 162603,
+      "sha256": "c74ddca254d59888de5e90b73043c66dd0e86e5a11958e36124cdfe302390a90",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-opening-0.png",
+      "bytes": 108527,
+      "sha256": "8d363d39a385cd7e7391dfa9f2b9870ea66a2d7556714369e061cc245662edae",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-opening-1.png",
+      "bytes": 80808,
+      "sha256": "d5c5e8a6e829d47bd855baa87e701c4ba90533efae9cee0b0e9bd613a2482d38",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-opening-2.png",
+      "bytes": 108327,
+      "sha256": "7c16a344bfe32347ff7afeaf2eb2009114f1c50a7066d6ca1b5cd88863287df0",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-opening-3.png",
+      "bytes": 131142,
+      "sha256": "00001e790822fb25f4d48c6fdbd6d59f48db565e29c619b850a2cc675a2b652c",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-opening-4.png",
+      "bytes": 143387,
+      "sha256": "2c0113fe65e222d3981e018af6ad9192e2914e99694e9ed72b076dc81fa18d4a",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-result-0.05.png",
+      "bytes": 117021,
+      "sha256": "94b2f43c225b263cf8b0cc8537da4980cb12c8d1a3b7a511ec0de4808be90450",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-result-0.50.png",
+      "bytes": 133419,
+      "sha256": "66d4d541b2f511c0386afa429658b0e82e8eccd2c9c871c1fafec4d2ff037640",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-result-1.00.png",
+      "bytes": 119716,
+      "sha256": "c88e3a7f3c73b70bfc2ed32c858490a29fe59ead783ef55fb9a48a3f8e2c8397",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-result-2.00.png",
+      "bytes": 122729,
+      "sha256": "d7f7932bc55bc3cea370456c72f389d74a97f1d7193bd2950187e1c0badfff62",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-result-3.00.png",
+      "bytes": 122255,
+      "sha256": "acd7f267c76af81643977a04890b717210e9237d7afec22403dca0f17085fde4",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-result-4.00.png",
+      "bytes": 109886,
+      "sha256": "a6700ad6d3ba6d9f1c71c23c313ff5aff9931c28e1e8f2eb693e66f7206fa156",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-result-5.00.png",
+      "bytes": 128351,
+      "sha256": "cf1b8a1cb540f2b665ffde47445368d0ccc55b1780b33ffa14cf2f4063022b4a",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "reference/replica-presentation-mobile/victory-result-6.00.png",
+      "bytes": 130875,
+      "sha256": "7f6f978d94d2f15f4f77c71a5aabd3f3e7145b3d1b6117e9fd69811c37e92bdf",
+      "dimensions": [
+        432,
+        768
+      ]
+    },
+    {
+      "file": "evidence/AllAxis_Ridged.png",
+      "bytes": 12820,
+      "sha256": "7d0b24a20a74ab627cb22dd666aa1f23d1fe78ab08b2913643a14698dae6ee8b",
+      "dimensions": [
+        256,
+        256
+      ]
+    },
+    {
+      "file": "evidence/capture-editor-presentation.cs.txt",
+      "bytes": 4567,
+      "sha256": "b325cbf911755067a9692b8eed2c403ca3ceed0789d046e3217774eb8366a781"
+    },
+    {
+      "file": "evidence/capture-native-presentation.cjs",
+      "bytes": 6473,
+      "sha256": "01ae35eb77f31b7970dc777764a975127b50193ff176b521fcff1bc45e4a48d0"
+    },
+    {
+      "file": "evidence/defeat-font-applied-profile-2026-11-19.json",
+      "bytes": 1909,
+      "sha256": "5a705f66246e2faad70153d3b2bd055dba7897ba9fedf35afd66cdb1f5047c6a"
+    },
+    {
+      "file": "evidence/defeat-font-layout-calibration-2026-11-19.json",
+      "bytes": 1908,
+      "sha256": "7dcf95f2559bcf4113de211ef4f5b85afb977716751aa9f02ba86f29f577d27c"
+    },
+    {
+      "file": "evidence/defeat-font-native-details-2026-11-19.json",
+      "bytes": 22688,
+      "sha256": "1f567ec08b6872245d43b56b30d8e9912205ebed913e51aac367286512e548ff"
+    },
+    {
+      "file": "evidence/extract-native-shader-code.py",
+      "bytes": 1749,
+      "sha256": "322aa1243e4f3ecd5abc8c4dca45cc9261858758931c38292f2ddb7e91ba9e41"
+    },
+    {
+      "file": "evidence/FadeCircle.png",
+      "bytes": 12828,
+      "sha256": "fb7eb3d5710cc664d99ab7079698792a9705bf8b114b3ae9b884300771485f63",
+      "dimensions": [
+        217,
+        216
+      ]
+    },
+    {
+      "file": "evidence/font-parity-2026-11-19.json",
+      "bytes": 9980,
+      "sha256": "8bb4a6cf0282d5064ecaf3fe07873a41a1f3d58babc2a6bd9c16c972a2f5cc07"
+    },
+    {
+      "file": "evidence/lighting-parity-2026-11-19.json",
+      "bytes": 10801,
+      "sha256": "686817a1094b6b4b525b75f8f5c05fd4291bf6c71956f69275a392083a36a039"
+    },
+    {
+      "file": "evidence/native-grid-forward-glsl.txt",
+      "bytes": 9603,
+      "sha256": "1eba43da5617306500a4fdb54d92116d9d5306860575419b058dd9f116f1e70d"
+    },
+    {
+      "file": "evidence/native-lilita-distance-field-glsl-2026-11-19.txt",
+      "bytes": 9022,
+      "sha256": "92880c83c0a8b3c74d9615f02288976fdd4b1c9350867e6185ab243a2164de95"
+    },
+    {
+      "file": "evidence/native-lilita-padding-wasm-2026-11-19.txt",
+      "bytes": 39694,
+      "sha256": "2392948b06445e8d4ee371de82e9cac4e84105177f8b140cc5892bad6f17821e"
+    },
+    {
+      "file": "evidence/native-terrain-diffuse.png",
+      "bytes": 3385,
+      "sha256": "fbb8dd9e271d56d70ca94a7db1297e74bbe74a94eb151794f4b465703559bf1e",
+      "dimensions": [
+        64,
+        64
+      ]
+    },
+    {
+      "file": "evidence/native-tmp-label-paths-2026-11-19.json",
+      "bytes": 85565,
+      "sha256": "3cac1f9513e223e780b608f022aa4373acd71788be95119d01367de40367da2a"
+    },
+    {
+      "file": "evidence/native-tmp-labels-2026-11-19.json",
+      "bytes": 93552,
+      "sha256": "233279b980887dd45cdb479f4564aa4840ef169e9563ea3cd971c21bb23cbbb9"
+    },
+    {
+      "file": "evidence/original-reflection-cube.bin",
+      "bytes": 65616,
+      "sha256": "63a62d42667223caeca9cfd621a1ed1aadf90bc5353ff0e47de913d33deada92"
+    },
+    {
+      "file": "evidence/runtime-program-0-0.glsl",
+      "bytes": 1670,
+      "sha256": "f6dbcd6eaec694dbb950733d84de80fc3286cde3a86dffe83badd90d7e658697"
+    },
+    {
+      "file": "evidence/runtime-program-0-1.glsl",
+      "bytes": 1249,
+      "sha256": "86d9426e52305ee068d9c9a048a709f5c9f41d2f96e9e4abdfd71cbbefb3e14d"
+    },
+    {
+      "file": "evidence/runtime-program-1-0.glsl",
+      "bytes": 2329,
+      "sha256": "b764e8e265db263112b31c014a416bf2f25812fc4a9ed58412e5d0a96322648e"
+    },
+    {
+      "file": "evidence/runtime-program-1-1.glsl",
+      "bytes": 6288,
+      "sha256": "105838519773bc16605039aea74e393d84f754c48a5d7b5f37a4a48ab523908c"
+    },
+    {
+      "file": "evidence/runtime-program-2-0.glsl",
+      "bytes": 3297,
+      "sha256": "71797e6423b273407c652b9de60b3086f006a14f8683b41d1c1e12fc7e2a5264"
+    },
+    {
+      "file": "evidence/runtime-program-2-1.glsl",
+      "bytes": 5431,
+      "sha256": "fd90f1f66f25945790e6b8d0fcfc00f095ce3e2b5d418b642045225756e7ca1a"
+    },
+    {
+      "file": "evidence/training-stations.json",
+      "bytes": 2350,
+      "sha256": "36279f338b3e65cc049fa7e2b3ac1d4f005f55bc497d2ee4bea58e12e41daa6b"
+    },
+    {
+      "file": "reference/polish-verification.json",
+      "bytes": 3853,
+      "sha256": "080eae4527a8d483fbfd27eae85003ec9e6e66698837b45dd209f2d4ac928e97"
+    },
+    {
+      "file": "reference/comparison-polish-spawn.png",
+      "bytes": 419464,
+      "sha256": "968121123ea55d88dc47c639cc930eab2013426fae0e84634c0d4f159b7bb1e5"
+    },
+    {
+      "file": "reference/comparison-polish-defeat-font.png",
+      "bytes": 81047,
+      "sha256": "99b1bd864bd5db591a9abb6735ebbdf57852684353ce1558e800a014504a8651"
+    },
+    {
+      "file": "reference/presentation-timeline.json",
+      "bytes": 28896,
+      "sha256": "549229624f809b3c531d4c4338ccc93bdb8f1471e22f03d4deb7740bf38a0469"
+    }
+  ],
+  "excluded": [
+    "Disposable browser profiles",
+    "Progress backup contents"
+  ],
+  "artifactCount": 173
+}

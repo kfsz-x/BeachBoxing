@@ -1,2 +1,1 @@
-{"name":"UnityCore.PlayTests","references":["UnityCore.Runtime","Unity.Addressables","Unity.ResourceManager","UnityEngine.UI"],"optionalUnityReferences":["TestAssemblies"]}
-
+{"name":"UnityCore.PlayTests","references":["UnityCore.Runtime","UnityEngine.UI"],"optionalUnityReferences":["TestAssemblies"]}

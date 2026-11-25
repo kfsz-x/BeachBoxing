@@ -1,0 +1,105 @@
+{
+  "source": "Supplied original WebGL data.unity3d; UnityPy serialization read; PPtr offsets follow Interactable fields then ChestPressMachine playerPos/playerExitPos",
+  "stations": [
+    {
+      "muscle": "Chest",
+      "file": "level0",
+      "componentPathId": 4697,
+      "playerPos": {
+        "pathId": 1629,
+        "name": "ChestPressMachineInteractable",
+        "parentPathId": 1438,
+        "localPosition": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "playerExitPos": {
+        "pathId": 1896,
+        "name": "ExitPos",
+        "parentPathId": 1629,
+        "localPosition": [
+          -7.190000057220459,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "muscle": "Arms",
+      "file": "level0",
+      "componentPathId": 4718,
+      "playerPos": {
+        "pathId": 1653,
+        "name": "ArmsMachineInteractable",
+        "parentPathId": 1474,
+        "localPosition": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "playerExitPos": {
+        "pathId": 1885,
+        "name": "ExitPos",
+        "parentPathId": 1653,
+        "localPosition": [
+          -7.190000057220459,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "muscle": "Back",
+      "file": "level0",
+      "componentPathId": 4877,
+      "playerPos": {
+        "pathId": 1810,
+        "name": "ArmsMachineInteractable (1)",
+        "parentPathId": 1709,
+        "localPosition": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "playerExitPos": {
+        "pathId": 1622,
+        "name": "ExitPos",
+        "parentPathId": 1810,
+        "localPosition": [
+          11.640000343322754,
+          0.0,
+          -0.0
+        ]
+      }
+    },
+    {
+      "muscle": "Legs",
+      "file": "level0",
+      "componentPathId": 4918,
+      "playerPos": {
+        "pathId": 1496,
+        "name": "GameObject",
+        "parentPathId": 1856,
+        "localPosition": [
+          5.800000190734863,
+          0.0,
+          -0.0
+        ]
+      },
+      "playerExitPos": {
+        "pathId": 1792,
+        "name": "ExitPos",
+        "parentPathId": 1856,
+        "localPosition": [
+          -7.190000057220459,
+          0.0,
+          0.0
+        ]
+      }
+    }
+  ]
+}

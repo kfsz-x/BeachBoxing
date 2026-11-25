@@ -96,6 +96,8 @@ crashlytics-build.properties
 /[Aa]ssets/_Recovery.meta
 
 # Addressables default ignores, before user customizations
+# Unity generates this folder for the local WebGL player build.
+/Assets/AddressableAssetsData/WebGL.meta
 # By default, Addressables content builds will generate addressables_content_state.bin
 # files in platform-specific subfolders, for example:
 # /Assets/AddressableAssetsData/OSX/addressables_content_state.bin
@@ -136,3 +138,7 @@ crashlytics-build.properties
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+# Disposable profiles used only to replay the supplied offline reference build.
+docs/beach-boxing/reference/**/browser-profile/
+# Local source-analysis binaries, tool downloads and task ledgers.
+/.superpowers/

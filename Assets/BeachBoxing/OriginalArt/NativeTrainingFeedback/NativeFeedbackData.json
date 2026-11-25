@@ -1,0 +1,2108 @@
+{
+  "faces": [
+    "Assets/BeachBoxing/OriginalArt/NativeTrainingFeedback/Dependencies/Texture2D/Face 2.png",
+    "Assets/BeachBoxing/OriginalArt/NativeTrainingFeedback/Dependencies/Texture2D/Face 3.png"
+  ],
+  "pools": [
+    {
+      "name": "ArmsParticle",
+      "nodes": [
+        {
+          "id": 1080,
+          "path": "ArmsParticle",
+          "active": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": -884.0,
+            "y": -454.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "siblingIndex": 0
+        },
+        {
+          "id": 1075,
+          "path": "ArmsParticle/Fade",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 95.53199768066406,
+            "y": 67.73380279541016
+          },
+          "position": {
+            "x": 2.2339999675750732,
+            "y": -4.0
+          },
+          "scale": {
+            "x": 1.344434142112732,
+            "y": 1.3444340229034424,
+            "z": 1.3444340229034424
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "sprite": "Assets/BeachBoxing/OriginalArt/Sprite/FadeCircle.asset",
+          "color": {
+            "r": 1.0,
+            "g": 0.5641353130340576,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "siblingIndex": 0
+        },
+        {
+          "id": 1085,
+          "path": "ArmsParticle/Image",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "scale": {
+            "x": 0.6000000238418579,
+            "y": 0.6000000238418579,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "sprite": "Assets/BeachBoxing/OriginalArt/NativeTrainingFeedback/Dependencies/Sprite/aRmwad.asset",
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "siblingIndex": 2
+        },
+        {
+          "id": 1111,
+          "path": "ArmsParticle/TextHolder",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "position": {
+            "x": -36.70000076293945,
+            "y": -1.600000023841858
+          },
+          "scale": {
+            "x": 0.6994699835777283,
+            "y": 0.6994699835777283,
+            "z": 0.6994699835777283
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "siblingIndex": 1
+        },
+        {
+          "id": 1197,
+          "path": "ArmsParticle/CollectCoinSFX",
+          "active": false,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "siblingIndex": 3
+        },
+        {
+          "id": 603,
+          "path": "ArmsParticle/TextHolder/Fade",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 95.53199768066406,
+            "y": 67.73380279541016
+          },
+          "position": {
+            "x": 13.100000381469727,
+            "y": -2.200000047683716
+          },
+          "scale": {
+            "x": 1.9220695495605469,
+            "y": 1.9220695495605469,
+            "z": 1.9220695495605469
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "sprite": "Assets/BeachBoxing/OriginalArt/Sprite/FadeCircle.asset",
+          "color": {
+            "r": 1.0,
+            "g": 0.5641353130340576,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "siblingIndex": 0
+        },
+        {
+          "id": 1045,
+          "path": "ArmsParticle/TextHolder/Text (TMP) (1)",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 200.0,
+            "y": 50.0
+          },
+          "position": {
+            "x": -84.19995880126953,
+            "y": 1.1265277862548828e-05
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "text": "+7",
+          "fontSize": 30.440000534057617,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "horizontal": 4,
+          "vertical": 512,
+          "fontId": 3373,
+          "sourceFontMaterialId": 3,
+          "siblingIndex": 2
+        },
+        {
+          "id": 1054,
+          "path": "ArmsParticle/TextHolder/Text (TMP)",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 200.0,
+            "y": 50.0
+          },
+          "position": {
+            "x": -81.51222229003906,
+            "y": -2.199981212615967
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "text": "+7",
+          "fontSize": 30.440000534057617,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "horizontal": 4,
+          "vertical": 512,
+          "fontId": 3373,
+          "sourceFontMaterialId": 3,
+          "siblingIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "LegsParticle",
+      "nodes": [
+        {
+          "id": 1081,
+          "path": "LegsParticle",
+          "active": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": -884.0,
+            "y": -454.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "siblingIndex": 0
+        },
+        {
+          "id": 1076,
+          "path": "LegsParticle/Fade",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 95.53199768066406,
+            "y": 67.73380279541016
+          },
+          "position": {
+            "x": 2.2339999675750732,
+            "y": -4.0
+          },
+          "scale": {
+            "x": 1.344434142112732,
+            "y": 1.3444340229034424,
+            "z": 1.3444340229034424
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "sprite": "Assets/BeachBoxing/OriginalArt/Sprite/FadeCircle.asset",
+          "color": {
+            "r": 1.0,
+            "g": 0.5641353130340576,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "siblingIndex": 0
+        },
+        {
+          "id": 1086,
+          "path": "LegsParticle/Image",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "scale": {
+            "x": 0.6000000238418579,
+            "y": 0.6000000238418579,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "sprite": "Assets/BeachBoxing/OriginalArt/NativeTrainingFeedback/Dependencies/Sprite/aRmwad 2.asset",
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "siblingIndex": 2
+        },
+        {
+          "id": 1112,
+          "path": "LegsParticle/TextHolder",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "position": {
+            "x": -36.70000076293945,
+            "y": -1.600000023841858
+          },
+          "scale": {
+            "x": 0.6994699835777283,
+            "y": 0.6994699835777283,
+            "z": 0.6994699835777283
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "siblingIndex": 1
+        },
+        {
+          "id": 1198,
+          "path": "LegsParticle/CollectCoinSFX",
+          "active": false,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "siblingIndex": 3
+        },
+        {
+          "id": 604,
+          "path": "LegsParticle/TextHolder/Fade",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 95.53199768066406,
+            "y": 67.73380279541016
+          },
+          "position": {
+            "x": 13.100000381469727,
+            "y": -2.200000047683716
+          },
+          "scale": {
+            "x": 1.9220695495605469,
+            "y": 1.9220695495605469,
+            "z": 1.9220695495605469
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "sprite": "Assets/BeachBoxing/OriginalArt/Sprite/FadeCircle.asset",
+          "color": {
+            "r": 1.0,
+            "g": 0.5641353130340576,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "siblingIndex": 0
+        },
+        {
+          "id": 1046,
+          "path": "LegsParticle/TextHolder/Text (TMP) (1)",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 200.0,
+            "y": 50.0
+          },
+          "position": {
+            "x": -84.19995880126953,
+            "y": 1.1265277862548828e-05
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "text": "+7",
+          "fontSize": 30.440000534057617,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "horizontal": 4,
+          "vertical": 512,
+          "fontId": 3373,
+          "sourceFontMaterialId": 3,
+          "siblingIndex": 2
+        },
+        {
+          "id": 1055,
+          "path": "LegsParticle/TextHolder/Text (TMP)",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 200.0,
+            "y": 50.0
+          },
+          "position": {
+            "x": -81.51222229003906,
+            "y": -2.199981212615967
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "text": "+7",
+          "fontSize": 30.440000534057617,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "horizontal": 4,
+          "vertical": 512,
+          "fontId": 3373,
+          "sourceFontMaterialId": 3,
+          "siblingIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "ChestParticle",
+      "nodes": [
+        {
+          "id": 1082,
+          "path": "ChestParticle",
+          "active": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": -884.0,
+            "y": -454.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "siblingIndex": 0
+        },
+        {
+          "id": 1077,
+          "path": "ChestParticle/Fade",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 95.53199768066406,
+            "y": 67.73380279541016
+          },
+          "position": {
+            "x": 2.2339999675750732,
+            "y": -4.0
+          },
+          "scale": {
+            "x": 1.344434142112732,
+            "y": 1.3444340229034424,
+            "z": 1.3444340229034424
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "sprite": "Assets/BeachBoxing/OriginalArt/Sprite/FadeCircle.asset",
+          "color": {
+            "r": 1.0,
+            "g": 0.5641353130340576,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "siblingIndex": 0
+        },
+        {
+          "id": 1087,
+          "path": "ChestParticle/Image",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "scale": {
+            "x": 0.6000000238418579,
+            "y": 0.6000000238418579,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "sprite": "Assets/BeachBoxing/OriginalArt/NativeTrainingFeedback/Dependencies/Sprite/aRmwad 1.asset",
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "siblingIndex": 2
+        },
+        {
+          "id": 1113,
+          "path": "ChestParticle/TextHolder",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "position": {
+            "x": -36.70000076293945,
+            "y": -1.600000023841858
+          },
+          "scale": {
+            "x": 0.6994699835777283,
+            "y": 0.6994699835777283,
+            "z": 0.6994699835777283
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "siblingIndex": 1
+        },
+        {
+          "id": 1199,
+          "path": "ChestParticle/CollectCoinSFX",
+          "active": false,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "siblingIndex": 3
+        },
+        {
+          "id": 605,
+          "path": "ChestParticle/TextHolder/Fade",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 95.53199768066406,
+            "y": 67.73380279541016
+          },
+          "position": {
+            "x": 13.100000381469727,
+            "y": -2.200000047683716
+          },
+          "scale": {
+            "x": 1.9220695495605469,
+            "y": 1.9220695495605469,
+            "z": 1.9220695495605469
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "sprite": "Assets/BeachBoxing/OriginalArt/Sprite/FadeCircle.asset",
+          "color": {
+            "r": 1.0,
+            "g": 0.5641353130340576,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "siblingIndex": 0
+        },
+        {
+          "id": 1047,
+          "path": "ChestParticle/TextHolder/Text (TMP) (1)",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 200.0,
+            "y": 50.0
+          },
+          "position": {
+            "x": -84.19995880126953,
+            "y": 1.1265277862548828e-05
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "text": "+7",
+          "fontSize": 30.440000534057617,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "horizontal": 4,
+          "vertical": 512,
+          "fontId": 3373,
+          "sourceFontMaterialId": 3,
+          "siblingIndex": 2
+        },
+        {
+          "id": 1056,
+          "path": "ChestParticle/TextHolder/Text (TMP)",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 200.0,
+            "y": 50.0
+          },
+          "position": {
+            "x": -81.51222229003906,
+            "y": -2.199981212615967
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "text": "+7",
+          "fontSize": 30.440000534057617,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "horizontal": 4,
+          "vertical": 512,
+          "fontId": 3373,
+          "sourceFontMaterialId": 3,
+          "siblingIndex": 1
+        }
+      ]
+    },
+    {
+      "name": "BackParticle",
+      "nodes": [
+        {
+          "id": 1083,
+          "path": "BackParticle",
+          "active": true,
+          "anchorMin": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "anchorMax": {
+            "x": 1.0,
+            "y": 1.0
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": -884.0,
+            "y": -454.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "siblingIndex": 0
+        },
+        {
+          "id": 1078,
+          "path": "BackParticle/Fade",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 95.53199768066406,
+            "y": 67.73380279541016
+          },
+          "position": {
+            "x": 2.2339999675750732,
+            "y": -4.0
+          },
+          "scale": {
+            "x": 1.344434142112732,
+            "y": 1.3444340229034424,
+            "z": 1.3444340229034424
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "sprite": "Assets/BeachBoxing/OriginalArt/Sprite/FadeCircle.asset",
+          "color": {
+            "r": 1.0,
+            "g": 0.5641353130340576,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "siblingIndex": 0
+        },
+        {
+          "id": 1088,
+          "path": "BackParticle/Image",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "scale": {
+            "x": 0.6000000238418579,
+            "y": 0.6000000238418579,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "sprite": "Assets/BeachBoxing/OriginalArt/NativeTrainingFeedback/Dependencies/Sprite/aRmwad 3.asset",
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "siblingIndex": 2
+        },
+        {
+          "id": 1114,
+          "path": "BackParticle/TextHolder",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "position": {
+            "x": -36.70000076293945,
+            "y": -1.600000023841858
+          },
+          "scale": {
+            "x": 0.6994699835777283,
+            "y": 0.6994699835777283,
+            "z": 0.6994699835777283
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "siblingIndex": 1
+        },
+        {
+          "id": 1200,
+          "path": "BackParticle/CollectCoinSFX",
+          "active": false,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 100.0,
+            "y": 100.0
+          },
+          "position": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "siblingIndex": 3
+        },
+        {
+          "id": 606,
+          "path": "BackParticle/TextHolder/Fade",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 95.53199768066406,
+            "y": 67.73380279541016
+          },
+          "position": {
+            "x": 13.100000381469727,
+            "y": -2.200000047683716
+          },
+          "scale": {
+            "x": 1.9220695495605469,
+            "y": 1.9220695495605469,
+            "z": 1.9220695495605469
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "sprite": "Assets/BeachBoxing/OriginalArt/Sprite/FadeCircle.asset",
+          "color": {
+            "r": 1.0,
+            "g": 0.5641353130340576,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "siblingIndex": 0
+        },
+        {
+          "id": 1048,
+          "path": "BackParticle/TextHolder/Text (TMP) (1)",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 200.0,
+            "y": 50.0
+          },
+          "position": {
+            "x": -84.19995880126953,
+            "y": 1.1265277862548828e-05
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "text": "+7",
+          "fontSize": 30.440000534057617,
+          "color": {
+            "r": 1.0,
+            "g": 1.0,
+            "b": 1.0,
+            "a": 1.0
+          },
+          "horizontal": 4,
+          "vertical": 512,
+          "fontId": 3373,
+          "sourceFontMaterialId": 3,
+          "siblingIndex": 2
+        },
+        {
+          "id": 1057,
+          "path": "BackParticle/TextHolder/Text (TMP)",
+          "active": true,
+          "anchorMin": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchorMax": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "sizeDelta": {
+            "x": 200.0,
+            "y": 50.0
+          },
+          "position": {
+            "x": -81.51222229003906,
+            "y": -2.199981212615967
+          },
+          "scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "rotation": {
+            "x": -0.0,
+            "y": -0.0,
+            "z": -0.0,
+            "w": 1.0
+          },
+          "text": "+7",
+          "fontSize": 30.440000534057617,
+          "color": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+          },
+          "horizontal": 4,
+          "vertical": 512,
+          "fontId": 3373,
+          "sourceFontMaterialId": 3,
+          "siblingIndex": 1
+        }
+      ]
+    }
+  ],
+  "clip": {
+    "sourceId": 322,
+    "name": "CoinParticle",
+    "frameRate": 60,
+    "duration": 1.5833334,
+    "loop": true,
+    "wrapMode": 0,
+    "curves": [
+      {
+        "path": "Image",
+        "property": "m_LocalScale.x",
+        "targetKind": "Transform",
+        "sourceProperty": "m_LocalScale.x",
+        "sourceClassId": 4,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 0.4,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1,
+            "value": 0.4,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1.1666666,
+            "value": 0.0,
+            "inSlope": 3.8146686e-07,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "Image",
+        "property": "m_LocalScale.y",
+        "targetKind": "Transform",
+        "sourceProperty": "m_LocalScale.y",
+        "sourceClassId": 4,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 0.4,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1,
+            "value": 0.4,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1.1666666,
+            "value": 0.0,
+            "inSlope": 3.8146686e-07,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "Image",
+        "property": "m_LocalScale.z",
+        "targetKind": "Transform",
+        "sourceProperty": "m_LocalScale.z",
+        "sourceClassId": 4,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1.1666666,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "Fade",
+        "property": "m_LocalScale.x",
+        "targetKind": "Transform",
+        "sourceProperty": "m_LocalScale.x",
+        "sourceClassId": 4,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.9166667,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1,
+            "value": 2.0,
+            "inSlope": 1.9073616e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1.1666666,
+            "value": -2.8257043e-07,
+            "inSlope": -1.9073616e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1.5833334,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "Fade",
+        "property": "m_LocalScale.y",
+        "targetKind": "Transform",
+        "sourceProperty": "m_LocalScale.y",
+        "sourceClassId": 4,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.9166667,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1,
+            "value": 2.0,
+            "inSlope": 1.9073616e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1.1666666,
+            "value": -2.8257043e-07,
+            "inSlope": -1.9073616e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1.5833334,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "Fade",
+        "property": "m_LocalScale.z",
+        "targetKind": "Transform",
+        "sourceProperty": "m_LocalScale.z",
+        "sourceClassId": 4,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.9166667,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1,
+            "value": 2.0,
+            "inSlope": 1.9073616e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1.1666666,
+            "value": -2.8257043e-07,
+            "inSlope": -1.9073616e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1.5833334,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "",
+        "property": "m_LocalScale.x",
+        "targetKind": "Transform",
+        "sourceProperty": "m_LocalScale.x",
+        "sourceClassId": 4,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.16666667,
+            "value": 1.1,
+            "inSlope": -1.180172e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.28333333,
+            "value": 1.0,
+            "inSlope": 4.9952984e-09,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "",
+        "property": "m_LocalScale.y",
+        "targetKind": "Transform",
+        "sourceProperty": "m_LocalScale.y",
+        "sourceClassId": 4,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.16666667,
+            "value": 1.1,
+            "inSlope": -1.180172e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.28333333,
+            "value": 1.0,
+            "inSlope": 4.9952984e-09,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "",
+        "property": "m_LocalScale.z",
+        "targetKind": "Transform",
+        "sourceProperty": "m_LocalScale.z",
+        "sourceClassId": 4,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.16666667,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.28333333,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "TextHolder",
+        "property": "m_LocalScale.x",
+        "targetKind": "Transform",
+        "sourceProperty": "m_LocalScale.x",
+        "sourceClassId": 4,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 0.69947,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.38333333,
+            "value": 0.69947,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.5833333,
+            "value": 0.0,
+            "inSlope": 1.8010074e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "TextHolder",
+        "property": "m_LocalScale.y",
+        "targetKind": "Transform",
+        "sourceProperty": "m_LocalScale.y",
+        "sourceClassId": 4,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 0.69947,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.38333333,
+            "value": 0.69947,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.5833333,
+            "value": 0.0,
+            "inSlope": 1.8010074e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "TextHolder",
+        "property": "m_LocalScale.z",
+        "targetKind": "Transform",
+        "sourceProperty": "m_LocalScale.z",
+        "sourceClassId": 4,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 0.69947,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.38333333,
+            "value": 0.69947,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.5833333,
+            "value": 0.0,
+            "inSlope": 1.8010074e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "Fade",
+        "property": "m_Color.a",
+        "targetKind": "Graphic",
+        "sourceProperty": "m_Color.a",
+        "sourceClassId": 114,
+        "discrete": false,
+        "keys": [
+          {
+            "time": 0,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1.0833334,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1.1666666,
+            "value": 7.063961e-08,
+            "inSlope": 2.5429301e-06,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 1.5833334,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      },
+      {
+        "path": "CollectCoinSFX",
+        "property": "m_IsActive",
+        "targetKind": "GameObject",
+        "sourceProperty": "m_IsActive",
+        "sourceClassId": 1,
+        "discrete": true,
+        "keys": [
+          {
+            "time": 0,
+            "value": 0.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": true,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          },
+          {
+            "time": 0.9166667,
+            "value": 1.0,
+            "inSlope": 0.0,
+            "outSlope": 0.0,
+            "inConstant": false,
+            "outConstant": false,
+            "weightedMode": 0,
+            "inWeight": 0.33333334,
+            "outWeight": 0.33333334
+          }
+        ]
+      }
+    ],
+    "events": [],
+    "source": {
+      "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/CoinParticle.anim",
+      "sha256": "1783c0d78c270b57aefdfa50fdc502a00e16f3a2cff996bc1e4b7a51583f963e"
+    }
+  },
+  "spawn": {
+    "m_AnchorMin": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "m_AnchorMax": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "m_AnchoredPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "m_SizeDelta": {
+      "x": 100.0,
+      "y": 100.0
+    },
+    "m_Pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "m_LocalScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "m_LocalRotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    }
+  }
+}

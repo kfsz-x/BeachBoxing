@@ -1,0 +1,80 @@
+{
+  "source": "Native user-supplied Unity 2022.3.34f1 WebGL",
+  "uiImages": [
+    {
+      "file": "level1",
+      "pathID": 2953,
+      "gameObject": "Block",
+      "sprite": "Handle_Ridged",
+      "spritePointer": [
+        2,
+        422
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "file": "level1",
+      "pathID": 3025,
+      "gameObject": "Block",
+      "sprite": "Handle_Ridged",
+      "spritePointer": [
+        2,
+        422
+      ],
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "nativeTexture": {
+    "name": "Handle_Ridged",
+    "width": 256,
+    "height": 255,
+    "filterMode": 0
+  },
+  "note": "Sprite pointer recovered from Image raw serialization at byte 88. Original 32x32 Circle was an incorrect substitute. Original Image color is white; Button ColorBlock supplies normal/hover/pressed opacity. Restored as preplaced Button components beside TouchControl.",
+  "buttonColorBlock": {
+    "sourcePathIDs": [
+      2952,
+      3024
+    ],
+    "normal": [
+      1,
+      1,
+      1,
+      0.1294117719
+    ],
+    "highlighted": [
+      1,
+      1,
+      1,
+      0.2901960909
+    ],
+    "pressed": [
+      1,
+      1,
+      1,
+      0.8117647171
+    ],
+    "selected": [
+      0.9607843,
+      0.9607843,
+      0.9607843,
+      1
+    ],
+    "disabled": [
+      0.7843137,
+      0.7843137,
+      0.7843137,
+      0.5019608
+    ]
+  }
+}

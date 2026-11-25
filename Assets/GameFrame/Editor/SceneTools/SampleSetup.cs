@@ -2,9 +2,6 @@ using System;
 using System.IO;
 using UnityEditor;
 using UnityEditor.SceneManagement;
-using UnityEditor.AddressableAssets;
-using UnityEditor.AddressableAssets.Settings;
-using UnityEditor.AddressableAssets.Settings.GroupSchemas;
 using UnityEngine;
 
 namespace UnityCore.Samples.Editor
@@ -36,26 +33,9 @@ namespace UnityCore.Samples.Editor
 
             var click = CommonAudios + "/btn.wav";
             var music = CommonAudios + "/bgmmain.wav";
-            if (!File.Exists(click)) WriteTone(click, .12, 660, false);
-            if (!File.Exists(music)) WriteTone(music, 2, 220, true);
+            if (!File.Exists(CommonAudios + "/btn.mp3") && !File.Exists(click)) WriteTone(click, .12, 660, false);
+            if (!File.Exists(CommonAudios + "/bgmmain.mp3") && !File.Exists(music)) WriteTone(music, 2, 220, true);
             AssetDatabase.Refresh(ImportAssetOptions.ForceSynchronousImport);
-
-            var settings = AddressableAssetSettingsDefaultObject.Settings;
-            if (settings == null)
-            {
-                settings = AddressableAssetSettings.Create("Assets/AddressableAssetsData",
-                    "AddressableAssetSettings", true, true);
-                AddressableAssetSettingsDefaultObject.Settings = settings;
-            }
-
-            settings.BuildAddressablesWithPlayerBuild = AddressableAssetSettings.PlayerBuildOption.BuildWithPlayer;
-            var group = settings.FindGroup("Template Samples") ?? settings.CreateGroup("Template Samples",
-                false, false, false, null, typeof(BundledAssetGroupSchema), typeof(ContentUpdateGroupSchema));
-            settings.AddLabel("sample-audio");
-            Register(prefab, MainPanel.CubeKey);
-            Register(click, MainPanel.ClickKey, "sample-audio");
-            Register(music, MainPanel.MusicKey, "sample-audio");
-            EditorUtility.SetDirty(settings);
 
             CreateScene(MainPanel.ScenePath, true);
             CreateScene(InitPanel.ScenePath, false);
@@ -85,14 +65,6 @@ namespace UnityCore.Samples.Editor
             AssetDatabase.SaveAssets();
             if (Application.isBatchMode) EditorSceneManager.OpenScene(InitPanel.ScenePath);
             Debug.Log("UnityCore sample assets are ready.");
-
-            void Register(string path, string key, string label = null)
-            {
-                var entry = settings.CreateOrMoveEntry(AssetDatabase.AssetPathToGUID(path), group);
-                entry.SetAddress(key);
-                if (label != null) entry.SetLabel(label, true);
-                EditorUtility.SetDirty(group);
-            }
         }
 
         private static void CreateScene(string path, bool second)

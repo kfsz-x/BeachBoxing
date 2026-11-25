@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-19",
+  "referenceUnity": "2022.3.34f1",
+  "editorUnity": "2021.3.14f1c1",
+  "scope": "Lighting, native font rendering/shadows, opening camera/countdown, knockout/result and scene fades in the existing preplaced scene.",
+  "tests": {
+    "EditMode": {
+      "jobId": "1f787e0030b64e43865c799d8942d983",
+      "total": 44,
+      "passed": 44,
+      "failed": 0
+    },
+    "PlayMode": {
+      "jobId": "e3eae0c0364e40b981e2404d7c8c02d2",
+      "total": 22,
+      "passed": 22,
+      "failed": 0
+    }
+  },
+  "finalScene": {
+    "scene": "Assets/BeachBoxing/Scenes/BeachBoxing.unity",
+    "savedReopened": true,
+    "playing": false,
+    "timeScale": 1,
+    "objects": 2460,
+    "nativeTexts": 60,
+    "missingScripts": 0,
+    "missingMeshes": 0,
+    "unsupported": [],
+    "shaderErrors": [],
+    "linear": "Linear",
+    "terrains": [
+      "BeachBoxing/Original Terrain BRDF3:False",
+      "BeachBoxing/Original Terrain BRDF3:False"
+    ],
+    "sandFormat": "R8G8B8_SRGB",
+    "reflection": "RGBA_DXT1_SRGB",
+    "flowEnabled": true,
+    "enterPlayModeOptionsEnabled": false
+  },
+  "consoleErrors": 0,
+  "captures": {
+    "desktop": "replica-presentation/capture.json",
+    "portrait": "replica-presentation-mobile/capture.json",
+    "viewportDesktop": [
+      900,
+      620
+    ],
+    "viewportPortrait": [
+      432,
+      768
+    ],
+    "method": "Diagnostic zero HP enters the ordinary result flow. Clip clocks and global scale then advance normally; no presentation fast-forward. Original progress restored exactly; preplaced object count unchanged.",
+    "source": "native-presentation/capture.json",
+    "sourceDense": "native-presentation-dense2/capture.json"
+  },
+  "sourceLighting": {
+    "nativeDataSha256": "3b109d92fcf4ced42ddf76c238e92d38a755d006d7413ea21bedc742aaf6cf67",
+    "spatialProbes": 0,
+    "lightmaps": 0,
+    "reflectionBytes": 65616,
+    "reflectionFaces": 6,
+    "reflectionMips": 8,
+    "storedSrgb": true,
+    "sandSourcePixelsUnchanged": true
+  },
+  "regressions": [
+    {
+      "case": "Grid directional light response",
+      "red": "03c792cca185433fa8699861aeb660c2",
+      "observed": "Old unlit shader response delta0; lit native equations pass."
+    },
+    {
+      "case": "SDF hot-reload glyph cache",
+      "red": "5e5a5bfe547a42b1bd416f6d58a9e675",
+      "observed": "Expected8 vertices, actual0 before fix."
+    },
+    {
+      "case": "SDF ancestor scale",
+      "red": "27a096aefc7b486398525efc52a02940",
+      "observed": "Real Canvas UV1 scale expected1 actual0 before fix."
+    },
+    {
+      "case": "Reflection color-space",
+      "red": "549d53101b19422fb1b7d5297ecf6817",
+      "observed": "Expected native serialized sRGB1 actual0 before fix."
+    },
+    {
+      "case": "Opening/result visibility",
+      "red": "83cd27504f504f258a99d98d5a176f49",
+      "observed": "Menu erroneously visible in opening and absent during result."
+    }
+  ],
+  "independentReview": "No blocking findings in final camera curves/bindings, clocks/pause, migrated references, terrain shader/material and three preplaced source shadow texts.",
+  "manualChangesAfterSuites": "Only the three saved Defeat foreground positions were calibrated to source glyph edges; font migration realigns their shadows. Natural-clock captures and saved-scene audit then rechecked.",
+  "limitations": [
+    "Full-frame deterministic pixel/frame thresholds are not established.",
+    "Random NPC/name/animation/AI state and complete native physics are not identical.",
+    "Portrait victory reward-column spacing still uses the existing layout; no matched original portrait victory frame establishes complete layout parity.",
+    "Audio events/volume verified; no waveform-level comparison.",
+    "No build, vivo conversion or device test performed."
+  ],
+  "buildPerformed": false,
+  "committed": false,
+  "pushed": false
+}

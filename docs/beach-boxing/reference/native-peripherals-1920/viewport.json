@@ -1,0 +1,21 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "dpr": 1,
+  "canvas": [
+    {
+      "width": 1920,
+      "height": 1080,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080,
+        "top": 0,
+        "right": 1920,
+        "bottom": 1080,
+        "left": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "component": 4639,
+  "owner": 333,
+  "poseTarget": 80,
+  "fieldReferenceTransform": 3693,
+  "function": 49877,
+  "tableSlot": 4830,
+  "ownerGetterActualFunction": 614,
+  "ownerScaleSetterActualFunction": 1143,
+  "posePositionGetter": 817,
+  "posePositionSetter": 2343,
+  "portraitOwnerScale": [
+    1.5,
+    1.5,
+    1.5
+  ],
+  "authoredLandscapeScale": [
+    1,
+    1,
+    1
+  ],
+  "landscapeDoesNotResetOwner": true,
+  "nativeViewport": {
+    "width": 414,
+    "height": 734,
+    "devicePixelRatio": 1
+  },
+  "correction": "Pose target and component owner differ; apply phone scale to owner MenuHolder333. Preserve native retention when rotating back."
+}

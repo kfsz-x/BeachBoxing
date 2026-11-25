@@ -1,0 +1,49 @@
+{
+  "original": "User supplied Unity 2022.3.34f1 WebGL build",
+  "desktopViewport": [
+    900,
+    620
+  ],
+  "touchViewport": [
+    432,
+    768
+  ],
+  "screenshots": [
+    {
+      "file": "desktop-00.png",
+      "sha256": "7e0f65928fd614ce342930b0b051987fe3625bdaf498fadb08706acf1bb2280a"
+    },
+    {
+      "file": "desktop-01.png",
+      "sha256": "ae6fb5ce64426c5fd86978aebba2553c4423a7b6fcc0c59e6fffe85d43b7fa9b"
+    },
+    {
+      "file": "desktop-03.png",
+      "sha256": "bf94ddbc166702b66ded64d70c5430bf1e0ac2e045e8a4b072fdffe02b3f79bf"
+    },
+    {
+      "file": "desktop-09.png",
+      "sha256": "b76055ce2f631f7d3a689f6dac80ef972b038c168962e785080119929eb40d9e"
+    },
+    {
+      "file": "desktop-11.png",
+      "sha256": "7d1daef84160ba0609984cb7beec49cdef4db3e17845751d009f86f8f36f10a7"
+    },
+    {
+      "file": "desktop-15.png",
+      "sha256": "baeb71eef94d0283b69ec9b5c35b36b0b6f8b4887e173184fe77077f7c8520a1"
+    },
+    {
+      "file": "desktop-22.png",
+      "sha256": "b5c5a93b69bf978271a65033309244e9d7842a2ad45c61f81d508c1d74d9259c"
+    },
+    {
+      "file": "mobile-01.png",
+      "sha256": "3a21664df984f718f9bf6bf2b2b9543505d3b6be401c157eb0fdce3869f56e8a"
+    },
+    {
+      "file": "mobile-04.png",
+      "sha256": "2a1c5773b7b8d7a3a558f47ddf5269de997a56af532b3435a4ab76bbfda9ce92"
+    }
+  ]
+}

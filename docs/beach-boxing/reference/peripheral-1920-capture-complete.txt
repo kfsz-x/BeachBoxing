@@ -1,0 +1,1 @@
+1920x1080; diagnostic save; actual UI buttons; completed

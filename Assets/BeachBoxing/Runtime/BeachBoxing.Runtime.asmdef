@@ -1,0 +1,5 @@
+{
+  "name": "BeachBoxing.Runtime",
+  "rootNamespace": "BeachBoxing",
+  "references": ["UnityCore.Runtime", "UnityEngine.UI", "VIVO-Game-SDK"]
+}

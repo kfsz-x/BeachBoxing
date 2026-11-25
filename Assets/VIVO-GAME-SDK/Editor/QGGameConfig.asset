@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   envConfig:
     icon: 
-    package: com.solarsmash.fzgame
-    name: "\u661F\u7403\u7834\u574F\u795E"
+    package: com.beachboxing.fzgame
+    name: "\u6C99\u6EE9\u62F3\u51FB\u624B"
     versionName: 1.0.0
     versionCode: 1
     minPlatformVersion: 1104
@@ -24,7 +24,7 @@ MonoBehaviour:
     wasmUrl: 
     wasmDataUrl: 
     assistWasmUrl: 
-    streamingAssetsUrl: https://cosartresources.zywxgames.com/users/xk/cy/202608/solarsmash/1/WebGL
+    streamingAssetsUrl: 
     preloadUrl: 
     subUnityPkg: 0
     useSdk: 0
@@ -48,9 +48,9 @@ MonoBehaviour:
   cliSrc: 
   useSelfLoading: 0
   useSubPkgLoading: 0
-  useAddressable: 1
+  useAddressable: 0
   usePreAsset: 0
-  useWebgl2: 0
+  useWebgl2: 1
   useSdk: 0
   useCodeSize: 0
   useBrotli: 0
@@ -59,8 +59,8 @@ MonoBehaviour:
   usTargetIconType: 0
   projectConf:
     memorySize: 256
-    profilingFuncs: 1
+    profilingFuncs: 0
     il2CppOptimizeSize: 1
     scriptOnly: 0
     cleanBuild: 0
-  qrUrl: http://192.168.112.177:8003
+  qrUrl: http://192.168.112.177:8000

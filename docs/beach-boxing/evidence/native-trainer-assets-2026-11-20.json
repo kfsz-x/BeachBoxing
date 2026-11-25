@@ -1,0 +1,756 @@
+{
+  "source": {
+    "path": ".superpowers/sdd/2026-11-18-beach-boxing-scene-parity/source/data.unity3d",
+    "sha256": "3b109d92fcf4ced42ddf76c238e92d38a755d006d7413ea21bedc742aaf6cf67",
+    "asset_file": "sharedassets0.assets"
+  },
+  "exporter": {
+    "name": "AssetRipper 2.0.0 Windows x64",
+    "release": "https://github.com/AssetRipper/AssetRipper/releases/tag/2.0.0",
+    "archive_sha256": "9a7ef0e7c5c3ea5b90b4e6d855e2d98d5f7ec8c3f9e26fccbc194c6a7b01baf7",
+    "official_archive_digest_verified": true,
+    "executable_sha256": "58bb4c6a78507d77ea115db236ae7286b097979fba7f77aa247c16a471499fff",
+    "export": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject",
+    "exported_assets": 721
+  },
+  "source_prefabs": [
+    {
+      "name": "Trainer Cody",
+      "game_object_id": 1190,
+      "trainer_component_id": 3389,
+      "animator_id": 3213,
+      "controller_id": 370,
+      "mesh_bindings": 150
+    },
+    {
+      "name": "Trainer Dion",
+      "game_object_id": 972,
+      "trainer_component_id": 3584,
+      "animator_id": 3204,
+      "controller_id": 370,
+      "mesh_bindings": 148
+    },
+    {
+      "name": "Trainer Nova",
+      "game_object_id": 1417,
+      "trainer_component_id": 3397,
+      "animator_id": 3215,
+      "controller_id": 389,
+      "mesh_bindings": 18
+    },
+    {
+      "name": "Trainer Zara",
+      "game_object_id": 1332,
+      "trainer_component_id": 3489,
+      "animator_id": 3205,
+      "controller_id": 389,
+      "mesh_bindings": 15
+    },
+    {
+      "name": "Trainer Serena",
+      "game_object_id": 1329,
+      "trainer_component_id": 3541,
+      "animator_id": 3207,
+      "controller_id": 389,
+      "mesh_bindings": 17
+    },
+    {
+      "name": "Trainer Yui",
+      "game_object_id": 956,
+      "trainer_component_id": 3495,
+      "animator_id": 3214,
+      "controller_id": 389,
+      "mesh_bindings": 14
+    }
+  ],
+  "source_animations": {
+    "370": "Armature, bound to the existing project copy",
+    "389": "mixamorig_Hips, imported with Idle (353), Run (354), Cheer (320), Cheer2 (321)"
+  },
+  "sanitization": {
+    "removed_unported_components": [
+      "MonoBehaviour",
+      "AudioSource",
+      "Rigidbody",
+      "SphereCollider",
+      "CapsuleCollider"
+    ],
+    "replacement_files": [
+      "Assets/BeachBoxing/OriginalArt/Resources/BeachOriginal/Animations/Armature.controller",
+      "Assets/BeachBoxing/OriginalArt/Shader/Tutorial_054_UnlitDynamicDecal.shader"
+    ],
+    "title_labels": "Existing TitleCanvas children rebound in the Editor to the project Lilita SDF. Native point size is 25 for NameText and Title.",
+    "dependency_check": "All retained external asset GUIDs resolve in the project or to Unity built-in resources. The six prefabs have no missing serialized MeshFilter or SkinnedMeshRenderer mesh link.",
+    "asset_count": 104,
+    "counts_by_suffix": {
+      ".anim": 4,
+      ".asset": 26,
+      ".controller": 1,
+      ".mat": 40,
+      ".png": 27,
+      ".prefab": 6
+    }
+  },
+  "scene_workout_targets": {
+    "Chest": "Training beach/Chest/Original equipment/TrainerPos",
+    "Arms": "Training beach/Arms/Original equipment/TrainerPos",
+    "Back": "Training beach/Back/Original equipment/TrainerPos",
+    "Legs": "Training beach/Legs/Original equipment/TrainerPos"
+  },
+  "behavior_source": {
+    "follow": "Trainer-Update.wat, function 50085: planar distance thresholds 7 roaming / 1 workout; movement 20 source-units per second; stop and face the player at workout target.",
+    "cheer": "Trainer-Update.wat and Trainer-TryCheer.wat, function 50084: wait Random.Range(2,9) seconds between cheers, Cheer2 on three of four selections. The source male controller has no Cheer states.",
+    "level": "Trainer-UpdateTrainerLVL.wat, function 17016: LVL {level} Trainer label and uniform 1 + level*0.01 scale."
+  },
+  "installed_root": "Assets/BeachBoxing/OriginalArt/World/NativeTrainers",
+  "files": [
+    {
+      "path": "AnimationClip/Cheer.anim",
+      "guid": "2eda1d10c5d743e41944b59dcbef815d",
+      "sha256": "61b124d49f7380a51b133f3258d1623d6c10aabdc77df9310b4c4f10ee9b4316",
+      "meta_sha256": "dc46d0043f7e1b159530fe16cf3bd36f829ae267b6d92cc3835c9e547f4a445d"
+    },
+    {
+      "path": "AnimationClip/Cheer2.anim",
+      "guid": "0567cee1f7083ca429e562c74c07d826",
+      "sha256": "d1a4c6e061c9c5f168bab704ec57b2badeea79d0a41961dfd73d17ab6957d7ce",
+      "meta_sha256": "ec95b1f40a8356d00f11fb0d2497d40ff75ef824531b1effe559d41f64504829"
+    },
+    {
+      "path": "AnimationClip/Idle.anim",
+      "guid": "5ef5e0f09ca149a418670f2882db85fa",
+      "sha256": "40755c5f283d05ac868e0603375e0c9b12709dacc65c6e9a8a595fe308fef94f",
+      "meta_sha256": "8ed8c2c9317242bda78a4e99f6491e831ad77fa98787e9423c032dbbcce6f889"
+    },
+    {
+      "path": "AnimationClip/Run.anim",
+      "guid": "2fb5c586c06cfa34c86ce19cd556a360",
+      "sha256": "44f6bb772a51628435a37a733f97f50d71c636f0253367babbefef0bd0896e9f",
+      "meta_sha256": "3e2c3889b8ddb638ed6be6f603f7461d24233e3ec6c0ff8fe95b9f00e3b2f0ec"
+    },
+    {
+      "path": "AnimatorController/mixamorig_Hips.controller",
+      "guid": "bc69c2dace1a06a4ba7dda771f29d0ab",
+      "sha256": "3313ff2bfd8520f0994ef8aefdd5104a74d3a6dba76a395a5435c8fd4111c891",
+      "meta_sha256": "5d5f315c035f30b50771f1407ea16c31746f6688b27d330f8fdd84ec8a82398f"
+    },
+    {
+      "path": "Avatar/CharacterAvatar.asset",
+      "guid": "bc6db5edc3591214da2b56f1485d0e89",
+      "sha256": "a7f1611d63e0804375a22e0932ef413bd1a4e4f243fbbaa15b7b9a363777411d",
+      "meta_sha256": "c930844bb1464960695c6a42d00bc5c4a7db60c6ce9c00cf3db9732fb6530e0b"
+    },
+    {
+      "path": "GameObject/Trainer Cody.prefab",
+      "guid": "4dbad541c04e1c842b1c2c6d9cafebd1",
+      "sha256": "1da8324bcce619bb82bbaa319a4ba76a04d2158069fde8137ae97b6507eab298",
+      "meta_sha256": "0e5af4e6915a4664b84b24941dc0dcf507bed17f80db22634618e0ac02acee29"
+    },
+    {
+      "path": "GameObject/Trainer Dion.prefab",
+      "guid": "5ad6bf39249320d4581cd409be253f79",
+      "sha256": "bfb66ad6dcef8fe187341522630a76e562045cbb3de901b556d950400092430a",
+      "meta_sha256": "c7dd14ac2b7e8895547dc84ef2c1c1bd8d51bb778c0c319cfe8aa86de68f62ce"
+    },
+    {
+      "path": "GameObject/Trainer Nova.prefab",
+      "guid": "6bb3e9ccf82d8874aabd67aebbca4160",
+      "sha256": "b03c808a6cb03d4b74eb2124cbd8b9a0b19ae38bf14b3ff590801937a790dac2",
+      "meta_sha256": "d872adb972ded0f1adcdc827689424f70953bcbc2c6142b0cd915490d9c3bf21"
+    },
+    {
+      "path": "GameObject/Trainer Serena.prefab",
+      "guid": "61b4655f654cb0b42be8c66c3306d13a",
+      "sha256": "7bc3adf733671445f0c5ac02663719b083ca850959b1df50077345b54a7f7871",
+      "meta_sha256": "701753ed4b7bdfe594da8a192ae856fd1d8473786f7db1940e459c778a186bb5"
+    },
+    {
+      "path": "GameObject/Trainer Yui.prefab",
+      "guid": "86e9ef1b29624fb40982039c12a860fa",
+      "sha256": "a9e942f5f25c1e02cad7c2e2a8ea1f623f209ca4623da32c218afaed7b9173ba",
+      "meta_sha256": "3d4217804b45e1084b90566a883e9f3c4c6ad602e513031d0a635a89189cf55e"
+    },
+    {
+      "path": "GameObject/Trainer Zara.prefab",
+      "guid": "d9eda58bcbcf73b4ebfa0e5cf57f420a",
+      "sha256": "707f22176fb45248b350273dbe7641d23cde2f8a17850f7d1c1be8fee561afb9",
+      "meta_sha256": "5c3fccd2e7a79b8d969ca32217bae6f89b9319421b1ec70784dbc94ba66fc2b3"
+    },
+    {
+      "path": "Material/Bench.mat",
+      "guid": "9e6a8a3a69aea1440b09658bb1d37c81",
+      "sha256": "27b06fc85d282c6bc0e209741a27a0494a9944df0bf6ba92934b28975ed0d985",
+      "meta_sha256": "685597518f3e009181e47d0a16a335272eff49ea3b1a26daae7207ce38342a9f"
+    },
+    {
+      "path": "Material/Clothes 1 Decal.mat",
+      "guid": "d0dc9926618bff74fbc1c31a776b81b9",
+      "sha256": "6b1ca6b5dc587bcffdddcd213c8cdb20a633b5730a5aedb646f155e796245ab8",
+      "meta_sha256": "126ebf6e87dfb5d9b99a69fd73aefc5f080a155d6fa6998698932ebbb6031ae6"
+    },
+    {
+      "path": "Material/Clothes 3 Decal.mat",
+      "guid": "159c6b78ddb6c4a4381e6433ccc52239",
+      "sha256": "4b4021dad336a4de1557879e95a8c6fa54ab9e8c2c64a381ee213b77417202b6",
+      "meta_sha256": "1a5b606805863dab3e965097e72ac26975b01f0b396c8cc2e1525ae4a66e8c16"
+    },
+    {
+      "path": "Material/Clothes 4 Decal.mat",
+      "guid": "db9651726e0d6f64ebc6231235b581f4",
+      "sha256": "4fb687ac8496c2d79d0202d2bccfaac30db3737afeb9f1f411b24269e2e4f2e6",
+      "meta_sha256": "a3d12648c948d8029a9ec6070f8f14fc5fb9d4ab5efc25ef5b82f92e560a9e32"
+    },
+    {
+      "path": "Material/Clothes 5 Decal.mat",
+      "guid": "2ec13c22befdf854fa4c8e05b7796638",
+      "sha256": "f92b166ee19b3b93cbdce56deeb9569abe9bb9d2b5bc528b920dde021dae0a77",
+      "meta_sha256": "06a1705623ed5819979d7677f874e7ab4d77ece02bbd9aa4a6ffbdd7852c233c"
+    },
+    {
+      "path": "Material/Clothes 6 Decal.mat",
+      "guid": "7905fa6abae02264f97329196a1b03a0",
+      "sha256": "58d29fc7c454218b3f3b0265588fa65fe3c7a04d7ca590ec787a00b3ce6d7599",
+      "meta_sha256": "dcf193dc25bbf22c6365ce6aceb7abefbfe1672cafa7a2908db9b2ed4d9a72d0"
+    },
+    {
+      "path": "Material/Default OBJ.003.mat",
+      "guid": "c2d1f510f115bb141802c73b986de55c",
+      "sha256": "cdc553de9feb2affc22b6b71703eaf2315923c6fe0ca3538b4f13d1969133c5e",
+      "meta_sha256": "5883fb5018825d678d3a1a9176d29e0bdff7086cd1beae9308179fcee45e58a2"
+    },
+    {
+      "path": "Material/Default OBJ.004.mat",
+      "guid": "b25419278a822ce49a9237ec8cf138ac",
+      "sha256": "f0ed91a853da50f201891b9f257e852ec56bf17f7221843e09d156ced35badf0",
+      "meta_sha256": "60e06702cf59f280e85da2e4707e9e618dfd3b8992ae1edfc139bd44fcfaa57f"
+    },
+    {
+      "path": "Material/Default OBJ.005.mat",
+      "guid": "f3d14a02c535b344592a770574fcf80a",
+      "sha256": "5c688dfb5e060ebb577ae16a22eeae3cacb3d663e05a46ac2837fa28d1c276e4",
+      "meta_sha256": "f2e009e84ed70acbda4a609373db644daedad740bf1a608f40f41c080d532cc2"
+    },
+    {
+      "path": "Material/Default OBJ.006.mat",
+      "guid": "fca59d6026cae744f81c6ef9c810fdde",
+      "sha256": "cb64491f400cdd5a8b29743871648d99d6349cfabd1b16a5aa2ed537b274ee71",
+      "meta_sha256": "0afa13d89016b969fb7a28fd8d0a03bf34a4ef419ef15ad07cb3b80035c9e85e"
+    },
+    {
+      "path": "Material/Default OBJ.011.mat",
+      "guid": "bf9910522164d73458a77345f45a8e25",
+      "sha256": "a08d9320d30b9bc8535bd0724f8b2c2ceece92b02af37461e100a865bfd29e6d",
+      "meta_sha256": "e7dd3c034389d634a9e000a43d397641d384d5ab548216fd0623509be1056c40"
+    },
+    {
+      "path": "Material/FaceDecal 10.mat",
+      "guid": "b740101490769f84a829732cb86ed588",
+      "sha256": "9948c2c3be3253af665ca31eb34fa1839ebe1a5f17230ea955d2023cd7e4ed83",
+      "meta_sha256": "eb3a2e3607de1710df57d6e991cf9fdb30be66263b675727d65ef361fe7f011d"
+    },
+    {
+      "path": "Material/FaceDecal 9.mat",
+      "guid": "b368ae071c55ddf43975bd3ad7481b2c",
+      "sha256": "257bab7936942c1da4be4b658255c7b231f8ca12d2a3c512450b1f80ecbfa5ba",
+      "meta_sha256": "3894de9d9033e77a2e991a415781e1fa10360c7502ba4a8f8195ea221284763a"
+    },
+    {
+      "path": "Material/Fishnets.mat",
+      "guid": "074588fcfc87f9b46a4fdd4f4cb1fa0b",
+      "sha256": "749e283a541fa3f4dae5be0d8d9db80d5b93bafb1badeafbf970e3474414d3bb",
+      "meta_sha256": "9be1be0ad662883b79fe8998b6d00768a77663f15e2560ab83c9f371276538c4"
+    },
+    {
+      "path": "Material/Hair 1.mat",
+      "guid": "00d2a843443a4214aa921e1b6b0b4acf",
+      "sha256": "1cec2e6b5441d79c7a1c274259c4f447cc238f7eddf3f310c3aeeb86cf5720a5",
+      "meta_sha256": "218c96557792cb62a4f4bacf30436da15d610e86c149bc062a3d28022b1ba5f2"
+    },
+    {
+      "path": "Material/Hair 2.mat",
+      "guid": "24f0e3e2d6785e04db389a2bc39fa782",
+      "sha256": "c87656c91c1d20ba19f51b22bb143598ed329ddada87c08bf0b6c2c2d4928851",
+      "meta_sha256": "08f96e7f555ce493ec59fd69ab68fcf0fd5fd77ca2888ce766398ca407da0f44"
+    },
+    {
+      "path": "Material/Metal 1.mat",
+      "guid": "3b9794b08543b754baecc08f82d09643",
+      "sha256": "2f4d2b58aa964130dd39c4fb5189ab9a3429c45f013199e3cd7dd4a62e5fd568",
+      "meta_sha256": "0efdfe5afe64f1d3d59ec9ec5a985847ab49c95977139d68c9e8c105d9e6d288"
+    },
+    {
+      "path": "Material/Metal.mat",
+      "guid": "f216183e53216be42b166044c829a0dd",
+      "sha256": "f159c9346eb1db7bb439df8ce6f23838630a051b08552b42c18fe20efa560990",
+      "meta_sha256": "b6629c2986f42c6705e9c2952e85bb2265a628f3992a557917fc1f21c1ad7ae3"
+    },
+    {
+      "path": "Material/Skin3.mat",
+      "guid": "d0d6d9c37b5b5e542a9fa62cd5c2074e",
+      "sha256": "b22a0f1df4b7f1b941fdf1299eabc5f27a0136118f59280f84185f6003fd7a4f",
+      "meta_sha256": "9fb1db17c66166a414a81a23abfa94c6333c7b2319b8b4febcce99bd17947996"
+    },
+    {
+      "path": "Material/Skin7.mat",
+      "guid": "38a1610acb9177f46b16bcfeda2e3ba8",
+      "sha256": "c37e30c04420ee62fc4d4f7cf95e058163537e6247f19d8e89fdb477a9f0f24e",
+      "meta_sha256": "05963eed79a6a2fecb5b0c37b0871dc0080b8d9ab9bb2c9e6a2d280ccc9422f3"
+    },
+    {
+      "path": "Material/Trainer 1 Decal.mat",
+      "guid": "4830e8d9c417bc345a921cb47eb32d37",
+      "sha256": "88a088ccb332741a0c257903d1bd4c5f51a2d53496458d30f8d5be3836f26cc9",
+      "meta_sha256": "8582b0b38e544250953278def5bcfb1ec80f8455bbd2589e214467f20bcf5d74"
+    },
+    {
+      "path": "Material/Trainer 2 Decal.mat",
+      "guid": "ad3b64cb8ed8f894297c1e64f81fe5a2",
+      "sha256": "a6161ac23ae4a9c2479f2cbd0d5e1ee2a4d01d2a7c6e74c61ee11bf78a69c6fa",
+      "meta_sha256": "c789d9f2c8bbb434ac67cd66c45acd9f29c6b2679f75af0ae1057781c7678d25"
+    },
+    {
+      "path": "Material/Trainer 3 Decal.mat",
+      "guid": "eb449667787910749b65b5f8d2425ddd",
+      "sha256": "84fde56d9c5d636c2f46ef909615a89c8a4ee7282ac89641fbe1808ab74f715f",
+      "meta_sha256": "beb50e2c4bb6b1f0bed6914204db68e8eccef64e5a0e00fe52b38354d40ff4d5"
+    },
+    {
+      "path": "Material/Trainer 4 Decal.mat",
+      "guid": "f441bb6efd09312409332b1289b14a8b",
+      "sha256": "40f53da06fb00710ab608b874710d43a79ac0ab0284beab6ecc15ca504eaf6a4",
+      "meta_sha256": "5b80f126c3f9c3663667da4babb355063ed4c99c4474aee41ddf637fdf9013fe"
+    },
+    {
+      "path": "Material/Trainer Body Mat 1.mat",
+      "guid": "e11f3d44343322241ae09de34a4777c2",
+      "sha256": "0e65f1e42ed723245651c1239e322dec9ff9f855bde5838d6f2699a789ae2b3d",
+      "meta_sha256": "b6346de7fe841058ba369de3fcc26f7a7fd177539e0546f5bf70931b110fcf0f"
+    },
+    {
+      "path": "Material/Trainer Body Mat 2.mat",
+      "guid": "b81d6df488ff0814483a68f5432aa339",
+      "sha256": "25a685a3c7147c43bef94f0855cb303ce397b5b3980c63694f3f5bf028e0d3dc",
+      "meta_sha256": "f79bb856bb17babe63b7864d0dd060a1ac7b67255f5978f17c0f7ae6319f75d0"
+    },
+    {
+      "path": "Material/Trainer Body Mat 3.mat",
+      "guid": "bf464f4ad95c97a4f89456f501824663",
+      "sha256": "beff0909e9544eb52a45516dc35e362af12e1fe69500737c5528c1a46ec71282",
+      "meta_sha256": "f576895dacc4d82ed2c71acf9e06300feaec926e68eaebd2dfb351c5cce3b5c4"
+    },
+    {
+      "path": "Material/Trainer Body Mat 4.mat",
+      "guid": "8cd0d801ed8832d45b7ecd8667f53f68",
+      "sha256": "42bd952d0f10920dab0b5683a3b4823855815af2de911e56ef814683e8848823",
+      "meta_sha256": "415a16b1569f45eeae6ad736ed7ff4dc9b4d3f58229a58d435d0f26e022dfebc"
+    },
+    {
+      "path": "Material/Trainer Body Mat 5.mat",
+      "guid": "7e3458e85f4635c4f9cfc97bdd650ab0",
+      "sha256": "7a2485919eca2776c5527e73c9ba57cc3245b410b3d31cb0b6b83d3942c5f214",
+      "meta_sha256": "63e91db917c05422cdb8fb73ac8d25d7129ad5bf812a929f05c7b8271a21839e"
+    },
+    {
+      "path": "Material/Trunks1.mat",
+      "guid": "445c37d49c7be7849b6fae0720f2dd52",
+      "sha256": "1c33adee3fa759b672f0920a2120ed6d41143d50c2c7f96ece4d28ed20cc81cb",
+      "meta_sha256": "9bf01f051072e7d7baa14fd622e3202219ca1f09058e9e1578dbab3dbcd982b1"
+    },
+    {
+      "path": "Material/Trunks3.mat",
+      "guid": "04ced97a9bd512c4dad285e3c95d672d",
+      "sha256": "17544208db882ddec3c78f76cbdd5ea226a1a79163ff079b4b651eee476b501c",
+      "meta_sha256": "62b8e11baec376f11bf3383ada687cac9b8086b364c52b7933d729381f8b4d45"
+    },
+    {
+      "path": "Material/Weight1.mat",
+      "guid": "8571a7249fccfc64a8213a89ab0a21c4",
+      "sha256": "786991164490657a4a91cef68e788ac72b67add01299e1e865a99d1e5217d3d7",
+      "meta_sha256": "560a37c5d302841f002313f0067c40f1e0a6c78f6272bf1798f9d43de060f31f"
+    },
+    {
+      "path": "Material/Weight2.mat",
+      "guid": "5c85d7cd19af04a4494675a6d0abe635",
+      "sha256": "1415e5dd2fed785da81787bdee974e82a053103a8f2302e92d22d1e1bb8a90e6",
+      "meta_sha256": "ab9ccdf27601bb0f422ed841e70e551186ddb8f980610efcd11ea7d39cc55346"
+    },
+    {
+      "path": "Material/Weight3.mat",
+      "guid": "c30dbe37f8e4f9b45bef3e6772bc1829",
+      "sha256": "e00543763b16999fe1a8a62eb2289c2de23b35a6549f38f40849f25fb927d1dc",
+      "meta_sha256": "8003e4548fbcb95210ca14abc0529cfc4858443016dec494d85c26534cb57f46"
+    },
+    {
+      "path": "Material/Weight4.mat",
+      "guid": "02d2f023e24a77d47a9fce890bf313b6",
+      "sha256": "14976f300579a3b3b9ec8814c4be4442169532095c40e40cb83b5d8693685a42",
+      "meta_sha256": "1bc48a1692ae4314b0e9552626e21a6320ad6793b27645a7d92ae50cc7a73c64"
+    },
+    {
+      "path": "Material/Weight5.mat",
+      "guid": "14d99d39c5cda1346bfdce29719f5bf9",
+      "sha256": "998e2348d32359c4e9f247b868efcf27c79a828db72308071086205a2d017a70",
+      "meta_sha256": "b77ce2a53a9048ef4e5f642ef66187fe187e6d0c83a893c7eff627bc5d152877"
+    },
+    {
+      "path": "Material/Weight6.mat",
+      "guid": "b970a84d83526f54b82af2b6b4ce9742",
+      "sha256": "17427f021cb65c7344d6b3cd323395890b095954a92b2c1b8f388c2e9423a5a8",
+      "meta_sha256": "d933cf32f839ed1c685e43d7596b11abaf46118dd47e03272fbe606c2802a289"
+    },
+    {
+      "path": "Material/Weight7.mat",
+      "guid": "1e0085e84b7438b4492ec0580cca6b19",
+      "sha256": "906429579256e565d67e7046f182cedef4b2442fedac9b3a01d1db8ce3af60db",
+      "meta_sha256": "aacc29996fbefb8bd8e8fb7970c81075a4d7eeb146716dda0a28030206ea7cde"
+    },
+    {
+      "path": "Material/Weight8.mat",
+      "guid": "c94deb86f873e124f943d344820e515e",
+      "sha256": "c0102f5103a7968fabbcdc3c7319431f98af4112089f8be648d2fa357b887c2c",
+      "meta_sha256": "eeaf33bb51e8270afc72cb9f2e4d9a28bf803a9e8267dfc4805e1f41a147303d"
+    },
+    {
+      "path": "Material/White.mat",
+      "guid": "ebc083caaca78174284197d129c1fa01",
+      "sha256": "0f1dc3768be86b2b43cdba72c91b045977bf16491e86e07b4fad50e84284aabe",
+      "meta_sha256": "09fbc4d7e6f98a00fce4adfa8ab07e70b8ada2b2fcc92cc8052fdce0b74a5ecb"
+    },
+    {
+      "path": "Mesh/01.001.asset",
+      "guid": "a345e3aa5e295ce499103f1fcfeabd1c",
+      "sha256": "1d6ecd400c0275072bc6676cdca434350077ae7374eaa82c463da9ec2598cf74",
+      "meta_sha256": "f612e9b2ca1aacab8ddbdfc05fffcea616a29c5a438101e40943f975893786a4"
+    },
+    {
+      "path": "Mesh/02.001.asset",
+      "guid": "b46afd8d88109084485e4f8e8d558a0a",
+      "sha256": "3babc2a016b0d392d6317bd0bf243284e2cdbac78033b3fac09e953a3d98bad6",
+      "meta_sha256": "34cf3e2f165116b254a5cd9883ea69c00a275fff58ee7bd9a795a14e1e9ef81a"
+    },
+    {
+      "path": "Mesh/03.001.asset",
+      "guid": "af64191d198f5b54e93028543734a09d",
+      "sha256": "d40aed02626d408d0dbe597d7f763e2c353a9c02ae074af5db89ca79e2190ef7",
+      "meta_sha256": "b34bc72e8b1a3500b343caefe440576bff3788918c172b733991f1633c1deb35"
+    },
+    {
+      "path": "Mesh/04.asset",
+      "guid": "839abb2039ccc6741afc35f0d636baf8",
+      "sha256": "90e4e04f5d667219ce448080de83c69337e821ed939a314f8db5828dc308b1ed",
+      "meta_sha256": "99be3f193247d02a411f204271d066c351c74a5a2a495bc72c688afde102e6ec"
+    },
+    {
+      "path": "Mesh/08.asset",
+      "guid": "70d66627fdde4b44b819e1f6685eb0bf",
+      "sha256": "f49bf97cff56bf93f3bf4e2bae42a23c4c402b1f8ee20c929333d2083072c110",
+      "meta_sha256": "dbbdf0b802b18a44494170e286cfabfc6b2f4b5139927e74a6e6d67ecfb14dc1"
+    },
+    {
+      "path": "Mesh/Arms.asset",
+      "guid": "b8f10fdc59eb7f54aaef9e4f7cbc0887",
+      "sha256": "05d82f6aeede82a85fd767b858cb7b639e1d25594b5c28b31ae82eca361a80d3",
+      "meta_sha256": "3bc74ac9cca43fe9ea74eab8d52e4a0958436fffbdde800cf653250008359867"
+    },
+    {
+      "path": "Mesh/Back.asset",
+      "guid": "2df9590966803444c9f0c7f267e837fb",
+      "sha256": "7a132048e83c4a3b869f948d5a0b9725de4abb9b57ab8cf8ff7316a512244324",
+      "meta_sha256": "9412ef5c9e01dce446438b8c246e2d227fe07c6de15bdda7615bb13ee59c2eda"
+    },
+    {
+      "path": "Mesh/Front.asset",
+      "guid": "164a7499057f1f5419ee296fb72dd072",
+      "sha256": "2c78f6b57268d7834c3258cd70d5790cb29c3a49227011f0d21c7c2e41f43cee",
+      "meta_sha256": "c5ad4bc5f8809c0ab8ffef40c7b19a69e07d698d4921b5edc0f5e5cf964ed001"
+    },
+    {
+      "path": "Mesh/Girl character UV.001.asset",
+      "guid": "314e5b70a0ef8b04aa9fe3c3a364b1d4",
+      "sha256": "ffadb85ea92d320cd311f6f146bae177495e24c48df00354197e0bd1a1f7bbdb",
+      "meta_sha256": "c4d4baacff14ad248db1280022dd644a8d88b5a14675b0762c23e01b5304e5c1"
+    },
+    {
+      "path": "Mesh/Girl character UV.001_0.asset",
+      "guid": "ddfcb450070f17649a593b18accd7989",
+      "sha256": "5f854c3f303a47f660da8e74080f00f497649868e388e847d4b5284b927c32b3",
+      "meta_sha256": "1be7b57c021e91e34ede5b7796088e63c95601987cb620164c8e1cbb7519cb52"
+    },
+    {
+      "path": "Mesh/Girl character UV.002.asset",
+      "guid": "9881d34b80a18d244a7bfc4fa4b0714d",
+      "sha256": "651d803b12885b7f03b8e2666367283132a92d2ca3cf1965656fb88593178161",
+      "meta_sha256": "bbc7529125afa1e91281ac8a16cd1a656fbfcc7fee04aaf4b9e832a937f34e85"
+    },
+    {
+      "path": "Mesh/Girl character UV.003.asset",
+      "guid": "641898c5ea9567441ad1e33691ac97a2",
+      "sha256": "04e07bae8608720f48f1ab24fed395d3826187b81a805327061f36bc4775d1a8",
+      "meta_sha256": "5ac7bfe62ea49cd30cbebf89b0c1d93dd4c8c0e39fa9f381305ee2f66f83a249"
+    },
+    {
+      "path": "Mesh/Girl character UV.003_0.asset",
+      "guid": "606c7262fb11f5c4186430765deaedf0",
+      "sha256": "af6f9ca112687acdc595d87dae6828d85674b73dd29304624b1e61e227cf7a6f",
+      "meta_sha256": "2903632716aaf838bfd6772ea2f10cd4e6a413bc48bafd9df2ca0a00e4a276f2"
+    },
+    {
+      "path": "Mesh/Girl character UV.004.asset",
+      "guid": "9a306e2c04e7e9b45ba7b080ceeba50c",
+      "sha256": "abec8b31847d78fcdecc8dd455c0bab4fcaca22d13ce819450445b564b1ee963",
+      "meta_sha256": "b5531c08913416c170f1baf92c2c1420b51eabf476605805147979001f807b4b"
+    },
+    {
+      "path": "Mesh/Girl character UV.004_0.asset",
+      "guid": "a71a74ca7871e11418b915e75dbe594c",
+      "sha256": "14a1587338a7cfaaed5d88a68e1cc4f27664e9fc878ed156206be2be2ff6d741",
+      "meta_sha256": "cc0f0421364934442fbc07a5ac03685c436f152ea98bc63a5529952c5c676826"
+    },
+    {
+      "path": "Mesh/Girl character UV.005.asset",
+      "guid": "a9a0d8337b3647d47b6f28adc900e9e8",
+      "sha256": "7b1be6e013cdc9394d31215ac595ac525a452a6ef87afa86df893df8279263ff",
+      "meta_sha256": "c9e2be713b0c21d076d695a103942f9e2471fbe6877a35bf4e2517bae68789a3"
+    },
+    {
+      "path": "Mesh/Girl character UV.005_0.asset",
+      "guid": "86a7cdcd871f9144892e7ae652439875",
+      "sha256": "ed72f197b5b30b933a00d4ff6ce19c151445acac92ceef3a3c832929f3754edf",
+      "meta_sha256": "b5c7edce6247f1038b6f92b4adcad581a9ddc0f5a66508778d540e41dddb65e7"
+    },
+    {
+      "path": "Mesh/Girl character UV.asset",
+      "guid": "3e8b3fe3b54fba64980ef5a886b9df4c",
+      "sha256": "1be8902131efbfb104329700da057eb3295ffb10407d8c4cdc3194bfee49e548",
+      "meta_sha256": "fff8d9517664cde78dfe17c7955bad6c486e61958f2d22cda8ba43694420b0c3"
+    },
+    {
+      "path": "Mesh/Girl character UV_0.asset",
+      "guid": "922ee07616d86234a869f1c641ef6f95",
+      "sha256": "bab8bb7c836f09f0d84b4e26eb17f8a6a7348c11b366313e42102ec05a0df548",
+      "meta_sha256": "9a457ceac91efd5668f54c86688c12d363e4dc0bca5eee23df8e6db4ca5c6e28"
+    },
+    {
+      "path": "Mesh/Head.asset",
+      "guid": "13fb6c7c93bfe504fa6ae975820bd2fc",
+      "sha256": "9e77afc44a0bd5296fe87076f22a09d1258319b800b5d29280ca75526a00f6cf",
+      "meta_sha256": "16d8a90e195947e9b51428a181b743305d31a24c632751714e2bbd5e4a19509c"
+    },
+    {
+      "path": "Mesh/Side.asset",
+      "guid": "8dc470d7f5ac4e544a98a49e69b56d89",
+      "sha256": "720fa57fa187ac2ae548fc646fa065bb6ae3009689c3cfcc7fb33f317edd8452",
+      "meta_sha256": "31aaafeba4cdbe759cd6dd7074f16b531659a9d4aa3874f5ed29f78053f35dd7"
+    },
+    {
+      "path": "Mesh/Torso.asset",
+      "guid": "df855c019c627f14586293ddfc8e77e8",
+      "sha256": "f1c2f68571a38c1e45e83808a372d7ddc65fc4da06802925e85d12ea1fd00a68",
+      "meta_sha256": "252705037b4f0cedef0efbac112a12055fad5b15b38257749cded783ad3fda6a"
+    },
+    {
+      "path": "Mesh/try hair idk.asset",
+      "guid": "a3d652e498d8f924d97503c39fc6167f",
+      "sha256": "7d62fa1b5196ffacdbef136095ffbb1b9da86a81627623430cf0e1376629f20f",
+      "meta_sha256": "8a37940b87b7acabb091f7fe7f6a25749894cf61f3b512e0e14da7c81f23f073"
+    },
+    {
+      "path": "Mesh/vsn_mesh_0_BodyB.asset",
+      "guid": "2783269a6c8119b40b5067d1293b7bb7",
+      "sha256": "e9a27c1bdaa2b658195fd3462d95c1257a8e0c7f1cfa3c58b50f48c44f2220d7",
+      "meta_sha256": "2392d6e4021b3945bcfdc3015e7b708d710748272fbef6d8ca25b72f2ad5cc9e"
+    },
+    {
+      "path": "Sprite/Circle.asset",
+      "guid": "82ca72bc6aa3453479496cc9514647b3",
+      "sha256": "05f2db2abe6ed54d3391704d9b7a190c8616dece53babee3b344285e52704915",
+      "meta_sha256": "065f9dd4304d02a84682b134c4f0320cbfad572f0215d3ee27b4afd6ebd419f3"
+    },
+    {
+      "path": "Texture2D/01.png",
+      "guid": "0c1cdcf311017a04c853131ebfb640df",
+      "sha256": "d1233faf01efcf7f5e8646b87bf38ffeb667372c5d9769930e0b7f5a4c570b83",
+      "meta_sha256": "18a10853eae1ceb5d566ae113d5ad3ff7f79bd264017456bdd4fda136da3815c"
+    },
+    {
+      "path": "Texture2D/02.png",
+      "guid": "1b112bebebc2e8e468a3407073a1d28d",
+      "sha256": "04bdfcf5dfa7dfe7d404ee47bbf2a4d461965fdb8b678ddc4decdac657d10f00",
+      "meta_sha256": "b7c2e11d13333c0f86c0bfd92982020157f8c6cc27b0463f64ccb4656cdc6175"
+    },
+    {
+      "path": "Texture2D/03.png",
+      "guid": "1808581fc4536aa4c9c0613c04b2c9f2",
+      "sha256": "41c4c9c407b130200c8e9bf19123754b92db688f8efca24e7454784b219d3631",
+      "meta_sha256": "1cf66dad2197eedaec4b39a1148cd7d00b342fe520c3b44c2701e22eb063f1fe"
+    },
+    {
+      "path": "Texture2D/04.png",
+      "guid": "33e85670f37bc444a83bcd7ea6aa70bc",
+      "sha256": "1ab07d4bbcf28975d01b129ede98cdd364b7b667c9c42b474b977f1816d260b0",
+      "meta_sha256": "d739c3aa36ad4026fa3a62b25d71fa18989b8ea09acff732317a736b41336ba3"
+    },
+    {
+      "path": "Texture2D/08.png",
+      "guid": "b77b8fc26978a81498bfaa11c394a485",
+      "sha256": "0dabdd7439dc54cd4df32089191646f5e5b4c037711ef9b3aec3b93741208f32",
+      "meta_sha256": "9997341a6c27113a31deeaf12a0140689c205b377457ae41564182999d0b7ae2"
+    },
+    {
+      "path": "Texture2D/Circle.png",
+      "guid": "86f7491a65b622640b9ffd99789b51ed",
+      "sha256": "563718c900eb729e375f2a27a8534599e6604d5eb2d8d82941efb7ab5d3f9d09",
+      "meta_sha256": "ac34bb79699137f2775e43bf544d21b77be5c9669c7d68d1d1704ccf7c0759a9"
+    },
+    {
+      "path": "Texture2D/Clothes 1.png",
+      "guid": "a27d5fb4184bc6c4da780de505da13ef",
+      "sha256": "921b632e2b235840b71597110255a1f603b9495592c4d34665a9b9b020538329",
+      "meta_sha256": "e9a0d7372376631e37ee4f81ef19b5d19d5a4c7e148ba8903592c2738ff48aca"
+    },
+    {
+      "path": "Texture2D/Clothes 3.png",
+      "guid": "e3a6c694a43bb8b4c848a4f249879342",
+      "sha256": "6d81ee83e4ba49e519b42f51577ab5bf0348e836462e25ce60048bbaeeb20031",
+      "meta_sha256": "5bd8825a26886e767ecc34696b5049b2ee3ab226d4c54f7fd7c3b4526f0baaf4"
+    },
+    {
+      "path": "Texture2D/Clothes 4.png",
+      "guid": "9f6ded0f3294cb042a4431778b76c55a",
+      "sha256": "0b527ef5fdf2eb7ed2b69fd49bfd3f65ad1464f9c84fc4d7cd6f2408d3145217",
+      "meta_sha256": "502a65601de63bd6cab8a097edfaa4f60d30ee895d13605cd5cbfdb431171753"
+    },
+    {
+      "path": "Texture2D/Clothes 5.png",
+      "guid": "fc0bc1797a92fb34da3fdfbd57b850c0",
+      "sha256": "a70769d75943d1a90e8397bb0d1b28fe7dfe1ba54d86f900a5c6ec484ac44d29",
+      "meta_sha256": "5b948df7f1ce6e9eca585650c3137d9990cf398d5abb42498f1e3d557be3e36f"
+    },
+    {
+      "path": "Texture2D/Clothes 6.png",
+      "guid": "6f14a2ae6e178d74980b392d3dbf3e35",
+      "sha256": "a349d039ba1f1418acc8f724f412fd7d94d920802bb49eb7b7bf019ecf55537f",
+      "meta_sha256": "9c7e2ed5827fa02e729542f182383eeabb233efb3f7b4a0daddebcbd617d3330"
+    },
+    {
+      "path": "Texture2D/Face 10.png",
+      "guid": "3bdd6c3b56aa1b94a90d86d41e2c603d",
+      "sha256": "c51d0d8e583b3e042433d279453eee625cf53a0576b679be10d0664465e5fd90",
+      "meta_sha256": "c35aee4cc6c7c2a8e7027f5d421f83de10da31877e23980c5cf585af3b2d722e"
+    },
+    {
+      "path": "Texture2D/Face 9.png",
+      "guid": "9111a34be85c4334ea8c6873b630558b",
+      "sha256": "e000919ab7aec90112a34975dd06bc80cf50aa7a86ed7b1ec87a46f84c45ff04",
+      "meta_sha256": "4d232e94963a66315a3691bda2394c63b1cfd4d655399faada7bec073a16534f"
+    },
+    {
+      "path": "Texture2D/Fishnets.png",
+      "guid": "d2c638fdab0e1b04b9a4ab708794130e",
+      "sha256": "3f570ac6ca2d1a9035bed38e4233015f79a57e3c630d95ead4e555a27955c22f",
+      "meta_sha256": "1dd57ecc00e9fbac6daf216aedfe514e00fd35908ed320fb89e7776c53d6f47c"
+    },
+    {
+      "path": "Texture2D/Square.png",
+      "guid": "f8a146ad9626d004186e2686ce77724e",
+      "sha256": "9d705f87e834095860e5b7a172fa043816307ba8312d63d48c2cdc6bb9f67b3e",
+      "meta_sha256": "c51e4a336124b616bafdfde92f45edd02cc271628642f1ac01ec4a41aece4e1d"
+    },
+    {
+      "path": "Texture2D/Trainer 1.png",
+      "guid": "69a1cd3b04665e445aab43a5390f8029",
+      "sha256": "2774bece4a7407176f35cabdd70972c7b814963166bc03d92d791b236a48104f",
+      "meta_sha256": "12e997cb7d9e261df3e70c6b8ffe1f3f1f58911433e5b2b7024a7cea5e65a738"
+    },
+    {
+      "path": "Texture2D/Trainer 2.png",
+      "guid": "02024d9fb6f76b944b6c1777f64facb5",
+      "sha256": "e92128802674f7040189fc2e0afdb517bbbe4303b6f0adddad2eb2c38ae1e5ff",
+      "meta_sha256": "3fdc0c589e389c0b43e71b183c1db8f76a72db0a8e280b377fe0d9d766425bf0"
+    },
+    {
+      "path": "Texture2D/Trainer 3.png",
+      "guid": "4ca9f7f9a2cec8245b18864261de59b1",
+      "sha256": "7cf6c3c3cd2581b5b01e5965e9b155e0965028cedcf646a2398663a9972a1b02",
+      "meta_sha256": "796a8a4ba7ff81f75e98c7a3ea571b66019d2e968d7ec4b60d0ef0350389a1e7"
+    },
+    {
+      "path": "Texture2D/Trainer 4.png",
+      "guid": "a8ef4d43266168c4e83af0e2cc094c34",
+      "sha256": "de3fbc4823de315cf846bea83ed25e1f8207cd9bef21f5777d99277fe1903d75",
+      "meta_sha256": "937ce2db1f9ab90ddb1c85ecd9b714736cf06a4c012e0d02e942d66e7f581e38"
+    },
+    {
+      "path": "Texture2D/Weight1.png",
+      "guid": "bd57b5e5f9fe88e47ad68033abab39aa",
+      "sha256": "958b22fbc3ce0a3a97afcb5bf1a951307ceb4239d8b132668f7225a56b00a235",
+      "meta_sha256": "457ceb364aaa54aa10dba48df946c0cd2ffc875ef3847220282a8cbef2fae418"
+    },
+    {
+      "path": "Texture2D/Weight2.png",
+      "guid": "f7acb9c555b8d304cac03448fb04410a",
+      "sha256": "7f491ad9f4ef0e1aa466469516bd22da85168a13ee7bb3126982b13b70fc8621",
+      "meta_sha256": "337891d001de22d3b09c0d515c6a437b365bb3a63480a8bd8a21838c6a02e490"
+    },
+    {
+      "path": "Texture2D/Weight3.png",
+      "guid": "2b78c43fb99b818468e1caec9e92d191",
+      "sha256": "a3055249b488389b27923c563468a07446fb286b494c98e4a5c8aaf69fb3b481",
+      "meta_sha256": "1fb05c7bb3557cdca8a303adc7e15b7d70b1b4835fff07a1ce07a02a555294f4"
+    },
+    {
+      "path": "Texture2D/Weight4.png",
+      "guid": "e6dfded76057b714a912ca12474eca8f",
+      "sha256": "d0a8467d1f5173e216cec44cbd4be94f83436d7bece5106f382ad91d46b224ca",
+      "meta_sha256": "26af975c900efd755086073b919aa25606fc9a0d2520a811cf02890d34b67e35"
+    },
+    {
+      "path": "Texture2D/Weight5.png",
+      "guid": "e6fe0a02caa3c0248912d957666959e3",
+      "sha256": "1f688189ca2a31d963bfcdff22fb91f75190f30a86300cad36436230b18c74ed",
+      "meta_sha256": "ff0dec5e185f0c1c8976f1665223fe30039cb627bdc427d067211a31116679ce"
+    },
+    {
+      "path": "Texture2D/Weight6.png",
+      "guid": "ec509e49b1098a2479e914fc788cc19f",
+      "sha256": "6e2288081810775bb1d9a4d78da169db2fa0363003a0e0cd2f493ecffd903bdb",
+      "meta_sha256": "a406cba9383381b0ab569afa7952780ff287e289adc6c0e4851c61c5bc380c89"
+    },
+    {
+      "path": "Texture2D/Weight7.png",
+      "guid": "06d9b7fef10569144b443eefe23f966a",
+      "sha256": "3f653dac3af4898d6865f1c03e65488df5c357f8f18ab1591d3dd1b30f8e3903",
+      "meta_sha256": "943a5798e58e822197da39913c3d6bef59469967ad325a3c04ec7f6c1c29bcb8"
+    },
+    {
+      "path": "Texture2D/Weight9.png",
+      "guid": "94b6923db32b06c488beee07d800f3df",
+      "sha256": "bce684d47b6ffb0cda223f8c604339b5305991550c61b3b6844ab07da94197e8",
+      "meta_sha256": "ffb18fe0fe6486ec0a17b22bf953ba26ce13244b8b2809bdf2049c935397af9f"
+    }
+  ],
+  "verification_scope": "File export, dependency closure, pose and mesh references. Device and pixel-level behavior requires separate runtime evidence.",
+  "scene_font_correction": {
+    "source": "native-tmp-label-paths-2026-11-19.json + actual fontColor raw bytes",
+    "labels": 12,
+    "fontId": 3373,
+    "material": "LilitaOneNativeRegular.mat",
+    "pointSize": 25,
+    "levelColor": [
+      0.993672,
+      1,
+      0,
+      1
+    ],
+    "nameColor": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "canvasChannels": [
+      "TexCoord1",
+      "Normal"
+    ]
+  }
+}

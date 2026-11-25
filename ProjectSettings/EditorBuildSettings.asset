@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/GameFrame/Init.unity
     guid: 848f29d12f445f3459778bec9450cb35
   - enabled: 1
-    path: Assets/GameFrame/Game.unity
-    guid: c81c101ecab853d4c99be5ce5e11573f
+    path: Assets/BeachBoxing/Game.unity
+    guid: 4475bb24c1991de47b598008d652e716
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: b0b3cde2b33788547834e221bd442a3c, type: 2}

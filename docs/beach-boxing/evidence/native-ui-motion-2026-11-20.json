@@ -1,0 +1,4123 @@
+{
+  "source": "native-feedback original clip/controller evidence + exact native-remaining-ui Animator updateMode",
+  "clips": [
+    {
+      "sourceId": 322,
+      "name": "CoinParticle",
+      "frameRate": 60,
+      "duration": 1.5833334,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "Image",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.4,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 0.4,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.1666666,
+              "value": 0.0,
+              "inSlope": 3.8146686e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Image",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.4,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 0.4,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.1666666,
+              "value": 0.0,
+              "inSlope": 3.8146686e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Image",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.1666666,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Fade",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.9166667,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 2.0,
+              "inSlope": 1.9073616e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.1666666,
+              "value": -2.8257043e-07,
+              "inSlope": -1.9073616e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.5833334,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Fade",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.9166667,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 2.0,
+              "inSlope": 1.9073616e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.1666666,
+              "value": -2.8257043e-07,
+              "inSlope": -1.9073616e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.5833334,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Fade",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.9166667,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 2.0,
+              "inSlope": 1.9073616e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.1666666,
+              "value": -2.8257043e-07,
+              "inSlope": -1.9073616e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.5833334,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1.1,
+              "inSlope": -1.180172e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.28333333,
+              "value": 1.0,
+              "inSlope": 4.9952984e-09,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1.1,
+              "inSlope": -1.180172e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.28333333,
+              "value": 1.0,
+              "inSlope": 4.9952984e-09,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.28333333,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "TextHolder",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.69947,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.38333333,
+              "value": 0.69947,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5833333,
+              "value": 0.0,
+              "inSlope": 1.8010074e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "TextHolder",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.69947,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.38333333,
+              "value": 0.69947,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5833333,
+              "value": 0.0,
+              "inSlope": 1.8010074e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "TextHolder",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.69947,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.38333333,
+              "value": 0.69947,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5833333,
+              "value": 0.0,
+              "inSlope": 1.8010074e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Fade",
+          "property": "m_Color.a",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.a",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.0833334,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.1666666,
+              "value": 7.063961e-08,
+              "inSlope": 2.5429301e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.5833334,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "CollectCoinSFX",
+          "property": "m_IsActive",
+          "targetKind": "GameObject",
+          "sourceProperty": "m_IsActive",
+          "sourceClassId": 1,
+          "discrete": true,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.9166667,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/CoinParticle.anim",
+        "sha256": "1783c0d78c270b57aefdfa50fdc502a00e16f3a2cff996bc1e4b7a51583f963e"
+      }
+    },
+    {
+      "sourceId": 351,
+      "name": "gyjjgy",
+      "frameRate": 60,
+      "duration": 3,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "localEulerAnglesRaw.x",
+          "targetKind": "Transform",
+          "sourceProperty": "localEulerAnglesRaw.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 3,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "localEulerAnglesRaw.y",
+          "targetKind": "Transform",
+          "sourceProperty": "localEulerAnglesRaw.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 3,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "localEulerAnglesRaw.z",
+          "targetKind": "Transform",
+          "sourceProperty": "localEulerAnglesRaw.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 120.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 3,
+              "value": 360.0,
+              "inSlope": 120.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_Color.a",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.a",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.48235294,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.78039217,
+              "inSlope": 1.1920929e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 0.49019608,
+              "inSlope": -1.1920929e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.5,
+              "value": 0.78039217,
+              "inSlope": 1.1920929e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0.49019608,
+              "inSlope": -1.1920929e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.5,
+              "value": 0.78039217,
+              "inSlope": 1.1920929e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 3,
+              "value": 0.49019608,
+              "inSlope": -1.1920929e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/gyjjgy.anim",
+        "sha256": "fb9640d67ff51320bfbdb82b96d16b391596f6ab1813ae8df1ddee20caa2de8f"
+      }
+    },
+    {
+      "sourceId": 345,
+      "name": "TextAlert_Idle",
+      "frameRate": 60,
+      "duration": 0,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/TextAlert_Idle.anim",
+        "sha256": "9d26ca1b3276856c6c6ce037faa5b2ff72028b959d327f8771cc5307d2695074"
+      }
+    },
+    {
+      "sourceId": 344,
+      "name": "TextAlert",
+      "frameRate": 60,
+      "duration": 2.1666667,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 0.9,
+              "inSlope": -9.655953e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.3,
+              "value": 0.8,
+              "inSlope": -1.7220789e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0.8,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.1666667,
+              "value": 0.0,
+              "inSlope": 1.0172339e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 0.9,
+              "inSlope": -9.655953e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.3,
+              "value": 0.8,
+              "inSlope": -1.7220789e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 0.8,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.1666667,
+              "value": 0.0,
+              "inSlope": 1.0172339e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.3,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 2.1666667,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/TextAlert.anim",
+        "sha256": "238a4bbb093f2648a69210c3516ec70fa536b70f029f98600f6c790954ddaf7e"
+      }
+    },
+    {
+      "sourceId": 329,
+      "name": "MenuOpen",
+      "frameRate": 60,
+      "duration": 0.33333334,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1.1,
+              "inSlope": -1.180172e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.33333334,
+              "value": 1.0,
+              "inSlope": 1.0728839e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1.1,
+              "inSlope": -1.180172e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.33333334,
+              "value": 1.0,
+              "inSlope": 1.0728839e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.33333334,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "CloseButton",
+          "property": "m_IsActive",
+          "targetKind": "GameObject",
+          "sourceProperty": "m_IsActive",
+          "sourceClassId": 1,
+          "discrete": true,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/MenuOpen.anim",
+        "sha256": "6174620d86ed7b738b24a46077c9a841984b757a989f43e0f64be7daa30334e7"
+      }
+    },
+    {
+      "sourceId": 328,
+      "name": "MenuIdle",
+      "frameRate": 60,
+      "duration": 0,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "CloseButton",
+          "property": "m_IsActive",
+          "targetKind": "GameObject",
+          "sourceProperty": "m_IsActive",
+          "sourceClassId": 1,
+          "discrete": true,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/MenuIdle.anim",
+        "sha256": "e7d8160cedbd187aadb50c9712d6d873e75b4624d58236d245670116969a8c0f"
+      }
+    },
+    {
+      "sourceId": 327,
+      "name": "MenuClose",
+      "frameRate": 60,
+      "duration": 0.16666667,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 0.0,
+              "inSlope": 1.0728836e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 0.0,
+              "inSlope": 1.0728836e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "CloseButton",
+          "property": "m_IsActive",
+          "targetKind": "GameObject",
+          "sourceProperty": "m_IsActive",
+          "sourceClassId": 1,
+          "discrete": true,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [
+        {
+          "time": 0.16666667,
+          "functionName": "TurnOff",
+          "data": null,
+          "objectReferenceParameter": {
+            "fileID": 0
+          },
+          "floatParameter": 0,
+          "intParameter": 0,
+          "messageOptions": 0,
+          "stringParameter": ""
+        }
+      ],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/MenuClose.anim",
+        "sha256": "86304e3df5a0bdf07638f75dd8c49dd8f23ec468c33e3df1eb16fd433a67e568"
+      }
+    },
+    {
+      "sourceId": 342,
+      "name": "Pointing",
+      "frameRate": 60,
+      "duration": 1,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_AnchoredPosition.y",
+          "targetKind": "RectTransform",
+          "sourceProperty": "m_AnchoredPosition.y",
+          "sourceClassId": 224,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 2.3,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": -35.2,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 2.3,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_AnchoredPosition.x",
+          "targetKind": "RectTransform",
+          "sourceProperty": "m_AnchoredPosition.x",
+          "sourceClassId": 224,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/Pointing.anim",
+        "sha256": "be15e0d81f935deb0b56abe44133f28220d917cf594583cd46048bfa861e92de"
+      }
+    },
+    {
+      "sourceId": 346,
+      "name": "awd",
+      "frameRate": 60,
+      "duration": 1,
+      "loop": false,
+      "wrapMode": 0,
+      "curves": [],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/awd.anim",
+        "sha256": "70ed41b5d71a98848d8dc87361b37daff304aee45e068d3f63a6f41aedd59619"
+      }
+    },
+    {
+      "sourceId": 348,
+      "name": "ddddd",
+      "frameRate": 60,
+      "duration": 1,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_Color.g",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_fontColor.g",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.7170844,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 0.7170844,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_Color.b",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_fontColor.b",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_Color.r",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_fontColor.r",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/ddddd.anim",
+        "sha256": "9c886ae67d4674a048e3fc36ea7322f578fed51b069a192338dc95932b11222e"
+      }
+    },
+    {
+      "sourceId": 349,
+      "name": "fsefsef",
+      "frameRate": 60,
+      "duration": 4.6,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_AnchoredPosition.y",
+          "targetKind": "RectTransform",
+          "sourceProperty": "m_AnchoredPosition.y",
+          "sourceClassId": 224,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 311.3,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.36666667,
+              "value": 151.5,
+              "inSlope": -1.493796e-05,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.56666666,
+              "value": 163.5,
+              "inSlope": -2.2487631e-05,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4,
+              "value": 163.5,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 4.6,
+              "value": 311.3,
+              "inSlope": -0.00020453118,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/fsefsef.anim",
+        "sha256": "4be0b43fe346de666422c5bb7475838d9b9c07de52364e695f9988a24b5fa6da"
+      }
+    },
+    {
+      "sourceId": 323,
+      "name": "DamageVignette_Off",
+      "frameRate": 60,
+      "duration": 0,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "DamageVignette (3)",
+          "property": "m_Color.a",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.a",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "DamageVignette (2)",
+          "property": "m_Color.a",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.a",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "DamageVignette (1)",
+          "property": "m_Color.a",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.a",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_Color.a",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.a",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/DamageVignette_Off.anim",
+        "sha256": "58e4c5c1abe8e03a75cc3738605e8e4b21776c4b5ac0aca9b8d5d85011cea706"
+      }
+    },
+    {
+      "sourceId": 324,
+      "name": "DamageVignette_Trigger",
+      "frameRate": 60,
+      "duration": 0.5,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "DamageVignette (3)",
+          "property": "m_Color.a",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.a",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.05,
+              "value": 1.0,
+              "inSlope": -1.7881393e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.0,
+              "inSlope": 6.645697e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "DamageVignette (2)",
+          "property": "m_Color.a",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.a",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.05,
+              "value": 1.0,
+              "inSlope": -1.7881393e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.0,
+              "inSlope": 6.645697e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "DamageVignette (1)",
+          "property": "m_Color.a",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.a",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.05,
+              "value": 1.0,
+              "inSlope": -1.7881393e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.0,
+              "inSlope": 6.645697e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_Color.a",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.a",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.05,
+              "value": 1.0,
+              "inSlope": -1.7881393e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.0,
+              "inSlope": 6.645697e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/DamageVignette_Trigger.anim",
+        "sha256": "38909d4784d1b4d5eb50d083bf9657cea1a6cb862a6dfec450d1e10b4d610678"
+      }
+    },
+    {
+      "sourceId": 319,
+      "name": "ButtonAnim",
+      "frameRate": 60,
+      "duration": 0.25,
+      "loop": false,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1.1,
+              "inSlope": -1.180172e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 1.0,
+              "inSlope": 2.0662918e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1.1,
+              "inSlope": -1.180172e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 1.0,
+              "inSlope": 2.0662918e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Image (1)",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 6.0,
+              "inSlope": -6.4373016e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 0.0,
+              "inSlope": 1.494089e-05,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Image (1)",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 6.0,
+              "inSlope": -6.4373016e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 0.0,
+              "inSlope": 1.494089e-05,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Image (1)",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 6.674205,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 6.674205,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 6.674205,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/ButtonAnim.anim",
+        "sha256": "497ce9dc156f00be43bd38bd38d470dc262bb26d625a689ba319cc7fa0ac157c"
+      }
+    },
+    {
+      "sourceId": 330,
+      "name": "Move Tutorial",
+      "frameRate": 60,
+      "duration": 1.6833333,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "Finger",
+          "property": "m_AnchoredPosition.y",
+          "targetKind": "RectTransform",
+          "sourceProperty": "m_AnchoredPosition.y",
+          "sourceClassId": 224,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": -89.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.3333334,
+              "value": 354.0,
+              "inSlope": -5.941093e-05,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.5666667,
+              "value": -89.0,
+              "inSlope": 0.0007759795,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.6833333,
+              "value": -89.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Finger",
+          "property": "m_Color.a",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.a",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.9,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.3333334,
+              "value": 7.360953e-08,
+              "inSlope": 1.0396739e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": true,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.5666667,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.6833333,
+              "value": 1.0,
+              "inSlope": -2.2232787e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "Finger",
+          "property": "m_AnchoredPosition.x",
+          "targetKind": "RectTransform",
+          "sourceProperty": "m_AnchoredPosition.x",
+          "sourceClassId": 224,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 89.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.6833333,
+              "value": 89.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/Move Tutorial.anim",
+        "sha256": "1f1d0b9a78180cfbcc57b6b921e4c1c9bf447f54613966759ce2de26994848de"
+      }
+    },
+    {
+      "sourceId": 350,
+      "name": "grgrgg",
+      "frameRate": 60,
+      "duration": 1.5,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.5657,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.75,
+              "value": 1.4964961,
+              "inSlope": 1.6763806e-08,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.5,
+              "value": 1.5657,
+              "inSlope": -1.6763806e-08,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.5657,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.75,
+              "value": 1.4964961,
+              "inSlope": 1.6763806e-08,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.5,
+              "value": 1.5657,
+              "inSlope": -1.6763806e-08,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.929886,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.75,
+              "value": 0.888785,
+              "inSlope": 1.6763806e-08,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.5,
+              "value": 0.929886,
+              "inSlope": -1.6763806e-08,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_AnchoredPosition.y",
+          "targetKind": "RectTransform",
+          "sourceProperty": "m_AnchoredPosition.y",
+          "sourceClassId": 224,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 4.362054,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.75,
+              "value": -0.6,
+              "inSlope": -1.4305115e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1.5,
+              "value": 4.362054,
+              "inSlope": 1.4305115e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/grgrgg.anim",
+        "sha256": "aed0fb931261c739cd99c4dbeb7a2670769dbdbd23083d284dd7d6ba175448d1"
+      }
+    },
+    {
+      "sourceId": 326,
+      "name": "InteractButton",
+      "frameRate": 60,
+      "duration": 0.25,
+      "loop": false,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 3.0040846,
+              "inSlope": -1.339556e-05,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 2.80572,
+              "inSlope": 4.202774e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 3.004084,
+              "inSlope": 6.9494936e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 2.8057196,
+              "inSlope": 4.202774e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.38163,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 1.4793112,
+              "inSlope": -1.0480065e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 1.38163,
+              "inSlope": 2.1658016e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/InteractButton.anim",
+        "sha256": "54f5c9d1acf47d496a3c7d222061d4b17c1791996503594ddd51625d2e35b0aa"
+      }
+    },
+    {
+      "sourceId": 318,
+      "name": "Arrow",
+      "frameRate": 60,
+      "duration": 1,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_AnchoredPosition.y",
+          "targetKind": "RectTransform",
+          "sourceProperty": "m_AnchoredPosition.y",
+          "sourceClassId": 224,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 2.7,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": -4.2,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 2.7,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_Color.g",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.g",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.66279554,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_Color.b",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.b",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_Color.r",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.r",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/Arrow.anim",
+        "sha256": "bb7f214ad2153259d49e86bef7c59664f05c1660d99bae2b94df26830382553d"
+      }
+    },
+    {
+      "sourceId": 347,
+      "name": "awfsfsdf",
+      "frameRate": 60,
+      "duration": 0.25,
+      "loop": false,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_LocalScale.x",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.x",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.4995599,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 2.8578424,
+              "inSlope": -1.4572792e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 2.6046686,
+              "inSlope": 1.8506124e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.y",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.y",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.4995599,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 2.8578424,
+              "inSlope": -1.4572792e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 2.6046686,
+              "inSlope": 1.8506124e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_LocalScale.z",
+          "targetKind": "Transform",
+          "sourceProperty": "m_LocalScale.z",
+          "sourceClassId": 4,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.4995599,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.16666667,
+              "value": 2.8578424,
+              "inSlope": -1.4572792e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 2.6046686,
+              "inSlope": 1.8506124e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_Color.a",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.a",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.25,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/awfsfsdf.anim",
+        "sha256": "db36ada0ae72734a48a28c467eb0b4c54bf2956e51fe7fa297bf197556d4f749"
+      }
+    },
+    {
+      "sourceId": 352,
+      "name": "hhhhhhhhhhhhhhhhhhh",
+      "frameRate": 60,
+      "duration": 1,
+      "loop": true,
+      "wrapMode": 0,
+      "curves": [
+        {
+          "path": "",
+          "property": "m_AnchoredPosition.x",
+          "targetKind": "RectTransform",
+          "sourceProperty": "m_AnchoredPosition.x",
+          "sourceClassId": 224,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": -3.2,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 1.9,
+              "inSlope": -1.9073486e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": -3.2,
+              "inSlope": 1.9073486e-06,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_Color.g",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.g",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.85574234,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.6666667,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 0.85574234,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_Color.b",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.b",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.48584908,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 0.5,
+              "value": 0.0,
+              "inSlope": 2.3841858e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 0.48584908,
+              "inSlope": -2.3841858e-07,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_AnchoredPosition.y",
+          "targetKind": "RectTransform",
+          "sourceProperty": "m_AnchoredPosition.y",
+          "sourceClassId": 224,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 0.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        },
+        {
+          "path": "",
+          "property": "m_Color.r",
+          "targetKind": "Graphic",
+          "sourceProperty": "m_Color.r",
+          "sourceClassId": 114,
+          "discrete": false,
+          "keys": [
+            {
+              "time": 0,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            },
+            {
+              "time": 1,
+              "value": 1.0,
+              "inSlope": 0.0,
+              "outSlope": 0.0,
+              "inConstant": false,
+              "outConstant": false,
+              "weightedMode": 0,
+              "inWeight": 0.33333334,
+              "outWeight": 0.33333334
+            }
+          ]
+        }
+      ],
+      "events": [],
+      "source": {
+        "path": ".superpowers/sdd/2026-11-20-peripherals-interactions/trainer-source-export/ExportedProject/Assets/AnimationClip/hhhhhhhhhhhhhhhhhhh.anim",
+        "sha256": "b59e9cb710ce9a0838719327f941acdfc73797380496e9ced446a022e7808ea5"
+      }
+    }
+  ],
+  "bindings": [
+    {
+      "sourceAnimatorId": 3000,
+      "targetId": 16,
+      "sourcePath": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/DoubleAutoTrain/Fade (1)",
+      "controllerId": 375,
+      "controllerName": "Fade",
+      "defaultClipId": 351,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "gyjjgy",
+          "clipId": 351,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3001,
+      "targetId": 61,
+      "sourcePath": "SingleplayerPlayer/Canvas/notEnoughFunds",
+      "controllerId": 378,
+      "controllerName": "FreeLookAlert",
+      "defaultClipId": 345,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "TextAlert_Idle",
+          "clipId": 345,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "TextAlert",
+          "clipId": 344,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3002,
+      "targetId": 80,
+      "sourcePath": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU",
+      "controllerId": 385,
+      "controllerName": "PAUSE MENU",
+      "defaultClipId": 329,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "MenuOpen",
+          "clipId": 329,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "MenuIdle",
+          "clipId": 328,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "MenuClose",
+          "clipId": 327,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3003,
+      "targetId": 135,
+      "sourcePath": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/FightTooltip/Pointing",
+      "controllerId": 386,
+      "controllerName": "Pointing",
+      "defaultClipId": 342,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "Pointing",
+          "clipId": 342,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3004,
+      "targetId": 195,
+      "sourcePath": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/RecommendedWeightTip/Fade (1)",
+      "controllerId": 375,
+      "controllerName": "Fade",
+      "defaultClipId": 351,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "gyjjgy",
+          "clipId": 351,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3006,
+      "targetId": 204,
+      "sourcePath": "SingleplayerPlayer/Canvas/MenuHolder/DAILY REWARDS MENU",
+      "controllerId": 385,
+      "controllerName": "PAUSE MENU",
+      "defaultClipId": 329,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "MenuOpen",
+          "clipId": 329,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "MenuIdle",
+          "clipId": 328,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "MenuClose",
+          "clipId": 327,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3009,
+      "targetId": 248,
+      "sourcePath": "SingleplayerPlayer/Canvas/WORKING OUT/AutoTrain/ON/CountdownOBJ/Countdown",
+      "controllerId": 373,
+      "controllerName": "Countdown",
+      "defaultClipId": 348,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "ddddd",
+          "clipId": 348,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3013,
+      "targetId": 372,
+      "sourcePath": "SingleplayerPlayer/Canvas/KeepTrainingTip",
+      "controllerId": 383,
+      "controllerName": "KeepTrainingTip",
+      "defaultClipId": 349,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "fsefsef",
+          "clipId": 349,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3014,
+      "targetId": 438,
+      "sourcePath": "SingleplayerPlayer/Canvas/Reward Collected",
+      "controllerId": 378,
+      "controllerName": "FreeLookAlert",
+      "defaultClipId": 345,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "TextAlert_Idle",
+          "clipId": 345,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "TextAlert",
+          "clipId": 344,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3015,
+      "targetId": 455,
+      "sourcePath": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/Pointing",
+      "controllerId": 386,
+      "controllerName": "Pointing",
+      "defaultClipId": 342,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "Pointing",
+          "clipId": 342,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3016,
+      "targetId": 457,
+      "sourcePath": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU",
+      "controllerId": 385,
+      "controllerName": "PAUSE MENU",
+      "defaultClipId": 329,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "MenuOpen",
+          "clipId": 329,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "MenuIdle",
+          "clipId": 328,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "MenuClose",
+          "clipId": 327,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3020,
+      "targetId": 601,
+      "sourcePath": "SingleplayerPlayer/Canvas/MobileControls/Move Tutorial",
+      "controllerId": 384,
+      "controllerName": "Move Tutorial 1",
+      "defaultClipId": 330,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "Move Tutorial",
+          "clipId": 330,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3021,
+      "targetId": 602,
+      "sourcePath": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU",
+      "controllerId": 385,
+      "controllerName": "PAUSE MENU",
+      "defaultClipId": 329,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "MenuOpen",
+          "clipId": 329,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "MenuIdle",
+          "clipId": 328,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "MenuClose",
+          "clipId": 327,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3023,
+      "targetId": 679,
+      "sourcePath": "SingleplayerPlayer/Canvas/MenuHolder/PRESTIGE MENU",
+      "controllerId": 385,
+      "controllerName": "PAUSE MENU",
+      "defaultClipId": 329,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "MenuOpen",
+          "clipId": 329,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "MenuIdle",
+          "clipId": 328,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "MenuClose",
+          "clipId": 327,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3025,
+      "targetId": 749,
+      "sourcePath": "SingleplayerPlayer/Canvas/PrestigeButtonHolderHolder/PrestigeButtonHolder/Fade (1)",
+      "controllerId": 375,
+      "controllerName": "Fade",
+      "defaultClipId": 351,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "gyjjgy",
+          "clipId": 351,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3026,
+      "targetId": 757,
+      "sourcePath": "SingleplayerPlayer/Canvas/MenuHolder/PAUSE MENU/Join Room PANEL",
+      "controllerId": 385,
+      "controllerName": "PAUSE MENU",
+      "defaultClipId": 329,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "MenuOpen",
+          "clipId": 329,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "MenuIdle",
+          "clipId": 328,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "MenuClose",
+          "clipId": 327,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3027,
+      "targetId": 813,
+      "sourcePath": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Fighter ICON",
+      "controllerId": 376,
+      "controllerName": "Fighter ICON",
+      "defaultClipId": 350,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "grgrgg",
+          "clipId": 350,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3031,
+      "targetId": 933,
+      "sourcePath": "SingleplayerPlayer/Canvas/ProfanityDetected",
+      "controllerId": 378,
+      "controllerName": "FreeLookAlert",
+      "defaultClipId": 345,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "TextAlert_Idle",
+          "clipId": 345,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        },
+        {
+          "name": "TextAlert",
+          "clipId": 344,
+          "isDefault": false,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3032,
+      "targetId": 1009,
+      "sourcePath": "SingleplayerPlayer/Canvas/WORKING OUT/Workout/WorkoutTooltip/MobilePointing/Pointing (1)",
+      "controllerId": 386,
+      "controllerName": "Pointing",
+      "defaultClipId": 342,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "Pointing",
+          "clipId": 342,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3033,
+      "targetId": 1057,
+      "sourcePath": "SingleplayerPlayer/Canvas/InteractButtonHolder/InteractButton",
+      "controllerId": 382,
+      "controllerName": "InteractButton",
+      "defaultClipId": 326,
+      "loop": false,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "InteractButton",
+          "clipId": 326,
+          "isDefault": true,
+          "speed": 1,
+          "loop": false
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3034,
+      "targetId": 1110,
+      "sourcePath": "SingleplayerPlayer/Canvas/MobileControls/Main Button/Hand Button",
+      "controllerId": 380,
+      "controllerName": "Hand Button",
+      "defaultClipId": 319,
+      "loop": false,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "ButtonAnim",
+          "clipId": 319,
+          "isDefault": true,
+          "speed": 1,
+          "loop": false
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3035,
+      "targetId": 1161,
+      "sourcePath": "SingleplayerPlayer/Canvas/WORKING OUT/Weight/RecommendedWeightTip/Arrow/Image",
+      "controllerId": 381,
+      "controllerName": "Image",
+      "defaultClipId": 318,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "Arrow",
+          "clipId": 318,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3036,
+      "targetId": 1169,
+      "sourcePath": "SingleplayerPlayer/Canvas/MenuHolder/TRAINER MENU/MENU/Right Side/Fighter Icon",
+      "controllerId": 377,
+      "controllerName": "Fighter Icon 1",
+      "defaultClipId": 347,
+      "loop": false,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "awfsfsdf",
+          "clipId": 347,
+          "isDefault": true,
+          "speed": 1,
+          "loop": false
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3037,
+      "targetId": 1185,
+      "sourcePath": "SingleplayerPlayer/Canvas/MenuHolder/FIGHT MENU/MENU/Gauntlet/ArrowHolder/Arrow",
+      "controllerId": 371,
+      "controllerName": "Arrow",
+      "defaultClipId": 352,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "hhhhhhhhhhhhhhhhhhh",
+          "clipId": 352,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    },
+    {
+      "sourceAnimatorId": 3038,
+      "targetId": 1201,
+      "sourcePath": "SingleplayerPlayer/Canvas/WORKING OUT/ExitBTN/ExitTooltip/Pointing",
+      "controllerId": 386,
+      "controllerName": "Pointing",
+      "defaultClipId": 342,
+      "loop": true,
+      "updateMode": 0,
+      "enabled": true,
+      "states": [
+        {
+          "name": "Pointing",
+          "clipId": 342,
+          "isDefault": true,
+          "speed": 1,
+          "loop": true
+        }
+      ]
+    }
+  ]
+}

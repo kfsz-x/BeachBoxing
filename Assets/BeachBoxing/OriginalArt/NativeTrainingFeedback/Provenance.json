@@ -1,0 +1,109 @@
+{
+  "source": {
+    "path": ".superpowers/sdd/2026-11-18-beach-boxing-scene-parity/source/data.unity3d",
+    "sha256": "3b109d92fcf4ced42ddf76c238e92d38a755d006d7413ea21bedc742aaf6cf67"
+  },
+  "assets": [
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\aRmwad 1.asset",
+      "target": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\Dependencies\\Sprite\\aRmwad 1.asset",
+      "sha256": "d3a61541a2d9f8b5276b7a4bf250ff0daae8321a90c92b455ccd82aeefe8ec84"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\aRmwad 2.asset",
+      "target": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\Dependencies\\Sprite\\aRmwad 2.asset",
+      "sha256": "7ec2234cc21ae9fe6124d8d4d75115ece86185c310b0230516be833576fce171"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\aRmwad 3.asset",
+      "target": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\Dependencies\\Sprite\\aRmwad 3.asset",
+      "sha256": "65b6ab888630b1cbe0528407f36a88c621a23c51399b11f3282a8c61d729f6cb"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\aRmwad.asset",
+      "target": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\Dependencies\\Sprite\\aRmwad.asset",
+      "sha256": "d9a017070b7e358218d0a6a4b1f975d74305f5153cc79f865f8e7d3a24ebd949"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Circle.asset",
+      "target": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\Dependencies\\Sprite\\Circle.asset",
+      "sha256": "05f2db2abe6ed54d3391704d9b7a190c8616dece53babee3b344285e52704915"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 2.png",
+      "target": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\Dependencies\\Texture2D\\Face 2.png",
+      "sha256": "5cede2e330f799e6be08e28d272ddd42a52a49f3a15c0321d175b0f730e4d29d"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 3.png",
+      "target": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\Dependencies\\Texture2D\\Face 3.png",
+      "sha256": "e32009bd165ffbb58a22ff490dcdb037b178af7d5ad747a4ba8714ee161b20ac"
+    }
+  ],
+  "audio": [
+    {
+      "id": 355,
+      "sourceAAC": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\source-355.aac",
+      "sha256AAC": "c0ee14571e1f239b4355d1b7c62c28fc180e08609f039d3c99e737fbe7642093",
+      "wav": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\native-feedback-355.wav",
+      "sha256WAV": "bd36ba348eb305b80febf077240d50a9edc53bb9831177cb8b40b15414687be1",
+      "channels": 2,
+      "rate": 44100,
+      "sampleWidth": 2,
+      "frames": 47447,
+      "nativeName": "Fantasy click sound 10",
+      "nativeRate": 44100,
+      "nativeChannels": 2,
+      "nativeLength": 1.0758956670761108,
+      "decodedLength": 1.0758956916099773,
+      "lengthDifference": 2.4533866493925416e-08,
+      "untrimmedFrames": 48128,
+      "untrimmedDecodedLength": 1.0913378684807256,
+      "untrimmedSha256WAV": "701cd74079e05d20e63e5b4c944ba1a9139b39deab08905e358b6c27a9a5ae84",
+      "paddingTrimFrames": 681
+    },
+    {
+      "id": 358,
+      "sourceAAC": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\source-358.aac",
+      "sha256AAC": "f5bc8f1747fced9c0356ddf25524e023eeebb21a1e8774eb538836215087a445",
+      "wav": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\native-feedback-358.wav",
+      "sha256WAV": "0306de47d864144ea51644df64d68bc930e471b4fa82c6e3b318d68112c4503c",
+      "channels": 2,
+      "rate": 44100,
+      "sampleWidth": 2,
+      "frames": 66346,
+      "nativeName": "CheckpointReached",
+      "nativeRate": 44100,
+      "nativeChannels": 2,
+      "nativeLength": 1.5044444799423218,
+      "decodedLength": 1.5044444444444445,
+      "lengthDifference": -3.549787730428022e-08,
+      "untrimmedFrames": 66560,
+      "untrimmedDecodedLength": 1.509297052154195,
+      "untrimmedSha256WAV": "44a2de68c9767ebef4b68701bfa21390284c0b09fb97080bba8d41e8a001a6c3",
+      "paddingTrimFrames": 214
+    },
+    {
+      "id": 363,
+      "sourceAAC": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\source-363.aac",
+      "sha256AAC": "a85d9267f7ad7fc05d6b470d9f9a37a16caa75604e6658322ae11129441554f0",
+      "wav": "Assets\\BeachBoxing\\OriginalArt\\NativeTrainingFeedback\\native-feedback-363.wav",
+      "sha256WAV": "d67ba3b519d482a3506ced86e4475afb8c24baf8b53b99e88d6b05b6301a7d39",
+      "nativeName": "CollectCoin",
+      "nativeRate": 44100,
+      "nativeChannels": 2,
+      "channels": 2,
+      "rate": 44100,
+      "sampleWidth": 2,
+      "frames": 41934,
+      "nativeLength": 0.9508843421936035,
+      "decodedLength": 0.9508843537414966,
+      "lengthDifference": 1.1547893086216732e-08,
+      "untrimmedFrames": 41984,
+      "untrimmedDecodedLength": 0.9520181405895691,
+      "untrimmedSha256WAV": "e5decd3f5df976aff813b368a1d5dd57d7ea5c592e7b364e4b0e2b60ea251bd7",
+      "paddingTrimFrames": 50
+    }
+  ],
+  "capacityAdaptation": "8 preplaced slots per body, round-robin oldest slot reuse if saturated; source instantiated each repetition."
+}

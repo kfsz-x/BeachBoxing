@@ -1,0 +1,2179 @@
+{
+  "sourceSha256": "3b109d92fcf4ced42ddf76c238e92d38a755d006d7413ea21bedc742aaf6cf67",
+  "prefabs": [
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/0.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/1.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/2.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/3.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/4.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/5.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/6.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/7.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/8.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/9.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/10.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/11.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/12.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/13.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/14.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/15.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/16.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/17.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/18.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/19.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/20.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/21.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/22.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/23.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/24.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/25.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/26.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/27.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/28.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/29.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/30.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/31.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/32.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/33.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/34.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/35.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/36.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/37.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/38.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/39.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/40.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/41.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/42.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/43.prefab",
+    "Assets/BeachBoxing/OriginalOpponents/GameObject/44.prefab"
+  ],
+  "portraits": [
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 0.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 1.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 2.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 3.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 4.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 5.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 6.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 7.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 8.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 9.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 10.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 11.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 12.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 13.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 14.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 15.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 16.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 17.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 18.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 19.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 20.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 21.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 22.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 23.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 24.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 25.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 26.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 27.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 28.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 29.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 30.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 31.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 32.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 33.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 34.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 35.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 36.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 37.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 38.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 39.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 40.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 41.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 42.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 43.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 44.asset"
+  ],
+  "comingSoonPortrait": "Assets/BeachBoxing/OriginalOpponents/Sprite/Fighter Icon 45.asset",
+  "gauntletBackgrounds": [
+    "Assets/BeachBoxing/OriginalArt/Sprite/New Project (51).asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/New Project (51) 1.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/New Project (51) 2.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/New Project (51) 7.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/New Project (51) 3.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/New Project (51) 4.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/New Project (51) 5.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/New Project (51) 8.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/New Project (51) 9.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/New Project (51) 10.asset",
+    "Assets/BeachBoxing/OriginalOpponents/Sprite/New Project (51) 10.asset"
+  ],
+  "copied": [
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 25.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 25.asset",
+      "sourceGuid": "b50125c83cb5ac84f949fba0736c19f3",
+      "sourceSha256": "8f7f6375c472ce083f92cf489ee273555b6f8bcfe036760d79e13d318ae9183f",
+      "outputSha256": "8f7f6375c472ce083f92cf489ee273555b6f8bcfe036760d79e13d318ae9183f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 25.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 25.png",
+      "sourceGuid": "d78a692d2f7ad314b91b3629ada7db5c",
+      "sourceSha256": "8df9c3d3de835690b9b0d8351eece9f22046c0f49352707facf17028ab051721",
+      "outputSha256": "8df9c3d3de835690b9b0d8351eece9f22046c0f49352707facf17028ab051721"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 5.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 5.asset",
+      "sourceGuid": "30e41ec4c356c694084812d9e95192bb",
+      "sourceSha256": "bd6887638af342200a0e7551d257a1d4bca8850b17304f358c9f5810d3beecae",
+      "outputSha256": "bd6887638af342200a0e7551d257a1d4bca8850b17304f358c9f5810d3beecae"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 5.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 5.png",
+      "sourceGuid": "24be59a8aeccf6f419ff23e17e4ced33",
+      "sourceSha256": "52139569fe38d1049c7e1ccf2c64373c414f6d49bc9d4cfac5df42cff48147b7",
+      "outputSha256": "52139569fe38d1049c7e1ccf2c64373c414f6d49bc9d4cfac5df42cff48147b7"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 39.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 39.asset",
+      "sourceGuid": "94ccdc296eda5e0478e169a8688cab95",
+      "sourceSha256": "df9b5f59489178f9d9ca2ee737ab4bb1b39f263e5cea34a9ab494d5717f5385b",
+      "outputSha256": "df9b5f59489178f9d9ca2ee737ab4bb1b39f263e5cea34a9ab494d5717f5385b"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 39.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 39.png",
+      "sourceGuid": "0cced79abc407c941b570174bca8e9b9",
+      "sourceSha256": "c3ecda99f3af0dd0e28a983a4fecfefd87300dc8f7facbea325adbbc36277641",
+      "outputSha256": "c3ecda99f3af0dd0e28a983a4fecfefd87300dc8f7facbea325adbbc36277641"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 7.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 7.asset",
+      "sourceGuid": "10c82ebc7e76bb44894cab52409d2ed1",
+      "sourceSha256": "2df3c39632c8a1e71dc0ccc1e4c230473e6a821ebf96251fb386da4b475488f0",
+      "outputSha256": "2df3c39632c8a1e71dc0ccc1e4c230473e6a821ebf96251fb386da4b475488f0"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 7.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 7.png",
+      "sourceGuid": "b0c8619807faafb42910098068cfde21",
+      "sourceSha256": "8fe27277eab14f3fa2bf16c90f85411683a7fcd33ee812f0962bcbf7b2009562",
+      "outputSha256": "8fe27277eab14f3fa2bf16c90f85411683a7fcd33ee812f0962bcbf7b2009562"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 19.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 19.asset",
+      "sourceGuid": "c70d3b3512d3d884ab53363323180e7c",
+      "sourceSha256": "f79f730cfa0e46e53c78292aa6d915765cf81fdec773452c688c3f732f809cbf",
+      "outputSha256": "f79f730cfa0e46e53c78292aa6d915765cf81fdec773452c688c3f732f809cbf"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 19.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 19.png",
+      "sourceGuid": "4b0eaab6d136d8a499d140d303436849",
+      "sourceSha256": "4e9d5632c25b89e3cd8d6f420964d1b9253f4d9a6a560f47e43772d47350ede1",
+      "outputSha256": "4e9d5632c25b89e3cd8d6f420964d1b9253f4d9a6a560f47e43772d47350ede1"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 9.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 9.asset",
+      "sourceGuid": "097e9e2eb3afa7e489a99e6ef69cbfb9",
+      "sourceSha256": "1307841313771be13780f92c03c1ba541be63f3aaf8ef48b752e9207042b30dc",
+      "outputSha256": "1307841313771be13780f92c03c1ba541be63f3aaf8ef48b752e9207042b30dc"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 9.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 9.png",
+      "sourceGuid": "454fd52e49d8447499b18424c2054f72",
+      "sourceSha256": "44da991717c8ca8d581477178b4ca9d4ad7614dfc85806c9ed004673be33c700",
+      "outputSha256": "44da991717c8ca8d581477178b4ca9d4ad7614dfc85806c9ed004673be33c700"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 18.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 18.asset",
+      "sourceGuid": "7580a6331b2c9c340943c47ee641d5a9",
+      "sourceSha256": "0983317d025fd6831618bda2c6fe1ef5fab1b9340cda3dac8eb0624378cb33b4",
+      "outputSha256": "0983317d025fd6831618bda2c6fe1ef5fab1b9340cda3dac8eb0624378cb33b4"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 18.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 18.png",
+      "sourceGuid": "526374cada372fc4189dfee62933c390",
+      "sourceSha256": "2b7d7554d794059b870ee0df6d234c1191314ab0bddb4868f3127ba18491d9f1",
+      "outputSha256": "2b7d7554d794059b870ee0df6d234c1191314ab0bddb4868f3127ba18491d9f1"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 8.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 8.asset",
+      "sourceGuid": "5bfd19fe34a4f7d42a18f0b0a28b462d",
+      "sourceSha256": "0826c34dc57c6fb0391fb3487dd21e34f812b4b47fc4c63229de643186ff5886",
+      "outputSha256": "0826c34dc57c6fb0391fb3487dd21e34f812b4b47fc4c63229de643186ff5886"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 8.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 8.png",
+      "sourceGuid": "69215407d4b4f844f97963a97b172dfa",
+      "sourceSha256": "3ab759ce0f06a3b59079a58286380ec00b30a822423204acde1aaaf02c27e060",
+      "outputSha256": "3ab759ce0f06a3b59079a58286380ec00b30a822423204acde1aaaf02c27e060"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 27.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 27.asset",
+      "sourceGuid": "9412e2299caf19d4b822b89b7658112e",
+      "sourceSha256": "8c63817ef8b815694a6334f8ee36a47bdc39c28ce0c51a70175d3b7e2833aff0",
+      "outputSha256": "8c63817ef8b815694a6334f8ee36a47bdc39c28ce0c51a70175d3b7e2833aff0"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 27.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 27.png",
+      "sourceGuid": "3c336b1daad04fe46928b7dfda64ad23",
+      "sourceSha256": "f481e61ccd14cbd244841dac3edbf3cef10bd98068bd35c01da46278a48e753f",
+      "outputSha256": "f481e61ccd14cbd244841dac3edbf3cef10bd98068bd35c01da46278a48e753f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 15.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 15.asset",
+      "sourceGuid": "de6266c6f1c940443b45d3eafa060092",
+      "sourceSha256": "9f857b8f7b3b73336e00bcffaaa3ff639c96a2505c77b9925b5f89dfca69072f",
+      "outputSha256": "9f857b8f7b3b73336e00bcffaaa3ff639c96a2505c77b9925b5f89dfca69072f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 15.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 15.png",
+      "sourceGuid": "3e5b2c2367eb4ff40b2ede2d8ad94123",
+      "sourceSha256": "2341bb99b8401be2516efd7f1953c3168bdcef740b7a7948bd012cffca3abd46",
+      "outputSha256": "2341bb99b8401be2516efd7f1953c3168bdcef740b7a7948bd012cffca3abd46"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 16.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 16.asset",
+      "sourceGuid": "9cb52abd3b48b964189ea6f6d775bdf7",
+      "sourceSha256": "d87df2ba2add34d008a443eb60a314ca657e64a6a30fe4ee112c06839465b5c9",
+      "outputSha256": "d87df2ba2add34d008a443eb60a314ca657e64a6a30fe4ee112c06839465b5c9"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 16.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 16.png",
+      "sourceGuid": "811c06398525a094e97f7f5e568df41f",
+      "sourceSha256": "cc7b7cd6b61882e171c22280bea6bc052be7c00efbab32592c4c507d6ea94dd9",
+      "outputSha256": "cc7b7cd6b61882e171c22280bea6bc052be7c00efbab32592c4c507d6ea94dd9"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\New Project (51) 3.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\New Project (51) 3.asset",
+      "sourceGuid": "0673dd85c4438b64ea4b817699f89350",
+      "sourceSha256": "247256c66cf99bd32a482e6961f62fac9ee97bd4731c12adefac31a7420007b0",
+      "outputSha256": "247256c66cf99bd32a482e6961f62fac9ee97bd4731c12adefac31a7420007b0"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\New Project (51) 3.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\New Project (51) 3.png",
+      "sourceGuid": "7ff0a9dcbd4aaf64fa3eb199ac6bb18d",
+      "sourceSha256": "85f74db3c5bf171ef21ca863c491ae531a333da4688da95e80f7d850360d89ab",
+      "outputSha256": "85f74db3c5bf171ef21ca863c491ae531a333da4688da95e80f7d850360d89ab"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 23.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 23.asset",
+      "sourceGuid": "01e6d6c2c7498da41bba28182d54d40b",
+      "sourceSha256": "a933665c9ce23ae99f7be66d71a2c5b0fdb76a9b5918bd45693950bfbdd56bc3",
+      "outputSha256": "a933665c9ce23ae99f7be66d71a2c5b0fdb76a9b5918bd45693950bfbdd56bc3"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 23.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 23.png",
+      "sourceGuid": "689648f2d9bc062449a53aef9167a567",
+      "sourceSha256": "7042342290c648bde3734198f5c952b68c93cb2f405f1a01e05e27deca493870",
+      "outputSha256": "7042342290c648bde3734198f5c952b68c93cb2f405f1a01e05e27deca493870"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 31.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 31.asset",
+      "sourceGuid": "5653d1205687a234695483493e9633e5",
+      "sourceSha256": "14fd95fdab831f8fc489be75ea7b32b445a321b45f49480ff8add5fe30579dc9",
+      "outputSha256": "14fd95fdab831f8fc489be75ea7b32b445a321b45f49480ff8add5fe30579dc9"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 31.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 31.png",
+      "sourceGuid": "251d86acf5fc1044cb3bd87eec8bb68a",
+      "sourceSha256": "2a4a17ffd38ed7ab44b83ef63718561f4cd95ba01ddc9df77be1de85316b3545",
+      "outputSha256": "2a4a17ffd38ed7ab44b83ef63718561f4cd95ba01ddc9df77be1de85316b3545"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 26.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 26.asset",
+      "sourceGuid": "9255de64c8515d94eb24e5e32ecb8431",
+      "sourceSha256": "2d6610fc646b3fe1cb9f26e46d886d92f4f05d52f3963a3a001b03705b0b767a",
+      "outputSha256": "2d6610fc646b3fe1cb9f26e46d886d92f4f05d52f3963a3a001b03705b0b767a"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 26.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 26.png",
+      "sourceGuid": "41d90748083327043abd8c162e88c5bd",
+      "sourceSha256": "e453e5139ada78db05033f9e877a284fb6664fca5cdce3ce21e75830e1fd2d85",
+      "outputSha256": "e453e5139ada78db05033f9e877a284fb6664fca5cdce3ce21e75830e1fd2d85"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 14.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 14.asset",
+      "sourceGuid": "cfc623e6d00d5d14e89cb8581d8acba1",
+      "sourceSha256": "d31b06567e2620800e79c11f4fb014bd8f2ac42f7bc4d0ea2e8b90f8671145ad",
+      "outputSha256": "d31b06567e2620800e79c11f4fb014bd8f2ac42f7bc4d0ea2e8b90f8671145ad"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 14.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 14.png",
+      "sourceGuid": "78d473339a0ffec47a75a8cfab94652a",
+      "sourceSha256": "977ca98c6bd386cd5b9df41e69d09b78dc9fde94f701c63a5072828295ab6703",
+      "outputSha256": "977ca98c6bd386cd5b9df41e69d09b78dc9fde94f701c63a5072828295ab6703"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 37.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 37.asset",
+      "sourceGuid": "d669230424959f74892507e4912e4636",
+      "sourceSha256": "0163d99aab907af6f113130e60c5cf4affd5c81308df074e6d5bec7bc99020b1",
+      "outputSha256": "0163d99aab907af6f113130e60c5cf4affd5c81308df074e6d5bec7bc99020b1"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 37.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 37.png",
+      "sourceGuid": "2b129a713df576049a7dcfbf858a7909",
+      "sourceSha256": "381d3da099d8951a718c08dbff4641431f8ae481620b1dd47e6cf733f4873fb8",
+      "outputSha256": "381d3da099d8951a718c08dbff4641431f8ae481620b1dd47e6cf733f4873fb8"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 28.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 28.asset",
+      "sourceGuid": "7ca8fb85bebd1734c82b5da59a3159be",
+      "sourceSha256": "530ff9ee70f6765704fd8dc8447d1e433dc36c305be2d172f02f7c93d54f2332",
+      "outputSha256": "530ff9ee70f6765704fd8dc8447d1e433dc36c305be2d172f02f7c93d54f2332"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 28.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 28.png",
+      "sourceGuid": "d08e2f4e863245a4c9e68e1460e889c4",
+      "sourceSha256": "4e9d5632c25b89e3cd8d6f420964d1b9253f4d9a6a560f47e43772d47350ede1",
+      "outputSha256": "4e9d5632c25b89e3cd8d6f420964d1b9253f4d9a6a560f47e43772d47350ede1"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 20.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 20.asset",
+      "sourceGuid": "f911c018bfd307d44a0fe8e426acf83b",
+      "sourceSha256": "83d303664cdfad4f2a0e78f8d3d2c4f7c1df689f50908c39fa8edb050164f5df",
+      "outputSha256": "83d303664cdfad4f2a0e78f8d3d2c4f7c1df689f50908c39fa8edb050164f5df"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 20.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 20.png",
+      "sourceGuid": "08152ee20ee7889439d940dfc8ee7d8b",
+      "sourceSha256": "4d7bd56aa460cd98c1ab426bf4ddf2b480326743f5e522b9fd97649b57fda334",
+      "outputSha256": "4d7bd56aa460cd98c1ab426bf4ddf2b480326743f5e522b9fd97649b57fda334"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 40.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 40.asset",
+      "sourceGuid": "0c5a08c190e95f74ea1abf7e4bb3278e",
+      "sourceSha256": "b545dbaa21335b034270a5564c83d5968941473126bfccd1bbc2bed61f9b5293",
+      "outputSha256": "b545dbaa21335b034270a5564c83d5968941473126bfccd1bbc2bed61f9b5293"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 40.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 40.png",
+      "sourceGuid": "461f9c9ac5b59f84785b33eeedaeb854",
+      "sourceSha256": "c47f9f538fda12bb2117c1888e9537578de54a785aa90954e1c60092b019f2ec",
+      "outputSha256": "c47f9f538fda12bb2117c1888e9537578de54a785aa90954e1c60092b019f2ec"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\New Project (51) 5.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\New Project (51) 5.asset",
+      "sourceGuid": "740540506a6b50345aa25c2b0515625a",
+      "sourceSha256": "19917fff190c0f5a86cebad2b0dc946e03036f7d0eb34b6bfa3f98325741169d",
+      "outputSha256": "19917fff190c0f5a86cebad2b0dc946e03036f7d0eb34b6bfa3f98325741169d"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\New Project (51) 5.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\New Project (51) 5.png",
+      "sourceGuid": "79551fd70da926e4fb3c2800902ae1c0",
+      "sourceSha256": "1dc9ffd809c046f8a90801e29aea97bcaf6823893b3d24db16262083d2aae18b",
+      "outputSha256": "1dc9ffd809c046f8a90801e29aea97bcaf6823893b3d24db16262083d2aae18b"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 41.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 41.asset",
+      "sourceGuid": "7e09f8538c4f8f948ad4926b68f9c78a",
+      "sourceSha256": "8b8e1f6e7ee31d186928079dbb349a68f50df953a04447a8fd418a047c961db6",
+      "outputSha256": "8b8e1f6e7ee31d186928079dbb349a68f50df953a04447a8fd418a047c961db6"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 41.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 41.png",
+      "sourceGuid": "9b86153d2fdfd294299b66093330404d",
+      "sourceSha256": "3decced2f816996cc01848721b0a8a9dba89fc2753654ce9443f1c2fa709aa12",
+      "outputSha256": "3decced2f816996cc01848721b0a8a9dba89fc2753654ce9443f1c2fa709aa12"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 32.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 32.asset",
+      "sourceGuid": "1aa048b5289034048bd6869b03bd3d70",
+      "sourceSha256": "e3fb339b17355c27ab2bd983e54dc21b7fe4fd4b5753cff65ed6b98f7462077a",
+      "outputSha256": "e3fb339b17355c27ab2bd983e54dc21b7fe4fd4b5753cff65ed6b98f7462077a"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 32.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 32.png",
+      "sourceGuid": "3c406c1beb0d26345869bd33d0ac3faa",
+      "sourceSha256": "f213910f388f818bf464c0ecb0e0e27bb468690be6fb1137e61ff0470142fe2d",
+      "outputSha256": "f213910f388f818bf464c0ecb0e0e27bb468690be6fb1137e61ff0470142fe2d"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 33.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 33.asset",
+      "sourceGuid": "dc72cc4bd0797734b958610eb0a3d2c0",
+      "sourceSha256": "106b38ed0cde259992e7da10c25bc7755d792188e0f3d958a3fadbd4a74684c0",
+      "outputSha256": "106b38ed0cde259992e7da10c25bc7755d792188e0f3d958a3fadbd4a74684c0"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 33.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 33.png",
+      "sourceGuid": "3a4c4223c45f9e548a79e8d7cc24939a",
+      "sourceSha256": "a523a1c13e0bf1299f065cb6dd92557b70fec2820b96d54baaaba289617dbee0",
+      "outputSha256": "a523a1c13e0bf1299f065cb6dd92557b70fec2820b96d54baaaba289617dbee0"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 4.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 4.asset",
+      "sourceGuid": "458535b13fb974a4aa75ad48a5d6947b",
+      "sourceSha256": "7a35cd6c3002aa8ed7d6012c38604fe517335359baa8857366f1b641b4a9b25e",
+      "outputSha256": "7a35cd6c3002aa8ed7d6012c38604fe517335359baa8857366f1b641b4a9b25e"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 4.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 4.png",
+      "sourceGuid": "139a435490d5cd44789ceb5561ce097e",
+      "sourceSha256": "457ab94967b2bdd494a19e8ca9d54d86b83c359bd254911d42114eef3c228018",
+      "outputSha256": "457ab94967b2bdd494a19e8ca9d54d86b83c359bd254911d42114eef3c228018"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\New Project (51) 10.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\New Project (51) 10.asset",
+      "sourceGuid": "1eb30db7080460a42ab02f3ac05ee177",
+      "sourceSha256": "0ddaaec8aed8dc323051a150089fcc42eafa687a74dee6e223df02eca60562e9",
+      "outputSha256": "0ddaaec8aed8dc323051a150089fcc42eafa687a74dee6e223df02eca60562e9"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\New Project (51) 10.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\New Project (51) 10.png",
+      "sourceGuid": "2a33a9800c7ae22499a767a50fde41c9",
+      "sourceSha256": "5d41d74ec91ab08042d9771054676396b9c8ed8d86ee91b92d630dc709cad8bf",
+      "outputSha256": "5d41d74ec91ab08042d9771054676396b9c8ed8d86ee91b92d630dc709cad8bf"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 24.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 24.asset",
+      "sourceGuid": "4e858b737347c664cbfa19d15183ea31",
+      "sourceSha256": "ab1a325b493915e25298205570ca86e8e4c7fd2c422121d1ed340333dd4a9737",
+      "outputSha256": "ab1a325b493915e25298205570ca86e8e4c7fd2c422121d1ed340333dd4a9737"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 24.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 24.png",
+      "sourceGuid": "14b5ad6cdfe2fb94bb74ff9d72451ec4",
+      "sourceSha256": "75220030ff0645970c7bd84102d28a30f8fbbcba624dbeccddc6838654e374c3",
+      "outputSha256": "75220030ff0645970c7bd84102d28a30f8fbbcba624dbeccddc6838654e374c3"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 11.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 11.asset",
+      "sourceGuid": "8015aad3326392642b6305dda119a3da",
+      "sourceSha256": "a0d20912f7a11d0bdf271265ee0f392fd9e238970f262e88114f4ea5edfd84eb",
+      "outputSha256": "a0d20912f7a11d0bdf271265ee0f392fd9e238970f262e88114f4ea5edfd84eb"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 11.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 11.png",
+      "sourceGuid": "cca2cd246103eff49b2399743fb9e5d8",
+      "sourceSha256": "cd6488c1d9352538155812d45b9d644a4b4f1251f3b11736eafc86f953f92772",
+      "outputSha256": "cd6488c1d9352538155812d45b9d644a4b4f1251f3b11736eafc86f953f92772"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 0.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 0.asset",
+      "sourceGuid": "451fd857fc9914a47bb7132fc97a8460",
+      "sourceSha256": "1f14e1b183d9afcbe65e41f1d24837a68000953ecde6c80e9d283170b22cd958",
+      "outputSha256": "3bf66b0b6be91af0c782305d708ce82bc06493f6579e1d9751a2815e6d4b29be"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 1.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 1.asset",
+      "sourceGuid": "45999f181c5d8964e9203fd91a2fef95",
+      "sourceSha256": "38d29a993d02c85187cb9752d2e6c245544f67c2737c4f34608fcc42821c77a4",
+      "outputSha256": "3b8878cf5c1975e1c3c3622fde7ec6d19e6fb6e8db49fa2c12a02f17a28fc0ef"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\New Project (51) 2.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\New Project (51) 2.asset",
+      "sourceGuid": "9e29898008c3959408b62db27b93bf79",
+      "sourceSha256": "27e495ad1b8cf460004679d352060b23db7ba8a48e48d0b57e960456e5380471",
+      "outputSha256": "27e495ad1b8cf460004679d352060b23db7ba8a48e48d0b57e960456e5380471"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\New Project (51) 2.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\New Project (51) 2.png",
+      "sourceGuid": "d08e63ad5e0e1cd4797e9b65f71d4487",
+      "sourceSha256": "f613ddc90f758420b3b7e145e89e4b3609be20030bbffd0597a4c0661ab0b2ea",
+      "outputSha256": "f613ddc90f758420b3b7e145e89e4b3609be20030bbffd0597a4c0661ab0b2ea"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 29.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 29.asset",
+      "sourceGuid": "d7ae95a2f6d34e44cad5c7a2bc038eb0",
+      "sourceSha256": "a2e2c9d0fed56cd57e912f29d320567beddebfe29d6c48ac58743a375dd5a3dd",
+      "outputSha256": "a2e2c9d0fed56cd57e912f29d320567beddebfe29d6c48ac58743a375dd5a3dd"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 29.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 29.png",
+      "sourceGuid": "1d4e332fdf421424e8d1436423fd129b",
+      "sourceSha256": "e860c53007cd8822d565cdb6780f69f10aa4a75b84955198d6de902f74a96633",
+      "outputSha256": "e860c53007cd8822d565cdb6780f69f10aa4a75b84955198d6de902f74a96633"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\New Project (51) 7.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\New Project (51) 7.asset",
+      "sourceGuid": "55dec17113dc800418edf1f0a9279d14",
+      "sourceSha256": "7761c3632331801e0dca277efac4774e615ee42761271bff67abe923ff699f79",
+      "outputSha256": "7761c3632331801e0dca277efac4774e615ee42761271bff67abe923ff699f79"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\New Project (51) 7.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\New Project (51) 7.png",
+      "sourceGuid": "2d4f910b9a1111d4087ade473360a300",
+      "sourceSha256": "8a6dc81784d590e30157b60a02cdd6a48f47c5b04d22de2da1d8db3a6690b211",
+      "outputSha256": "8a6dc81784d590e30157b60a02cdd6a48f47c5b04d22de2da1d8db3a6690b211"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 45.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 45.asset",
+      "sourceGuid": "01dd82841e718514da63773523f7ef16",
+      "sourceSha256": "5c31757a1d84d0be52978fe626fabefc2d09c10efaadcba3f64c7cf93110dd6e",
+      "outputSha256": "5c31757a1d84d0be52978fe626fabefc2d09c10efaadcba3f64c7cf93110dd6e"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 45.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 45.png",
+      "sourceGuid": "632ad3a29aece6f418f9a99e18d7fb25",
+      "sourceSha256": "9247f8b83b599a889588444a1ffa16e68e5bcfb40e763e5b1322a6ef7a8e01ae",
+      "outputSha256": "9247f8b83b599a889588444a1ffa16e68e5bcfb40e763e5b1322a6ef7a8e01ae"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 44.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 44.asset",
+      "sourceGuid": "f6beea90b1732f542803a0af4bbd30d8",
+      "sourceSha256": "41d261c4e0e6ce1b2f70c9c98ff80e088313a205735ec5ed0c4d1c252df0d9a8",
+      "outputSha256": "41d261c4e0e6ce1b2f70c9c98ff80e088313a205735ec5ed0c4d1c252df0d9a8"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 44.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 44.png",
+      "sourceGuid": "c7cfb05a1af05c545b1f6b0f5e740667",
+      "sourceSha256": "2b7d7554d794059b870ee0df6d234c1191314ab0bddb4868f3127ba18491d9f1",
+      "outputSha256": "2b7d7554d794059b870ee0df6d234c1191314ab0bddb4868f3127ba18491d9f1"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 21.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 21.asset",
+      "sourceGuid": "2977f73606a4d31439dbca7637b6c0fe",
+      "sourceSha256": "329dd60fe47db943eef615b38d4de659d315ac8398ace1e5c2e9819fc8d4eafa",
+      "outputSha256": "329dd60fe47db943eef615b38d4de659d315ac8398ace1e5c2e9819fc8d4eafa"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 21.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 21.png",
+      "sourceGuid": "7178bfb8a654ae748966c61520a95277",
+      "sourceSha256": "1115a1ebaf42e9615a5fff530dcc9dd73d67bdff2fe73b0cafbcabbacde465b3",
+      "outputSha256": "1115a1ebaf42e9615a5fff530dcc9dd73d67bdff2fe73b0cafbcabbacde465b3"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 10.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 10.asset",
+      "sourceGuid": "0ef09935822daad4581978d7166fa091",
+      "sourceSha256": "e5eb0886a7c80156b33b1e24e1ad78a000dfbf439fd83bf22d5f3d362f7f3e2e",
+      "outputSha256": "e5eb0886a7c80156b33b1e24e1ad78a000dfbf439fd83bf22d5f3d362f7f3e2e"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 10.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 10.png",
+      "sourceGuid": "30f12df29ab05934b960b84647454caf",
+      "sourceSha256": "d8d2e3122ef7dba29856abac540cc0b5ef3e0db03c768e2c5d934146e4397174",
+      "outputSha256": "d8d2e3122ef7dba29856abac540cc0b5ef3e0db03c768e2c5d934146e4397174"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 12.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 12.asset",
+      "sourceGuid": "6efe57eaa001bce4f8e7e1eb17a6e95d",
+      "sourceSha256": "f41eeac2cfff592a28d16a1e665b82fa788c9d8ae12c16d3f5b72c4e0d046b1a",
+      "outputSha256": "f41eeac2cfff592a28d16a1e665b82fa788c9d8ae12c16d3f5b72c4e0d046b1a"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 12.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 12.png",
+      "sourceGuid": "49f59560e9a8bea49b232f297ab19918",
+      "sourceSha256": "f2f94c77fa12a2025913eee9593ba2f9645b87cc3ff69359f412104b3a1af5a1",
+      "outputSha256": "f2f94c77fa12a2025913eee9593ba2f9645b87cc3ff69359f412104b3a1af5a1"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 2.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 2.asset",
+      "sourceGuid": "ff70f949ee7260440aefd004c1911ace",
+      "sourceSha256": "d057f73ded0c179bd10ae55f86fe1a130f2e0d003a742703aa38b8d378e7596e",
+      "outputSha256": "d057f73ded0c179bd10ae55f86fe1a130f2e0d003a742703aa38b8d378e7596e"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 2.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 2.png",
+      "sourceGuid": "b3390ac8fd249a94592645c0f7fa5994",
+      "sourceSha256": "6f3a5f8d663e648412824b5b6f4b554d0ee49c52743d9d213b1ef6cdeb55a9f3",
+      "outputSha256": "6f3a5f8d663e648412824b5b6f4b554d0ee49c52743d9d213b1ef6cdeb55a9f3"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\New Project (51) 1.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\New Project (51) 1.asset",
+      "sourceGuid": "fd8c54608d02f1148a6e9b9e1aee5672",
+      "sourceSha256": "21bdd91135008d2cef85b28df552ce8d920bd43104b0e4939132678343d1fa95",
+      "outputSha256": "21bdd91135008d2cef85b28df552ce8d920bd43104b0e4939132678343d1fa95"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\New Project (51) 1.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\New Project (51) 1.png",
+      "sourceGuid": "2a36aba7ff8aaec489bc7a5cfb2337d0",
+      "sourceSha256": "f393adc6477d524c58334d91208d9634779fbfe1c9df6616391a1a5deba766eb",
+      "outputSha256": "f393adc6477d524c58334d91208d9634779fbfe1c9df6616391a1a5deba766eb"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 42.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 42.asset",
+      "sourceGuid": "de527702de0066d49a17ba41a89c6f11",
+      "sourceSha256": "96165f79438576dfbf8f58f278d888f7e68bc7dec03845ae565fdc625ccf2426",
+      "outputSha256": "96165f79438576dfbf8f58f278d888f7e68bc7dec03845ae565fdc625ccf2426"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 42.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 42.png",
+      "sourceGuid": "4caf5fca68629ba48b32950f5cc2d1de",
+      "sourceSha256": "457ab94967b2bdd494a19e8ca9d54d86b83c359bd254911d42114eef3c228018",
+      "outputSha256": "457ab94967b2bdd494a19e8ca9d54d86b83c359bd254911d42114eef3c228018"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\New Project (51) 4.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\New Project (51) 4.asset",
+      "sourceGuid": "711bc6a72643b0548b4d9520d8a6a25a",
+      "sourceSha256": "1c8c071eb745ba3a60ef59f08d488f4b9a78ee899c547fe6bf95b1b9d508fe2b",
+      "outputSha256": "1c8c071eb745ba3a60ef59f08d488f4b9a78ee899c547fe6bf95b1b9d508fe2b"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\New Project (51) 4.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\New Project (51) 4.png",
+      "sourceGuid": "1476e341e88d2e344827a7b9ddacadd2",
+      "sourceSha256": "b692ea8be2bd3bf5358b3f8e6df1ad97ac03d623977ae31686db6e5288307035",
+      "outputSha256": "b692ea8be2bd3bf5358b3f8e6df1ad97ac03d623977ae31686db6e5288307035"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 43.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 43.asset",
+      "sourceGuid": "9f86434dd6bf5d3479d8fe9c05d1d9de",
+      "sourceSha256": "dcb6d48b7aa193a018bc4b6392dfb3295bfe276a8c86c493f99243c62c3bb461",
+      "outputSha256": "dcb6d48b7aa193a018bc4b6392dfb3295bfe276a8c86c493f99243c62c3bb461"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 43.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 43.png",
+      "sourceGuid": "2c2c919ad1fbda4498f1eaa5405b3fe9",
+      "sourceSha256": "44da991717c8ca8d581477178b4ca9d4ad7614dfc85806c9ed004673be33c700",
+      "outputSha256": "44da991717c8ca8d581477178b4ca9d4ad7614dfc85806c9ed004673be33c700"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 30.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 30.asset",
+      "sourceGuid": "60165b3760bc9be4f833bc81e4628276",
+      "sourceSha256": "50fcbc2a5493f3f77bf1fe57315d4176984cbda43e9d0f29907c7f23ee9669bf",
+      "outputSha256": "50fcbc2a5493f3f77bf1fe57315d4176984cbda43e9d0f29907c7f23ee9669bf"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 30.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 30.png",
+      "sourceGuid": "f0d01190a6b6f5b47b7e3df7fa9fe200",
+      "sourceSha256": "ca390580ef1dc02f8d2fc04ac610876840f47d01222b9a7a7025b45828ced4dc",
+      "outputSha256": "ca390580ef1dc02f8d2fc04ac610876840f47d01222b9a7a7025b45828ced4dc"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 35.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 35.asset",
+      "sourceGuid": "5e50a1641b10f99468b7e7e6978adb77",
+      "sourceSha256": "f4b2b50db01e9a0420a638165c53313b08670bbe75b7d33236f30afbff2baf41",
+      "outputSha256": "f4b2b50db01e9a0420a638165c53313b08670bbe75b7d33236f30afbff2baf41"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 35.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 35.png",
+      "sourceGuid": "4fb811267041a7c4a8c4c7936aff46d2",
+      "sourceSha256": "c8fe43fe80a8496590c029b4743ce595410e1f121ab5650bb3b837f1021250ee",
+      "outputSha256": "c8fe43fe80a8496590c029b4743ce595410e1f121ab5650bb3b837f1021250ee"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 22.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 22.asset",
+      "sourceGuid": "55bf5fa57ad8a1f48acf2a13b0daaef0",
+      "sourceSha256": "026a6b1bb2736b5a0c05aaae058237519df142898f9a9c4d0c059bcbcf1c621f",
+      "outputSha256": "026a6b1bb2736b5a0c05aaae058237519df142898f9a9c4d0c059bcbcf1c621f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 22.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 22.png",
+      "sourceGuid": "1ff6c5501fb23e54ea5e80114fbd5bac",
+      "sourceSha256": "5ede07a03e7e596c26bd9ad803e861369f239355297a6ecd314ce43da2ef2580",
+      "outputSha256": "5ede07a03e7e596c26bd9ad803e861369f239355297a6ecd314ce43da2ef2580"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 38.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 38.asset",
+      "sourceGuid": "65b30ca08460d0944bf9890fbecfcd95",
+      "sourceSha256": "706900ae36d2a49f842276bc279b9f572e8f9962caa8ca9d1f99d4ef2f772a05",
+      "outputSha256": "706900ae36d2a49f842276bc279b9f572e8f9962caa8ca9d1f99d4ef2f772a05"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 38.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 38.png",
+      "sourceGuid": "73eecf69e0af1964f9cc3377f055ff3b",
+      "sourceSha256": "5f9c918061044400758373e267fd6c2617cf37ce3b98979a05a9f4e9b1497587",
+      "outputSha256": "5f9c918061044400758373e267fd6c2617cf37ce3b98979a05a9f4e9b1497587"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 3.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 3.asset",
+      "sourceGuid": "03e12a5aa7c2f814eafcf3e738f6e543",
+      "sourceSha256": "7ab8197c546b85c5bf128d8b2c9cc4cb60dfb68e050ee8160d6442e54b1b7fd6",
+      "outputSha256": "7ab8197c546b85c5bf128d8b2c9cc4cb60dfb68e050ee8160d6442e54b1b7fd6"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 3.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 3.png",
+      "sourceGuid": "9642b67ea0f21d54d8255e99710c0032",
+      "sourceSha256": "fb501616ba7e7037c0817b0677b175816f34b8137ef2d2fa3ec98a57a4a73cea",
+      "outputSha256": "fb501616ba7e7037c0817b0677b175816f34b8137ef2d2fa3ec98a57a4a73cea"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 36.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 36.asset",
+      "sourceGuid": "5739671096482324ba8d9ba182cb4b97",
+      "sourceSha256": "9786a6e44a88e72d629d69e28eae8dee8a297daaeabffe5b15284d283b92a025",
+      "outputSha256": "9786a6e44a88e72d629d69e28eae8dee8a297daaeabffe5b15284d283b92a025"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 36.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 36.png",
+      "sourceGuid": "05da9e28b19af6a41a22f54e7e2852fc",
+      "sourceSha256": "55b515ce9c1441bc6c641b6905e61dc071bfab6c24fab6d3d8585858e332abd5",
+      "outputSha256": "55b515ce9c1441bc6c641b6905e61dc071bfab6c24fab6d3d8585858e332abd5"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 13.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 13.asset",
+      "sourceGuid": "7895aec89c611c343ae50ab55f03a5cd",
+      "sourceSha256": "b0011f1581ab1680ce98ffdab2eb509d01ce97cde1b459f737b7f1de9e670ab0",
+      "outputSha256": "b0011f1581ab1680ce98ffdab2eb509d01ce97cde1b459f737b7f1de9e670ab0"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 13.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 13.png",
+      "sourceGuid": "cb5a4cdaf79f37b44ae37450db6a0e31",
+      "sourceSha256": "c8b5b47dd3561cad97b2b4272c1d36fc21722a0488c9fa4e9fdef36efbe2926f",
+      "outputSha256": "c8b5b47dd3561cad97b2b4272c1d36fc21722a0488c9fa4e9fdef36efbe2926f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 34.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 34.asset",
+      "sourceGuid": "70cb5cc63d4119b4cb3dba1d8c348a47",
+      "sourceSha256": "54e9e8a5c96f93b39a8c81e3a3f078aa6cf49cae1d4fb0a9e956d821bc451d61",
+      "outputSha256": "54e9e8a5c96f93b39a8c81e3a3f078aa6cf49cae1d4fb0a9e956d821bc451d61"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 34.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 34.png",
+      "sourceGuid": "be34d676bd865ee4da39908336556a6e",
+      "sourceSha256": "2e1ce35b111302cdff59b0a5d6e66d03e5b6a0baf81808e8725159e2ef86c2e2",
+      "outputSha256": "2e1ce35b111302cdff59b0a5d6e66d03e5b6a0baf81808e8725159e2ef86c2e2"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 17.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 17.asset",
+      "sourceGuid": "dded8978c19b10b4ea764fa3e29d076e",
+      "sourceSha256": "5f2fd3036273a61524b00056882570b59d9dbf36c1c973efc30de7c9c7a1556c",
+      "outputSha256": "5f2fd3036273a61524b00056882570b59d9dbf36c1c973efc30de7c9c7a1556c"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 17.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 17.png",
+      "sourceGuid": "257440f7e191736469978da0431ebd05",
+      "sourceSha256": "c3699f0b51fd3280da78bf77b06acf019788e4b7ca2ef63e3f6d4241b027cbc0",
+      "outputSha256": "c3699f0b51fd3280da78bf77b06acf019788e4b7ca2ef63e3f6d4241b027cbc0"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\New Project (51) 9.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\New Project (51) 9.asset",
+      "sourceGuid": "87083d8b1ce3d9842b09db51b83eeec9",
+      "sourceSha256": "6479d460cd1ba434aa8ced94415498bcbd68c1c65e608417c4e62dd55f5ac59f",
+      "outputSha256": "6479d460cd1ba434aa8ced94415498bcbd68c1c65e608417c4e62dd55f5ac59f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\New Project (51) 9.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\New Project (51) 9.png",
+      "sourceGuid": "a93003e747264cc4b82a5c1040094d5e",
+      "sourceSha256": "ad4e18b045084a40bbf6931448265e196d8ecc8be968a80ba435dc2592e236db",
+      "outputSha256": "ad4e18b045084a40bbf6931448265e196d8ecc8be968a80ba435dc2592e236db"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\Fighter Icon 6.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\Fighter Icon 6.asset",
+      "sourceGuid": "3bc0708eae999d248aeb07e60ba16c54",
+      "sourceSha256": "8d5a1578d552b71ca294596018be3aec8db11eb76179ad26d83f0a38fd5f7817",
+      "outputSha256": "8d5a1578d552b71ca294596018be3aec8db11eb76179ad26d83f0a38fd5f7817"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Fighter Icon 6.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Fighter Icon 6.png",
+      "sourceGuid": "cd75606dc16a2424d88c6c1c8a107f94",
+      "sourceSha256": "4ca8461ac5a3603fbecb7a9813c74dcbf304c13a7b97414c5c7f08cc6f73ebbb",
+      "outputSha256": "4ca8461ac5a3603fbecb7a9813c74dcbf304c13a7b97414c5c7f08cc6f73ebbb"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Sprite\\New Project (51) 8.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Sprite\\New Project (51) 8.asset",
+      "sourceGuid": "a05fbf1baf3502f439a7a5d3a469df13",
+      "sourceSha256": "a18b235899bdfabbc8742737ea970a4d718ff25ac285e7501a682da3f62d2e4f",
+      "outputSha256": "a18b235899bdfabbc8742737ea970a4d718ff25ac285e7501a682da3f62d2e4f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\New Project (51) 8.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\New Project (51) 8.png",
+      "sourceGuid": "57709e0997164774db30d3535a97d55b",
+      "sourceSha256": "66fc76a5ce56e4a9bc169258b12ae73977f0ec152153dd96cb17afd5cf6494b0",
+      "outputSha256": "66fc76a5ce56e4a9bc169258b12ae73977f0ec152153dd96cb17afd5cf6494b0"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\44.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\44.prefab",
+      "sourceGuid": "e8b50cde8ae946b40a4ffdaa07018d04",
+      "sourceSha256": "ac8d2299689ff17ae754c9be46509e6473a2e889a4934427c8089d625cd82bb9",
+      "outputSha256": "59d1798ce66d12801f74ffff222f35069583b68810909a8aab1fce83ad211b8e"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\AudioClip\\Jump.audioclip",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\AudioClip\\Jump.audioclip",
+      "sourceGuid": "578c17296d20ae444867657e2265e185",
+      "sourceSha256": "2a268264f3f4f61171d43227effc555abc0eddd2a1aa7e18d406bfe0d9d74fb2",
+      "outputSha256": "2a268264f3f4f61171d43227effc555abc0eddd2a1aa7e18d406bfe0d9d74fb2"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\AudioClip\\Game Kick 1.audioclip",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\AudioClip\\Game Kick 1.audioclip",
+      "sourceGuid": "fbb64f7069d0bbd429c2a9f009865979",
+      "sourceSha256": "fd0c71cbcd1586d800993216ea2fde61bd2c0e7e9a258113f85cfe56a745f32c",
+      "outputSha256": "fd0c71cbcd1586d800993216ea2fde61bd2c0e7e9a258113f85cfe56a745f32c"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\AudioClip\\Game Punch (1).audioclip",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\AudioClip\\Game Punch (1).audioclip",
+      "sourceGuid": "dc29de6169d68734f99cbbebb5a81613",
+      "sourceSha256": "bdc8665141d934360bf1d53422664f25be1bcb9ae58755534cb187cd4674d01f",
+      "outputSha256": "bdc8665141d934360bf1d53422664f25be1bcb9ae58755534cb187cd4674d01f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\AudioClip\\Landing.audioclip",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\AudioClip\\Landing.audioclip",
+      "sourceGuid": "8ca5908c387c60e418e0f210686d6b51",
+      "sourceSha256": "39d20d043cdd586fb38fbf3a61a2ed9f919041b9aa641097416c12d0d0b045cd",
+      "outputSha256": "39d20d043cdd586fb38fbf3a61a2ed9f919041b9aa641097416c12d0d0b045cd"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\AudioClip\\Footstep.audioclip",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\AudioClip\\Footstep.audioclip",
+      "sourceGuid": "78cacd84ab2ab9d45aa94a44ca3cc973",
+      "sourceSha256": "aeb3fe6ee4c8bd97295a098396eb4ab4f6a9ef427c6315de58a63e41143b8f9c",
+      "outputSha256": "aeb3fe6ee4c8bd97295a098396eb4ab4f6a9ef427c6315de58a63e41143b8f9c"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\AnimatorController\\BoxingArmature.controller",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\AnimatorController\\BoxingArmature.controller",
+      "sourceGuid": "4d65c97c7af9c4343868e8a683e41aec",
+      "sourceSha256": "5cd2ad63caef21b28cd4be74b3bcfc2982a7d498d14d5e17fe3d880dfef2d649",
+      "outputSha256": "78388e59ecbd7f229921246373704f3cd5093112c131eb3377abe63c9f30253f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 15.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 15.mat",
+      "sourceGuid": "8200f480b57a39f4d96ca4a54989311f",
+      "sourceSha256": "635da01b03d4d3c87eda7113f066e1a89de740923bdc982036d4c84f1a88dfb0",
+      "outputSha256": "a36f947fd23e3560e75538d2d477f665c5e5ca28189c60c0b9c6ef0c641fbe00"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 15.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 15.png",
+      "sourceGuid": "c29a29054a4f7b7499893b4a98c8f3b7",
+      "sourceSha256": "003bcfce568d45c8131416f3a3dcc3e947599b40c7183eece1115f1d58fe2045",
+      "outputSha256": "003bcfce568d45c8131416f3a3dcc3e947599b40c7183eece1115f1d58fe2045"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\43.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\43.prefab",
+      "sourceGuid": "7dbcba4df5ebf0240987d9d9a3ee7c9d",
+      "sourceSha256": "64e96cce0f55500faf5bf80d4912948f71cd6d93189edf0c1b665f037e1fbc96",
+      "outputSha256": "4fe669182aec818a65492af620d589889ddfc890d20336c9162be6ae0b7d079c"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Mesh\\black messy hair with horns.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Mesh\\black messy hair with horns.asset",
+      "sourceGuid": "76f09374ebc7e74489576992901e41ae",
+      "sourceSha256": "833b23a4cd5218d47cd08b31d9a12126be2a9960f0edc13ae0fd5b77ffc5bb41",
+      "outputSha256": "833b23a4cd5218d47cd08b31d9a12126be2a9960f0edc13ae0fd5b77ffc5bb41"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Mesheskkkkkkkkkkkkkkkkkkkkkkkkhandle300611Mtl.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Mesheskkkkkkkkkkkkkkkkkkkkkkkkhandle300611Mtl.mat",
+      "sourceGuid": "0906964c19611234c98a3328ad7fd07e",
+      "sourceSha256": "c541126c103ff3c0e61af29a31fece2499e6bf9f767c1564c9f6d60878a060c5",
+      "outputSha256": "c541126c103ff3c0e61af29a31fece2499e6bf9f767c1564c9f6d60878a060c5"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Mesheskkkkkkkkkkkkkkkkkkkkkkkkhandle400611Mtl.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Mesheskkkkkkkkkkkkkkkkkkkkkkkkhandle400611Mtl.mat",
+      "sourceGuid": "4ee572521d6c5ff41a8edc5cd71c99ea",
+      "sourceSha256": "b4b9f02285cbf884a229f465b9c29c5edcf60558dd8b83c725ab9f2fd27712d4",
+      "outputSha256": "b4b9f02285cbf884a229f465b9c29c5edcf60558dd8b83c725ab9f2fd27712d4"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Mesheskkkkkkkkkkkkkkkkkkkkkkkkhandle200611Mtl.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Mesheskkkkkkkkkkkkkkkkkkkkkkkkhandle200611Mtl.mat",
+      "sourceGuid": "a0997eba9d2811a45a934903dc6367e2",
+      "sourceSha256": "49697ec9f270cf6f7d7d20c639cf309242098940efa6c1edcb7374f6a989287c",
+      "outputSha256": "49697ec9f270cf6f7d7d20c639cf309242098940efa6c1edcb7374f6a989287c"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 6.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 6.mat",
+      "sourceGuid": "49ab9374d8a456b49b5f0ffa74b5014e",
+      "sourceSha256": "3ddf0aa8ede7ff35c075a4b8efc7bba59c9978e274fc0f66333ade0802657c12",
+      "outputSha256": "99f0405f9e99c0163629f37e99ce87798c625aea1578e362cc0a24a030fbb937"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 6.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 6.png",
+      "sourceGuid": "74d51af7fbf4b804d8dad15e1dc37dcc",
+      "sourceSha256": "3052c966a8e9a111f5493ce0a830a2a8af0287a2e0edb8a3575e3654e444a19f",
+      "outputSha256": "3052c966a8e9a111f5493ce0a830a2a8af0287a2e0edb8a3575e3654e444a19f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\42.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\42.prefab",
+      "sourceGuid": "739a7aee5f8793f4e8f194899dfe8920",
+      "sourceSha256": "c4513f0df52c564dcbf2947c338d0395a392d6d1553b2f094f16f70c7467d39e",
+      "outputSha256": "0b3bbc6d6d20f68945d9e81806618a774d37fa4f493c441508b67c2ba91d90cd"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Trunks7.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Trunks7.mat",
+      "sourceGuid": "ec12cc4dfcdbd414f8b35d6690f4404d",
+      "sourceSha256": "32f9994c818710d47a3294b07a82d7debea2063ffd8cb96b4e5f82d7303daa26",
+      "outputSha256": "32f9994c818710d47a3294b07a82d7debea2063ffd8cb96b4e5f82d7303daa26"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 2.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 2.mat",
+      "sourceGuid": "3cc2f79d7c23c124bbf543c89e826d25",
+      "sourceSha256": "f6ebaac1acd6c2639eb01c470cf01d17bebc67a1a216e00636ed193266bafd9e",
+      "outputSha256": "3100b26ef6fd11aa9423103b07206005348f3d73788e7d471f7acd075ff18203"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 2.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 2.png",
+      "sourceGuid": "9a893140e61af2f47aca30721af90457",
+      "sourceSha256": "5cede2e330f799e6be08e28d272ddd42a52a49f3a15c0321d175b0f730e4d29d",
+      "outputSha256": "5cede2e330f799e6be08e28d272ddd42a52a49f3a15c0321d175b0f730e4d29d"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\41.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\41.prefab",
+      "sourceGuid": "e444df3b1a718284b8acdc32c2ffedc6",
+      "sourceSha256": "7d06e17c85884b70edcc1d6d5ab5d29e10a04d6ee9d4073d7cd39b08bc00e1aa",
+      "outputSha256": "1d6d9332c18d19e333b05c4a07308d3bef26bac3a8b53b0d9663fbbe3fe1f38e"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Skin6.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Skin6.mat",
+      "sourceGuid": "a176a87e22f561a4abc04c5dca8aa364",
+      "sourceSha256": "4bc47e972e2bdfad9b5f49a69d61f68b148ed7da2c736885592711a7d603a8c8",
+      "outputSha256": "4bc47e972e2bdfad9b5f49a69d61f68b148ed7da2c736885592711a7d603a8c8"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 23.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 23.mat",
+      "sourceGuid": "fca9aaaa71ae90c4a80a6ac2ed312382",
+      "sourceSha256": "4bb5b6a7e7c7ae58426e57bff56cb41ba01f99d17ad6f2068f13852ca2ec7f4a",
+      "outputSha256": "c4e88dc9b84882bae5219bf437194885a34f687add3a30249f1888e6e2528f2f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 23.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 23.png",
+      "sourceGuid": "db544508de98b174c8bece3f5b2f23fd",
+      "sourceSha256": "02b5bed094c6752d87a0609047cfa60cdf159cf3ff67ddfbcba1c0aeddfb33e5",
+      "outputSha256": "02b5bed094c6752d87a0609047cfa60cdf159cf3ff67ddfbcba1c0aeddfb33e5"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\40.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\40.prefab",
+      "sourceGuid": "2f7ceb803809c2748b0bb3fd94581982",
+      "sourceSha256": "63ae713a851f46d52da6d60d2e0cfa96060b899836efc5c84b8441c42f3624b3",
+      "outputSha256": "4659bb5797000272445509c994c8e7b9d1db3dadb1952ed7ed40df6f2027775d"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\39.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\39.prefab",
+      "sourceGuid": "4dbd2e45e287b084aae364567b2a9a7b",
+      "sourceSha256": "99e54fc510c89b58d8fe0d0d71244d70108ceff769fd1add517f8a797771f1ab",
+      "outputSha256": "3e279986676c960c925e3767ed47f1a3e0e7056ff778f4111a38537961b4ddf9"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Mesh\\Hairayato.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Mesh\\Hairayato.asset",
+      "sourceGuid": "62daaf97344dd6e419765f67acb17086",
+      "sourceSha256": "6bbc2c3c25e732b0e7b7fafa01c0ad03d7d523f9d6d37a596fc2d7e10741b0c3",
+      "outputSha256": "6bbc2c3c25e732b0e7b7fafa01c0ad03d7d523f9d6d37a596fc2d7e10741b0c3"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Skin5.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Skin5.mat",
+      "sourceGuid": "541eb29af0ce99441ac241283fcc11a2",
+      "sourceSha256": "45a3e7ed0cb4e9a676ea7234d11dc25839dea0c6af54c1769545b0f83abf4cdc",
+      "outputSha256": "45a3e7ed0cb4e9a676ea7234d11dc25839dea0c6af54c1769545b0f83abf4cdc"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Hair 7.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Hair 7.mat",
+      "sourceGuid": "50862fb573a57824a98d7e17254176cb",
+      "sourceSha256": "2a90087423dffd1af3ff2be40d8574be5ff984ee50f148e11af857aeb7c904a7",
+      "outputSha256": "2a90087423dffd1af3ff2be40d8574be5ff984ee50f148e11af857aeb7c904a7"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Hair 7.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Hair 7.png",
+      "sourceGuid": "a6abde451aa84e54691e5dd68c5d1be3",
+      "sourceSha256": "ff5b28e7f8a0ccfed0aecd42e88bfba7c2aa39c44822495aef248343f285fdb4",
+      "outputSha256": "ff5b28e7f8a0ccfed0aecd42e88bfba7c2aa39c44822495aef248343f285fdb4"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\38.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\38.prefab",
+      "sourceGuid": "422d5a142b70fd44eb1212855d6d00f7",
+      "sourceSha256": "93f59b9aa72136e45836f40bcaf9a1217f9a762814d97287a6c1cf233533519e",
+      "outputSha256": "a47cc7963a18db2aa5345701a33b1f64fd2fb4dadeb585742faba3bb31b02acc"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 12.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 12.mat",
+      "sourceGuid": "bf3e06d1c7a9dea43a5309690dc8f890",
+      "sourceSha256": "f6cbba01bdf9c0071e3d57ff68000024a58afb1f644a42e33bd1dbd1bb96dfc9",
+      "outputSha256": "bc6b68269e3834c2ebfc144bc6cc0af3abfd14e8f88e9b4b54a4813d3e4c0b1e"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 12.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 12.png",
+      "sourceGuid": "a231fe9fe8436454a9b59c83bf8ee125",
+      "sourceSha256": "97bc4300539a281f0dd8eeada61fef71292a2421cd815da0365c7a63c02e630d",
+      "outputSha256": "97bc4300539a281f0dd8eeada61fef71292a2421cd815da0365c7a63c02e630d"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\37.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\37.prefab",
+      "sourceGuid": "7e93b29ebfb8e5f439b8484bdc31925e",
+      "sourceSha256": "8e4b92f2e53d94f5dc9f8149c800ecf553362ca2476144081750ee749ecd4889",
+      "outputSha256": "83b33f947ed74af2cfe74a7a6bc12212012a0fac3d10f01388cf9743a166b0de"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 8.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 8.mat",
+      "sourceGuid": "0f92676747d7d3a439f21e510dd3fd49",
+      "sourceSha256": "5c062e1789792597ea40ef692bcf53856894fa5a0cb1ae26a9d94a9b1262ade5",
+      "outputSha256": "a5e5fafafe80840cf19a002fb528b7e22c8b956767eca9b5754be765e6af60c8"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 8.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 8.png",
+      "sourceGuid": "e631aad8a08532d45bd5b289b7d294f2",
+      "sourceSha256": "440608e25735d67e8079d4e991b0906566eeed8b46a92f4b1c9117d33b8d35fb",
+      "outputSha256": "440608e25735d67e8079d4e991b0906566eeed8b46a92f4b1c9117d33b8d35fb"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Hair 8.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Hair 8.mat",
+      "sourceGuid": "903613941863735428f4571107b46c88",
+      "sourceSha256": "aa25f14bad3e4442b987baaf1d34ebf81a67a382b7a48f47686e44a767088928",
+      "outputSha256": "aa25f14bad3e4442b987baaf1d34ebf81a67a382b7a48f47686e44a767088928"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Hair 8.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Hair 8.png",
+      "sourceGuid": "6baa9d39ba5c241479bd4270970301e9",
+      "sourceSha256": "e061d12218a899a8c876d8bb788a3909177117e1ca6cf5b4da1692d4e64994d5",
+      "outputSha256": "e061d12218a899a8c876d8bb788a3909177117e1ca6cf5b4da1692d4e64994d5"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\36.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\36.prefab",
+      "sourceGuid": "80ff0d00f950eef428229b97e19b110e",
+      "sourceSha256": "6058eab634ef706138ceca0151af291c04711f34c6a8d14f8568b585d249803a",
+      "outputSha256": "447727874d765da93eaabb2d57c4fbad65866d9a523da55a66e1dee3f273c552"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Mesh\\Hairkaveh.asset",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Mesh\\Hairkaveh.asset",
+      "sourceGuid": "59aa3dec281d8664e817a7dc4f420e54",
+      "sourceSha256": "4cf7a4d0be31cb37ff51662d19b252db663a4c7420a89a710475a89c0b80cf31",
+      "outputSha256": "4cf7a4d0be31cb37ff51662d19b252db663a4c7420a89a710475a89c0b80cf31"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\35.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\35.prefab",
+      "sourceGuid": "9116a29d7dc922c4ca4ff89f36fc31fc",
+      "sourceSha256": "a52094f2a2a1cef5f031fe3e8e811e69c8fb16236d0d9d006157abb21b025812",
+      "outputSha256": "1ce7648f0fb96ee31a99ef932f938cfb2a31a55378b1d88dc08bcb054cfb891a"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Skin2.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Skin2.mat",
+      "sourceGuid": "cf31fbaad19c39842899ef7bc2c75064",
+      "sourceSha256": "06728cc45ff21b63cd8c1c71baee1257c3e31bff4567863daa2d95464689becd",
+      "outputSha256": "06728cc45ff21b63cd8c1c71baee1257c3e31bff4567863daa2d95464689becd"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 20.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 20.mat",
+      "sourceGuid": "2f77e1bbe0ef47d4bb546569bec5ca1c",
+      "sourceSha256": "71a3fb46af5e16df93dd9dd2ad760574b8c65909d5dc2a3617c7aafcebcb8169",
+      "outputSha256": "86d8ba8a357f3375d5154df0bcc426000ab8b372c09436b80c640502c392a4da"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 20.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 20.png",
+      "sourceGuid": "264e5295aca686b4b824b414fe338561",
+      "sourceSha256": "c373cff217273041192c6b558a1b7151d30ed0ec748555d773cfcc822c479a74",
+      "outputSha256": "c373cff217273041192c6b558a1b7151d30ed0ec748555d773cfcc822c479a74"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Trunks4.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Trunks4.mat",
+      "sourceGuid": "fe34f794a5895fb4daa30f52c59ccd60",
+      "sourceSha256": "1d984a63a0203fd35e8aaf65ff0324391ab0046a48ef700917e09b0095839978",
+      "outputSha256": "1d984a63a0203fd35e8aaf65ff0324391ab0046a48ef700917e09b0095839978"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\34.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\34.prefab",
+      "sourceGuid": "32a51d371a78cc546ad4bec7a217f0f5",
+      "sourceSha256": "8484a48689b8591279c38bd41801389f40affadda443cc065298599be59fa0bc",
+      "outputSha256": "45755bcfa7645051ab99a93968b9f5c1d68a0179e78d3e1257306369aa28d1fa"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 16.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 16.mat",
+      "sourceGuid": "dea3790d61b82fb41b37be5d90bb2966",
+      "sourceSha256": "e35e966646df64c66a5c2a05b27419fbeccbd28f22f8b22e5403f75d47e1042e",
+      "outputSha256": "fa5bef19da5dfa22256244ec4463b0e9ac7f7ebd9af3e97eb63bc76a35ea162c"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 16.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 16.png",
+      "sourceGuid": "49f41674e4e2c6f428532bbc04a1ff0a",
+      "sourceSha256": "a3c1e69d8e72b28fe3cea01bc7d19eb10e7a84555bf1cc10045b60cab5812517",
+      "outputSha256": "a3c1e69d8e72b28fe3cea01bc7d19eb10e7a84555bf1cc10045b60cab5812517"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\33.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\33.prefab",
+      "sourceGuid": "96429b2dce53ca847b527d08e42ccda9",
+      "sourceSha256": "7635534b37261b06779f68568fce847f4007c4de8ee2ac22242c23ceccb623aa",
+      "outputSha256": "17343e30a4c4fbd775ea3f0b2a87f475748ab40b25218b3a0c8dac4c3162a6a9"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\32.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\32.prefab",
+      "sourceGuid": "f186e0ff0e9513e4d862890e3c240c36",
+      "sourceSha256": "e6963d71ccc34cdc2b5c8ea3825a190c76729e03b2536c40ac89f2a96d4d003d",
+      "outputSha256": "e233054b8a4e5223aba69989acfa3b1b50914d8cb520d60eb4d1f2f8ea20f036"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Trunks9.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Trunks9.mat",
+      "sourceGuid": "da5b625704456544bb4d4f1ea7798c14",
+      "sourceSha256": "f967ac979c573f2074a0b1e0f061421c8895e827ec658c4f2896a305a6bf08b0",
+      "outputSha256": "f967ac979c573f2074a0b1e0f061421c8895e827ec658c4f2896a305a6bf08b0"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\31.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\31.prefab",
+      "sourceGuid": "820cfb6a4b6eca14180b19f1125d31c4",
+      "sourceSha256": "73dcdf9b29a0a9eca56766ce4cb4142087b46aac951a47cdeb5f84007820c88f",
+      "outputSha256": "eabdca88fd42a564d3d473b6fa3b8cd46c6355a7ccd593f69b877b5da8c28d48"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Hair 6.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Hair 6.mat",
+      "sourceGuid": "9c4b8a04059eba04c95aa7a1218415dd",
+      "sourceSha256": "e491dbcd2a6ccf32e2b6e25f06bc7f8c95203018678116982b5a1cb4970406c6",
+      "outputSha256": "e491dbcd2a6ccf32e2b6e25f06bc7f8c95203018678116982b5a1cb4970406c6"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Hair 6.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Hair 6.png",
+      "sourceGuid": "330a1e08a68f00d4e8e5306ead6d6690",
+      "sourceSha256": "81bc097b247c37ab40a2324d42974d3006dcc84bd8ff9b2650d96a6196b351bc",
+      "outputSha256": "81bc097b247c37ab40a2324d42974d3006dcc84bd8ff9b2650d96a6196b351bc"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\30.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\30.prefab",
+      "sourceGuid": "c04b242f6f682fe46bebbb7334660903",
+      "sourceSha256": "3c2dcc437ed6d370390fad378236c1ae4039838879900cf14e224fb5d6346cae",
+      "outputSha256": "8294cb7fa7fe475d23d09fbbe7e92467edb5c227ee829cf1a5db5ad83d64a356"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\29.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\29.prefab",
+      "sourceGuid": "c530ed1dd47ae444aac09f54aea05a30",
+      "sourceSha256": "a9d02570cdef23795f67cc93f851629c0f43fcdbb53ca618f02d1dd1c86ae948",
+      "outputSha256": "9eb6c188074d2bd8dd3e6bbd4906a02d65df4e006ecc8e6d2299276a5d70c1cb"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 19.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 19.mat",
+      "sourceGuid": "8eec4fad0df9ed74f8c027e9f49e1f9e",
+      "sourceSha256": "05eca66de12470fa4a058651a2059990f385951401d9d702f3613cc3a93778b7",
+      "outputSha256": "6259e1aeb275c73d768da84ae43dc6506cccdb159b6bf0ed1625f98fe4cd7692"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 19.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 19.png",
+      "sourceGuid": "e396bb04517c0cb4497c39d17ff7f4b7",
+      "sourceSha256": "e184e1ae00bafa72a459e198a01786e5122fd798225ebf8376cff19997e8fe0c",
+      "outputSha256": "e184e1ae00bafa72a459e198a01786e5122fd798225ebf8376cff19997e8fe0c"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\28.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\28.prefab",
+      "sourceGuid": "6b2d4108298d4e149a3cdd10dd576f18",
+      "sourceSha256": "718f092ec915dbd3d38c841ce54998f40b34784572ca0f543f4175944cbc94b8",
+      "outputSha256": "cba55a97474a06f0bbb0cf64b13c4ad52f52049d04c826394e06be4a06c578ea"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Trunks8.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Trunks8.mat",
+      "sourceGuid": "cf124a414059cee42b0bf8e9cdc7fbe1",
+      "sourceSha256": "69355eec0fe40f85e1b0c1d0dd4ac7f27e2cfdff729aec986b70c3608a26f903",
+      "outputSha256": "69355eec0fe40f85e1b0c1d0dd4ac7f27e2cfdff729aec986b70c3608a26f903"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Hair 5.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Hair 5.mat",
+      "sourceGuid": "7c0ea8f31c8310b4ba4281458c55a8e5",
+      "sourceSha256": "0e51f37bab261f5efa704eebabda18c49a7bf43af19c6cc7941cc89b23dac3dd",
+      "outputSha256": "0e51f37bab261f5efa704eebabda18c49a7bf43af19c6cc7941cc89b23dac3dd"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Hair 5.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Hair 5.png",
+      "sourceGuid": "c7b42a0d8b6b86442bca96bb48e9e5ae",
+      "sourceSha256": "e1133597310aaeedf2ffddd60d8d82b55ecaf661dce2d4a8d31f28fa62b071a4",
+      "outputSha256": "e1133597310aaeedf2ffddd60d8d82b55ecaf661dce2d4a8d31f28fa62b071a4"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\27.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\27.prefab",
+      "sourceGuid": "bea35a80ba153224cbbd9c3bbe4429c2",
+      "sourceSha256": "18becccbdb797eb0598ce61fa9b4b0039e7a1ac4ab412e5f7f7b5b37a863cbc6",
+      "outputSha256": "b612e6e6d1f2e15b1be0a2fd76b3d9be215acb49d37814ecee7adc867afac922"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 18.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 18.mat",
+      "sourceGuid": "697dcf2aaaa518e42894070393fea214",
+      "sourceSha256": "7ef4e54b937966555bb380f4b8d60e5c004709654d153a6752e54f0862d0dac1",
+      "outputSha256": "8d888c389a75c16d29f74ae00c3738094de2d8f2526ce69a9de68abb527462eb"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 18.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 18.png",
+      "sourceGuid": "64499ea529d826c43954ca3e22f02b45",
+      "sourceSha256": "cc7030821aeacaf2c75667ecd2adf49f0f0fd252dad48675d247112d9b258e97",
+      "outputSha256": "cc7030821aeacaf2c75667ecd2adf49f0f0fd252dad48675d247112d9b258e97"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\26.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\26.prefab",
+      "sourceGuid": "5a02f6be31e768d4ab53c66e02c3367f",
+      "sourceSha256": "6b75fc71e3053b453c44de7805f37030ec735330ce9b7a201bd3970c06b2d823",
+      "outputSha256": "eec0b73d1b2f9a3e13ae48ba5780b0ed2f2d1c57b96534f8d6eff0ba47837847"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\25.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\25.prefab",
+      "sourceGuid": "12764aa3a939ae5408bf491d463fd76d",
+      "sourceSha256": "bf5226f482820a10f63d54884854c375679f7a3a37bfeced5a8cae61fc96005c",
+      "outputSha256": "475985ccae71cb26c31cb31bfe80f000ee4fb304407ce0776a8c6425c04d2dac"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Trunks6.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Trunks6.mat",
+      "sourceGuid": "48360291da6ea894195eda18e22dd4cb",
+      "sourceSha256": "c2f1cbeb3ddaf9dd007b06492565ca6fb3b081151210f6d79d9e99aa22065fb3",
+      "outputSha256": "c2f1cbeb3ddaf9dd007b06492565ca6fb3b081151210f6d79d9e99aa22065fb3"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\24.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\24.prefab",
+      "sourceGuid": "db3c71f4b5ac41e44b0c513342df77fc",
+      "sourceSha256": "27c562a1b8e78333e19ab508954f07e17b1ed421e8472e876f3a62e10c65f142",
+      "outputSha256": "819f28486a08b42edc212242ae54f6ebee040a5ba1c02fae0609a6e1463a7c66"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 11.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 11.mat",
+      "sourceGuid": "fc0332d3846075f47911ee45db901bd9",
+      "sourceSha256": "a7e38ae1961b4604e7ca888817a5f56a69e4edff103f3bc770879815a5bf24ba",
+      "outputSha256": "afda6f71fc737c19187ce601a878697239a22d0bf159013a6dc05cf48daea89b"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 11.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 11.png",
+      "sourceGuid": "e02c814f76e32854da860e83628777d1",
+      "sourceSha256": "0dfce6d88788d0290a665482e6f75e6d3a6579be23b620588462a3951c3a5aed",
+      "outputSha256": "0dfce6d88788d0290a665482e6f75e6d3a6579be23b620588462a3951c3a5aed"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\23.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\23.prefab",
+      "sourceGuid": "6c9b167d36cab4748bc1a8c783faa3d9",
+      "sourceSha256": "ec6cb821cc7ec98ca476af17e367586115af9af6ccc426dea61d4c4c61ec4f0c",
+      "outputSha256": "329963b92870fdd6eac4b4af570146c7b5a8fc592572d2eada7251d18d32ac18"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 17.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 17.mat",
+      "sourceGuid": "fdd255feb13b42d4f908b9507335b438",
+      "sourceSha256": "778d19949263724264b597b01251784d4ddaae8e8db0a3d960da9ef61b897f93",
+      "outputSha256": "fca8f2ddf502c6f2a8ef27f14ae409eeaf5e6b7a7f1eec6391f55a23bccb1467"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 17.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 17.png",
+      "sourceGuid": "78ae98f2c27f91746abb5454eca9d5e5",
+      "sourceSha256": "8852cb05b820b957cc71a614190071f44c658487c06c9463db00ca434dda244f",
+      "outputSha256": "8852cb05b820b957cc71a614190071f44c658487c06c9463db00ca434dda244f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Skin4.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Skin4.mat",
+      "sourceGuid": "399a3511b5c8fd140972ee3dd5dc18ed",
+      "sourceSha256": "382d831652aca5d7d849e3e27b16cd5ebb37e771fd747fb844f0212f36629552",
+      "outputSha256": "382d831652aca5d7d849e3e27b16cd5ebb37e771fd747fb844f0212f36629552"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\22.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\22.prefab",
+      "sourceGuid": "6dd1ce6121e76aa4bba0523779021ffd",
+      "sourceSha256": "7f8178f4609cd31aa08b915f958961e7d53950f28f56c7a0033be89cd1c66416",
+      "outputSha256": "65c3fa79244b179f8523b0747483a3a9e5397d1ba7a2cb78ab4b7b632fa35e65"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Hair 3.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Hair 3.mat",
+      "sourceGuid": "2e3eb9334506b3845b02661ee943fbd9",
+      "sourceSha256": "8df948da12e35579a32c13cf6d31fae7e11c0d8579d62919eca181e57d1a0f8d",
+      "outputSha256": "8df948da12e35579a32c13cf6d31fae7e11c0d8579d62919eca181e57d1a0f8d"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Hair 3.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Hair 3.png",
+      "sourceGuid": "b5927e924d6e1c944a6b5cacc86c08d4",
+      "sourceSha256": "7b56e4ebfecb5a931d6171f01bb1501c8100d7804448d648c6727b3e97b7e920",
+      "outputSha256": "7b56e4ebfecb5a931d6171f01bb1501c8100d7804448d648c6727b3e97b7e920"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\21.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\21.prefab",
+      "sourceGuid": "ae55eabf2f492f348b6bf10855bfe2a9",
+      "sourceSha256": "400f8436eaa57e8affd267e31bb3bef69e8fc309d03ad220a6b145b64e97a89f",
+      "outputSha256": "c70fbd8f0aea5513a20655ff43eaf00eba36f0a77a701a20537e45c25050e122"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\20.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\20.prefab",
+      "sourceGuid": "8c7f9859a10761f43a0656d94f8a7d0e",
+      "sourceSha256": "18835b322d9cf9f16450b3a9c84767b5e297ba28dc01b1566bbbb053b4b52966",
+      "outputSha256": "88f535e29d23ccd4de60a58bee61858aefcfc01bbbc4458cd84b082eca794d58"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\19.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\19.prefab",
+      "sourceGuid": "67be0cc064236c94daff1d43d466a828",
+      "sourceSha256": "b5abc5060a037e840c8eb5afffa36e71f8e0ccfa77eb62628c4aee388564a687",
+      "outputSha256": "ecaf1856a2af3fff55fe62a6991eae659912c5a49726e943399ab1bfb9cb9324"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\18.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\18.prefab",
+      "sourceGuid": "a4243db04c0196844aaa98afe82d07c2",
+      "sourceSha256": "69ce3d20eedeb8eb2db378464f5651e6c9f6bd2b074079e896fc1a0204851b31",
+      "outputSha256": "ab57cbec92a37815ffc67ccac930681ee914fb1e950f423af4aea5054d6ca7ef"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\17.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\17.prefab",
+      "sourceGuid": "9f6e1713a6d51174f9b81db4f2936028",
+      "sourceSha256": "6718d28eb2ab4bcaa06470810ceb18cd09f6c87885ad09aa1f67002cc71104cd",
+      "outputSha256": "40cf5105d3ca40dcfe1e802c574596a6dd256d9805f6e3ea9a36e8b88d3570af"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\16.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\16.prefab",
+      "sourceGuid": "c965038758cf58c4ea63fde91b8bcf3a",
+      "sourceSha256": "372ad3ecc71bf43cd8ba840958df5e75c7c4dedcaee6081edbfd225962d08141",
+      "outputSha256": "626246020c9969474d962afd89822a75d0a80323a5701482186077edcabd427b"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 14.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 14.mat",
+      "sourceGuid": "bab6c7b61b5c983498dabfbeec3e6a79",
+      "sourceSha256": "6c66cac35759ad09b2520d8b5735172ce7d0bca038d64572e2184a715fa16247",
+      "outputSha256": "77a7518511b1b5745d6d82e001b5b4ba56367ac156e61df203156c52c94837e6"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 14.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 14.png",
+      "sourceGuid": "ebaf669bfc44bc042b18230ac18ffbcb",
+      "sourceSha256": "6312ae110ed36a172ac66592860f68e254526471306adf23098a937f4ce09bf7",
+      "outputSha256": "6312ae110ed36a172ac66592860f68e254526471306adf23098a937f4ce09bf7"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\15.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\15.prefab",
+      "sourceGuid": "7603c18e3b0eb14498f41f44f009a48b",
+      "sourceSha256": "ea28bb2d70b2d24116ab355968ec7c9ea58f42a0472d96b997a9472588420627",
+      "outputSha256": "85e23e41f666d9212f54f74d4b4025392c28473eeb1b34024e2a65e09095d434"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 13.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 13.mat",
+      "sourceGuid": "b119dd561c2c07842b540566fe0064e4",
+      "sourceSha256": "ed7aa920e55cb1774f504bd12711fcce99c261f2a7349ef71ec926d7aa093d3b",
+      "outputSha256": "900e72de4768bf33523699c50edc286a73b39d311972713a1e85a15ad84ccfe7"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 13.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 13.png",
+      "sourceGuid": "0a52da1e55d18514fb310edbb6b01161",
+      "sourceSha256": "0b1cd7a69b9e4e40b3fa0929dadfc0b43e8f91a9c122e387910cfd5a18908c2c",
+      "outputSha256": "0b1cd7a69b9e4e40b3fa0929dadfc0b43e8f91a9c122e387910cfd5a18908c2c"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\14.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\14.prefab",
+      "sourceGuid": "310ae8fa10e0fc84b8179b4ab79785be",
+      "sourceSha256": "3bb12f03be3e094135681a7a8fa5a458bc59992313f96136b059456393898458",
+      "outputSha256": "ecca587e5670a4f870ab483c4701bf711f6db1faa2b1a8479bfbceb399622fe3"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Hair 2_0.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Hair 2_0.mat",
+      "sourceGuid": "6d2c14553eba081408ae2dc4e8f37b60",
+      "sourceSha256": "236226ec94de6a15501d4acfc984a190b8620e13e573c179a0c82c03e173151c",
+      "outputSha256": "236226ec94de6a15501d4acfc984a190b8620e13e573c179a0c82c03e173151c"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Hair 2.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Hair 2.png",
+      "sourceGuid": "ee6331a3ddf22b449a9974784313ce35",
+      "sourceSha256": "81029fe027b07ebd4eaae7af8ff4b23df14fc9fb75d9bf8e50ad48e5161e85bc",
+      "outputSha256": "81029fe027b07ebd4eaae7af8ff4b23df14fc9fb75d9bf8e50ad48e5161e85bc"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\13.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\13.prefab",
+      "sourceGuid": "61d7aa9b9961d5643979c5a7bb1f2349",
+      "sourceSha256": "677f17ab78d03b068e8ba5ec13acee611078b200a7d6e4b9846c234508f467fc",
+      "outputSha256": "2602fa045cba1c933fe2cc3050db3a272db9b9a5c8eb0fdff600246d376b6a45"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\Hair 4.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\Hair 4.mat",
+      "sourceGuid": "dae3111b9cc5c7143962d64c91177975",
+      "sourceSha256": "b04d98de5c781b9b3d98e93f78cceb8976d8a2594590cb608acfcc87c009410b",
+      "outputSha256": "b04d98de5c781b9b3d98e93f78cceb8976d8a2594590cb608acfcc87c009410b"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Hair 4.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Hair 4.png",
+      "sourceGuid": "5a2a1dd79e8b40c41a8b695d1ac27a2d",
+      "sourceSha256": "77cc389f8fbad197d7752ad14c51008343b9434c369c5e760a6e995d61ed7e66",
+      "outputSha256": "77cc389f8fbad197d7752ad14c51008343b9434c369c5e760a6e995d61ed7e66"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\12.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\12.prefab",
+      "sourceGuid": "f0a77018eb8de7b49a36040bfbd7bfd9",
+      "sourceSha256": "a4b7859333dc814744b866d0e93534c006b92464cc5ab9c947e73707f51dbb7e",
+      "outputSha256": "15dc3aa243926abbc72e6e453b5f0c338a59980275c1817119516e4d7b935921"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\11.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\11.prefab",
+      "sourceGuid": "0d344a19dd9a9054baf169a54a86a82c",
+      "sourceSha256": "f64ec3ee0942d82340f9e7387fd4a60592a433b3141937da5443286efacf3b9d",
+      "outputSha256": "c79169e8bc5ba4179c2c3a7cbe56fa6a2cfd5b6aec90171303baa8cb7b454e81"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\10.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\10.prefab",
+      "sourceGuid": "6c2ac6e055f16fd46a618a84df800cf1",
+      "sourceSha256": "13d2f02296c8a1d8d7370d293bff109ef04389e73ce9b43479c10f3dc1ce2b34",
+      "outputSha256": "ea413b1fd0d3b1dfeabad4dac35c2e9d0367a61f0499e6ac8f317e8a5ab139b7"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\9.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\9.prefab",
+      "sourceGuid": "596adb3b194777b45b06bc28e590997e",
+      "sourceSha256": "b1d1f6244e170f308ae3ada6f5cbab67219096063fea320d23e5db941e71ac02",
+      "outputSha256": "dc9f540c24d5d38246f23097cb8d6c7728854fda21673f94bd78be378f134e83"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\8.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\8.prefab",
+      "sourceGuid": "13df56eeb8ce3974fad699e6b4b5bee8",
+      "sourceSha256": "c00b7e3842712172e764f8942f3835593f1770f3266bdece2307b61151887842",
+      "outputSha256": "0e78618b7e321161205295dc42946a94e263c9856bb14b8b967e32b7a194f75d"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 3.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 3.mat",
+      "sourceGuid": "238cf062b73991b4aa131077d74b554c",
+      "sourceSha256": "0c420b20d41a5d96b522562851386f0ff19c4fdda54e5bb4d6b03860ebf21ddd",
+      "outputSha256": "33924cacbdd92b1baa34218305d5cde1c57e21d2cbbf59b0789cac9ab4ba2f08"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 3.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 3.png",
+      "sourceGuid": "786c0583e0a7b014981745e1909da497",
+      "sourceSha256": "e32009bd165ffbb58a22ff490dcdb037b178af7d5ad747a4ba8714ee161b20ac",
+      "outputSha256": "e32009bd165ffbb58a22ff490dcdb037b178af7d5ad747a4ba8714ee161b20ac"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\7.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\7.prefab",
+      "sourceGuid": "0384e1cbfd0228440acd4b812d71d961",
+      "sourceSha256": "3e6a2dc800044cd27c1b1e0b723bf32553d2246ca5f484d31896ca1cc3884089",
+      "outputSha256": "03828749020eb3012882845b20b24412ba8d65eab393f49097b7d08af3909587"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 7.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 7.mat",
+      "sourceGuid": "56ef84da2b61caf48adbf9a4db91e71d",
+      "sourceSha256": "87c8fcbc3cc0a9a4aae88f2f6caa0b38559f6751c713eb74af1f20a66efad8f9",
+      "outputSha256": "e01f6ce04ce7c1881a99e0334353747b25f1d11193a508e4deeca3ccfed9198f"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 7.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 7.png",
+      "sourceGuid": "8afaa1ce84d87754f82718edb6434fb4",
+      "sourceSha256": "6266b3d37b2dad6ae4e7501c9b2fcec32d2bb9f457e4a5b6421a32888a1e6411",
+      "outputSha256": "6266b3d37b2dad6ae4e7501c9b2fcec32d2bb9f457e4a5b6421a32888a1e6411"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\6.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\6.prefab",
+      "sourceGuid": "6fe9cf62c8b10c945b17c905804b47d9",
+      "sourceSha256": "8056bff38e798bcd14c53e6535db08727eec39bca6fbef0ed7b1d4caba1f8651",
+      "outputSha256": "8cc52531afb1197b1d79459e9ad602b3faaf41a577f14db66b1f5a1808dd683a"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Material\\FaceDecal 5.mat",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Material\\FaceDecal 5.mat",
+      "sourceGuid": "2ffea0ff1e80f414eb54742ac8063351",
+      "sourceSha256": "405853576c1a938f430b6685c10e929e0e05bee7ac5b2460ee2994a1ee35a937",
+      "outputSha256": "3467016492ab4d321ec2583e8f7c9291a065a3ea6056e09ba00fd4400f6e2a0d"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\Texture2D\\Face 5.png",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\Texture2D\\Face 5.png",
+      "sourceGuid": "c1244ce3b0ef61f4fb881e1cf4034c4a",
+      "sourceSha256": "4e1a60f373a7dd948f327ce43dc114b7087994d9c84594151fc37ee78e34d536",
+      "outputSha256": "4e1a60f373a7dd948f327ce43dc114b7087994d9c84594151fc37ee78e34d536"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\5.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\5.prefab",
+      "sourceGuid": "951c30224f90abf4daced3351655c366",
+      "sourceSha256": "01c97b482379e465fce38c2ae57d1f7923c05fe998badec4fc4645ce4d889bf5",
+      "outputSha256": "f8e1d6c50f963e8272c198882e06a13bbddf63fb2c4aa2b209ae13cdb11f00f3"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\4.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\4.prefab",
+      "sourceGuid": "61278506cbd9a19468032844c0909ebc",
+      "sourceSha256": "2241f770fa2f9990e62a7c59138180719ae4ba66621b6620df7fb50c52c35205",
+      "outputSha256": "f99b4719b6dca6afdfd07739c3e4e6c22db396bb52ed66bc105dc3e1999133b0"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\3.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\3.prefab",
+      "sourceGuid": "7a800793164f99f448ec365b55b29ae2",
+      "sourceSha256": "57892c7da359e51cd3ea739fc8d3ce028f13ddc3e2c0383110f6ff184cdd2cf9",
+      "outputSha256": "24d0f605ec7f1adc61e689731ef105df769c081230ea24e748c68cb801097a05"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\2.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\2.prefab",
+      "sourceGuid": "37f0443c8001d9648a5670597d094466",
+      "sourceSha256": "b50091563636d909eb0c6d99b220b7c8a5f17443fac210bc51e231e8ba7e4bcc",
+      "outputSha256": "f246e8f79bb9e48a79eefaa290247452bedeaa3ac7cef18141440897e8c8ad69"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\1.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\1.prefab",
+      "sourceGuid": "5270d22cbb0fc0f4c927531b2ae83a2c",
+      "sourceSha256": "2df75f48753d62355d531b4cc6e0c50b7516a90b325ef3c64191a1561017d90e",
+      "outputSha256": "fb3e0d573457f31cf1da478299940aa8acc3a3508dbe3dfcec58ea61ae9635cd"
+    },
+    {
+      "source": ".superpowers\\sdd\\2026-11-20-peripherals-interactions\\trainer-source-export\\ExportedProject\\Assets\\GameObject\\0.prefab",
+      "output": "Assets\\BeachBoxing\\OriginalOpponents\\GameObject\\0.prefab",
+      "sourceGuid": "73580a04c472fa542beffc9925f80220",
+      "sourceSha256": "ce620c79ea340e59e2350440b3e2131ba92292a7ea8dcf02c470a2d4267cf7cf",
+      "outputSha256": "7eb80fe75360d8b34358aeb64a4aad148b51bfc24e5a103faf13d15244575795"
+    }
+  ],
+  "reused": [
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Boxing_BlockDamage.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Boxing_Blocking.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Boxing_Die.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Boxing_Idle.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Boxing_Jab.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Boxing_Straight.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Boxing_TakeDamage.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Boxing_WalkBackward.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Boxing_WalkForward.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\GlowRing.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\PhotoShoot.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Player_ArmsIdle.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Player_ArmsWorkout.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Player_BackIdle.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Player_BackWorkout.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Player_ChestWorkout.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Player_Idle.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Player_IdleChest.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Player_LegIdle.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Player_MidAir.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Player_Squat.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimationClip\\Player_Walk.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\AnimatorController\\GlowRing.controller",
+    "Assets\\BeachBoxing\\OriginalArt\\AudioMixerController\\Main.mixer",
+    "Assets\\BeachBoxing\\OriginalArt\\Avatar\\CharacterAvatar.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Cubemap\\Sky_LowPoly_01_Day_a.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\ArmMuscles.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\ArrowLine.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\BackMuscles.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Bench.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\BenchBlue 1.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\BoxingRing.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\ChestMuscles.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\DarkBrown.001.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\FaceDecal 1.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\FaceDecal 4.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Hair 1_0.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Leaves.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\LegMuscles.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Metal 1.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Metal.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\PolygonPrototype_FX_GlowRing 1.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\RocksDark.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\RocksLight.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Sea.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Skin.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Skin1.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Skin3.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Torso.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Trunks.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Trunks2.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Trunks5.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Weight1.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Weight2.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Weight3.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Weight4.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Weight5.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Weight6.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Weight7.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Weight8.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Wood 1.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Wood 2.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Wood.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Material\\Wood_0.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\Arms.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\Hair.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\Hair_0.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\Head.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\SM_FX_Glow_Ring_01.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\Torso.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\detail_umbrella.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\leafs.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\leafs_0.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\rock_largeA.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\rock_largeB.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\tree_palmDetailedShort.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\tree_palmDetailedTall.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Mesh\\vsn_mesh_0_BodyB.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\PhysicMaterial\\Slippery.physicMaterial",
+    "Assets\\BeachBoxing\\OriginalArt\\Shader\\SyntyStudios_Prototype_Global.shader",
+    "Assets\\BeachBoxing\\OriginalArt\\Shader\\Tutorial_054_UnlitDynamicDecal.shader",
+    "Assets\\BeachBoxing\\OriginalArt\\Sprite\\2736136.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Sprite\\AllAxis_Ridged.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Sprite\\FadeCircle.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Sprite\\GrassTexture.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Sprite\\Handle_Ridged.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Sprite\\New Project (51).asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Sprite\\Square.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Sprite\\aRmwad 5.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Sprite\\arrowLeft.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Sprite\\image (2) 1.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\Sprite\\image (2).asset",
+    "Assets\\BeachBoxing\\OriginalArt\\TerrainData\\New Terrain.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\TerrainLayer\\NewLayer.terrainlayer",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\2736136.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\AllAxis_Outline.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\AllAxis_Ridged.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Arms.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Arrow.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\BG 1.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\BG 2.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\BG 3.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\BG.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\BoxingRing.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Circle.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Coin.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\CountBG (4).png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\CountBG FillAmount.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\CountBG Full.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\DailyRewardsBTN.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\EnergyIcon.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Face 1.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Face 4.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\FadeCircle.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Fighter Icon 0.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Fighter Icon 1.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Finger.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Gem.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\GrassTexture.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Hair 1.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Handle_Ridged.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Heart.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Join Room BTN (1).png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Join Room BTN 1.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Join Room BTN 2.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Join Room BTN 3.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Join Room BTN.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\LineArrow (1).png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Logo_.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Menu Button.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\New Project (51).png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\New Project (67).png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\PunchIcon.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\SettingIcon.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\ShieldIcon.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Square.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\TakeDamage (1).png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Torso.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Trunks.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\VictoryScreen.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Weight1.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Weight2.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Weight3.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Weight4.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Weight5.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Weight6.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Weight7.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Weight9.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\Wood.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\XButton.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\aRmwad 1.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\aRmwad 2.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\aRmwad 3.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\aRmwad 4.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\aRmwad 5.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\aRmwad.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\arrowLeft.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\arrows.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\black-and-white-checkered-seamless-repeating-pattern-background-vector-illustration.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\fastForward.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\home.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\image (2) 1.png",
+    "Assets\\BeachBoxing\\OriginalArt\\Texture2D\\image (2).png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\AnimationClip\\Cheer.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\AnimationClip\\Cheer2.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\AnimationClip\\Idle.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\AnimationClip\\Run.anim",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\AnimatorController\\mixamorig_Hips.controller",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Avatar\\CharacterAvatar.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\GameObject\\Trainer Cody.prefab",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\GameObject\\Trainer Dion.prefab",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\GameObject\\Trainer Nova.prefab",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\GameObject\\Trainer Serena.prefab",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\GameObject\\Trainer Yui.prefab",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\GameObject\\Trainer Zara.prefab",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Bench.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Clothes 1 Decal.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Clothes 3 Decal.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Clothes 4 Decal.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Clothes 5 Decal.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Clothes 6 Decal.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Default OBJ.003.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Default OBJ.004.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Default OBJ.005.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Default OBJ.006.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Default OBJ.011.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\FaceDecal 10.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\FaceDecal 9.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Fishnets.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Hair 1.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Hair 2.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Metal 1.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Metal.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Skin3.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Skin7.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Trainer 1 Decal.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Trainer 2 Decal.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Trainer 3 Decal.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Trainer 4 Decal.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Trainer Body Mat 1.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Trainer Body Mat 2.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Trainer Body Mat 3.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Trainer Body Mat 4.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Trainer Body Mat 5.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Trunks1.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Trunks3.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Weight1.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Weight2.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Weight3.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Weight4.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Weight5.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Weight6.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Weight7.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\Weight8.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Material\\White.mat",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\01.001.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\02.001.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\03.001.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\04.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\08.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Arms.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Back.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Front.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Girl character UV.001.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Girl character UV.001_0.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Girl character UV.002.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Girl character UV.003.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Girl character UV.003_0.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Girl character UV.004.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Girl character UV.004_0.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Girl character UV.005.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Girl character UV.005_0.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Girl character UV.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Girl character UV_0.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Head.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Side.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\Torso.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\try hair idk.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Mesh\\vsn_mesh_0_BodyB.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Sprite\\Circle.asset",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\01.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\02.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\03.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\04.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\08.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Circle.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Clothes 1.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Clothes 3.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Clothes 4.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Clothes 5.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Clothes 6.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Face 10.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Face 9.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Fishnets.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Square.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Trainer 1.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Trainer 2.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Trainer 3.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Trainer 4.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Weight1.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Weight2.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Weight3.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Weight4.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Weight5.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Weight6.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Weight7.png",
+    "Assets\\BeachBoxing\\OriginalArt\\World\\NativeTrainers\\Texture2D\\Weight9.png"
+  ],
+  "removedComponentCount": 2520,
+  "guidRemap": {
+    "73c4319783ed7b74bae61799fa98fed3": "1b145d9c98bd6c14596d64660d4b3a70",
+    "c47946fd610a2cb46a96535df274022d": "e0382d33dda85a147ada613bd62a7b3f",
+    "742a8bf5d9a6f6b49b44ef86ffc97a69": "80e9ccb3ef6c36e41a4bb3975e0e15e3",
+    "60b6158e664f6aa4f8e89abf464d3085": "94620d51b30960445a96701e8e12d67b",
+    "e254fc7cf91db0647bf72eaf91fc2498": "2db796ad6f6f49247976815c5d24c8b8",
+    "1e0e83cae1ad96d41860879c730a4197": "bfb3dc0c19a152848bc984beb0936ffa",
+    "8e9fd5591e89d0640a971435392f8ce7": "fa1ce2648a28b1c4ab45b8c1652e2164",
+    "7dbe7bd721300c44a9116ec2f02c8850": "962a29832115d3c45bc5ba4d537c2af8",
+    "f3621f230bff0f6478b1af0359c36f1a": "4aaa6cbc0f0361342bf98f93c717ef3a",
+    "c0d2a5c46f28f904988e069a0955d3a4": "d123d61b2713aa943a86a868d0e49d86",
+    "285c684c0ef239e4083f911f159bd492": "2f56288a8dac6a24aa32f3c9397ecdb0",
+    "f82fd9b1685fd1e4fbd782a9ae4506fc": "bbefcf6209706a64480d90b862389a79",
+    "d333c25f4ea518346a2cc8962cdbb800": "9fecb20363c7a0045986dafe75fead38",
+    "28513bdf5de38e04ebd8f365dace9324": "096f281ad5649074fa1bd7bc8601b2aa",
+    "30f7dc15391968044a6e4530a089ae7a": "6684ecf0df35a9f459e0daaec8551c0d",
+    "1ff11c04b3e1cfc40afeaecb2bfd4469": "775b4b41621fed748af58f3fcdbae4df",
+    "b7ab86c0246028c4e9ed43e410aebb6f": "4e9d6e08891a81744a663cabbd2975b2",
+    "22e07211a830e97499ab31c640e716dc": "1fbd944a9ee5006489cb3c766148bb5c",
+    "b0e71dc4d5fd11346a567685bf565349": "2cb2b7c30b1e2d34c8b85fb6357034e0",
+    "a7dd4d8b47574374e8bfeb8287f2d299": "b19ac7821d28140419ab8acbc7cf3b81",
+    "c178f9808b27308479b6ae07b8430bc0": "2df050458a59a664798015ccf64a4413",
+    "be229ecc614d0754494337f09c47fff6": "885721b11f27ac7479cd94571c3cec03",
+    "d264f65f56c52394a80ed7b3da9c68a9": "a4ba01a4784518d4088b6adc09e4388e",
+    "591b595fe8829b748acd3400038574ca": "7eac070dcf91e0247a16bf378b53540e",
+    "bc6db5edc3591214da2b56f1485d0e89": "bc6db5edc3591214da2b56f1485d0e89",
+    "c7f6608fe5822ab41b58a36fbc8bc44f": "1c9dcd2431d71c5478ac49b1bfa41233",
+    "ec78e9ceb2cb38944932ae24b555f3a2": "f1c4f503a379ac242bd3f17a8d8b6422",
+    "4a6157996da8de6499e34ec3e0346138": "cea591be0810347499117d7e18b9dfa5",
+    "60e763c078735b947aa927c4a022949d": "d7af2dbec2896e94e94a11d3ecad6f8c",
+    "9e6a8a3a69aea1440b09658bb1d37c81": "9e6a8a3a69aea1440b09658bb1d37c81",
+    "cc91aa93e134f824d8985eaa280e314f": "0c9f3dd17d885044cb12b0a369595b58",
+    "e81e8c1d74d61e348a32b6599e57e757": "6b8b1e05fef4c3848b573f0a99d0557a",
+    "6ceb58320dc7003418dd4794a2511cc8": "fbb682138b4f3bd45b56379d14bade1e",
+    "35a4d3fe3253118458f64b902b75acea": "df815774c06faad48a622335f976f27a",
+    "51965316f353ecd458b95574e26aee7a": "98c7ce431e657c94c8dcd07863b569aa",
+    "622fe3f9003ade8459a370d49ff3f797": "65dc2bcf944f4fd40bb6e0a18c34339d",
+    "0191ece49d3d8ef4fbc25a91ee00cd80": "a46b5b6c7e77a4249858b425504cc513",
+    "cbc0abb900658a84cafdad762459a823": "6ae5b72d2aa451e4faf68c93714b1613",
+    "963a48e8bcffffe4bb039962eeb02518": "6fef70fef56418645bfd8e67c32af01c",
+    "3b9794b08543b754baecc08f82d09643": "3b9794b08543b754baecc08f82d09643",
+    "f216183e53216be42b166044c829a0dd": "f216183e53216be42b166044c829a0dd",
+    "2c00a85c0399b2d4ba7e809db7ac0548": "ea897348c1c25ae408c02436c6d33587",
+    "08a24f8e423c77f429766ecf88228229": "8ed5b55cc3e5ad74c998e89d6c1b5cbe",
+    "eaa84cdb5dd2e5147b396ace862845fa": "f4a2bb926d8eab3439c4606f05d835f1",
+    "62d6782450e3e1a4c8655ec2b1c0c66e": "f1d4bea72997eb6408aabb66b44118a4",
+    "53fcd92de3f9aba4b82f917d34b82611": "d41104c8ee1a59644a87c1bbbed8a3dc",
+    "e488739b3e6a7e548be3481ab9fe52a2": "94913945a79f6f440a346630461ce7eb",
+    "d0d6d9c37b5b5e542a9fa62cd5c2074e": "d0d6d9c37b5b5e542a9fa62cd5c2074e",
+    "1a1790d5b90dc9940a4240f765a1324e": "cfec0ec3aacdee14c8bf6e200bbacd3f",
+    "ba0dabe57134ebf4fafe172feb26ca8d": "26ec3125a99cae8459d6c73c1e8d5b25",
+    "073ba6cc8216f2f4a842dd6a7b780f2a": "03bf2f3a8e8473b41b8b8b8d1f848d33",
+    "c62c4487b61dfed449d3a9954cb5d469": "e7cbca5b24e10494ca2104adcfa2d9b5",
+    "8571a7249fccfc64a8213a89ab0a21c4": "8571a7249fccfc64a8213a89ab0a21c4",
+    "5c85d7cd19af04a4494675a6d0abe635": "5c85d7cd19af04a4494675a6d0abe635",
+    "c30dbe37f8e4f9b45bef3e6772bc1829": "c30dbe37f8e4f9b45bef3e6772bc1829",
+    "02d2f023e24a77d47a9fce890bf313b6": "02d2f023e24a77d47a9fce890bf313b6",
+    "14d99d39c5cda1346bfdce29719f5bf9": "14d99d39c5cda1346bfdce29719f5bf9",
+    "b970a84d83526f54b82af2b6b4ce9742": "b970a84d83526f54b82af2b6b4ce9742",
+    "1e0085e84b7438b4492ec0580cca6b19": "1e0085e84b7438b4492ec0580cca6b19",
+    "c94deb86f873e124f943d344820e515e": "c94deb86f873e124f943d344820e515e",
+    "f256f1bbd17283c40a05c4e88fd089e3": "188f201d768a3db42881edfb9125d568",
+    "515e3ccd88eaf9b49b60514a3364caab": "bdaf1c6393d12f84b8183ae04113c757",
+    "e08f1e7455bd39146bb54115c2c358f2": "04893eb4515cc4a44a61bc1f4c8629b8",
+    "8eccf2f75c68ff44884327eb53b0486d": "37812822fb4550048b6b56c348bd2718",
+    "b8f10fdc59eb7f54aaef9e4f7cbc0887": "b8f10fdc59eb7f54aaef9e4f7cbc0887",
+    "4c7d32cbd3e68ef4eb681ca90f2601b0": "a5ba1665c507620438b9f716303b276e",
+    "833f3c17fae49fd4bbea7790a54dd64e": "578abbd80e2764543933b614e24e8007",
+    "9c586eb39ae76cd4e8da6a4bbf0e805d": "2e916f64b899b824ba55c1a8e46ce556",
+    "13fb6c7c93bfe504fa6ae975820bd2fc": "13fb6c7c93bfe504fa6ae975820bd2fc",
+    "a9907eaca0ef08946a878539bc05f95b": "ce41030ad8c52fe4f9a2147d1cffbcbe",
+    "a6159121bcfd9054a8e8e89ad25dff09": "595fd66e68e79fa4ea918fd152844b4b",
+    "3a64273bf84becb49a56c94956dcd7c4": "a61d47052c2d12f4086c0db6b95b37cd",
+    "015c76dc0b169fe4db36e83120b6dcac": "5fea6d62649b7a14d9d93c93aac7ddca",
+    "5535ac7d678597e408d93b65085e1def": "c9f8ac80aa7e05541938933cbed91fd6",
+    "df855c019c627f14586293ddfc8e77e8": "df855c019c627f14586293ddfc8e77e8",
+    "904f9548150a0024481d904e0fce4732": "8c0021a36b4241043b7014a6c437763f",
+    "02a36f1d042a21641aa536fb5c2311e3": "16d735e2dcd98df49a38536f4ced5e96",
+    "2783269a6c8119b40b5067d1293b7bb7": "2783269a6c8119b40b5067d1293b7bb7",
+    "58e414e8ca4b8bb4785f84ca26bec52e": "93f753cc16eb13645ac3128e0ba3d48b",
+    "5138fe42b5db1cc41bafa2d0dcfe9d72": "ff00c3b5578223b46b94836a40978e86",
+    "4982067220990124ab7e3553c0d21c07": "764c7a298d8b66c4c9112778ff3b3cef",
+    "c96ad3ed11df70245863281dd1d8db6a": "cb19f68a200fa5740a08f28039d394d1",
+    "b31056bd465755748a47635927cfeaab": "95f61c35b8b716e4bbccf7534a2fd565",
+    "1574d8b857a6e174d9b24c64cda2d43a": "cd17df044e7666d4bba91435f3bd3b8f",
+    "d1fe00e307d34f04284a4a90784ffd39": "75d1750b336932546977306b56b75000",
+    "cd13e656a63ca2e45954ab999073a1a7": "8a3afff14ce7f3c4490cfeed595a5a07",
+    "912fa557d0ee9ba4ea0658a23d3a4149": "ebf7275f43fec81478afdbc1835c9264",
+    "9b22ef0de143fff4a8b67c3c1acefb91": "fb7847aabc6be7a4d9a1c193d71bec18",
+    "4876ecd338dacf34eb6b1e6b5f265978": "fe7041b85d8e5764ba623176e92e8208",
+    "b6391dfb00a6474419e89042d77e60cb": "ea47d9e25ca78b14387da5520e4be92b",
+    "0d66ac3f71820d947933f08d16a16fa6": "04afd65dd98ccc847bc31f2729c69c66",
+    "deffc1b48400cfc41960cd77da499a96": "b7846bb7914d9f745bac35bb778c24bc",
+    "d0bc9e1e14814b64eb4e99bfa55f2360": "da8c097142a4c8b44b39dd7da1305c3d",
+    "f4875e22b9618ce459b9fe9e794ab26b": "74cb325d88d2e4a4085482312a637e0a",
+    "2f2b1065deb3ec94486346ae6c9dd540": "4a7ea293f6695984685e122a1f79ddff",
+    "175733cbf05c964448859421783bbf97": "cdfae4b4dbbf40e46b3f0f5db8f50afd",
+    "a103f17258e457a4c900a9bae289418d": "c8d7e01c432219b41a9abf0cd5e2cc24",
+    "e83240f6cb6ad384d99a2f9bba05e83e": "3e5e65f4261f7994299295301963dfde",
+    "ce293198526db294c9b6f4ee68a89a35": "192fd87339c8bfa46a8d292b8ce5d98d",
+    "9295443cfbdbd1a4780b29fa1d09f842": "78168aae2c20c1a41bd3130082a91e76",
+    "862a81ffc1bd83d4a8baa241d7899f1e": "afe74f88a8b7ceb488f59653f69745e6",
+    "f9fbd2bc3269aba4284f4b33bd7cd912": "4afdaa0d282a7714c92c7eb2e83c5dda",
+    "4e3d74caba077dd47ab286b15dedb18e": "161940841e3a25c42be4eca110784f9b",
+    "11eed1ac080a24f4e92cacf8fd4677b1": "322fe3522c7347e4494f9c7df12a9191",
+    "0d3572e746bef7b4a901a8d5e8918501": "6b00831400382a34c8663fad3374a412",
+    "532c9f6e1ec57e74d911c668347c1fa6": "e3b524406d3444045954cfdd816c9c84",
+    "73ae0db292a6fe94f9e2b612da03fd35": "b4bdcc5f9348d534bbde06aee710b616",
+    "dcac7360917f6aa47a59474d84474e27": "76e42342537e31d468cf727a503fa4f8",
+    "eb77bb24d8cbcab42b8492d39912304d": "b52306b1643e561438aa6a7bda5130e9",
+    "2cd5b991c895e804aaa2a40a5e697a76": "1ecc140eacd58944b9a780e466b792b6",
+    "08ef9aa798ba33c4aa08ce2fb1f4c8ca": "b33f3fdad99f6384f86aac9a89c14ff9",
+    "7b0ff6f24bc3b3a42a9fcb4627a3f4bc": "446b88976b393d04789fc9d734976ec1",
+    "ce9a45a2d1afa3c419ae9bf2264c6a49": "70ab641adef7b8e44a1a379ec787cb59",
+    "86f7491a65b622640b9ffd99789b51ed": "86f7491a65b622640b9ffd99789b51ed",
+    "43fb765ac0b83f94bb0fef5821f68a7b": "23fbf398f7e6fcf4bbbac3a46065ccbe",
+    "f87b40bc1d7b5a04c88d3e1d1a6eea74": "802cd415b02f1024bb5a002eca1dec16",
+    "1ebbd8e6d7710a24797e269c30f84198": "f80a4f91e6971cd45902bc551449357c",
+    "2fec46ef8c7b7364e967fec2b00d7534": "3fb767c647b90be4ea9e14af8761c5f5",
+    "6162162b06022764a9637012e60400d4": "a292659f48e1ad64bbb240c128a9543b",
+    "2ade31503b517aa4caab3df18531cace": "f7ec5c573a91f3842bc9b62a0f3c95f4",
+    "5504f8ae93f988246b4887f0d5a642f4": "55ed430cdb135bb49a3baccea41434c3",
+    "8d71d07bee4389548abb85cdb7521a6a": "550d446be08d24b4aa2c777b0e2d4742",
+    "e499847920086a047b41b5b5bcaf6b2d": "4d657466287c6924f8fc5b17ee839225",
+    "3270dc09a4961d04fa3ead0dbfef1129": "dd62fd5b3314db84b9ecc34e03184e96",
+    "688eaf005e8849546ba1fb0233469731": "8d883da1850d45f43b756edae1c99c14",
+    "c697b796f29ecd844956fd1f64a1d3dc": "e00530dd8b365c24ba5bb02c1a3d17e5",
+    "eb713ed1a8970a644827424b995487dc": "324e081cab3ea5f4b8beed26c0446d4c",
+    "6cfbdcd6772a4de48bb85249666f9154": "89aeade08f1c1f542a40a548871dc1b2",
+    "5af84dc046a75b849894c2464b1e6110": "70a8d725cf7b2d14f92f2a967951e1c1",
+    "d31c9ebf5e9e30341a71c56443290f49": "6b8bd06f51f7a1e428678470e1c2e32d",
+    "65d78531ffbfeaf45886c632740eb968": "dca2237c7c4ddf64aa20d07327f11f72",
+    "6bf44b66a479888498f8b8357f8b2be7": "db16f64bfb6bd874f87c9b7c212030da",
+    "72a93aeeb7338c34095b70dc5821d41f": "67e81eb29fa6ee441bd52b1fe8c132cb",
+    "e5c592aeadd092c479ba74c79db4df00": "1b4deaca974e8354db2283f4faa7f2b8",
+    "eb1cb8c03974105469865eb40a4e22be": "0c1af3315578081419218d289325f27d",
+    "572c496fa35097b4bb021b04c0aa7730": "6ebc7ccde98c9904baee642fb16f5d29",
+    "ecc929bc3b7d5f64787a8897b0015922": "416b55751c7319542b352c5643d5eec2",
+    "4c0f1ec56f081e44d8dcf7d307d5f8d9": "111083719af5a824caa392a6605168d8",
+    "be7507c958a9e5f4d82620a6165e926a": "bdb0784731b11e74594eea824ddc6ca5",
+    "16afda35a4c38684bb6492f8f2b1f410": "b7e52f9d730b8654a861b66f9eb430bb",
+    "a4427a7dae0444941ac3d3cdad0dcfe6": "d8d4fe3b10de9174d90aad5bdd48c52e",
+    "96fb5a2e54d5dc747abdb7a15b2fcfa6": "16aaf636d2fc44040b18785b16e7b99f",
+    "dbe48529be41893468cd12bf16c06170": "c4cabce4d84e5a9459e3d0428ec336e7",
+    "50dee6c0134e6964eb535d4b442fd67b": "f63edff66ec04ab41bce042d5507259a",
+    "4bc2e0e1046d6d142a92e5a891bfd5ab": "064f7e6e50d698048898c6e2812e0042",
+    "1fd286c75f8796045815d661d666b5dd": "104b343a252db4641b135229dd014cea",
+    "09ce98579eac5614d9fdfadf683015af": "9b16b8b24003e5a42a5c72c48d6c1ef6",
+    "3d689a6c0b72cbf43bfd8d6356244779": "12c87f9b715e3c849a893d2e6c52f3a6",
+    "f8a146ad9626d004186e2686ce77724e": "f8a146ad9626d004186e2686ce77724e",
+    "854534f3c10303f42aac9c0339b17b02": "06af12c9b52ad9148988df0532d0934f",
+    "fda34cdb737fab94395d7dd95024f4dd": "356fd64eeb34b9a4aa2682633d03437e",
+    "d425e9b4a9706a144a1a9cfc799792bb": "879a55ad10e94eb42ab94e4ba06950b1",
+    "ae650a1b96262df4ba2f48b1c4188fcd": "7546f9b3ffcbfcf469ec629e42a14b67",
+    "bd57b5e5f9fe88e47ad68033abab39aa": "bd57b5e5f9fe88e47ad68033abab39aa",
+    "f7acb9c555b8d304cac03448fb04410a": "f7acb9c555b8d304cac03448fb04410a",
+    "2b78c43fb99b818468e1caec9e92d191": "2b78c43fb99b818468e1caec9e92d191",
+    "e6dfded76057b714a912ca12474eca8f": "e6dfded76057b714a912ca12474eca8f",
+    "e6fe0a02caa3c0248912d957666959e3": "e6fe0a02caa3c0248912d957666959e3",
+    "ec509e49b1098a2479e914fc788cc19f": "ec509e49b1098a2479e914fc788cc19f",
+    "06d9b7fef10569144b443eefe23f966a": "06d9b7fef10569144b443eefe23f966a",
+    "94b6923db32b06c488beee07d800f3df": "94b6923db32b06c488beee07d800f3df",
+    "2faae9ebfdf6f4a4a93d7971341f5651": "aac9f613d73ec024fb1d3ad279f02c57",
+    "75d5d64cbea33eb4fb9b4e7425b4aa1a": "f9cc01df8e71ca749b6c16fc16d87fd8",
+    "2eda1d10c5d743e41944b59dcbef815d": "2eda1d10c5d743e41944b59dcbef815d",
+    "0567cee1f7083ca429e562c74c07d826": "0567cee1f7083ca429e562c74c07d826",
+    "5ef5e0f09ca149a418670f2882db85fa": "5ef5e0f09ca149a418670f2882db85fa",
+    "2fb5c586c06cfa34c86ce19cd556a360": "2fb5c586c06cfa34c86ce19cd556a360",
+    "bc69c2dace1a06a4ba7dda771f29d0ab": "bc69c2dace1a06a4ba7dda771f29d0ab",
+    "4dbad541c04e1c842b1c2c6d9cafebd1": "4dbad541c04e1c842b1c2c6d9cafebd1",
+    "5ad6bf39249320d4581cd409be253f79": "5ad6bf39249320d4581cd409be253f79",
+    "6bb3e9ccf82d8874aabd67aebbca4160": "6bb3e9ccf82d8874aabd67aebbca4160",
+    "61b4655f654cb0b42be8c66c3306d13a": "61b4655f654cb0b42be8c66c3306d13a",
+    "86e9ef1b29624fb40982039c12a860fa": "86e9ef1b29624fb40982039c12a860fa",
+    "d9eda58bcbcf73b4ebfa0e5cf57f420a": "d9eda58bcbcf73b4ebfa0e5cf57f420a",
+    "d0dc9926618bff74fbc1c31a776b81b9": "d0dc9926618bff74fbc1c31a776b81b9",
+    "159c6b78ddb6c4a4381e6433ccc52239": "159c6b78ddb6c4a4381e6433ccc52239",
+    "db9651726e0d6f64ebc6231235b581f4": "db9651726e0d6f64ebc6231235b581f4",
+    "2ec13c22befdf854fa4c8e05b7796638": "2ec13c22befdf854fa4c8e05b7796638",
+    "7905fa6abae02264f97329196a1b03a0": "7905fa6abae02264f97329196a1b03a0",
+    "c2d1f510f115bb141802c73b986de55c": "c2d1f510f115bb141802c73b986de55c",
+    "b25419278a822ce49a9237ec8cf138ac": "b25419278a822ce49a9237ec8cf138ac",
+    "f3d14a02c535b344592a770574fcf80a": "f3d14a02c535b344592a770574fcf80a",
+    "fca59d6026cae744f81c6ef9c810fdde": "fca59d6026cae744f81c6ef9c810fdde",
+    "bf9910522164d73458a77345f45a8e25": "bf9910522164d73458a77345f45a8e25",
+    "b740101490769f84a829732cb86ed588": "b740101490769f84a829732cb86ed588",
+    "b368ae071c55ddf43975bd3ad7481b2c": "b368ae071c55ddf43975bd3ad7481b2c",
+    "074588fcfc87f9b46a4fdd4f4cb1fa0b": "074588fcfc87f9b46a4fdd4f4cb1fa0b",
+    "00d2a843443a4214aa921e1b6b0b4acf": "00d2a843443a4214aa921e1b6b0b4acf",
+    "24f0e3e2d6785e04db389a2bc39fa782": "24f0e3e2d6785e04db389a2bc39fa782",
+    "38a1610acb9177f46b16bcfeda2e3ba8": "38a1610acb9177f46b16bcfeda2e3ba8",
+    "4830e8d9c417bc345a921cb47eb32d37": "4830e8d9c417bc345a921cb47eb32d37",
+    "ad3b64cb8ed8f894297c1e64f81fe5a2": "ad3b64cb8ed8f894297c1e64f81fe5a2",
+    "eb449667787910749b65b5f8d2425ddd": "eb449667787910749b65b5f8d2425ddd",
+    "f441bb6efd09312409332b1289b14a8b": "f441bb6efd09312409332b1289b14a8b",
+    "e11f3d44343322241ae09de34a4777c2": "e11f3d44343322241ae09de34a4777c2",
+    "b81d6df488ff0814483a68f5432aa339": "b81d6df488ff0814483a68f5432aa339",
+    "bf464f4ad95c97a4f89456f501824663": "bf464f4ad95c97a4f89456f501824663",
+    "8cd0d801ed8832d45b7ecd8667f53f68": "8cd0d801ed8832d45b7ecd8667f53f68",
+    "7e3458e85f4635c4f9cfc97bdd650ab0": "7e3458e85f4635c4f9cfc97bdd650ab0",
+    "445c37d49c7be7849b6fae0720f2dd52": "445c37d49c7be7849b6fae0720f2dd52",
+    "04ced97a9bd512c4dad285e3c95d672d": "04ced97a9bd512c4dad285e3c95d672d",
+    "ebc083caaca78174284197d129c1fa01": "ebc083caaca78174284197d129c1fa01",
+    "a345e3aa5e295ce499103f1fcfeabd1c": "a345e3aa5e295ce499103f1fcfeabd1c",
+    "b46afd8d88109084485e4f8e8d558a0a": "b46afd8d88109084485e4f8e8d558a0a",
+    "af64191d198f5b54e93028543734a09d": "af64191d198f5b54e93028543734a09d",
+    "839abb2039ccc6741afc35f0d636baf8": "839abb2039ccc6741afc35f0d636baf8",
+    "70d66627fdde4b44b819e1f6685eb0bf": "70d66627fdde4b44b819e1f6685eb0bf",
+    "2df9590966803444c9f0c7f267e837fb": "2df9590966803444c9f0c7f267e837fb",
+    "164a7499057f1f5419ee296fb72dd072": "164a7499057f1f5419ee296fb72dd072",
+    "314e5b70a0ef8b04aa9fe3c3a364b1d4": "314e5b70a0ef8b04aa9fe3c3a364b1d4",
+    "ddfcb450070f17649a593b18accd7989": "ddfcb450070f17649a593b18accd7989",
+    "9881d34b80a18d244a7bfc4fa4b0714d": "9881d34b80a18d244a7bfc4fa4b0714d",
+    "641898c5ea9567441ad1e33691ac97a2": "641898c5ea9567441ad1e33691ac97a2",
+    "606c7262fb11f5c4186430765deaedf0": "606c7262fb11f5c4186430765deaedf0",
+    "9a306e2c04e7e9b45ba7b080ceeba50c": "9a306e2c04e7e9b45ba7b080ceeba50c",
+    "a71a74ca7871e11418b915e75dbe594c": "a71a74ca7871e11418b915e75dbe594c",
+    "a9a0d8337b3647d47b6f28adc900e9e8": "a9a0d8337b3647d47b6f28adc900e9e8",
+    "86a7cdcd871f9144892e7ae652439875": "86a7cdcd871f9144892e7ae652439875",
+    "3e8b3fe3b54fba64980ef5a886b9df4c": "3e8b3fe3b54fba64980ef5a886b9df4c",
+    "922ee07616d86234a869f1c641ef6f95": "922ee07616d86234a869f1c641ef6f95",
+    "8dc470d7f5ac4e544a98a49e69b56d89": "8dc470d7f5ac4e544a98a49e69b56d89",
+    "a3d652e498d8f924d97503c39fc6167f": "a3d652e498d8f924d97503c39fc6167f",
+    "82ca72bc6aa3453479496cc9514647b3": "82ca72bc6aa3453479496cc9514647b3",
+    "0c1cdcf311017a04c853131ebfb640df": "0c1cdcf311017a04c853131ebfb640df",
+    "1b112bebebc2e8e468a3407073a1d28d": "1b112bebebc2e8e468a3407073a1d28d",
+    "1808581fc4536aa4c9c0613c04b2c9f2": "1808581fc4536aa4c9c0613c04b2c9f2",
+    "33e85670f37bc444a83bcd7ea6aa70bc": "33e85670f37bc444a83bcd7ea6aa70bc",
+    "b77b8fc26978a81498bfaa11c394a485": "b77b8fc26978a81498bfaa11c394a485",
+    "a27d5fb4184bc6c4da780de505da13ef": "a27d5fb4184bc6c4da780de505da13ef",
+    "e3a6c694a43bb8b4c848a4f249879342": "e3a6c694a43bb8b4c848a4f249879342",
+    "9f6ded0f3294cb042a4431778b76c55a": "9f6ded0f3294cb042a4431778b76c55a",
+    "fc0bc1797a92fb34da3fdfbd57b850c0": "fc0bc1797a92fb34da3fdfbd57b850c0",
+    "6f14a2ae6e178d74980b392d3dbf3e35": "6f14a2ae6e178d74980b392d3dbf3e35",
+    "3bdd6c3b56aa1b94a90d86d41e2c603d": "3bdd6c3b56aa1b94a90d86d41e2c603d",
+    "9111a34be85c4334ea8c6873b630558b": "9111a34be85c4334ea8c6873b630558b",
+    "d2c638fdab0e1b04b9a4ab708794130e": "d2c638fdab0e1b04b9a4ab708794130e",
+    "69a1cd3b04665e445aab43a5390f8029": "69a1cd3b04665e445aab43a5390f8029",
+    "02024d9fb6f76b944b6c1777f64facb5": "02024d9fb6f76b944b6c1777f64facb5",
+    "4ca9f7f9a2cec8245b18864261de59b1": "4ca9f7f9a2cec8245b18864261de59b1",
+    "a8ef4d43266168c4e83af0e2cc094c34": "a8ef4d43266168c4e83af0e2cc094c34"
+  }
+}

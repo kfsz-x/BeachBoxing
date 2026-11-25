@@ -1,0 +1,1 @@
+frames=181; phase=OpponentSelect; distance=1.925623; normal TouchControl input from saved spawn, no position assignment
